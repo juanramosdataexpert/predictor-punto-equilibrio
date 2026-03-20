@@ -1,0 +1,36 @@
+# Datos — nunca subir datos crudos ni procesados al repositorio
+datos/
+salidas/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Claves y secretos
+*.env
+secretos.py
