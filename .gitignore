@@ -1,5 +1,7 @@
-# Datos — nunca subir datos crudos ni procesados al repositorio
-datos/
+# Datos crudos — no subir (descargas intermedias grandes)
+datos/crudos/
+
+# Salidas — gráficas y resultados se regeneran desde los cuadernos
 salidas/
 
 # Python
