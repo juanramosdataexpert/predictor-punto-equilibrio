@@ -1,5 +1,4 @@
 # Datos
-yfinance==0.2.54
 pandas==2.2.3
 numpy==1.26.4
 
@@ -17,6 +16,7 @@ seaborn==0.13.2
 
 # Entorno de notebooks
 ipykernel==6.29.5
+python-dotenv==1.0.1
 
 # Utilidades
 tqdm==4.67.1
