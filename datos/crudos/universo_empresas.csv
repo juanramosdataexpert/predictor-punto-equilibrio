@@ -1,344 +1,1676 @@
-Symbol,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded,ticker,cik_str
-MMM,3M,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1957-03-04,66740,1902,MMM,66740
-AOS,A. O. Smith,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,91142,1916,AOS,91142
-ABT,Abbott Laboratories,Health Care,Health Care Equipment,"North Chicago, Illinois",1957-03-04,1800,1888,ABT,1800
-ABBV,AbbVie,Health Care,Biotechnology,"North Chicago, Illinois",2012-12-31,1551152,2013 (1888),ABBV,1551152
-ACN,Accenture,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,1467373,1989,ACN,1467373
-ADBE,Adobe Inc.,Information Technology,Application Software,"San Jose, California",1997-05-05,796343,1982,ADBE,796343
-AMD,Advanced Micro Devices,Information Technology,Semiconductors,"Santa Clara, California",2017-03-20,2488,1969,AMD,2488
-A,Agilent Technologies,Health Care,Life Sciences Tools & Services,"Santa Clara, California",2000-06-05,1090872,1999,A,1090872
-APD,Air Products,Materials,Industrial Gases,"Upper Macungie Township, Pennsylvania",1985-04-30,2969,1940,APD,2969
-ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","San Francisco, California",2023-09-18,1559720,2008,ABNB,1559720
-AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,1086222,1998,AKAM,1086222
-ALB,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,915913,1994,ALB,915913
-ALGN,Align Technology,Health Care,Health Care Supplies,"Tempe, Arizona",2017-06-19,1097149,1997,ALGN,1097149
-ALLE,Allegion,Industrials,Building Products,"Dublin, Ireland",2013-12-02,1579241,1908,ALLE,1579241
-GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,1652044,1998,GOOGL,1652044
-GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,1652044,1998,GOOG,1652044
-MO,Altria,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,764180,1985,MO,764180
-AMZN,Amazon,Consumer Discretionary,Broadline Retail,"Seattle, Washington",2005-11-18,1018724,1994,AMZN,1018724
-AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,"Warmley, Bristol, United Kingdom",2019-06-07,1748790,2019 (1860),AMCR,1748790
-AME,Ametek,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",2013-09-23,1037868,1930,AME,1037868
-AMGN,Amgen,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,318154,1980,AMGN,318154
-APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,820313,1932,APH,820313
-ADI,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachusetts",1999-10-12,6281,1965,ADI,6281
-AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,320193,1977,AAPL,320193
-AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,"Santa Clara, California",1995-03-16,6951,1967,AMAT,6951
-APP,AppLovin,Information Technology,Application Software,"Palo Alto, California",2025-09-22,1751008,2012,APP,1751008
-APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,"Schaffhausen, Switzerland",2012-12-24,1521332,1994,APTV,1521332
-ADM,Archer Daniels Midland,Consumer Staples,Agricultural Products & Services,"Chicago, Illinois",1957-03-04,7084,1902,ADM,7084
-ANET,Arista Networks,Information Technology,Communications Equipment,"Santa Clara, California",2018-08-28,1596532,2004,ANET,1596532
-T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30,732717,1983 (1885),T,732717
-ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",1989-12-01,769397,1982,ADSK,769397
-ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,"Roseland, New Jersey",1981-03-31,8670,1949,ADP,8670
-AZO,AutoZone,Consumer Discretionary,Automotive Retail,"Memphis, Tennessee",1997-01-02,866787,1979,AZO,866787
-AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Mentor, Ohio",1987-12-31,8818,1935,AVY,8818
-AXON,Axon Enterprise,Industrials,Aerospace & Defense,"Scottsdale, Arizona",2023-05-04,1069183,1993,AXON,1069183
-BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers","Broomfield, Colorado",1984-10-31,9389,1880,BALL,9389
-BAX,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,10456,1931,BAX,10456
-BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,10795,1897,BDX,10795
-BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,764478,1966,BBY,764478
-TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,842023,1976,TECH,842023
-BIIB,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,875045,1978,BIIB,875045
-BA,Boeing,Industrials,Aerospace & Defense,"Arlington, Virginia",1957-03-04,12927,1916,BA,12927
-BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",2009-11-06,1075531,1996,BKNG,1075531
-BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1995-02-24,885725,1979,BSX,885725
-BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,14272,1989 (1887),BMY,14272
-AVGO,Broadcom,Information Technology,Semiconductors,"Palo Alto, California",2014-05-08,1730168,1961,AVGO,1730168
-BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962,BR,1383312
-BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870,,14693
-BLDR,Builders FirstSource,Industrials,Building Products,"Irving, Texas",2023-12-18,1316835,1998,BLDR,1316835
-BG,Bunge Global,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,1996862,1818,BG,1996862
-CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905,CHRW,1043277
-CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988,CDNS,813672
-CPB,Campbell's Company (The),Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869,CPB,16732
-CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971,CAH,721371
-CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972,CCL,815097
-CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,1783180,"2020 (1915, United Technologies spinoff)",CARR,1783180
-CVNA,Carvana,Consumer Discretionary,Automotive Retail,"Tempe, Arizona",2025-12-22,1690820,2012,CVNA,1690820
-CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1957-03-04,18230,1925,CAT,18230
-CDW,CDW Corporation,Information Technology,Technology Distributors,"Vernon Hills, Illinois",2019-09-23,1402057,1984,CDW,1402057
-COR,Cencora,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,1140859,1985,COR,1140859
-CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,1071739,1984,CNC,1071739
-CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,1324404,1946,CF,1324404
-CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,1100682,1947,CRL,1100682
-CHTR,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,1091667,1993,CHTR,1091667
-CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,"Newport Beach, California",2011-04-28,1058090,1993,CMG,1058090
-CHD,Church & Dwight,Consumer Staples,Household Products,"Ewing, New Jersey",2015-12-29,313927,1847,CHD,313927
-CIEN,Ciena,Information Technology,Communications Equipment,"Hanover, Maryland",2026-02-09,936395,1992,CIEN,936395
-CI,Cigna,Health Care,Health Care Services,"Bloomfield, Connecticut",1976-06-30,1739940,1982,CI,1739940
-CTAS,Cintas,Industrials,Diversified Support Services,"Mason, Ohio",2001-03-01,723254,1929,CTAS,723254
-CSCO,Cisco,Information Technology,Communications Equipment,"San Jose, California",1993-12-01,858877,1984,CSCO,858877
-CLX,Clorox,Consumer Staples,Household Products,"Oakland, California",1969-03-31,21076,1913,CLX,21076
-KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1957-03-04,21344,1886,KO,21344
-CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,1058290,1994,CTSH,1058290
-CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,21665,1806,CL,21665
-CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,1166691,1963,CMCSA,1166691
-FIX,Comfort Systems USA,Industrials,Construction & Engineering,"Houston, Texas",2025-12-22,1035983,1997,FIX,1035983
-CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,23217,1919,CAG,23217
-STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,16918,1945,STZ,16918
-COO,Cooper Companies (The),Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958,COO,711404
-CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982,CPRT,900075
-GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,24741,1851,GLW,24741
-CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019-06-03,1755672,2019,CTVA,1755672
-COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1993-10-01,909832,1976,COST,909832
-CRH,CRH plc,Materials,Construction Materials,"Dublin, Ireland",2025-12-22,849395,1970,CRH,849395
-CRWD,CrowdStrike,Information Technology,Systems Software,"Austin, Texas",2024-06-24,1535527,2011,CRWD,1535527
-CSX,CSX Corporation,Industrials,Rail Transportation,"Jacksonville, Florida",1957-03-04,277948,1980,CSX,277948
-CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,"Columbus, Indiana",1965-03-31,26172,1919,CMI,26172
-CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,64803,1996,CVS,64803
-DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,"Washington, D.C.",1998-11-18,313616,1969,DHR,313616
-DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",1995-05-31,940944,1938,DRI,940944
-DDOG,Datadog,Information Technology,Application Software,"New York City, New York",2025-07-09,1561550,2010,DDOG,1561550
-DVA,DaVita,Health Care,Health Care Services,"Denver, Colorado",2008-07-31,927066,1979,DVA,927066
-DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-18,910521,1973,DECK,910521
-DE,Deere & Company,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,315189,1837,DE,315189
-DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals","Round Rock, Texas",2024-09-23,1571996,2016,DELL,1571996
-DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,27904,1929,DAL,27904
-DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,1093557,1999,DXCM,1093557
-DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",2012-12-03,29534,1939,DG,29534
-DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",2011-12-19,935703,1986,DLTR,935703
-DPZ,Domino's,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",2020-05-12,1286681,1960,DPZ,1286681
-DASH,DoorDash,Consumer Discretionary,Specialized Consumer Services,"San Francisco, California",2025-03-24,1792789,2012,DASH,1792789
-DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,"Downers Grove, Illinois",1985-10-31,29905,1955,DOV,29905
-DOW,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",2019-04-01,1751788,2019 (1897),DOW,1751788
-DHI,D. R. Horton,Consumer Discretionary,Homebuilding,"Arlington, Texas",2005-06-22,882184,1978,DHI,882184
-DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-06-03,1666700,2017 (1802),DD,1666700
-ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1957-03-04,1551182,1911,ETN,1551182
-EBAY,eBay Inc.,Consumer Discretionary,Broadline Retail,"San Jose, California",2002-07-22,1065088,1995,EBAY,1065088
-ECL,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1989-01-31,31462,1923,ECL,31462
-EW,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,1099800,1958,EW,1099800
-EA,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",2002-07-22,712515,1982,EA,712515
-ELV,Elevance Health,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,1156039,2014 (1946),ELV,1156039
-EME,Emcor,Industrials,Construction & Engineering,"Norwalk, Connecticut",2025-09-22,105634,1994,EME,105634
-EMR,Emerson Electric,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,32604,1890,EMR,32604
-EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",2021-12-14,1352010,1993,EPAM,1352010
-EFX,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,33185,1899,EFX,33185
-EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",2006-01-05,1001250,1946,EL,1001250
-EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Seattle, Washington",2007-10-02,1324424,1996,EXPE,1324424
-EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,746515,1979,EXPD,746515
-FFIV,"F5, Inc.",Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,1048695,1996,FFIV,1048695
-FICO,Fair Isaac,Information Technology,Application Software,"Bozeman, Montana",2023-03-20,814547,1956,FICO,814547
-FAST,Fastenal,Industrials,Trading Companies & Distributors,"Winona, Minnesota",2008-09-15,815556,1967,FAST,815556
-FDX,FedEx,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1980-12-31,1048911,1971,FDX,1048911
-FSLR,First Solar,Information Technology,Semiconductors,"Tempe, Arizona",2022-12-19,1274494,1999,FSLR,1274494
-F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,37996,1903,F,37996
-FTNT,Fortinet,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,1262039,2000,FTNT,1262039
-FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,"Everett, Washington",2016-07-01,1659166,2016,FTV,1659166
-FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,"New York City, New York",2019-03-19,1754301,2019,FOXA,1754301
-FOX,Fox Corporation (Class B),Communication Services,Broadcasting,"New York City, New York",2019-03-19,1754301,2019,FOX,1754301
-FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",2011-07-01,831259,1912,FCX,831259
-GRMN,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989,GRMN,1121788
-IT,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979,IT,749251
-GE,GE Aerospace,Industrials,Aerospace & Defense,"Evendale, Ohio",1957-03-04,40545,1892,GE,40545
-GEHC,GE HealthCare,Health Care,Health Care Equipment,"Chicago, Illinois",2023-01-04,1932393,1994,GEHC,1932393
-GEV,GE Vernova,Industrials,Heavy Electrical Equipment,"Cambridge, Massachusetts",2024-04-02,1996810,2024,GEV,1996810
-GEN,Gen Digital,Information Technology,Systems Software,"Tempe, Arizona",2003-03-25,849399,1982,GEN,849399
-GNRC,Generac,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,1474735,1959,GNRC,1474735
-GD,General Dynamics,Industrials,Aerospace & Defense,"Reston, Virginia",1957-03-04,40533,1899,GD,40533
-GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1957-03-04,40704,1856,GIS,40704
-GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1467858,1908,GM,1467858
-GPC,Genuine Parts Company,Consumer Discretionary,Distributors,"Atlanta, Georgia",1973-12-31,40987,1925,GPC,40987
-GILD,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",2004-07-01,882095,1987,GILD,882095
-GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure,"Tempe, Arizona",2024-06-24,1609711,1997,GDDY,1609711
-HAS,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,46080,1923,HAS,46080
-HCA,HCA Healthcare,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,860730,1968,HCA,860730
-HSIC,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,1000228,1932,HSIC,1000228
-HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894,HSY,47111
-HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015,HPE,1645590
-HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919,HLT,1585689
-HOLX,Hologic,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,859737,1985,HOLX,859737
-HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978,HD,354950
-HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1957-03-04,773840,1906,HON,773840
-HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,48465,1891,HRL,48465
-HWM,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",2016-10-21,4281,1888,HWM,4281
-HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,47217,1939 (2015),HPQ,47217
-HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,"Shelton, Connecticut",2023-10-18,48898,1888,HUBB,48898
-HUM,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",2012-12-10,49071,1961,HUM,49071
-HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,1501585,2011,HII,1501585
-IBM,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,51143,1911,IBM,51143
-IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,"Northbrook, Illinois",2019-08-09,832101,1988,IEX,832101
-IDXX,Idexx Laboratories,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,874716,1983,IDXX,874716
-ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,"Glenview, Illinois",1986-02-28,49826,1912,ITW,49826
-INCY,Incyte,Health Care,Biotechnology,"Wilmington, Delaware",2017-02-28,879169,1991,INCY,879169
-IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,"Davidson, North Carolina",2020-03-03,1699150,1859,IR,1699150
-PODD,Insulet Corporation,Health Care,Health Care Equipment,"Acton, Massachusetts",2023-03-15,1145197,2000,PODD,1145197
-INTC,Intel,Information Technology,Semiconductors,"Santa Clara, California",1976-12-31,50863,1968,INTC,50863
-IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,"New York City, New York",1976-03-31,51253,1958 (1889),IFF,51253
-IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,"Memphis, Tennessee",1957-03-04,51434,1898,IP,51434
-INTU,Intuit,Information Technology,Application Software,"Mountain View, California",2000-12-05,896878,1983,INTU,896878
-ISRG,Intuitive Surgical,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,1035267,1995,ISRG,1035267
-IQV,IQVIA,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1478242,1982,IQV,1478242
-JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,"Lowell, Arkansas",2015-07-01,728535,1961,JBHT,728535
-JBL,Jabil,Information Technology,Electronic Manufacturing Services,"St. Petersburg, Florida",2023-12-18,898293,1966,JBL,898293
-J,Jacobs Solutions,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,52988,1947,J,52988
-JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,200406,1886,JNJ,200406
-JCI,Johnson Controls,Industrials,Building Products,"Cork, Ireland",2010-08-27,833444,1885,JCI,833444
-KVUE,Kenvue,Consumer Staples,Personal Care Products,"Skillman, New Jersey",2023-08-25,1944048,2022 (Johnson & Johnson spinoff),KVUE,1944048
-KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",2022-06-21,1418135,1981,KDP,1418135
-KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,1601046,2014 (1939),KEYS,1601046
-KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",1957-03-04,55785,1872,KMB,55785
-KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,"Milpitas, California",1997-09-30,319201,1975/1977 (1997),KLAC,319201
-KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015-07-06,1637459,2015 (1869),KHC,1637459
-KR,Kroger,Consumer Staples,Food Retail,"Cincinnati, Ohio",1957-03-04,56873,1883,KR,56873
-LHX,L3Harris,Industrials,Aerospace & Defense,"Melbourne, Florida",2008-09-22,202058,"2019 (L3 1997, Harris 1895)",LHX,202058
-LH,Labcorp,Health Care,Health Care Services,"Burlington, North Carolina",2004-11-01,920148,1978,LH,920148
-LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,"Fremont, California",2012-06-29,707549,1980,LRCX,707549
-LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2018-12-03,1679273,2016 (1950),LW,1679273
-LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",2019-10-03,1300514,1988,LVS,1300514
-LDOS,Leidos,Industrials,Diversified Support Services,"Reston, Virginia",2019-08-09,1336920,1969,LDOS,1336920
-LEN,Lennar,Consumer Discretionary,Homebuilding,"Miami, Florida",2005-10-04,920760,1954,LEN,920760
-LII,Lennox International,Industrials,Building Products,"Richardson, Texas",2024-12-23,1069202,1895,LII,1069202
-LLY,Lilly (Eli),Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,59478,1876,LLY,59478
-LIN,Linde plc,Materials,Industrial Gases,"Guildford, United Kingdom",1992-07-01,1707925,1879,LIN,1707925
-LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,"Beverly Hills, California",2019-12-23,1335258,2010,LYV,1335258
-LMT,Lockheed Martin,Industrials,Aerospace & Defense,"Bethesda, Maryland",1957-03-04,936468,1995,LMT,936468
-LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",1984-02-29,60667,1904/1946/1959,LOW,60667
-LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Vancouver, Canada",2023-10-18,1397187,1998,LULU,1397187
-LYB,LyondellBasell,Materials,Specialty Chemicals,"Rotterdam, Netherlands",2012-09-05,1489393,2007,LYB,1489393
-MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",1998-05-29,1048286,1927,MAR,1048286
-MLM,Martin Marietta Materials,Materials,Construction Materials,"Raleigh, North Carolina",2014-07-02,916076,1993,MLM,916076
-MAS,Masco,Industrials,Building Products,"Livonia, Michigan",1981-06-30,62996,1929,MAS,62996
-MTCH,Match Group,Communication Services,Interactive Media & Services,"Dallas, Texas",2021-09-20,891103,1986,MTCH,891103
-MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",2003-03-20,63754,1889,MKC,63754
-MCD,McDonald's,Consumer Discretionary,Restaurants,"Chicago, Illinois",1970-06-30,63908,1940,MCD,63908
-MCK,McKesson Corporation,Health Care,Health Care Distributors,"Irving, Texas",1999-01-13,927653,1833,MCK,927653
-MDT,Medtronic,Health Care,Health Care Equipment,"Galway, Ireland",1986-10-31,1613103,1949,MDT,1613103
-MRK,Merck & Co.,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,310158,1891,MRK,310158
-META,Meta Platforms,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004,META,1326801
-MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,1037646,1945,MTD,1037646
-MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,789570,1986,MGM,789570
-MCHP,Microchip Technology,Information Technology,Semiconductors,"Chandler, Arizona",2007-09-07,827054,1989,MCHP,827054
-MU,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",1994-09-27,723125,1978,MU,723125
-MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975,MSFT,789019
-MRNA,Moderna,Health Care,Biotechnology,"Cambridge, Massachusetts",2021-07-21,1682852,2010,MRNA,1682852
-MOH,Molina Healthcare,Health Care,Managed Health Care,"Long Beach, California",2022-03-02,1179929,1980,MOH,1179929
-TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,"Chicago, Illinois",1976-06-30,24545,"2005 (Molson 1786, Coors 1873)",TAP,24545
-MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012-10-02,1103982,2012,MDLZ,1103982
-MPWR,Monolithic Power Systems,Information Technology,Semiconductors,"Kirkland, Washington",2021-02-12,1280452,1997,MPWR,1280452
-MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Corona, California",2012-06-28,865752,2012 (1935),MNST,865752
-MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,1285785,2004 (1865 / 1909),MOS,1285785
-MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1957-03-04,68505,1928 (2011),MSI,68505
-NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1999-06-25,1002047,1992,NTAP,1002047
-NFLX,Netflix,Communication Services,Movies & Entertainment,"Los Gatos, California",2010-12-20,1065280,1997,NFLX,1065280
-NEM,Newmont,Materials,Gold,"Denver, Colorado",1969-06-30,1164727,1921,NEM,1164727
-NWSA,News Corp (Class A),Communication Services,Publishing,"New York City, New York",2013-08-01,1564708,2013 (News Corporation 1980),NWSA,1564708
-NWS,News Corp (Class B),Communication Services,Publishing,"New York City, New York",2015-09-18,1564708,2013 (News Corporation 1980),NWS,1564708
-NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1988-11-30,320187,1964,NKE,320187
-NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,"Westlake, Ohio",2022-02-15,72331,1935,NDSN,72331
-NSC,Norfolk Southern,Industrials,Rail Transportation,"Atlanta, Georgia",1957-03-04,702165,1881/1894 (1980),NSC,702165
-NOC,Northrop Grumman,Industrials,Aerospace & Defense,"West Falls Church, Virginia[3]",1957-03-04,1133421,"1994 (Northrop 1939, Grumman 1930)",NOC,1133421
-NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami-Dade County, Florida[4]",2017-10-13,1513761,2011 (1966),NCLH,1513761
-NUE,Nucor,Materials,Steel,"Charlotte, North Carolina",1985-04-30,73309,1940,NUE,73309
-NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993,NVDA,1045810
-NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,906163,1980,NVR,906163
-NXPI,NXP Semiconductors,Information Technology,Semiconductors,"Eindhoven, Netherlands",2021-03-22,1413447,1953,NXPI,1413447
-ORLY,O’Reilly Automotive,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",2009-03-27,898173,1957,ORLY,898173
-ODFL,Old Dominion,Industrials,Cargo Ground Transportation,"Thomasville, North Carolina",2019-12-09,878927,1934,ODFL,878927
-OMC,Omnicom Group,Communication Services,Advertising,"New York City, New York",1997-12-31,29989,1986,OMC,29989
-ON,ON Semiconductor,Information Technology,Semiconductors,"Phoenix, Arizona",2022-06-21,1097864,1999,ON,1097864
-ORCL,Oracle Corporation,Information Technology,Application Software,"Austin, Texas",1989-08-31,1341439,1977,ORCL,1341439
-OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,"Farmington, Connecticut",2020-04-03,1781335,"2020 (1853, United Technologies spinoff)",OTIS,1781335
-PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,"Bellevue, Washington",1980-12-31,75362,1905,PCAR,75362
-PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,"Lake Forest, Illinois",2017-07-26,75677,1959,PKG,75677
-PLTR,Palantir Technologies,Information Technology,Application Software,"Aventura, Florida",2024-09-23,1321655,2003,PLTR,1321655
-PANW,Palo Alto Networks,Information Technology,Systems Software,"Santa Clara, California",2023-06-20,1327567,2005,PANW,1327567
-PSKY,Paramount Skydance Corporation,Communication Services,Movies & Entertainment,"Los Angeles, California",1994-09-30,2041610,2025 (Paramount Pictures 1912),PSKY,2041610
-PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,"Cleveland, Ohio",1985-11-30,76334,1917,PH,76334
-PAYX,Paychex,Industrials,Human Resource & Employment Services,"Penfield, New York",1998-10-01,723531,1971,PAYX,723531
-PAYC,Paycom,Industrials,Human Resource & Employment Services,"Oklahoma City, Oklahoma",2020-01-28,1590955,1998,PAYC,1590955
-PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,"Worsley, United Kingdom",2012-10-01,77360,1966,PNR,77360
-PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",1957-03-04,77476,1898,PEP,77476
-PFE,Pfizer,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,78003,1849,PFE,78003
-PM,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,1413329,2008 (1847),PM,1413329
-POOL,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",2020-10-07,945841,1993,POOL,945841
-PPG,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1957-03-04,79879,1883,PPG,79879
-PG,Procter & Gamble,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1957-03-04,80424,1837,PG,80424
-PTC,PTC Inc.,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,857005,1985,PTC,857005
-PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,822416,1956,PHM,822416
-PWR,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,1050915,1997,PWR,1050915
-QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1999-07-22,804328,1985,QCOM,804328
-DGX,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,1022079,1967,DGX,1022079
-Q,Qnity Electronics,Information Technology,Semiconductor Materials & Equipment,"Wilmington, Delaware",2025-11-03,2058873,2025,Q,2058873
-RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2007-02-02,1037038,1967,RL,1037038
-RTX,RTX Corporation,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1957-03-04,101829,1922,RTX,101829
-REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,872589,1988,REGN,872589
-RSG,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",2008-12-05,1060391,1998 (1981),RSG,1060391
-RMD,ResMed,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,943819,1989,RMD,943819
-RVTY,Revvity,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937,RVTY,31791
-ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",2000-03-12,1024478,1903,ROK,1024478
-ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,"Atlanta, Georgia",2018-10-01,84839,1948,ROL,84839
-ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",2009-12-23,882835,1981,ROP,882835
-ROST,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",2009-12-21,745732,1982,ROST,745732
-RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2014-12-05,884887,1997,RCL,884887
-CRM,Salesforce,Information Technology,Application Software,"San Francisco, California",2008-09-15,1108524,1999,CRM,1108524
-SNDK,Sandisk,Information Technology,"Technology Hardware, Storage & Peripherals","Milpitas, California",2025-11-28,2023554,1988,SNDK,2023554
-STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",2012-07-02,1137789,1979,STX,1137789
-NOW,ServiceNow,Information Technology,Systems Software,"Santa Clara, California",2019-11-21,1373715,2003,NOW,1373715
-SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,89800,1866,SHW,89800
-SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2015-03-12,4127,2002,SWKS,4127
-SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897,SJM,91419
-SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,"Dublin, Ireland",2024-07-08,2005951,1934,SW,2005951
-SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1982-09-30,91440,1920,SNA,91440
-SOLV,Solventum,Health Care,Health Care Technology,"Saint Paul, Minnesota",2024-04-01,1964738,2023,SOLV,1964738
-LUV,Southwest Airlines,Industrials,Passenger Airlines,"Dallas, Texas",1994-07-01,92380,1967,LUV,92380
-SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",1982-09-30,93556,1843,SWK,93556
-SBUX,Starbucks,Consumer Discretionary,Restaurants,"Seattle, Washington",2000-06-07,829224,1971,SBUX,829224
-STLD,Steel Dynamics,Materials,Steel,"Fort Wayne, Indiana",2022-12-22,1022671,1993,STLD,1022671
-STE,Steris,Health Care,Health Care Equipment,"Dublin, Ireland",2019-12-23,1757898,1985,STE,1757898
-SYK,Stryker Corporation,Health Care,Health Care Equipment,"Kalamazoo, Michigan",2000-12-12,310764,1941,SYK,310764
-SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2024-03-18,1375365,1993,SMCI,1375365
-SNPS,Synopsys,Information Technology,Application Software,"Sunnyvale, California",2017-03-16,883241,1986,SNPS,883241
-SYY,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",1986-12-31,96021,1969,SYY,96021
-TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",2019-07-15,1283699,1994,TMUS,1283699
-TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,"New York City, New York",2018-03-19,946581,1993,TTWO,946581
-TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2004-09-01,1116132,2017,TPR,1116132
-TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,"Minneapolis, Minnesota",1976-12-31,27419,1902,TGT,27419
-TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,"Galway, Ireland",2011-10-17,1385157,2007,TEL,1385157
-TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,"Thousand Oaks, California",2020-06-22,1094285,1960,TDY,1094285
-TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,"North Reading, Massachusetts",2020-09-21,97210,1960,TER,97210
-TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2020-12-21,1318605,2003,TSLA,1318605
-TXN,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",2001-03-12,97476,1930,TXN,97476
-TXT,Textron,Industrials,Aerospace & Defense,"Providence, Rhode Island",1978-12-31,217346,1923,TXT,217346
-TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2004-08-03,97745,2006 (1902),TMO,97745
-TJX,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1985-09-30,109198,1987,TJX,109198
-TKO,TKO Group Holdings,Communication Services,Movies & Entertainment,"New York City, New York",2025-03-24,1973266,2023,TKO,1973266
-TTD,Trade Desk (The),Communication Services,Advertising,"Ventura, California",2025-07-18,1671933,2009,TTD,1671933
-TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,"Brentwood, Tennessee",2014-01-24,916365,1938,TSCO,916365
-TT,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",2010-11-17,1466258,1871,TT,1466258
-TDG,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,1260221,1993,TDG,1260221
-TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",2021-01-21,864749,1978,TRMB,864749
-TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,860731,1966,TYL,860731
-TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,100493,1935,TSN,100493
-UBER,Uber,Industrials,Passenger Ground Transportation,"San Francisco, California",2023-12-18,1543151,2009,UBER,1543151
-ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,"Bolingbrook, Illinois",2016-04-18,1403568,1990,ULTA,1403568
-UNP,Union Pacific Corporation,Industrials,Rail Transportation,"Omaha, Nebraska",1957-03-04,100885,1862,UNP,100885
-UAL,United Airlines Holdings,Industrials,Passenger Airlines,"Chicago, Illinois",2015-09-03,100517,1967,UAL,100517
-UPS,United Parcel Service,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,1090727,1907,UPS,1090727
-URI,United Rentals,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",2014-09-20,1067701,1997,URI,1067701
-UNH,UnitedHealth Group,Health Care,Managed Health Care,"Eden Prairie, Minnesota",1994-07-01,731766,1977,UNH,731766
-UHS,Universal Health Services,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,352915,1979,UHS,352915
-VLTO,Veralto,Industrials,Environmental & Facilities Services,"Waltham, Massachusetts",2023-10-02,1967680,2023,VLTO,1967680
-VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Reston, Virginia",2006-02-01,1014473,1995,VRSN,1014473
-VRSK,Verisk Analytics,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,1442145,1971,VRSK,1442145
-VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983-11-30,732712,1983 (1877),VZ,732712
-VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,"Boston, Massachusetts",2013-09-23,875320,1989,VRTX,875320
-VTRS,Viatris,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,1792044,1961,VTRS,1792044
-VMC,Vulcan Materials Company,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,1396009,1909,VMC,1396009
-GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,277135,1927,GWW,277135
-WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,"Pittsburgh, Pennsylvania",2019-02-27,943452,1999 (1869),WAB,943452
-WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1982-08-31,104169,1962,WMT,104169
-DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923,DIS,1744489
-WBD,Warner Bros. Discovery,Communication Services,Broadcasting,"New York City, New York",2022-04-11,1437107,2022 (Warner Bros. 1923),WBD,1437107
-WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",1998-08-31,823768,1968,WM,823768
-WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,"Milford, Massachusetts",2002-01-02,1000697,1958,WAT,1000697
-WST,West Pharmaceutical Services,Health Care,Health Care Supplies,"Exton, Pennsylvania",2020-05-22,105770,1923,WST,105770
-WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,106040,1970,WDC,106040
-WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Homefurnishing Retail,"San Francisco, California",2025-03-24,719955,1956,WSM,719955
-WDAY,"Workday, Inc.",Information Technology,Application Software,"Pleasanton, California",2024-12-23,1327811,2005,WDAY,1327811
-WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002,WYNN,1174922
-XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,"White Plains, New York",2011-11-01,1524472,2011,XYL,1524472
-YUM,Yum! Brands,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,1041061,1997,YUM,1041061
-ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",2019-12-23,877212,1969,ZBRA,877212
-ZBH,Zimmer Biomet,Health Care,Health Care Equipment,"Warsaw, Indiana",2001-08-07,1136869,1927,ZBH,1136869
-ZTS,Zoetis,Health Care,Pharmaceuticals,"Parsippany, New Jersey",2013-06-21,1555280,1952,ZTS,1555280
+cik,nombre,sic,sic_descripcion,ticker,bolsa
+0002023554,Sandisk Corp,3572.0,Computer Storage Devices,SNDK,Nasdaq
+0000936395,CIENA CORP,3661.0,Telephone & Telegraph Apparatus,CIEN,NYSE
+0001035983,COMFORT SYSTEMS USA INC,1731.0,Electrical Work,FIX,NYSE
+0001633978,Lumentum Holdings Inc.,3669.0,"Communications Equipment, NEC",LITE,Nasdaq
+0000820318,COHERENT CORP.,3827.0,Optical Instruments & Lenses,COHR,NYSE
+0001664703,Bloom Energy Corp,3620.0,Electrical Industrial Apparatus,BE,NYSE
+0001819994,Rocket Lab Corp,3760.0,Guided Missiles & Space Vehicles & Parts,RKLB,Nasdaq
+0001780312,"AST SpaceMobile, Inc.",4899.0,"Communications Services, NEC",ASTS,Nasdaq
+0000105634,"EMCOR Group, Inc.",1731.0,Electrical Work,EME,NYSE
+0001415404,EchoStar CORP,4899.0,"Communications Services, NEC",SATS,Nasdaq
+0001104506,INSMED Inc,2834.0,Pharmaceutical Preparations,INSM,Nasdaq
+0001116132,"TAPESTRY, INC.",3100.0,Leather & Leather Products,TPR,NYSE
+0000898293,JABIL INC,3672.0,Printed Circuit Boards,JBL,NYSE
+0001681459,TechnipFMC plc,3533.0,Oil & Gas Field Machinery & Equipment,FTI,NYSE
+0000726958,CASEYS GENERAL STORES INC,5500.0,Retail-Auto Dealers & Gasoline Stations,CASY,Nasdaq
+0000026324,CURTISS WRIGHT CORP,3590.0,Misc Industrial & Commercial Machinery & Equipment,CW,NYSE
+0001590364,FTAI Aviation Ltd.,7350.0,Services-Miscellaneous Equipment Rental & Leasing,FTAI,Nasdaq
+0000866374,FLEX LTD.,3672.0,Printed Circuit Boards,FLEX,Nasdaq
+0000015615,MASTEC INC,1623.0,"Water, Sewer, Pipeline, Comm & Power Line Construction",MTZ,NYSE
+0001082554,UNITED THERAPEUTICS Corp,2834.0,Pharmaceutical Preparations,UTHR,Nasdaq
+0001166003,"XPO, Inc.",4700.0,Transportation Services,XPO,NYSE
+0000108312,"Woodward, Inc.",3620.0,Electrical Industrial Apparatus,WWD,Nasdaq
+0001736297,"Astera Labs, Inc.",3674.0,Semiconductors & Related Devices,ALAB,Nasdaq
+0001037038,RALPH LAUREN CORP,2320.0,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",RL,NYSE
+0001474432,"Everpure, Inc.",3572.0,Computer Storage Devices,PSTG,NYSE
+0001665918,US Foods Holding Corp.,5140.0,Wholesale-Groceries & Related Products,USFD,NYSE
+0001018963,ATI INC,3317.0,Steel Pipe & Tubes,ATI,NYSE
+0001043277,"C. H. ROBINSON WORLDWIDE, INC.",4731.0,Arrangement of  Transportation of  Freight & Cargo,CHRW,Nasdaq
+0001635088,Roivant Sciences Ltd.,2834.0,Pharmaceutical Preparations,ROIV,Nasdaq
+0001124140,EXACT SCIENCES CORP,8071.0,Services-Medical Laboratories,EXAS,Nasdaq
+0001628171,"Revolution Medicines, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",RVMD,Nasdaq
+0001874178,"Rivian Automotive, Inc. / DE",3711.0,Motor Vehicles & Passenger Car Bodies,RIVN,Nasdaq
+0000915913,ALBEMARLE CORP,2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",ALB,NYSE
+0001988894,"Amer Sports, Inc.",2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,AS,NYSE
+0000075677,PACKAGING CORP OF AMERICA,2650.0,Paperboard Containers & Boxes,PKG,NYSE
+0001807794,Credo Technology Group Holding Ltd,3674.0,Semiconductors & Related Devices,CRDO,Nasdaq
+0000091440,Snap-on Inc,3420.0,"Cutlery, Handtools & General Hardware",SNA,NYSE
+0001486957,"BWX Technologies, Inc.",3510.0,Engines & Turbines,BWXT,NYSE
+0000017843,CARPENTER TECHNOLOGY CORP,3312.0,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",CRS,NYSE
+0000070318,TENET HEALTHCARE CORP,8062.0,"Services-General Medical & Surgical Hospitals, NEC",THC,NYSE
+0001720635,nVent Electric plc,3550.0,Special Industry Machinery (No Metalworking Machinery),NVT,NYSE
+0001852131,Nextpower Inc.,3812.0,"Search, Detection, Navigation, Guidance, Aeronautical Sys",NXT,Nasdaq
+0001796209,APi Group Corp,7340.0,Services-To Dwellings & Other Buildings,APG,NYSE
+0001408710,Fabrinet,3661.0,Telephone & Telegraph Apparatus,FN,NYSE
+0001069258,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",3760.0,Guided Missiles & Space Vehicles & Parts,KTOS,Nasdaq
+0001675149,Alcoa Corp,3334.0,Primary Production of  Aluminum,AA,NYSE
+0001324948,RBC Bearings INC,3562.0,Ball & Roller Bearings,RBC,NYSE
+0001089063,"DICK'S SPORTING GOODS, INC.",5940.0,Retail-Miscellaneous Shopping Goods Stores,DKS,NYSE
+0001501585,"HUNTINGTON INGALLS INDUSTRIES, INC.",3730.0,Ship & Boat Building & Repairing,HII,NYSE
+0001493594,"MACOM Technology Solutions Holdings, Inc.",3674.0,Semiconductors & Related Devices,MTSI,Nasdaq
+0001206264,SOMNIGROUP INTERNATIONAL INC.,2510.0,Household Furniture,SGI,NYSE
+0001048695,"F5, INC.",3576.0,Computer Communications Equipment,FFIV,Nasdaq
+0000216228,ITT INC.,3561.0,Pumps & Pumping Equipment,ITT,NYSE
+0000217346,TEXTRON INC,3720.0,Aircraft & Parts,TXT,NYSE
+0001792044,Viatris Inc,2834.0,Pharmaceutical Preparations,VTRS,Nasdaq
+0000861884,"RELIANCE, INC.",5051.0,Wholesale-Metals Service Centers & of fices,RS,NYSE
+0000105016,WATSCO INC,5070.0,Wholesale-Hardware & Plumbing & Heating Equipment & Supplies,WSO,NYSE
+0001049502,MKS INC,3823.0,"Industrial Instruments For Measurement, Display, and Control",MKSI,Nasdaq
+0000072331,NORDSON CORP,3569.0,"General Industrial Machinery & Equipment, NEC",NDSN,Nasdaq
+0001957132,"SharkNinja, Inc.",3630.0,Household Appliances,SN,NYSE
+0001236275,"QXO, Inc.",5030.0,Wholesale-Lumber & Other Construction Materials,QXO,NYSE
+0000077360,PENTAIR plc,3550.0,Special Industry Machinery (No Metalworking Machinery),PNR,NYSE
+0000317540,"Coca-Cola Consolidated, Inc.",2086.0,Bottled & Canned Soft Drinks & Carbonated Waters,COKE,Nasdaq
+0000042888,GRACO INC,3561.0,Pumps & Pumping Equipment,GGG,NYSE
+0000059527,LINCOLN ELECTRIC HOLDINGS INC,3540.0,Metalworkg Machinery & Equipment,LECO,Nasdaq
+0001428439,"ROKU, INC",4841.0,Cable & Other Pay Television Services,ROKU,Nasdaq
+0001564708,NEWS CORP,2711.0,Newspapers: Publishing or  Publishing & Printing,NWSA,Nasdaq
+0001468174,Hyatt Hotels Corp,7011.0,Hotels & Motels,H,NYSE
+0001528396,"Guidewire Software, Inc.",7372.0,Services-Prepackaged Software,GWRE,NYSE
+0002040127,Karman Holdings Inc.,3728.0,"Aircraft Parts & Auxiliary Equipment, NEC",KRMN,NYSE
+0001743881,"BridgeBio Pharma, Inc.",2834.0,Pharmaceutical Preparations,BBIO,Nasdaq
+0001618673,Performance Food Group Co,5141.0,"Wholesale-Groceries, General Line",PFGC,NYSE
+0000016058,CACI INTERNATIONAL INC /DE/,7373.0,Services-Computer Integrated Systems Design,CACI,NYSE
+0000215466,"Coeur Mining, Inc.",1040.0,Gold and Silver Ores,CDE,NYSE
+0000794170,"Toll Brothers, Inc.",1531.0,Operative Builders,TOL,NYSE
+0001321732,Penumbra Inc,3841.0,Surgical & Medical Instruments & Apparatus,PEN,NYSE
+0000008818,Avery Dennison Corp,2670.0,Converted Paper & Paperboard Prods (No Contaners/Boxes),AVY,NYSE
+0000719413,HECLA MINING CO/DE/,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),HL,NYSE
+0000046080,"HASBRO, INC.",3944.0,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",HAS,Nasdaq
+0000914475,NEUROCRINE BIOSCIENCES INC,2836.0,"Biological Products, (No Diagnostic Substances)",NBIX,Nasdaq
+0000874238,"STERLING INFRASTRUCTURE, INC.",1600.0,Heavy Construction Other Than Bldg Const - Contractors,STRL,Nasdaq
+0000071691,NEW YORK TIMES CO,2711.0,Newspapers: Publishing or  Publishing & Printing,NYT,NYSE
+0000110621,RPM INTERNATIONAL INC/DE/,2851.0,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",RPM,NYSE
+0000849399,Gen Digital Inc.,7372.0,Services-Prepackaged Software,GEN,Nasdaq
+0001668397,"Medpace Holdings, Inc.",8731.0,Services-Commercial Physical & Biological Research,MEDP,Nasdaq
+0001531152,"BJ's Wholesale Club Holdings, Inc.",5331.0,Retail-Variety Stores,BJ,NYSE
+0000929008,WESCO INTERNATIONAL INC,5063.0,"Wholesale-Electrical Apparatus & Equipment, Wiring Supplies ",WCC,NYSE
+0000082811,REGAL REXNORD CORP,3569.0,"General Industrial Machinery & Equipment, NEC",RRX,NYSE
+0000855658,LATTICE SEMICONDUCTOR CORP,3674.0,Semiconductors & Related Devices,LSCC,Nasdaq
+0001579241,Allegion plc,7381.0,"Services-Detective, Guard & Armored Car Services",ALLE,NYSE
+0001177394,TD SYNNEX CORP,5045.0,Wholesale-Computers & Peripheral Equipment & Software,SNX,NYSE
+0001739104,Elanco Animal Health Inc,2834.0,Pharmaceutical Preparations,ELAN,NYSE
+0000912958,MILLICOM INTERNATIONAL CELLULAR SA,4812.0,Radiotelephone Communications,TIGO,Nasdaq
+0000089439,MUELLER INDUSTRIES INC,3350.0,Rolling Drawing & Extruding of  Nonferrous Metals,MLI,NYSE
+0001599298,Summit Therapeutics Inc.,2834.0,Pharmaceutical Preparations,SMMT,Nasdaq
+0001824920,"IonQ, Inc.",7373.0,Services-Computer Integrated Systems Design,IONQ,NYSE
+0001125376,"ENSIGN GROUP, INC",8051.0,Services-Skilled Nursing Care Facilities,ENSG,Nasdaq
+0001219601,"CROWN HOLDINGS, INC.",3411.0,Metal Cans,CCK,NYSE
+0001833756,"Leonardo DRS, Inc.",3812.0,"Search, Detection, Navigation, Guidance, Aeronautical Sys",DRS,Nasdaq
+0000779152,JACK HENRY & ASSOCIATES INC,7373.0,Services-Computer Integrated Systems Design,JKHY,Nasdaq
+0001474735,GENERAC HOLDINGS INC.,3621.0,Motors & Generators,GNRC,NYSE
+0001773383,"Dynatrace, Inc.",7372.0,Services-Prepackaged Software,DT,NYSE
+0000874015,IONIS PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,IONS,Nasdaq
+0000927003,ADVANCED ENERGY INDUSTRIES INC,3679.0,"Electronic Components, NEC",AEIS,Nasdaq
+0001237831,GLOBUS MEDICAL INC,3841.0,Surgical & Medical Instruments & Apparatus,GMED,NYSE
+0001159152,James Hardie Industries plc,3272.0,"Concrete Products, Except Block & Brick",JHX,NYSE
+0000352915,UNIVERSAL HEALTH SERVICES INC,8062.0,"Services-General Medical & Surgical Hospitals, NEC",UHS,NYSE
+0001177609,"FIVE BELOW, INC",5331.0,Retail-Variety Stores,FIVE,Nasdaq
+0001576280,"Guardant Health, Inc.",8071.0,Services-Medical Laboratories,GH,Nasdaq
+0000868857,AECOM,8711.0,Services-Engineering Services,ACM,NYSE
+0001031308,BENTLEY SYSTEMS INC,7372.0,Services-Prepackaged Software,BSY,Nasdaq
+0001047127,"AMKOR TECHNOLOGY, INC.",3674.0,Semiconductors & Related Devices,AMKR,Nasdaq
+0001341766,"Celsius Holdings, Inc.",2086.0,Bottled & Canned Soft Drinks & Carbonated Waters,CELH,Nasdaq
+0001289460,"Texas Roadhouse, Inc.",5812.0,Retail-Eating  Places,TXRH,Nasdaq
+0001618732,"Nutanix, Inc.",7372.0,Services-Prepackaged Software,NTNX,Nasdaq
+0000939767,"EXELIXIS, INC.",2836.0,"Biological Products, (No Diagnostic Substances)",EXEL,Nasdaq
+0000908255,BORGWARNER INC,3714.0,Motor Vehicle Parts & Accessories,BWA,NYSE
+0001232524,Jazz Pharmaceuticals plc,2834.0,Pharmaceutical Preparations,JAZZ,Nasdaq
+0000089089,SERVICE CORP INTERNATIONAL,7200.0,Services-Personal Services,SCI,NYSE
+0001368622,AeroVironment Inc,3721.0,Aircraft,AVAV,Nasdaq
+0000093556,"STANLEY BLACK & DECKER, INC.",3420.0,"Cutlery, Handtools & General Hardware",SWK,NYSE
+0001604028,"ADVANCED DRAINAGE SYSTEMS, INC.",3086.0,Plastics Foam Products,WMS,NYSE
+0001617640,"ZILLOW GROUP, INC.",7389.0,"Services-Business Services, NEC",ZG,Nasdaq
+0000067215,DYCOM INDUSTRIES INC,1623.0,"Water, Sewer, Pipeline, Comm & Power Line Construction",DY,NYSE
+0001174922,WYNN RESORTS LTD,7011.0,Hotels & Motels,WYNN,Nasdaq
+0001915657,HF Sinclair Corp,4610.0,Pipe Lines (No Natural Gas),DINO,NYSE
+0001584509,Aramark,5812.0,Retail-Eating  Places,ARMK,NYSE
+0001326380,GameStop Corp.,5734.0,Retail-Computer & Computer Software Stores,GME,NYSE
+0001801368,MP Materials Corp. / DE,1000.0,Metal Mining,MP,NYSE
+0001639438,"CAVA GROUP, INC.",5812.0,Retail-Eating  Places,CAVA,NYSE
+0001616707,Wayfair Inc.,5961.0,Retail-Catalog & Mail-Order Houses,W,NYSE
+0001943896,"Rubrik, Inc.",7372.0,Services-Prepackaged Software,RBRK,NYSE
+0001633931,TopBuild Corp,1700.0,Construction - Special Trade Contractors,BLD,NYSE
+0000067347,MODINE MANUFACTURING CO,3714.0,Motor Vehicle Parts & Accessories,MOD,NYSE
+0000785161,Encompass Health Corp,8060.0,Services-Hospitals,EHC,NYSE
+0000088205,"SPX Technologies, Inc.",3540.0,Metalworkg Machinery & Equipment,SPXC,NYSE
+0001944013,Crane Co,3490.0,Miscellaneous Fabricated Metal Products,CR,NYSE
+0001157601,"MADRIGAL PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,MDGL,Nasdaq
+0001116942,TTM TECHNOLOGIES INC,3672.0,Printed Circuit Boards,TTMI,Nasdaq
+0000789570,MGM Resorts International,7011.0,Hotels & Motels,MGM,NYSE
+0000917273,RAMBUS INC,3674.0,Semiconductors & Related Devices,RMBS,Nasdaq
+0000795403,WATTS WATER TECHNOLOGIES INC,3490.0,Miscellaneous Fabricated Metal Products,WTS,NYSE
+0000927066,DAVITA INC.,8090.0,"Services-Misc Health & Allied Services, NEC",DVA,NYSE
+0001579091,Maplebear Inc.,7389.0,"Services-Business Services, NEC",CART,Nasdaq
+0000892553,CHART INDUSTRIES INC,3443.0,Fabricated Plate Work (Boiler Shops),GTLS,NYSE
+0000109563,APPLIED INDUSTRIAL TECHNOLOGIES INC,5080.0,"Wholesale-Machinery, Equipment & Supplies",AIT,NYSE
+0000029644,DONALDSON Co INC,3564.0,Industrial & Commercial Fans & Blowers & Air Purifing Equip,DCI,NYSE
+0000704532,ONTO INNOVATION INC.,3829.0,"Measuring & Controlling Devices, NEC",ONTO,NYSE
+0001819848,"Joby Aviation, Inc.",3721.0,Aircraft,JOBY,NYSE
+0001646972,"Albertsons Companies, Inc.",5411.0,Retail-Grocery Stores,ACI,NYSE
+0001019849,"PENSKE AUTOMOTIVE GROUP, INC.",5500.0,Retail-Auto Dealers & Gasoline Stations,PAG,NYSE
+0000030625,FLOWSERVE CORP,3561.0,Pumps & Pumping Equipment,FLS,NYSE
+0001856525,"Core & Main, Inc.",5099.0,"Wholesale-Durable Goods, NEC",CNM,NYSE
+0001411207,Allison Transmission Holdings Inc,3714.0,Motor Vehicle Parts & Accessories,ALSN,NYSE
+0000937556,MASIMO CORP,3845.0,Electromedical & Electrotherapeutic Apparatus,MASI,Nasdaq
+0000775158,OSHKOSH CORP,3711.0,Motor Vehicles & Passenger Car Bodies,OSK,NYSE
+0000091388,SMITHFIELD FOODS INC,2011.0,Meat Packing Plants,SFD,Nasdaq
+0000737758,TORO CO,3524.0,Lawn & Garden Tractors & Home Lawn & Gardens Equip,TTC,NYSE
+0001836833,Planet Labs PBC,3663.0,Radio & Tv Broadcasting & Communications Equipment,PL,NYSE
+0001513761,Norwegian Cruise Line Holdings Ltd.,4400.0,Water Transportation,NCLH,NYSE
+0001611052,"PROCORE TECHNOLOGIES, INC.",7372.0,Services-Prepackaged Software,PCOR,NYSE
+0001285785,MOSAIC CO,2870.0,Agricultural Chemicals,MOS,NYSE
+0001451809,SITIME Corp,3674.0,Semiconductors & Related Devices,SITM,Nasdaq
+0001717115,"Tempus AI, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",TEM,Nasdaq
+0000091142,SMITH A O CORP,3630.0,Household Appliances,AOS,NYSE
+0000028917,"DILLARD'S, INC.",5311.0,Retail-Department Stores,DDS,NYSE
+0000916540,DARLING INGREDIENTS INC.,2070.0,Fats & Oils,DAR,NYSE
+0001048268,"IES Holdings, Inc.",1731.0,Electrical Work,IESC,Nasdaq
+0002025410,"StandardAero, Inc.",3724.0,Aircraft Engines & Engine Parts,SARO,NYSE
+0001370946,Owens Corning,3290.0,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",OC,NYSE
+0000751978,VICOR CORP,3679.0,"Electronic Components, NEC",VICR,Nasdaq
+0000039911,GAP INC,5651.0,Retail-Family Clothing Stores,GAP,NYSE
+0000802481,PILGRIMS PRIDE CORP,2015.0,Poultry Slaughtering and Processing,PPC,Nasdaq
+0001000228,HENRY SCHEIN INC,5047.0,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",HSIC,Nasdaq
+0001177702,SAIA INC,4213.0,Trucking (No Local),SAIA,Nasdaq
+0001810806,Unity Software Inc.,7372.0,Services-Prepackaged Software,U,NYSE
+0000004457,U-Haul Holding Co /NV/,7510.0,Services-Auto Rental & Leasing (No Drivers),UHAL,NYSE
+0002078416,"Liberty Live Holdings, Inc.",7900.0,Services-Amusement & Recreation Services,LLYVA,Nasdaq
+0001015820,QIAGEN N.V.,2836.0,"Biological Products, (No Diagnostic Substances)",QGEN,NYSE
+0001492691,Knight-Swift Transportation Holdings Inc.,4213.0,Trucking (No Local),KNX,NYSE
+0000896622,"APTARGROUP, INC.",3089.0,"Plastics Products, NEC",ATR,NYSE
+0001573516,Murphy USA Inc.,5500.0,Retail-Auto Dealers & Gasoline Stations,MUSA,NYSE
+0001056696,MANHATTAN ASSOCIATES INC,7372.0,Services-Prepackaged Software,MANH,Nasdaq
+0001689548,"Praxis Precision Medicines, Inc.",2834.0,Pharmaceutical Preparations,PRAX,Nasdaq
+0001866581,Dutch Bros Inc.,5810.0,Retail-Eating & Drinking Places,BROS,NYSE
+0001326110,"ImmunityBio, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",IBRX,Nasdaq
+0000880266,AGCO CORP /DE,3523.0,Farm Machinery & Equipment,AGCO,NYSE
+0000889331,LITTELFUSE INC /DE,3613.0,Switchgear & Switchboard Apparatus,LFUS,Nasdaq
+0000840489,"FirstCash Holdings, Inc.",5900.0,Retail-Miscellaneous Retail,FCFS,Nasdaq
+0000851205,COGNEX CORP,3823.0,"Industrial Instruments For Measurement, Display, and Control",CGNX,Nasdaq
+0000831641,TETRA TECH INC,8711.0,Services-Engineering Services,TTEK,Nasdaq
+0002030781,"SailPoint, Inc.",7372.0,Services-Prepackaged Software,SAIL,Nasdaq
+0001579428,"Axsome Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,AXSM,Nasdaq
+0001828108,"Aurora Innovation, Inc.",7373.0,Services-Computer Integrated Systems Design,AUR,Nasdaq
+0001144215,ACUITY INC. (DE),3640.0,Electric Lighting & Wiring Equipment,AYI,NYSE
+0000915389,EASTMAN CHEMICAL CO,2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",EMN,NYSE
+0001865782,"BrightSpring Health Services, Inc.",8082.0,Services-Home Health Care Services,BTSG,Nasdaq
+0000004127,"SKYWORKS SOLUTIONS, INC.",3674.0,Semiconductors & Related Devices,SWKS,Nasdaq
+0000102729,VALMONT INDUSTRIES INC,3440.0,Fabricated Structural Metal Products,VMI,NYSE
+0001649094,"Vaxcyte, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",PCVX,Nasdaq
+0000879407,"ARROWHEAD PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,ARWR,Nasdaq
+0000842023,BIO-TECHNE Corp,2836.0,"Biological Products, (No Diagnostic Substances)",TECH,Nasdaq
+0001575515,"Sprouts Farmers Market, Inc.",5411.0,Retail-Grocery Stores,SFM,Nasdaq
+0001590714,Element Solutions Inc,2890.0,Miscellaneous Chemical Products,ESI,NYSE
+0000945841,POOL CORP,5090.0,Wholesale-Misc Durable Goods,POOL,Nasdaq
+0001013237,FACTSET RESEARCH SYSTEMS INC,7370.0,"Services-Computer Programming, Data Processing, Etc.",FDS,NYSE
+0001366868,"Globalstar, Inc.",4899.0,"Communications Services, NEC",GSAT,Nasdaq
+0001861560,"Nuvalent, Inc.",2834.0,Pharmaceutical Preparations,NUVL,Nasdaq
+0001580905,"Installed Building Products, Inc.",1520.0,General Bldg Contractors - Residential Bldgs,IBP,NYSE
+0001159036,"HALOZYME THERAPEUTICS, INC.",2836.0,"Biological Products, (No Diagnostic Substances)",HALO,Nasdaq
+0001144879,Applied Digital Corp.,7374.0,Services-Computer Processing & Data Preparation,APLD,Nasdaq
+0001636519,Madison Square Garden Sports Corp.,7990.0,Services-Miscellaneous Amusement & Recreation,MSGS,NYSE
+0001061983,CYTOKINETICS INC,2834.0,Pharmaceutical Preparations,CYTK,Nasdaq
+0000908937,SIRIUS XM HOLDINGS INC.,4832.0,Radio Broadcasting Stations,SIRI,Nasdaq
+0000085961,RYDER SYSTEM INC,7510.0,Services-Auto Rental & Leasing (No Drivers),R,NYSE
+0001361538,Primoris Services Corp,1623.0,"Water, Sewer, Pipeline, Comm & Power Line Construction",PRIM,NYSE
+0002042694,Primo Brands Corp,2080.0,Beverages,PRMB,NYSE
+0001439288,Zurn Elkay Water Solutions Corp,3560.0,General Industrial Machinery & Equipment,ZWS,NYSE
+0001100682,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",8731.0,Services-Commercial Physical & Biological Research,CRL,NYSE
+0001352010,"EPAM Systems, Inc.",7371.0,Services-Computer Programming Services,EPAM,NYSE
+0001065696,LKQ CORP,5010.0,Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies,LKQ,Nasdaq
+0001711279,"Krystal Biotech, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",KRYS,Nasdaq
+0001611983,Liberty Broadband Corp,4841.0,Cable & Other Pay Television Services,LBRDA,Nasdaq
+0001039399,FORMFACTOR INC,3674.0,Semiconductors & Related Devices,FORM,Nasdaq
+0000920371,"Simpson Manufacturing Co., Inc.",3420.0,"Cutlery, Handtools & General Hardware",SSD,NYSE
+0000007431,ARMSTRONG WORLD INDUSTRIES INC,3089.0,"Plastics Products, NEC",AWI,NYSE
+0000891103,"Match Group, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",MTCH,Nasdaq
+0000088941,SEMTECH CORP,3674.0,Semiconductors & Related Devices,SMTC,Nasdaq
+0000012208,"BIO-RAD LABORATORIES, INC.",3826.0,Laboratory Analytical Instruments,BIO,NYSE
+0000007536,"ARROW ELECTRONICS, INC.",5065.0,"Wholesale-Electronic Parts & Equipment, NEC",ARW,NYSE
+0001487712,AIR LEASE CORP,7359.0,"Services-Equipment Rental & Leasing, NEC",AL,NYSE
+0001604778,"Qorvo, Inc.",3674.0,Semiconductors & Related Devices,QRVO,Nasdaq
+0000769520,MIDDLEBY Corp,3580.0,Refrigeration & Service Industry Machinery,MIDD,Nasdaq
+0001142417,"NEXSTAR MEDIA GROUP, INC.",4833.0,Television Broadcasting Stations,NXST,Nasdaq
+0001013857,PEGASYSTEMS INC,7374.0,Services-Computer Processing & Data Preparation,PEGA,Nasdaq
+0001062579,AMDOCS LTD,7371.0,Services-Computer Programming Services,DOX,Nasdaq
+0001046257,Ingredion Inc,2040.0,Grain Mill Products,INGR,NYSE
+0000006201,American Airlines Group Inc.,4512.0,"Air Transportation, Scheduled",AAL,Nasdaq
+0001582961,"DigitalOcean Holdings, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",DOCN,NYSE
+0000912093,VIAVI SOLUTIONS INC.,3674.0,Semiconductors & Related Devices,VIAV,Nasdaq
+0001433660,JBT MAREL Corp,3550.0,Special Industry Machinery (No Metalworking Machinery),JBTM,NYSE
+0001866368,"Clearwater Analytics Holdings, Inc.",7372.0,Services-Prepackaged Software,CWAN,NYSE
+0000018926,"Lumen Technologies, Inc.",4813.0,Telephone Communications (No Radiotelephone),LUMN,NYSE
+0000056047,KIRBY CORP,4400.0,Water Transportation,KEX,NYSE
+0000866706,ESCO TECHNOLOGIES INC,3669.0,"Communications Equipment, NEC",ESE,NYSE
+0000772406,"CIRRUS LOGIC, INC.",3674.0,Semiconductors & Related Devices,CRUS,Nasdaq
+0000066570,MSA Safety Inc,3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",MSA,NYSE
+0000022444,COMMERCIAL METALS Co,3312.0,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",CMC,NYSE
+0001428336,"HEALTHEQUITY, INC.",7389.0,"Services-Business Services, NEC",HQY,Nasdaq
+0001334933,URANIUM ENERGY CORP,1090.0,Miscellaneous Metal Ores,UEC,NYSE
+0000098362,TIMKEN CO,3562.0,Ball & Roller Bearings,TKR,NYSE
+0001977102,Birkenstock Holding plc,3140.0,"Footwear, (No Rubber)",BIRK,NYSE
+0000897723,SANMINA CORP,3672.0,Printed Circuit Boards,SANM,Nasdaq
+0000797721,VIASAT INC,4899.0,"Communications Services, NEC",VSAT,Nasdaq
+0001021860,NOV Inc.,3533.0,Oil & Gas Field Machinery & Equipment,NOV,NYSE
+0001038074,SILICON LABORATORIES INC.,3674.0,Semiconductors & Related Devices,SLAB,Nasdaq
+0000097216,TEREX CORP,3537.0,"Industrial Trucks, Tractors, Trailors & Stackers",TEX,NYSE
+0002011286,"Amentum Holdings, Inc.",7389.0,"Services-Business Services, NEC",AMTM,NYSE
+0001306830,Celanese Corp,2820.0,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",CE,NYSE
+0001158114,"APPLIED OPTOELECTRONICS, INC.",3674.0,Semiconductors & Related Devices,AAOI,Nasdaq
+0000730272,REPLIGEN CORP,2836.0,"Biological Products, (No Diagnostic Substances)",RGEN,Nasdaq
+0001786205,"Arcellx, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",ACLX,Nasdaq
+0001718227,"Construction Partners, Inc.",1600.0,Heavy Construction Other Than Bldg Const - Contractors,ROAD,Nasdaq
+0001815442,"Kymera Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",KYMR,Nasdaq
+0001398659,Genpact LTD,8742.0,Services-Management Consulting Services,G,NYSE
+0000100591,ARGAN INC,1700.0,Construction - Special Trade Contractors,AGX,NYSE
+0001124198,FLUOR CORP,1600.0,Heavy Construction Other Than Bldg Const - Contractors,FLR,NYSE
+0000277509,FEDERAL SIGNAL CORP /DE/,3711.0,Motor Vehicles & Passenger Car Bodies,FSS,NYSE
+0000103379,V F CORP,2320.0,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",VFC,NYSE
+0001856314,"Clear Secure, Inc.",7372.0,Services-Prepackaged Software,YOU,NYSE
+0001907982,D-Wave Quantum Inc.,7374.0,Services-Computer Processing & Data Preparation,QBTS,NYSE
+0000824142,"AAON, INC.",3585.0,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,AAON,Nasdaq
+0000851968,MOHAWK INDUSTRIES INC,2273.0,Carpets & Rugs,MHK,NYSE
+0000717605,HEXCEL CORP /DE/,2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",HXL,NYSE
+0001734722,"UiPath, Inc.",7372.0,Services-Prepackaged Software,PATH,NYSE
+0001467623,"DROPBOX, INC.",7372.0,Services-Prepackaged Software,DBX,Nasdaq
+0000350698,"AUTONATION, INC.",5500.0,Retail-Auto Dealers & Gasoline Stations,AN,NYSE
+0001639300,"Ollie's Bargain Outlet Holdings, Inc.",5331.0,Retail-Variety Stores,OLLI,Nasdaq
+0000703351,"BRINKER INTERNATIONAL, INC",5812.0,Retail-Eating  Places,EAT,NYSE
+0000080420,POWELL INDUSTRIES INC,3613.0,Switchgear & Switchboard Apparatus,POWL,Nasdaq
+0000842162,LEAR CORP,3714.0,Motor Vehicle Parts & Accessories,LEA,NYSE
+0001170010,CARMAX INC,5500.0,Retail-Auto Dealers & Gasoline Stations,KMX,NYSE
+0001377121,"Protagonist Therapeutics, Inc",2834.0,Pharmaceutical Preparations,PTGX,Nasdaq
+0001603923,Weatherford International plc,3533.0,Oil & Gas Field Machinery & Equipment,WFRD,Nasdaq
+0000906553,BOYD GAMING CORP,7011.0,Hotels & Motels,BYD,NYSE
+0002000178,Loar Holdings Inc.,3728.0,"Aircraft Parts & Auxiliary Equipment, NEC",LOAR,NYSE
+0001637207,"Planet Fitness, Inc.",7997.0,Services-Membership Sports & Recreation Clubs,PLNT,NYSE
+0001877322,ESAB Corp,3569.0,"General Industrial Machinery & Equipment, NEC",ESAB,NYSE
+0001012100,SEALED AIR CORP/DE,2820.0,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",SEE,NYSE
+0001852244,"GXO Logistics, Inc.",4700.0,Transportation Services,GXO,NYSE
+0001507079,"Floor & Decor Holdings, Inc.",5211.0,Retail-Lumber & Other Building Materials Dealers,FND,NYSE
+0001289308,EnerSys,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",ENS,NYSE
+0001653653,"Red Rock Resorts, Inc.",7011.0,Hotels & Motels,RRR,Nasdaq
+0001433195,APPFOLIO INC,7372.0,Services-Prepackaged Software,APPF,Nasdaq
+0001697500,"Solaris Energy Infrastructure, Inc.",3533.0,Oil & Gas Field Machinery & Equipment,SEI,NYSE
+0000918646,EAGLE MATERIALS INC,3241.0,"Cement, Hydraulic",EXP,NYSE
+0001591698,Paylocity Holding Corp,7372.0,Services-Prepackaged Software,PCTY,Nasdaq
+0001718512,Gates Industrial Corp plc,3560.0,General Industrial Machinery & Equipment,GTES,NYSE
+0001616862,Axalta Coating Systems Ltd.,2851.0,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",AXTA,NYSE
+0000020212,Churchill Downs Inc,7948.0,"Services-Racing, Including Track Operation",CHDN,Nasdaq
+0001649904,"RHYTHM PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,RYTM,Nasdaq
+0001192448,GLAUKOS Corp,3841.0,Surgical & Medical Instruments & Apparatus,GKOS,NYSE
+0000040211,GATX CORP,4700.0,Transportation Services,GATX,NYSE
+0000866291,"ALLEGRO MICROSYSTEMS, INC.",3674.0,Semiconductors & Related Devices,ALGM,Nasdaq
+0002015845,"Everus Construction Group, Inc.",1531.0,Operative Builders,ECG,NYSE
+0001722684,"WYNDHAM HOTELS & RESORTS, INC.",7011.0,Hotels & Motels,WH,NYSE
+0001023128,LITHIA MOTORS INC,5500.0,Retail-Auto Dealers & Gasoline Stations,LAD,NYSE
+0000912615,URBAN OUTFITTERS INC,5651.0,Retail-Family Clothing Stores,URBN,Nasdaq
+0001463101,"Enphase Energy, Inc.",3674.0,Semiconductors & Related Devices,ENPH,Nasdaq
+0001707753,Elastic N.V.,7372.0,Services-Prepackaged Software,ESTC,NYSE
+0001282637,NEWMARKET CORP,2860.0,Industrial Organic Chemicals,NEU,NYSE
+0001759425,"Mirum Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,MIRM,Nasdaq
+0001650729,"SiteOne Landscape Supply, Inc.",5040.0,Wholesale-Professional & Commercial Equipment & Supplies,SITE,NYSE
+0000275880,PARSONS CORP,7373.0,Services-Computer Integrated Systems Design,PSN,NYSE
+0001991792,"CG Oncology, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",CGON,Nasdaq
+0001562476,Taylor Morrison Home Corp,1531.0,Operative Builders,TMHC,NYSE
+0001869198,"Life Time Group Holdings, Inc.",7997.0,Services-Membership Sports & Recreation Clubs,LTH,NYSE
+0001622229,"Cogent Biosciences, Inc.",2834.0,Pharmaceutical Preparations,COGT,Nasdaq
+0001679273,"Lamb Weston Holdings, Inc.",2030.0,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",LW,NYSE
+0001773751,"Hims & Hers Health, Inc.",8011.0,Services-Offices & Clinics of  Doctors of  Medicine,HIMS,NYSE
+0002052568,Legence Corp.,1700.0,Construction - Special Trade Contractors,LGN,Nasdaq
+0000019584,CHEMED CORP,8082.0,Services-Home Health Care Services,CHE,NYSE
+0002001184,"PACS Group, Inc.",8051.0,Services-Skilled Nursing Care Facilities,PACS,NYSE
+0001759509,"Lyft, Inc.",7389.0,"Services-Business Services, NEC",LYFT,Nasdaq
+0000949157,CENTURY ALUMINUM CO,3334.0,Primary Production of  Aluminum,CENX,Nasdaq
+0001070081,"PTC THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,PTCT,Nasdaq
+0001590895,"Caesars Entertainment, Inc.",7011.0,Hotels & Motels,CZR,Nasdaq
+0001672013,Acushnet Holdings Corp.,3949.0,"Sporting & Athletic Goods, NEC",GOLF,NYSE
+0001636222,Wingstop Inc.,5812.0,Retail-Eating  Places,WING,Nasdaq
+0001703056,ADT Inc.,7381.0,"Services-Detective, Guard & Armored Car Services",ADT,NYSE
+0001370637,ETSY INC,7389.0,"Services-Business Services, NEC",ETSY,NYSE
+0000009326,BALCHEM CORP,2800.0,Chemicals & Allied Products,BCPC,Nasdaq
+0001878057,Super Group (SGHC) Ltd,7990.0,Services-Miscellaneous Amusement & Recreation,SGHC,NYSE
+0001164863,Enpro Inc.,3050.0,"Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",NPO,NYSE
+0001838359,"Rigetti Computing, Inc.",7371.0,Services-Computer Programming Services,RGTI,Nasdaq
+0000060519,LOUISIANA-PACIFIC CORP,2400.0,Lumber & Wood Products (No Furniture),LPX,NYSE
+0000102752,VSE CORP,8711.0,Services-Engineering Services,VSEC,Nasdaq
+0001722482,"Avantor, Inc.",3826.0,Laboratory Analytical Instruments,AVTR,NYSE
+0001521036,"Lantheus Holdings, Inc.",2835.0,In Vitro & In Vivo Diagnostic Substances,LNTH,Nasdaq
+0000861459,GRANITE CONSTRUCTION INC,1600.0,Heavy Construction Other Than Bldg Const - Contractors,GVA,NYSE
+0001786842,Vontier Corp,3824.0,Totalizing Fluid Meters & Counting Devices,VNT,NYSE
+0000091767,SONOCO PRODUCTS CO,2650.0,Paperboard Containers & Boxes,SON,NYSE
+0001603454,Celcuity Inc.,8071.0,Services-Medical Laboratories,CELC,Nasdaq
+0001897762,Ingram Micro Holding Corp,5045.0,Wholesale-Computers & Peripheral Equipment & Software,INGM,NYSE
+0002019410,"Caris Life Sciences, Inc.",8071.0,Services-Medical Laboratories,CAI,Nasdaq
+0000785786,PLEXUS CORP,3672.0,Printed Circuit Boards,PLXS,Nasdaq
+0001309108,WEX Inc.,7389.0,"Services-Business Services, NEC",WEX,NYSE
+0000812011,VAIL RESORTS INC,7990.0,Services-Miscellaneous Amusement & Recreation,MTN,NYSE
+0001740332,"RESIDEO TECHNOLOGIES, INC.",5072.0,Wholesale-Hardware,REZI,NYSE
+0001739445,"Arcosa, Inc.",3440.0,Fabricated Structural Metal Products,ACA,NYSE
+0001519751,"Fortune Brands Innovations, Inc.",2430.0,"Millwood, Veneer, Plywood, & Structural Wood Members",FBIN,NYSE
+0001109354,BRUKER CORP,3826.0,Laboratory Analytical Instruments,BRKR,Nasdaq
+0000912767,UFP INDUSTRIES INC,2421.0,"Sawmills & Planting Mills, General",UFPI,Nasdaq
+0001764013,"Immunovant, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",IMVT,Nasdaq
+0000853816,LANDSTAR SYSTEM INC,4213.0,Trucking (No Local),LSTR,Nasdaq
+0001710366,"Core Natural Resources, Inc.",1220.0,Silver Ores,CNR,NYSE
+0001530950,"Post Holdings, Inc.",2040.0,Grain Mill Products,POST,NYSE
+0001831363,"Terns Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,TERN,Nasdaq
+0000887936,"FTI CONSULTING, INC",8742.0,Services-Management Consulting Services,FCN,NYSE
+0001477294,Sensata Technologies Holding plc,3823.0,"Industrial Instruments For Measurement, Display, and Control",ST,NYSE
+0001001316,"TG THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,TGTX,Nasdaq
+0001003078,MSC INDUSTRIAL DIRECT CO INC,5084.0,Wholesale-Industrial Machinery & Equipment,MSM,NYSE
+0000717954,UNIFIRST CORP,7200.0,Services-Personal Services,UNF,NYSE
+0000790526,"RadNet, Inc.",8071.0,Services-Medical Laboratories,RDNT,Nasdaq
+0001583708,"SentinelOne, Inc.",7372.0,Services-Prepackaged Software,S,NYSE
+0000008858,AVNET INC,5065.0,"Wholesale-Electronic Parts & Equipment, NEC",AVT,Nasdaq
+0001562088,"Duolingo, Inc.",7372.0,Services-Prepackaged Software,DUOL,Nasdaq
+0001297989,"ExlService Holdings, Inc.",7389.0,"Services-Business Services, NEC",EXLS,Nasdaq
+0001610250,"Boot Barn Holdings, Inc.",5661.0,Retail-Shoe Stores,BOOT,NYSE
+0000912766,"LAUREATE EDUCATION, INC.",8200.0,Services-Educational Services,LAUR,Nasdaq
+0001049521,MERCURY SYSTEMS INC,3670.0,Electronic Components & Accessories,MRCY,Nasdaq
+0000063276,MATTEL INC /DE/,3942.0,Dolls & Stuffed Toys,MAT,Nasdaq
+0001111928,IPG PHOTONICS CORP,3674.0,Semiconductors & Related Devices,IPGP,Nasdaq
+0001051512,TELEPHONE & DATA SYSTEMS INC /DE/,4813.0,Telephone Communications (No Radiotelephone),TDS,NYSE
+0000003453,"Matson, Inc.",4400.0,Water Transportation,MATX,NYSE
+0001809987,"Mirion Technologies, Inc.",3829.0,"Measuring & Controlling Devices, NEC",MIR,NYSE
+0000096943,TELEFLEX INC,3841.0,Surgical & Medical Instruments & Apparatus,TFX,NYSE
+0001674416,CRISPR Therapeutics AG,2836.0,"Biological Products, (No Diagnostic Substances)",CRSP,Nasdaq
+0001974640,"Apogee Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",APGE,Nasdaq
+0001012019,RUSH ENTERPRISES INC \TX\,5500.0,Retail-Auto Dealers & Gasoline Stations,RUSHA,Nasdaq
+0001793659,"Rush Street Interactive, Inc.",7990.0,Services-Miscellaneous Amusement & Recreation,RSI,NYSE
+0000764065,CLEVELAND-CLIFFS INC.,1000.0,Metal Mining,CLF,NYSE
+0001990354,Waystar Holding Corp.,7373.0,Services-Computer Integrated Systems Design,WAY,Nasdaq
+0001207179,GOLAR LNG LTD,4400.0,Water Transportation,GLNG,Nasdaq
+0000088121,SEABOARD CORP /DE/,5150.0,Wholesale-Farm Product Raw Materials,SEB,NYSE
+0001014739,"Option Care Health, Inc.",8082.0,Services-Home Health Care Services,OPCH,Nasdaq
+0001357615,"KBR, INC.",1600.0,Heavy Construction Other Than Bldg Const - Contractors,KBR,NYSE
+0000104889,Graham Holdings Co,8200.0,Services-Educational Services,GHC,NYSE
+0001955520,Knife River Corp,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),KNF,NYSE
+0001824502,Archer Aviation Inc.,3721.0,Aircraft,ACHR,NYSE
+0001434588,"Grand Canyon Education, Inc.",8200.0,Services-Educational Services,LOPE,Nasdaq
+0001516513,"Doximity, Inc.",7371.0,Services-Computer Programming Services,DOCS,NYSE
+0001727196,Scholar Rock Holding Corp,2836.0,"Biological Products, (No Diagnostic Substances)",SRRK,Nasdaq
+0001385849,ENERGY FUELS INC,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),UUUU,NYSE
+0000014930,BRUNSWICK CORP,3510.0,Engines & Turbines,BC,NYSE
+0000355811,GENTEX CORP,3714.0,Motor Vehicle Parts & Accessories,GNTX,Nasdaq
+0001727263,"Frontdoor, Inc.",7340.0,Services-To Dwellings & Other Buildings,FTDR,Nasdaq
+0001041803,PRICESMART INC,5331.0,Retail-Variety Stores,PSMT,Nasdaq
+0001520262,Alkermes plc.,2834.0,Pharmaceutical Preparations,ALKS,Nasdaq
+0001921963,Atmus Filtration Technologies Inc.,3714.0,Motor Vehicle Parts & Accessories,ATMU,NYSE
+0001794669,"Shift4 Payments, Inc.",7389.0,"Services-Business Services, NEC",FOUR,NYSE
+0001582313,Xenon Pharmaceuticals Inc.,2834.0,Pharmaceutical Preparations,XENE,Nasdaq
+0001046311,CHOICE HOTELS INTERNATIONAL INC /DE,7011.0,Hotels & Motels,CHH,NYSE
+0001039065,OSI SYSTEMS INC,3674.0,Semiconductors & Related Devices,OSIS,Nasdaq
+0000913142,BELDEN INC.,3357.0,Drawing & Insulating of  Nonferrous Wire,BDC,NYSE
+0001691303,"WARRIOR MET COAL, INC.",1220.0,Silver Ores,HCC,NYSE
+0000833079,Meritage Homes CORP,1531.0,Operative Builders,MTH,NYSE
+0001178879,"AMICUS THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,FOLD,Nasdaq
+0000794367,"Macy's, Inc.",5311.0,Retail-Department Stores,M,NYSE
+0000766421,"ALASKA AIR GROUP, INC.",4512.0,"Air Transportation, Scheduled",ALK,NYSE
+0001005284,UNIVERSAL DISPLAY CORP \PA\,3670.0,Electronic Components & Accessories,OLED,Nasdaq
+0001786431,Reynolds Consumer Products Inc.,2673.0,"Plastics, Foil & Coated Paper Bags",REYN,Nasdaq
+0001600033,"e.l.f. Beauty, Inc.",2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",ELF,NYSE
+0000849869,SILGAN HOLDINGS INC,3411.0,Metal Cans,SLGN,NYSE
+0001851003,Zeta Global Holdings Corp.,7372.0,Services-Prepackaged Software,ZETA,NYSE
+0000009092,BADGER METER INC,3824.0,Totalizing Fluid Meters & Counting Devices,BMI,NYSE
+0001361658,Travel & Leisure Co.,7011.0,Hotels & Motels,TNL,NYSE
+0000078890,BRINKS CO,4731.0,Arrangement of  Transportation of  Freight & Cargo,BCO,NYSE
+0000090896,"Champion Homes, Inc.",2451.0,Mobile Homes,SKY,NYSE
+0001571123,Science Applications International Corp,7373.0,Services-Computer Integrated Systems Design,SAIC,Nasdaq
+0001624794,"CSW INDUSTRIALS, INC.",2891.0,Adhesives & Sealants,CSW,NYSE
+0001350593,"Mueller Water Products, Inc.",3490.0,Miscellaneous Fabricated Metal Products,MWA,NYSE
+0001437578,BRIGHT HORIZONS FAMILY SOLUTIONS INC.,8351.0,Services-Child Day Care Services,BFAM,NYSE
+0001076930,NOVANTA INC,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",NOVT,Nasdaq
+0001064728,PEABODY ENERGY CORP,1221.0,Bituminous Coal & Lignite Surface Mining,BTU,NYSE
+0000001750,AAR CORP,3720.0,Aircraft & Parts,AIR,NYSE
+0000730263,THOR INDUSTRIES INC,3716.0,Motor Homes,THO,NYSE
+0001970622,"USA Rare Earth, Inc.",1000.0,Metal Mining,USAR,Nasdaq
+0001757073,Envista Holdings Corp,3843.0,Dental Equipment & Supplies,NVST,NYSE
+0001173420,NOVAGOLD RESOURCES INC,1040.0,Gold and Silver Ores,NG,NYSE
+0001756262,"TransMedics Group, Inc.",3845.0,Electromedical & Electrotherapeutic Apparatus,TMDX,Nasdaq
+0001811414,QuantumScape Corp,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",QS,Nasdaq
+0001692063,"Schneider National, Inc.",4213.0,Trucking (No Local),SNDR,NYSE
+0000886163,LIGAND PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,LGND,Nasdaq
+0001065059,CENTRUS ENERGY CORP,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),LEU,NYSE
+0000856982,MERIT MEDICAL SYSTEMS INC,3841.0,Surgical & Medical Instruments & Apparatus,MMSI,Nasdaq
+0000067716,MDU RESOURCES GROUP INC,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),MDU,NYSE
+0001317685,Alliance Laundry Holdings Inc.,3580.0,Refrigeration & Service Industry Machinery,ALH,NYSE
+0000701985,"Bath & Body Works, Inc.",5990.0,"Retail-Retail Stores, NEC",BBWI,NYSE
+0001761918,"Erasca, Inc.",2834.0,Pharmaceutical Preparations,ERAS,Nasdaq
+0000016160,CAL-MAINE FOODS INC,200.0,Agricultural Prod-Livestock & Animal Specialties,CALM,Nasdaq
+0001786352,"BILL Holdings, Inc.",7372.0,Services-Prepackaged Software,BILL,NYSE
+0000700923,MYR GROUP INC.,1623.0,"Water, Sewer, Pipeline, Comm & Power Line Construction",MYRG,Nasdaq
+0001334036,"Crocs, Inc.",3021.0,Rubber & Plastics Footwear,CROX,Nasdaq
+0000935036,"ACI WORLDWIDE, INC.",7372.0,Services-Prepackaged Software,ACIW,Nasdaq
+0001607678,"Viking Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,VKTX,Nasdaq
+0000038725,FRANKLIN ELECTRIC CO INC,3621.0,Motors & Generators,FELE,Nasdaq
+0001570585,Liberty Global Ltd.,4841.0,Cable & Other Pay Television Services,LBTYA,Nasdaq
+0001018840,ABERCROMBIE & FITCH CO /DE/,5651.0,Retail-Family Clothing Stores,ANF,NYSE
+0000780571,"ITRON, INC.",3825.0,Instruments For Meas & Testing of  Electricity & Elec Signals,ITRI,Nasdaq
+0001069878,TREX CO INC,2400.0,Lumber & Wood Products (No Furniture),TREX,NYSE
+0001517228,"Vistance Networks, Inc.",3663.0,Radio & Tv Broadcasting & Communications Equipment,VISN,Nasdaq
+0001561680,"Tri Pointe Homes, Inc.",1531.0,Operative Builders,TPH,NYSE
+0001124796,"NLIGHT, INC.",3674.0,Semiconductors & Related Devices,LASR,Nasdaq
+0001658247,"Crinetics Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,CRNX,Nasdaq
+0001822966,NUSCALE POWER Corp,3443.0,Fabricated Plate Work (Boiler Shops),SMR,NYSE
+0001818201,CCC Intelligent Solutions Holdings Inc.,7372.0,Services-Prepackaged Software,CCC,Nasdaq
+0001795250,Sphere Entertainment Co.,7900.0,Services-Amusement & Recreation Services,SPHR,NYSE
+0000012659,H&R BLOCK INC,7200.0,Services-Personal Services,HRB,NYSE
+0000278166,"CAVCO INDUSTRIES, INC.",2451.0,Mobile Homes,CVCO,Nasdaq
+0001822479,Sotera Health Co,8090.0,"Services-Misc Health & Allied Services, NEC",SHC,Nasdaq
+0001032220,"MAXIMUS, INC.",7389.0,"Services-Business Services, NEC",MMS,NYSE
+0001625297,"Indivior Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,INDV,Nasdaq
+0001860160,Firefly Aerospace Inc.,3760.0,Guided Missiles & Space Vehicles & Parts,FLY,Nasdaq
+0001723128,"Amneal Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,AMRX,Nasdaq
+0000057515,MARZETTI CO,2030.0,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",MZTI,Nasdaq
+0001653482,Gitlab Inc.,7372.0,Services-Prepackaged Software,GTLB,Nasdaq
+0000730464,Covista Inc.,8200.0,Services-Educational Services,CVSA,NYSE
+0001620533,Shake Shack Inc.,5810.0,Retail-Eating & Drinking Places,SHAK,NYSE
+0001760965,"Kontoor Brands, Inc.",2320.0,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",KTB,NYSE
+0001368514,"ADMA BIOLOGICS, INC.",2836.0,"Biological Products, (No Diagnostic Substances)",ADMA,Nasdaq
+0001157408,"Stride, Inc.",8200.0,Services-Educational Services,LRN,NYSE
+0001526243,PERPETUA RESOURCES CORP.,1040.0,Gold and Silver Ores,PPTA,Nasdaq
+0000076605,PATRICK INDUSTRIES INC,3714.0,Motor Vehicle Parts & Accessories,PATK,Nasdaq
+0001388658,"iRhythm Holdings, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,IRTC,Nasdaq
+0000310142,SENSIENT TECHNOLOGIES CORP,2860.0,Industrial Organic Chemicals,SXT,NYSE
+0000098222,TIDEWATER INC,4400.0,Water Transportation,TDW,NYSE
+0000043920,"GREIF, INC",3412.0,"Metal Shipping Barrels, Drums, Kegs & Pails",GEF,NYSE
+0000077543,TUTOR PERINI CORP,1540.0,General Bldg Contractors - Nonresidential Bldgs,TPC,NYSE
+0001031203,GROUP 1 AUTOMOTIVE INC,5500.0,Retail-Auto Dealers & Gasoline Stations,GPI,NYSE
+0001784570,"BETA Technologies, Inc.",3721.0,Aircraft,BETA,NYSE
+0000793733,SKYWEST INC,4512.0,"Air Transportation, Scheduled",SKYW,Nasdaq
+0000008947,AZZ INC,3470.0,"Coating, Engraving & Allied Services",AZZ,NYSE
+0001856437,Victoria's Secret & Co.,5621.0,Retail-Women's Clothing Stores,VSCO,NYSE
+0001144980,ASBURY AUTOMOTIVE GROUP INC,5500.0,Retail-Auto Dealers & Gasoline Stations,ABG,NYSE
+0001517413,"Fastly, Inc.",7372.0,Services-Prepackaged Software,FSLY,Nasdaq
+0000106640,WHIRLPOOL CORP /DE/,3630.0,Household Appliances,WHR,NYSE
+0001364479,HERC HOLDINGS INC,7350.0,Services-Miscellaneous Equipment Rental & Leasing,HRI,NYSE
+0001745431,StoneCo Ltd.,7374.0,Services-Computer Processing & Data Preparation,STNE,Nasdaq
+0000825542,SCOTTS MIRACLE-GRO CO,2870.0,Agricultural Chemicals,SMG,NYSE
+0000016040,CABOT CORP,2890.0,Miscellaneous Chemical Products,CBT,NYSE
+0000723612,"AVIS BUDGET GROUP, INC.",7510.0,Services-Auto Rental & Leasing (No Drivers),CAR,Nasdaq
+0001674168,Hilton Grand Vacations Inc.,7000.0,"Hotels, Rooming Houses, Camps & Other Lodging Places",HGV,NYSE
+0000026780,DANA Inc,3714.0,Motor Vehicle Parts & Accessories,DAN,NYSE
+0001088856,CORCEPT THERAPEUTICS INC,2834.0,Pharmaceutical Preparations,CORT,Nasdaq
+0001070494,ACADIA PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,ACAD,Nasdaq
+0000886346,KADANT INC,3550.0,Special Industry Machinery (No Metalworking Machinery),KAI,NYSE
+0000795266,KB HOME,1531.0,Operative Builders,KBH,NYSE
+0000082020,UNITED STATES LIME & MINERALS INC,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),USLM,Nasdaq
+0001169561,COMMVAULT SYSTEMS INC,7372.0,Services-Prepackaged Software,CVLT,Nasdaq
+0001445305,WORKIVA INC,7372.0,Services-Prepackaged Software,WK,NYSE
+0001372612,BOX INC,7372.0,Services-Prepackaged Software,BOX,NYSE
+0000832988,SIGNET JEWELERS LTD,5944.0,Retail-Jewelry Stores,SIG,NYSE
+0000056978,KULICKE & SOFFA INDUSTRIES INC,3674.0,Semiconductors & Related Devices,KLIC,Nasdaq
+0001563411,CONSTELLIUM SE,3341.0,Secondary Smelting & Refining of  Nonferrous Metals,CSTM,NYSE
+0001332349,Brookdale Senior Living Inc.,8050.0,Services-Nursing & Personal Care Facilities,BKD,NYSE
+0001636282,"Spyre Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,SYRE,Nasdaq
+0001483934,Scorpio Tankers Inc.,4412.0,Deep Sea Foreign Transportation of  Freight,STNG,NYSE
+0001639691,LivaNova PLC,3845.0,Electromedical & Electrotherapeutic Apparatus,LIVN,Nasdaq
+0001690585,"Dianthus Therapeutics, Inc. /DE/",2834.0,Pharmaceutical Preparations,DNTH,Nasdaq
+0001107843,"QUALYS, INC.",7372.0,Services-Prepackaged Software,QLYS,Nasdaq
+0001406666,"CALIX, INC",4899.0,"Communications Services, NEC",CALX,NYSE
+0001735707,Garrett Motion Inc.,3714.0,Motor Vehicle Parts & Accessories,GTX,Nasdaq
+0000050725,GRIFFON CORP,3442.0,"Metal Doors, Sash, Frames, Moldings & Trim",GFF,NYSE
+0001811210,"Lucid Group, Inc.",3711.0,Motor Vehicles & Passenger Car Bodies,LCID,Nasdaq
+0000799292,"M/I HOMES, INC.",1531.0,Operative Builders,MHO,NYSE
+0001679049,"International Seaways, Inc.",4400.0,Water Transportation,INSW,NYSE
+0001880319,"Perimeter Solutions, Inc.",2800.0,Chemicals & Allied Products,PRM,NYSE
+0001581760,"Life360, Inc.",7374.0,Services-Computer Processing & Data Preparation,LIF,Nasdaq
+0001817358,"Academy Sports & Outdoors, Inc.",5940.0,Retail-Miscellaneous Shopping Goods Stores,ASO,Nasdaq
+0001482981,"Vita Coco Company, Inc.",2080.0,Beverages,COCO,Nasdaq
+0002054696,NIQ Global Intelligence plc,7370.0,"Services-Computer Programming, Data Processing, Etc.",NIQ,NYSE
+0001611647,"Freshpet, Inc.",2040.0,Grain Mill Products,FRPT,Nasdaq
+0001840856,"SOUNDHOUND AI, INC.",7372.0,Services-Prepackaged Software,SOUN,Nasdaq
+0001782170,"Remitly Global, Inc.",7389.0,"Services-Business Services, NEC",RELY,Nasdaq
+0001714899,Denali Therapeutics Inc.,2836.0,"Biological Products, (No Diagnostic Substances)",DNLI,Nasdaq
+0001710072,"Edgewise Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,EWTX,Nasdaq
+0001847367,ALUMIS INC.,2834.0,Pharmaceutical Preparations,ALMS,Nasdaq
+0000851520,EXPONENT INC,8742.0,Services-Management Consulting Services,EXPO,Nasdaq
+0001384905,"RingCentral, Inc.",7374.0,Services-Computer Processing & Data Preparation,RNG,NYSE
+0001093691,PLUG POWER INC,3620.0,Electrical Industrial Apparatus,PLUG,Nasdaq
+0001819576,Liquidia Corp,2834.0,Pharmaceutical Preparations,LQDA,Nasdaq
+0001974138,NCR Atleos Corp,3578.0,Calculating & Accounting Machines (No Electronic Computers),NATL,NYSE
+0000069891,NATIONAL BEVERAGE CORP,2086.0,Bottled & Canned Soft Drinks & Carbonated Waters,FIZZ,Nasdaq
+0000883984,ICU MEDICAL INC/DE,3841.0,Surgical & Medical Instruments & Apparatus,ICUI,Nasdaq
+0001647088,WillScot Holdings Corp,7350.0,Services-Miscellaneous Equipment Rental & Leasing,WSC,Nasdaq
+0001699136,"Cactus, Inc.",3533.0,Oil & Gas Field Machinery & Equipment,WHD,NYSE
+0000056679,KORN FERRY,7361.0,Services-Employment Agencies,KFY,NYSE
+0001494259,"CarGurus, Inc.",7374.0,Services-Computer Processing & Data Preparation,CARG,Nasdaq
+0000098677,TOOTSIE ROLL INDUSTRIES INC,2060.0,Sugar & Confectionery Products,TR,NYSE
+0001385280,"Cinemark Holdings, Inc.",7830.0,Services-Motion Picture Theaters,CNK,NYSE
+0001122976,AVIENT CORP,2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",AVNT,NYSE
+0001158449,ADVANCE AUTO PARTS INC,5531.0,Retail-Auto & Home Supply Stores,AAP,NYSE
+0001469367,Sunrun Inc.,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",RUN,Nasdaq
+0001680062,"ACM Research, Inc.",3559.0,"Special Industry Machinery, NEC",ACMR,Nasdaq
+0001834622,"Hayward Holdings, Inc.",3580.0,Refrigeration & Service Industry Machinery,HAYW,NYSE
+0001410384,"Q2 Holdings, Inc.",7372.0,Services-Prepackaged Software,QTWO,NYSE
+0000868780,"Dorman Products, Inc.",3714.0,Motor Vehicle Parts & Accessories,DORM,Nasdaq
+0000310354,STANDEX INTERNATIONAL CORP/DE/,3580.0,Refrigeration & Service Industry Machinery,SXI,NYSE
+0000029002,DIODES INC /DEL/,3674.0,Semiconductors & Related Devices,DIOD,Nasdaq
+0001818794,"Dyne Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,DYN,Nasdaq
+0001958140,"Atlanta Braves Holdings, Inc.",7900.0,Services-Amusement & Recreation Services,BATRA,Nasdaq
+0001114483,Integer Holdings Corp,3845.0,Electromedical & Electrotherapeutic Apparatus,ITGR,NYSE
+0000078239,PVH CORP. /DE/,2320.0,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",PVH,NYSE
+0001820872,"Global Business Travel Group, Inc.",4700.0,Transportation Services,GBTG,NYSE
+0001868941,"Fluence Energy, Inc.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",FLNC,Nasdaq
+0000046250,HAWKINS INC,5160.0,Wholesale-Chemicals & Allied Products,HWKN,Nasdaq
+0000931015,Polaris Inc.,3790.0,Miscellaneous Transportation Equipment,PII,NYSE
+0001676725,"IDEAYA Biosciences, Inc.",2834.0,Pharmaceutical Preparations,IDYA,Nasdaq
+0000105132,WD 40 CO,2890.0,Miscellaneous Chemical Products,WDFC,Nasdaq
+0001114995,IMPINJ INC,3679.0,"Electronic Components, NEC",PI,Nasdaq
+0001104657,MATERION Corp,3460.0,Metal Forgings & Stampings,MTRN,NYSE
+0001295947,Prestige Consumer Healthcare Inc.,2834.0,Pharmaceutical Preparations,PBH,NYSE
+0000763744,LCI INDUSTRIES,3714.0,Motor Vehicle Parts & Accessories,LCII,NYSE
+0000039368,FULLER H B CO,2891.0,Adhesives & Sealants,FUL,NYSE
+0001800227,IAC Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",IAC,Nasdaq
+0001050797,COLUMBIA SPORTSWEAR CO,2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,COLM,Nasdaq
+0001819790,"Tarsus Pharmaceuticals, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",TARS,Nasdaq
+0000919012,AMERICAN EAGLE OUTFITTERS INC,5651.0,Retail-Family Clothing Stores,AEO,NYSE
+0002035304,Titan America SA,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),TTAM,NYSE
+0001365135,Western Union CO,7389.0,"Services-Business Services, NEC",WU,NYSE
+0002014596,"Concentra Group Holdings Parent, Inc.",8093.0,"Services-Specialty Outpatient Facilities, NEC",CON,NYSE
+0000074303,OLIN Corp,2800.0,Chemicals & Allied Products,OLN,NYSE
+0001356576,"SUPERNUS PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,SUPN,Nasdaq
+0001590750,"Viridian Therapeutics, Inc.\DE",2834.0,Pharmaceutical Preparations,VRDN,Nasdaq
+0001670592,"YETI Holdings, Inc.",3949.0,"Sporting & Athletic Goods, NEC",YETI,NYSE
+0001395942,"OPENLANE, Inc.",5500.0,Retail-Auto Dealers & Gasoline Stations,OPLN,NYSE
+0000817720,SYNAPTICS Inc,3674.0,Semiconductors & Related Devices,SYNA,Nasdaq
+0001581280,Twist Bioscience Corp,2836.0,"Biological Products, (No Diagnostic Substances)",TWST,Nasdaq
+0001408075,GRAPHIC PACKAGING HOLDING CO,2650.0,Paperboard Containers & Boxes,GPK,NYSE
+0000887596,CHEESECAKE FACTORY INC,5812.0,Retail-Eating  Places,CAKE,Nasdaq
+0000822663,INTERPARFUMS INC,2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",IPAR,Nasdaq
+0001504776,Warby Parker Inc.,3851.0,Ophthalmic Goods,WRBY,NYSE
+0001867072,"Kyndryl Holdings, Inc.",7373.0,Services-Computer Integrated Systems Design,KD,NYSE
+0001369568,"CATALYST PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,CPRX,Nasdaq
+0001361113,VARONIS SYSTEMS INC,7372.0,Services-Prepackaged Software,VRNS,Nasdaq
+0000055242,KENNAMETAL INC,3541.0,"Machine Tools, Metal Cutting Types",KMT,NYSE
+0001373670,"Green Brick Partners, Inc.",1531.0,Operative Builders,GRBK,NYSE
+0001627223,Chemours Co,2800.0,Chemicals & Allied Products,CC,NYSE
+0001724521,"Arcus Biosciences, Inc.",2834.0,Pharmaceutical Preparations,RCUS,NYSE
+0001787306,"Arcutis Biotherapeutics, Inc.",2834.0,Pharmaceutical Preparations,ARQT,Nasdaq
+0000313143,HAEMONETICS CORP,3841.0,Surgical & Medical Instruments & Apparatus,HAE,NYSE
+0002052959,Lionsgate Studios Corp.,7812.0,Services-Motion Picture & Video Tape Production,LION,NYSE
+0001831828,"Vera Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,VERA,Nasdaq
+0001418819,Iridium Communications Inc.,4899.0,"Communications Services, NEC",IRDM,Nasdaq
+0001759655,"Privia Health Group, Inc.",8000.0,Services-Health Services,PRVA,Nasdaq
+0001952073,Madison Square Garden Entertainment Corp.,7990.0,Services-Miscellaneous Amusement & Recreation,MSGE,NYSE
+0001712807,PagSeguro Digital Ltd.,7374.0,Services-Computer Processing & Data Preparation,PAGS,NYSE
+0001331284,"DHT Holdings, Inc.",4412.0,Deep Sea Foreign Transportation of  Freight,DHT,NYSE
+0001849635,Trump Media & Technology Group Corp.,7370.0,"Services-Computer Programming, Data Processing, Etc.",DJT,Nasdaq
+0001328581,BOISE CASCADE Co,5030.0,Wholesale-Lumber & Other Construction Materials,BCC,NYSE
+0001844452,"Intuitive Machines, Inc.",3812.0,"Search, Detection, Navigation, Guidance, Aeronautical Sys",LUNR,Nasdaq
+0001275014,"Ultra Clean Holdings, Inc.",3674.0,Semiconductors & Related Devices,UCTT,Nasdaq
+0001819133,"Tango Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,TNGX,Nasdaq
+0001336917,"Under Armour, Inc.",2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,UAA,NYSE
+0001384101,"VERACYTE, INC.",8071.0,Services-Medical Laboratories,VCYT,Nasdaq
+0000048287,HNI CORP,2522.0,Office Furniture (No Wood),HNI,NYSE
+0000833640,POWER INTEGRATIONS INC,3674.0,Semiconductors & Related Devices,POWI,Nasdaq
+0001745999,Beam Therapeutics Inc.,2836.0,"Biological Products, (No Diagnostic Substances)",BEAM,Nasdaq
+0001113232,AXCELIS TECHNOLOGIES INC,3559.0,"Special Industry Machinery, NEC",ACLS,Nasdaq
+0000028823,"DIEBOLD NIXDORF, Inc",3578.0,Calculating & Accounting Machines (No Electronic Computers),DBD,NYSE
+0001951070,"McGraw Hill, Inc.",2741.0,Miscellaneous Publishing,MH,NYSE
+0000752714,MCGRATH RENTCORP,7359.0,"Services-Equipment Rental & Leasing, NEC",MGRC,Nasdaq
+0000885245,BUCKLE INC,5651.0,Retail-Family Clothing Stores,BKE,NYSE
+0001803696,Adeia Inc.,4841.0,Cable & Other Pay Television Services,ADEA,Nasdaq
+0001438533,"Travere Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,TVTX,Nasdaq
+0001528849,RH,5712.0,Retail-Furniture Stores,RH,NYSE
+0001158895,LEMAITRE VASCULAR INC,3841.0,Surgical & Medical Instruments & Apparatus,LMAT,Nasdaq
+0001517175,"Chefs' Warehouse, Inc.",5141.0,"Wholesale-Groceries, General Line",CHEF,Nasdaq
+0000816761,TERADATA CORP /DE/,7372.0,Services-Prepackaged Software,TDC,NYSE
+0001047335,NATIONAL HEALTHCARE CORP,8051.0,Services-Skilled Nursing Care Facilities,NHC,NYSE
+0000837465,Callaway Golf Co,3949.0,"Sporting & Athletic Goods, NEC",CALY,NYSE
+0001845097,Ardagh Metal Packaging S.A.,3411.0,Metal Cans,AMBP,NYSE
+0001899287,"Amprius Technologies, Inc.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",AMPX,NYSE
+0001845257,"LifeStance Health Group, Inc.",8000.0,Services-Health Services,LFST,Nasdaq
+0000008063,ASTRONICS CORP,3728.0,"Aircraft Parts & Auxiliary Equipment, NEC",ATRO,Nasdaq
+0001419945,TEEKAY TANKERS LTD.,4400.0,Water Transportation,TNK,NYSE
+0001877787,Ermenegildo Zegna N.V.,2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,ZGN,NYSE
+0000932696,INSIGHT ENTERPRISES INC,5961.0,Retail-Catalog & Mail-Order Houses,NSIT,Nasdaq
+0001968915,PHINIA INC.,3714.0,Motor Vehicle Parts & Accessories,PHIN,NYSE
+0000949870,BOSTON BEER CO INC,2082.0,Malt Beverages,SAM,NYSE
+0001020859,UNITED NATURAL FOODS INC,5141.0,"Wholesale-Groceries, General Line",UNFI,NYSE
+0001704715,"Alpha Metallurgical Resources, Inc.",1221.0,Bituminous Coal & Lignite Surface Mining,AMR,NYSE
+0000099780,TRINITY INDUSTRIES INC,3743.0,Railroad Equipment,TRN,NYSE
+0000818479,DENTSPLY SIRONA Inc.,3843.0,Dental Equipment & Supplies,XRAY,Nasdaq
+0001653477,Ingevity Corp,2800.0,Chemicals & Allied Products,NGVT,NYSE
+0000729580,BEL FUSE INC /NJ,3677.0,"Electronic Coils, Transformers & Other Inductors",BELFA,Nasdaq
+0000025445,"Crane NXT, Co.",3490.0,Miscellaneous Fabricated Metal Products,CXT,NYSE
+0001842295,"Maze Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",MAZE,Nasdaq
+0001660280,"Tenable Holdings, Inc.",7372.0,Services-Prepackaged Software,TENB,Nasdaq
+0000913241,"STEVEN MADDEN, LTD.",3140.0,"Footwear, (No Rubber)",SHOO,Nasdaq
+0001492422,"Apellis Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,APLS,Nasdaq
+0000108516,"WORTHINGTON ENTERPRISES, INC.",3310.0,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",WOR,NYSE
+0000103730,VISHAY INTERTECHNOLOGY INC,3670.0,Electronic Components & Accessories,VSH,NYSE
+0001846576,"FIGS, Inc.",2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,FIGS,NYSE
+0001111335,VISTEON CORP,3714.0,Motor Vehicle Parts & Accessories,VC,Nasdaq
+0002086587,York Space Systems Inc.,3760.0,Guided Missiles & Space Vehicles & Parts,YSS,NYSE
+0001682745,VERRA MOBILITY Corp,4700.0,Transportation Services,VRRM,Nasdaq
+0000821026,"Andersons, Inc.",5150.0,Wholesale-Farm Product Raw Materials,ANDE,Nasdaq
+0001676238,"Braze, Inc.",7372.0,Services-Prepackaged Software,BRZE,Nasdaq
+0001619762,Brightstar Lottery PLC,7990.0,Services-Miscellaneous Amusement & Recreation,BRSL,NYSE
+0001674862,ASHLAND INC.,5160.0,Wholesale-Chemicals & Allied Products,ASH,NYSE
+0001631574,Wave Life Sciences Ltd.,2834.0,Pharmaceutical Preparations,WVE,Nasdaq
+0001472012,Immunome Inc.,2834.0,Pharmaceutical Preparations,IMNM,Nasdaq
+0001662991,Sezzle Inc.,7389.0,"Services-Business Services, NEC",SEZL,Nasdaq
+0001770787,"10x Genomics, Inc.",3826.0,Laboratory Analytical Instruments,TXG,Nasdaq
+0000882796,BIOCRYST PHARMACEUTICALS INC,2836.0,"Biological Products, (No Diagnostic Substances)",BCRX,Nasdaq
+0001820144,Grindr Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",GRND,NYSE
+0000315213,ROBERT HALF INC.,7363.0,Services-Help Supply Services,RHI,NYSE
+0001459200,"Alarm.com Holdings, Inc.",7372.0,Services-Prepackaged Software,ALRM,Nasdaq
+0001853513,"Mister Car Wash, Inc.",7500.0,"Services-Automotive Repair, Services & Parking",MCW,Nasdaq
+0001816736,"Disc Medicine, Inc.",2834.0,Pharmaceutical Preparations,IRON,Nasdaq
+0001639723,"Navan, Inc.",7372.0,Services-Prepackaged Software,NAVN,Nasdaq
+0001005757,CSG SYSTEMS INTERNATIONAL INC,7374.0,Services-Computer Processing & Data Preparation,CSGS,Nasdaq
+0001092699,SPS COMMERCE INC,7372.0,Services-Prepackaged Software,SPSC,Nasdaq
+0001544522,Freshworks Inc.,7372.0,Services-Prepackaged Software,FRSH,Nasdaq
+0001865631,NEXTNAV INC.,3812.0,"Search, Detection, Navigation, Guidance, Aeronautical Sys",NN,Nasdaq
+0001666134,"BLACKLINE, INC.",7372.0,Services-Prepackaged Software,BL,Nasdaq
+0000923796,GEO GROUP INC,1520.0,General Bldg Contractors - Residential Bldgs,GEO,NYSE
+0001821769,Navitas Semiconductor Corp,3674.0,Semiconductors & Related Devices,NVTS,Nasdaq
+0001280263,AMBARELLA INC,3674.0,Semiconductors & Related Devices,AMBA,Nasdaq
+0001777921,"AvePoint, Inc.",7372.0,Services-Prepackaged Software,AVPT,Nasdaq
+0001046568,PERDOCEO EDUCATION Corp,8200.0,Services-Educational Services,PRDO,Nasdaq
+0000887733,CENTRAL GARDEN & PET CO,5190.0,Wholesale-Miscellaneous Nondurable Goods,CENT,Nasdaq
+0000771497,ABM INDUSTRIES INC /DE/,7340.0,Services-To Dwellings & Other Buildings,ABM,NYSE
+0001710155,"National Vision Holdings, Inc.",3851.0,Ophthalmic Goods,EYE,Nasdaq
+0001078075,NETSCOUT SYSTEMS INC,7373.0,Services-Computer Integrated Systems Design,NTCT,Nasdaq
+0002035149,Flowco Holdings Inc.,3533.0,Oil & Gas Field Machinery & Equipment,FLOC,NYSE
+0001818331,GeneDx Holdings Corp.,8000.0,Services-Health Services,WGS,Nasdaq
+0001530721,Capri Holdings Ltd,3100.0,Leather & Leather Products,CPRI,NYSE
+0001845337,"Day One Biopharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,DAWN,Nasdaq
+0001520697,"Acadia Healthcare Company, Inc.",8093.0,"Services-Specialty Outpatient Facilities, NEC",ACHC,Nasdaq
+0001772016,"BELLRING BRANDS, INC.",2000.0,Food and Kindred Products,BRBR,NYSE
+0001758488,ONESPAWORLD HOLDINGS Ltd,7997.0,Services-Membership Sports & Recreation Clubs,OSW,Nasdaq
+0001289848,Huron Consulting Group Inc.,8742.0,Services-Management Consulting Services,HURN,Nasdaq
+0000891014,MINERALS TECHNOLOGIES INC,2810.0,Industrial Inorganic Chemicals,MTX,NYSE
+0001871130,Brookfield Business Corp,1700.0,Construction - Special Trade Contractors,BBUC,NYSE
+0001802255,"Guardian Pharmacy Services, Inc.",5912.0,Retail-Drug Stores and Proprietary Stores,GRDN,NYSE
+0001024795,"HELIOS TECHNOLOGIES, INC.",3490.0,Miscellaneous Fabricated Metal Products,HLIO,NYSE
+0001929561,"RXO, Inc.",4700.0,Transportation Services,RXO,NYSE
+0001069899,PHIBRO ANIMAL HEALTH CORP,2834.0,Pharmaceutical Preparations,PAHC,Nasdaq
+0001601548,"V2X, Inc.",8744.0,Services-Facilities Support Management Services,VVX,NYSE
+0001307954,Huntsman CORP,2800.0,Chemicals & Allied Products,HUN,NYSE
+0001587523,Knowles Corp,3651.0,Household Audio & Video Equipment,KN,NYSE
+0001617406,Park Hotels & Resorts Inc.,7011.0,Hotels & Motels,PK,NYSE
+0001806837,"Vertex, Inc.",7372.0,Services-Prepackaged Software,VERX,Nasdaq
+0000921582,IMAX CORP,3861.0,Photographic Equipment & Supplies,IMAX,NYSE
+0001280058,BLACKBAUD INC,7372.0,Services-Prepackaged Software,BLKB,Nasdaq
+0000003197,CECO ENVIRONMENTAL CORP,3564.0,Industrial & Commercial Fans & Blowers & Air Purifing Equip,CECO,Nasdaq
+0001395937,Syndax Pharmaceuticals Inc,2834.0,Pharmaceutical Preparations,SNDX,Nasdaq
+0001534675,Tecnoglass Inc.,3211.0,Flat Glass,TGLS,NYSE
+0000940942,"Hub Group, Inc.",4731.0,Arrangement of  Transportation of  Freight & Cargo,HUBG,Nasdaq
+0001020710,DXP ENTERPRISES INC,5084.0,Wholesale-Industrial Machinery & Equipment,DXPE,Nasdaq
+0001515673,Ultragenyx Pharmaceutical Inc.,2834.0,Pharmaceutical Preparations,RARE,Nasdaq
+0001599617,DNOW Inc.,3533.0,Oil & Gas Field Machinery & Equipment,DNOW,NYSE
+0001565687,"Intapp, Inc.",7372.0,Services-Prepackaged Software,INTA,Nasdaq
+0000793952,"HARLEY-DAVIDSON, INC.",3751.0,"Motorcycles, Bicycles & Parts",HOG,NYSE
+0001043509,SONIC AUTOMOTIVE INC,5500.0,Retail-Auto Dealers & Gasoline Stations,SAH,NYSE
+0001261654,UNIVERSAL TECHNICAL INSTITUTE INC,8200.0,Services-Educational Services,UTI,NYSE
+0001478320,Adaptive Biotechnologies Corp,2836.0,"Biological Products, (No Diagnostic Substances)",ADPT,Nasdaq
+0001688568,DXC Technology Co,7374.0,Services-Computer Processing & Data Preparation,DXC,NYSE
+0000810136,PHOTRONICS INC,3674.0,Semiconductors & Related Devices,PLAB,Nasdaq
+0001803599,Concentrix Corp,7389.0,"Services-Business Services, NEC",CNXC,Nasdaq
+0001863127,"Tyra Biosciences, Inc.",2834.0,Pharmaceutical Preparations,TYRA,Nasdaq
+0000748268,"Red Cat Holdings, Inc.",7372.0,Services-Prepackaged Software,RCAT,Nasdaq
+0001078271,EXTREME NETWORKS INC,3576.0,Computer Communications Equipment,EXTR,Nasdaq
+0000897077,ALAMO GROUP INC,3523.0,Farm Machinery & Equipment,ALG,NYSE
+0001320414,SELECT MEDICAL HOLDINGS CORP,8060.0,Services-Hospitals,SEM,NYSE
+0000711377,NEOGEN CORP,2835.0,In Vitro & In Vivo Diagnostic Substances,NEOG,Nasdaq
+0001657573,"Xometry, Inc.",7389.0,"Services-Business Services, NEC",XMTR,Nasdaq
+0001503584,Costamare Inc.,4412.0,Deep Sea Foreign Transportation of  Freight,CMRE,NYSE
+0000907654,"Oruka Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,ORKA,Nasdaq
+0001022408,EPLUS INC,5045.0,Wholesale-Computers & Peripheral Equipment & Software,PLUS,Nasdaq
+0001933414,"Mineralys Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,MLYS,Nasdaq
+0001047340,FRESH DEL MONTE PRODUCE INC,100.0,Agricultural Production-Crops,FDP,NYSE
+0001350653,"Alphatec Holdings, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,ATEC,Nasdaq
+0000744218,"Celldex Therapeutics, Inc.",2835.0,In Vitro & In Vivo Diagnostic Substances,CLDX,Nasdaq
+0001557860,Globant S.A.,7374.0,Services-Computer Processing & Data Preparation,GLOB,NYSE
+0001879016,Ivanhoe Electric Inc.,1000.0,Metal Mining,IE,NYSE
+0001819810,Redwire Corp,3760.0,Guided Missiles & Space Vehicles & Parts,RDW,NYSE
+0000863436,BENCHMARK ELECTRONICS INC,3672.0,Printed Circuit Boards,BHE,NYSE
+0000006955,ENERPAC TOOL GROUP CORP,3590.0,Misc Industrial & Commercial Machinery & Equipment,EPAC,NYSE
+0001370053,"ANAPTYSBIO, INC",2834.0,Pharmaceutical Preparations,ANAB,Nasdaq
+0000811596,KAISER ALUMINUM CORP,3350.0,Rolling Drawing & Extruding of  Nonferrous Metals,KALU,Nasdaq
+0002020795,Uniti Group Inc.,4813.0,Telephone Communications (No Radiotelephone),UNIT,Nasdaq
+0000894405,ARCBEST CORP /DE/,4213.0,Trucking (No Local),ARCB,Nasdaq
+0000042582,GOODYEAR TIRE & RUBBER CO /OH/,3011.0,Tires & Inner Tubes,GT,Nasdaq
+0001600620,Aurinia Pharmaceuticals Inc.,2834.0,Pharmaceutical Preparations,AUPH,Nasdaq
+0000107140,"JOHN WILEY & SONS, INC.",2731.0,Books: Publishing or  Publishing & Printing,WLY,NYSE
+0001024305,COTY INC.,2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",COTY,NYSE
+0001464521,"Heartflow, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,HTFL,Nasdaq
+0000078749,AGILYSYS INC,7373.0,Services-Computer Integrated Systems Design,AGYS,Nasdaq
+0001805077,"Eos Energy Enterprises, Inc.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",EOSE,Nasdaq
+0001699031,"GRAIL, Inc.",8071.0,Services-Medical Laboratories,GRAL,Nasdaq
+0001559865,"EVERTEC, Inc.",7374.0,Services-Computer Processing & Data Preparation,EVTC,NYSE
+0001666138,Atkore Inc.,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",ATKR,NYSE
+0001393434,"OCULAR THERAPEUTIX, INC",2834.0,Pharmaceutical Preparations,OCUL,Nasdaq
+0000854775,DIGI INTERNATIONAL INC,3576.0,Computer Communications Equipment,DGII,Nasdaq
+0000030305,DUCOMMUN INC /DE/,3728.0,"Aircraft Parts & Auxiliary Equipment, NEC",DCO,NYSE
+0001529274,"ALKAMI TECHNOLOGY, INC.",7372.0,Services-Prepackaged Software,ALKT,Nasdaq
+0001441683,APPIAN CORP,7372.0,Services-Prepackaged Software,APPN,Nasdaq
+0001836981,"BigBear.ai Holdings, Inc.",7372.0,Services-Prepackaged Software,BBAI,NYSE
+0001623526,"Stoke Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,STOK,Nasdaq
+0001468328,Addus HomeCare Corp,8082.0,Services-Home Health Care Services,ADUS,Nasdaq
+0000921738,"PENN Entertainment, Inc.",7011.0,Hotels & Motels,PENN,Nasdaq
+0001210677,FIRST ADVANTAGE CORP,7374.0,Services-Computer Processing & Data Preparation,FA,Nasdaq
+0000103145,VEECO INSTRUMENTS INC,3559.0,"Special Industry Machinery, NEC",VECO,Nasdaq
+0001830081,Rumble Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",RUM,Nasdaq
+0001128928,FLOWERS FOODS INC,2000.0,Food and Kindred Products,FLO,NYSE
+0001812364,"Relay Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",RLAY,Nasdaq
+0001013934,"Strategic Education, Inc.",8200.0,Services-Educational Services,STRA,Nasdaq
+0001853145,EverCommerce Inc.,7372.0,Services-Prepackaged Software,EVCM,Nasdaq
+0000937098,"TRINET GROUP, INC.",7389.0,"Services-Business Services, NEC",TNET,NYSE
+0001831840,"SEMrush Holdings, Inc.",7372.0,Services-Prepackaged Software,SEMR,NYSE
+0001601830,"RECURSION PHARMACEUTICALS, INC.",2836.0,"Biological Products, (No Diagnostic Substances)",RXRX,Nasdaq
+0001484565,SOLENO THERAPEUTICS INC,2834.0,Pharmaceutical Preparations,SLNO,Nasdaq
+0001813814,"Definium Therapeutics, Inc.",2833.0,Medicinal Chemicals & Botanical Products,DFTX,Nasdaq
+0000084748,ROGERS CORP,2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",ROG,NYSE
+0001564902,United Parks & Resorts Inc.,7990.0,Services-Miscellaneous Amusement & Recreation,PRKS,NYSE
+0001999001,Six Flags Entertainment Corporation/NEW,7900.0,Services-Amusement & Recreation Services,FUN,NYSE
+0000784199,"ARTIVION, INC.",3841.0,Surgical & Medical Instruments & Apparatus,AORT,NYSE
+0001262976,CIMPRESS plc,2750.0,Commercial Printing,CMPR,Nasdaq
+0001133869,"CAPRICOR THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,CAPR,Nasdaq
+0001794515,ZoomInfo Technologies Inc.,7372.0,Services-Prepackaged Software,GTM,Nasdaq
+0001937653,Zymeworks Inc.,2834.0,Pharmaceutical Preparations,ZYME,Nasdaq
+0000037785,FMC CORP,2800.0,Chemicals & Allied Products,FMC,NYSE
+0001595974,"MAGNITE, INC.",7370.0,"Services-Computer Programming, Data Processing, Etc.",MGNI,Nasdaq
+0000733269,"LiveRamp Holdings, Inc.",7374.0,Services-Computer Processing & Data Preparation,RAMP,NYSE
+0001290677,"Turning Point Brands, Inc.",2100.0,Tobacco Products,TPB,NYSE
+0000873303,"Sarepta Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,SRPT,Nasdaq
+0001522540,"Marqeta, Inc.",7372.0,Services-Prepackaged Software,MQ,Nasdaq
+0001902733,"nCino, Inc.",7372.0,Services-Prepackaged Software,NCNO,Nasdaq
+0001639825,"PELOTON INTERACTIVE, INC.",3949.0,"Sporting & Athletic Goods, NEC",PTON,Nasdaq
+0001804745,Driven Brands Holdings Inc.,7500.0,"Services-Automotive Repair, Services & Parking",DRVN,Nasdaq
+0000109177,"Spectrum Brands Holdings, Inc.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",SPB,NYSE
+0000907242,MONARCH CASINO & RESORT INC,7011.0,Hotels & Motels,MCRI,Nasdaq
+0002032966,"TIC Solutions, Inc.",7389.0,"Services-Business Services, NEC",TIC,NYSE
+0001000694,NOVAVAX INC,2836.0,"Biological Products, (No Diagnostic Substances)",NVAX,Nasdaq
+0001788060,"Voyager Technologies, Inc./DE",3760.0,Guided Missiles & Space Vehicles & Parts,VOYG,NYSE
+0001295810,"Sunstone Hotel Investors, Inc.",7011.0,Hotels & Motels,SHO,NYSE
+0001589526,Blue Bird Corp,3713.0,Truck & Bus Bodies,BLBD,Nasdaq
+0001042893,"Innovex International, Inc.",3533.0,Oil & Gas Field Machinery & Equipment,INVX,NYSE
+0001576940,"Century Communities, Inc.",1531.0,Operative Builders,CCS,NYSE
+0001583648,"PALVELLA THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,PVLA,Nasdaq
+0001043000,"SONIDA SENIOR LIVING, INC.",8050.0,Services-Nursing & Personal Care Facilities,SNDA,NYSE
+0001054905,INNOSPEC INC.,2800.0,Chemicals & Allied Products,IOSP,Nasdaq
+0000805928,"Axogen, Inc.",3845.0,Electromedical & Electrotherapeutic Apparatus,AXGN,Nasdaq
+0001439222,"AGIOS PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,AGIO,Nasdaq
+0001758009,Quantum Computing Inc.,7372.0,Services-Prepackaged Software,QUBT,Nasdaq
+0001845815,Payoneer Global Inc.,7389.0,"Services-Business Services, NEC",PAYO,Nasdaq
+0000893949,"Pediatrix Medical Group, Inc.",8060.0,Services-Hospitals,MD,NYSE
+0000105418,WEIS MARKETS INC,5411.0,Retail-Grocery Stores,WMK,NYSE
+0001084048,"ZIFF DAVIS, INC.",4822.0,Telegraph & Other Message Communications,ZD,Nasdaq
+0000078814,PITNEY BOWES INC /DE/,3579.0,"Office Machines, NEC",PBI,NYSE
+0001023024,ANI PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,ANIP,Nasdaq
+0001821825,Organon & Co.,2834.0,Pharmaceutical Preparations,OGN,NYSE
+0001672619,"Enliven Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,ELVN,Nasdaq
+0001746618,"Revolve Group, Inc.",5961.0,Retail-Catalog & Mail-Order Houses,RVLV,NYSE
+0000050493,INGLES MARKETS INC,5411.0,Retail-Grocery Stores,IMKTA,Nasdaq
+0001968487,"Worthington Steel, Inc.",3310.0,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",WS,NYSE
+0001992243,T1 Energy Inc.,3674.0,Semiconductors & Related Devices,TE,NYSE
+0000887359,Vericel Corp,2836.0,"Biological Products, (No Diagnostic Substances)",VCEL,Nasdaq
+0001652535,"ICHOR HOLDINGS, LTD.",3674.0,Semiconductors & Related Devices,ICHR,Nasdaq
+0001080014,"Innoviva, Inc.",2834.0,Pharmaceutical Preparations,INVA,Nasdaq
+0000812074,"O-I Glass, Inc. /DE/",3221.0,Glass Containers,OI,NYSE
+0001802665,"Harmony Biosciences Holdings, Inc.",2834.0,Pharmaceutical Preparations,HRMY,Nasdaq
+0001638833,"Surgery Partners, Inc.",8062.0,"Services-General Medical & Surgical Hospitals, NEC",SGRY,Nasdaq
+0000793074,WERNER ENTERPRISES INC,4213.0,Trucking (No Local),WERN,Nasdaq
+0001764046,CLARIVATE PLC,7374.0,Services-Computer Processing & Data Preparation,CLVT,NYSE
+0001438133,TANDEM DIABETES CARE INC,3841.0,Surgical & Medical Instruments & Apparatus,TNDM,Nasdaq
+0001856485,Sylvamo Corp,2621.0,Paper Mills,SLVM,NYSE
+0001314727,Sonos Inc,3651.0,Household Audio & Video Equipment,SONO,Nasdaq
+0001489096,"Thermon Group Holdings, Inc.",3620.0,Electrical Industrial Apparatus,THR,NYSE
+0000042682,GORMAN RUPP CO,3561.0,Pumps & Pumping Equipment,GRC,NYSE
+0001477720,"Asana, Inc.",7372.0,Services-Prepackaged Software,ASAN,NYSE
+0001819928,"DoubleVerify Holdings, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",DV,NYSE
+0000814453,NEWELL BRANDS INC.,3089.0,"Plastics Products, NEC",NWL,Nasdaq
+0001627475,"UPWORK, INC",7374.0,Services-Computer Processing & Data Preparation,UPWK,Nasdaq
+0000923120,GREENBRIER COMPANIES INC,3743.0,Railroad Equipment,GBX,NYSE
+0002036042,"Sionna Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,SION,Nasdaq
+0001670541,Adient plc,3714.0,Motor Vehicle Parts & Accessories,ADNT,NYSE
+0001180262,HERBALIFE LTD.,5122.0,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",HLF,NYSE
+0001425205,"IOVANCE BIOTHERAPEUTICS, INC.",2836.0,"Biological Products, (No Diagnostic Substances)",IOVA,Nasdaq
+0001609550,"Inspire Medical Systems, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,INSP,NYSE
+0001822492,Hillman Solutions Corp.,3420.0,"Cutlery, Handtools & General Hardware",HLMN,Nasdaq
+0001857816,GigaCloud Technology Inc,5961.0,Retail-Catalog & Mail-Order Houses,GCT,Nasdaq
+0000926326,"OMNICELL, INC.",3571.0,Electronic Computers,OMCL,Nasdaq
+0001652130,"Intellia Therapeutics, Inc.",2835.0,In Vitro & In Vivo Diagnostic Substances,NTLA,Nasdaq
+0001549595,"Nurix Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,NRIX,Nasdaq
+0001712184,Liberty Latin America Ltd.,4841.0,Cable & Other Pay Television Services,LILA,Nasdaq
+0000914156,UFP TECHNOLOGIES INC,3841.0,Surgical & Medical Instruments & Apparatus,UFPT,Nasdaq
+0000715787,INTERFACE INC,2273.0,Carpets & Rugs,TILE,Nasdaq
+0001772253,Flex LNG Ltd.,4400.0,Water Transportation,FLNG,NYSE
+0000890564,ASGN Inc,7363.0,Services-Help Supply Services,ASGN,NYSE
+0001658551,"Amylyx Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,AMLX,Nasdaq
+0000876883,Stagwell Inc,7311.0,Services-Advertising Agencies,STGW,Nasdaq
+0001158463,JETBLUE AIRWAYS CORP,4512.0,"Air Transportation, Scheduled",JBLU,Nasdaq
+0000819793,ALBANY INTERNATIONAL CORP /DE/,2221.0,"Broadwoven Fabric Mills, Man Made Fiber & Silk",AIN,NYSE
+0000069633,"NAPCO SECURITY TECHNOLOGIES, INC",3669.0,"Communications Equipment, NEC",NSSC,Nasdaq
+0000908315,WINMARK CORP,5900.0,Retail-Miscellaneous Retail,WINA,Nasdaq
+0001588978,PROCEPT BioRobotics Corp,3841.0,Surgical & Medical Instruments & Apparatus,PRCT,Nasdaq
+0001580560,Flywire Corp,7389.0,"Services-Business Services, NEC",FLYW,Nasdaq
+0001811063,Nuvation Bio Inc.,2834.0,Pharmaceutical Preparations,NUVB,NYSE
+0001580808,"A10 Networks, Inc.",3576.0,Computer Communications Equipment,ATEN,NYSE
+0001625101,"PULSE BIOSCIENCES, INC.",3841.0,Surgical & Medical Instruments & Apparatus,PLSE,Nasdaq
+0001706431,"Vir Biotechnology, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",VIR,Nasdaq
+0001736946,"Arlo Technologies, Inc.",7381.0,"Services-Detective, Guard & Armored Car Services",ARLO,NYSE
+0001345016,YELP INC,7200.0,Services-Personal Services,YELP,NYSE
+0000045876,ENVIRI Corp,8900.0,"Services-Services, NEC",NVRI,NYSE
+0000880807,AMERICAN SUPERCONDUCTOR CORP /DE/,3621.0,Motors & Generators,AMSC,Nasdaq
+0000903651,INNODATA INC,7374.0,Services-Computer Processing & Data Preparation,INOD,Nasdaq
+0001551306,"Progyny, Inc.",8090.0,"Services-Misc Health & Allied Services, NEC",PGNY,Nasdaq
+0001362468,Allegiant Travel CO,4512.0,"Air Transportation, Scheduled",ALGT,Nasdaq
+0001569345,"Sprinklr, Inc.",7372.0,Services-Prepackaged Software,CXM,NYSE
+0001832332,"Aveanna Healthcare Holdings, Inc.",8082.0,Services-Home Health Care Services,AVAH,Nasdaq
+0000785956,J&J SNACK FOODS CORP,2052.0,Cookies & Crackers,JJSF,Nasdaq
+0001050377,PC CONNECTION INC,5045.0,Wholesale-Computers & Peripheral Equipment & Software,CNXN,Nasdaq
+0001323885,"AtriCure, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,ATRC,Nasdaq
+0002057463,"GCI Liberty, Inc.",4841.0,Cable & Other Pay Television Services,GLIBA,Nasdaq
+0001288469,"MAXLINEAR, INC",3674.0,Semiconductors & Related Devices,MXL,Nasdaq
+0000944148,"CBIZ, Inc.",7389.0,"Services-Business Services, NEC",CBZ,NYSE
+0001616000,"Xenia Hotels & Resorts, Inc.",7011.0,Hotels & Motels,XHR,NYSE
+0001468748,Kodiak Sciences Inc.,2836.0,"Biological Products, (No Diagnostic Substances)",KOD,Nasdaq
+0001873951,"Exzeo Group, Inc.",7372.0,Services-Prepackaged Software,XZO,NYSE
+0000876167,PROGRESS SOFTWARE CORP /MA,7372.0,Services-Prepackaged Software,PRGS,Nasdaq
+0000101538,UNITED STATES ANTIMONY CORP,3330.0,Primary Smelting & Refining of  Nonferrous Metals,UAMY,NYSE
+0001702744,Simply Good Foods Co,2000.0,Food and Kindred Products,SMPL,Nasdaq
+0001563880,"Trevi Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,TRVI,Nasdaq
+0001709682,"Custom Truck One Source, Inc.",7359.0,"Services-Equipment Rental & Leasing, NEC",CTOS,NYSE
+0001935979,Biohaven Ltd.,2834.0,Pharmaceutical Preparations,BHVN,NYSE
+0001437402,"ARDELYX, INC.",2834.0,Pharmaceutical Preparations,ARDX,Nasdaq
+0000842633,TRIMAS CORP,3460.0,Metal Forgings & Stampings,TRS,Nasdaq
+0002079999,Cardinal Infrastructure Group Inc.,1600.0,Heavy Construction Other Than Bldg Const - Contractors,CDNL,Nasdaq
+0000885639,KOHLS Corp,5311.0,Retail-Department Stores,KSS,NYSE
+0001725255,AdaptHealth Corp.,8082.0,Services-Home Health Care Services,AHCO,Nasdaq
+0001585364,PERRIGO Co plc,2834.0,Pharmaceutical Preparations,PRGO,NYSE
+0001825088,"Dream Finders Homes, Inc.",1531.0,Operative Builders,DFH,NYSE
+0001645113,NovoCure Ltd,3841.0,Surgical & Medical Instruments & Apparatus,NVCR,Nasdaq
+0000731012,HEALTHCARE SERVICES GROUP INC,8050.0,Services-Nursing & Personal Care Facilities,HCSG,Nasdaq
+0001857475,Dole plc,100.0,Agricultural Production-Crops,DOLE,NYSE
+0001708035,Ecovyst Inc.,2800.0,Chemicals & Allied Products,ECVT,NYSE
+0000058492,LEGGETT & PLATT INC,2510.0,Household Furniture,LEG,NYSE
+0001368458,"Sally Beauty Holdings, Inc.",5990.0,"Retail-Retail Stores, NEC",SBH,NYSE
+0001083446,"Astrana Health, Inc.",8742.0,Services-Management Consulting Services,ASTH,Nasdaq
+0001488139,"Ameresco, Inc.",1700.0,Construction - Special Trade Contractors,AMRC,NYSE
+0000057131,LA-Z-BOY INC,2510.0,Household Furniture,LZB,NYSE
+0000744187,REX AMERICAN RESOURCES Corp,2860.0,Industrial Organic Chemicals,REX,NYSE
+0000110471,WOLVERINE WORLD WIDE INC /DE/,3140.0,"Footwear, (No Rubber)",WWW,NYSE
+0001596993,DORIAN LPG LTD.,4412.0,Deep Sea Foreign Transportation of  Freight,LPG,NYSE
+0000021535,COHU INC,3825.0,Instruments For Meas & Testing of  Electricity & Elec Signals,COHU,Nasdaq
+0001796280,"Oric Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,ORIC,Nasdaq
+0001443669,Proto Labs Inc,3440.0,Fabricated Structural Metal Products,PRLB,NYSE
+0001591588,"Gold.com, Inc.",5094.0,"Wholesale-Jewelry, Watches, Precious Stones & Metals",GOLD,NYSE
+0001819974,"SkyWater Technology, Inc",3674.0,Semiconductors & Related Devices,SKYT,Nasdaq
+0000026058,CTS CORP,3672.0,Printed Circuit Boards,CTS,NYSE
+0001289877,SFL Corp Ltd.,4412.0,Deep Sea Foreign Transportation of  Freight,SFL,NYSE
+0001420800,Enovis CORP,3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",ENOV,NYSE
+0001816581,"Ouster, Inc.",3569.0,"General Industrial Machinery & Equipment, NEC",OUST,Nasdaq
+0001860543,"Cadre Holdings, Inc.",3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",CDRE,NYSE
+0001776111,"MBX Biosciences, Inc.",2834.0,Pharmaceutical Preparations,MBX,Nasdaq
+0000030697,Wendy's Co,5810.0,Retail-Eating & Drinking Places,WEN,Nasdaq
+0001756655,"Ardent Health, Inc.",8062.0,"Services-General Medical & Surgical Hospitals, NEC",ARDT,NYSE
+0000102037,UNIVERSAL CORP /VA/,5150.0,Wholesale-Farm Product Raw Materials,UVV,NYSE
+0001120914,PDF SOLUTIONS INC,7372.0,Services-Prepackaged Software,PDFS,Nasdaq
+0002012593,"Rapport Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,RAPP,Nasdaq
+0001657853,"HERTZ GLOBAL HOLDINGS, INC",7510.0,Services-Auto Rental & Leasing (No Drivers),HTZ,Nasdaq
+0001325618,IRADIMED CORP,3841.0,Surgical & Medical Instruments & Apparatus,IRMD,Nasdaq
+0001360214,"HARROW, INC.",2834.0,Pharmaceutical Preparations,HROW,Nasdaq
+0001062231,Dauch Corp,3714.0,Motor Vehicle Parts & Accessories,DCH,NYSE
+0001906324,QuidelOrtho Corp,2835.0,In Vitro & In Vivo Diagnostic Substances,QDEL,Nasdaq
+0001626971,"Corvus Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,CRVS,Nasdaq
+0001577526,"C3.ai, Inc.",7372.0,Services-Prepackaged Software,AI,NYSE
+0000789460,WORLD KINECT CORP,5172.0,Wholesale-Petroleum & Petroleum Products (No Bulk Stations),WKC,NYSE
+0001137091,"POWER SOLUTIONS INTERNATIONAL, INC.",3510.0,Engines & Turbines,PSIX,Nasdaq
+0001525221,Bristow Group Inc.,4522.0,"Air Transportation, Nonscheduled",VTOL,NYSE
+0001018164,WILLIS LEASE FINANCE CORP,5080.0,"Wholesale-Machinery, Equipment & Supplies",WLFC,Nasdaq
+0001883313,"Savers Value Village, Inc.",5900.0,Retail-Miscellaneous Retail,SVV,NYSE
+0001953926,"Zenas BioPharma, Inc.",2834.0,Pharmaceutical Preparations,ZBIO,Nasdaq
+0001060822,CARTERS INC,2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,CRI,NYSE
+0001286613,LINCOLN EDUCATIONAL SERVICES CORP,8200.0,Services-Educational Services,LINC,Nasdaq
+0001356090,"PRECIGEN, INC.",2834.0,Pharmaceutical Preparations,PGEN,Nasdaq
+0002023658,Bicara Therapeutics Inc.,2834.0,Pharmaceutical Preparations,BCAX,Nasdaq
+0001806310,"Taysha Gene Therapies, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",TSHA,Nasdaq
+0001288847,"Five9, Inc.",7374.0,Services-Computer Processing & Data Preparation,FIVN,Nasdaq
+0001362004,"ICF International, Inc.",8742.0,Services-Management Consulting Services,ICFI,Nasdaq
+0001530804,Tronox Holdings plc,2810.0,Industrial Inorganic Chemicals,TROX,NYSE
+0000080035,PREFORMED LINE PRODUCTS CO,1623.0,"Water, Sewer, Pipeline, Comm & Power Line Construction",PLPC,Nasdaq
+0000066382,"MILLERKNOLL, INC.",2520.0,Office Furniture,MLKN,Nasdaq
+0000836157,LINDSAY CORP,3523.0,Farm Machinery & Equipment,LNN,NYSE
+0000912562,"GIBRALTAR INDUSTRIES, INC.",3310.0,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",ROCK,Nasdaq
+0001877184,"KESTRA MEDICAL TECHNOLOGIES, LTD.",3841.0,Surgical & Medical Instruments & Apparatus,KMTS,Nasdaq
+0002071288,"Lumexa Imaging Holdings, Inc.",8071.0,Services-Medical Laboratories,LMRI,Nasdaq
+0001834489,Genius Sports Ltd,7990.0,Services-Miscellaneous Amusement & Recreation,GENI,NYSE
+0000871763,ManpowerGroup Inc.,7363.0,Services-Help Supply Services,MAN,NYSE
+0001669811,"Donnelley Financial Solutions, Inc.",7380.0,Services-Miscellaneous Business Services,DFIN,NYSE
+0001826457,"Monte Rosa Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",GLUE,Nasdaq
+0000792987,ASTEC INDUSTRIES INC,3531.0,Construction Machinery & Equip,ASTE,Nasdaq
+0001581804,Navigator Holdings Ltd.,4412.0,Deep Sea Foreign Transportation of  Freight,NVGS,NYSE
+0001997859,WEBTOON Entertainment Inc.,2741.0,Miscellaneous Publishing,WBTN,Nasdaq
+0000027996,DELUXE CORP,2780.0,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",DLX,NYSE
+0001750284,"Olema Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,OLMA,Nasdaq
+0001632790,"ENERGIZER HOLDINGS, INC.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",ENR,NYSE
+0001005731,IDT CORP,4813.0,Telephone Communications (No Radiotelephone),IDT,NYSE
+0001573221,"TheRealReal, Inc.",5900.0,Retail-Miscellaneous Retail,REAL,Nasdaq
+0000885978,U S PHYSICAL THERAPY INC /NV,8000.0,Services-Health Services,USPH,NYSE
+0001603015,"Via Transportation, Inc.",7372.0,Services-Prepackaged Software,VIA,NYSE
+0000071829,NPK International Inc.,7350.0,Services-Miscellaneous Equipment Rental & Leasing,NPKI,NYSE
+0000945114,GLOBAL INDUSTRIAL Co,5084.0,Wholesale-Industrial Machinery & Equipment,GIC,NYSE
+0001309402,Green Plains Inc.,2860.0,Industrial Organic Chemicals,GPRE,Nasdaq
+0000901491,PAPA JOHNS INTERNATIONAL INC,5812.0,Retail-Eating  Places,PZZA,Nasdaq
+0000097134,TENNANT CO,3580.0,Refrigeration & Service Industry Machinery,TNC,NYSE
+0000703604,"Distribution Solutions Group, Inc.",5080.0,"Wholesale-Machinery, Equipment & Supplies",DSGR,Nasdaq
+0001512499,"LINDBLAD EXPEDITIONS HOLDINGS, INC.",4700.0,Transportation Services,LIND,Nasdaq
+0001314102,"EyePoint, Inc.",3826.0,Laboratory Analytical Instruments,EYPT,Nasdaq
+0001370450,"Willdan Group, Inc.",8711.0,Services-Engineering Services,WLDN,Nasdaq
+0000816956,CONMED Corp,3845.0,Electromedical & Electrotherapeutic Apparatus,CNMD,NYSE
+0001834376,InnovAge Holding Corp.,8000.0,Services-Health Services,INNV,Nasdaq
+0001808834,"PROG Holdings, Inc.",7359.0,"Services-Equipment Rental & Leasing, NEC",PRG,NYSE
+0001734713,"BrightView Holdings, Inc.",700.0,Agricultural Services,BV,NYSE
+0001823239,"MARAVAI LIFESCIENCES HOLDINGS, INC.",2834.0,Pharmaceutical Preparations,MRVI,Nasdaq
+0001766400,"Pennant Group, Inc.",8000.0,Services-Health Services,PNTG,Nasdaq
+0001040470,AEHR TEST SYSTEMS,3825.0,Instruments For Meas & Testing of  Electricity & Elec Signals,AEHR,Nasdaq
+0001267565,"COLLEGIUM PHARMACEUTICAL, INC",2834.0,Pharmaceutical Preparations,COLL,Nasdaq
+0001372020,Great Lakes Dredge & Dock CORP,1600.0,Heavy Construction Other Than Bldg Const - Contractors,GLDD,Nasdaq
+0001984086,"Septerna, Inc.",2834.0,Pharmaceutical Preparations,SEPN,Nasdaq
+0001920294,REZOLVE AI PLC,7370.0,"Services-Computer Programming, Data Processing, Etc.",RZLV,Nasdaq
+0001951089,Critical Metals Corp.,1000.0,Metal Mining,CRML,Nasdaq
+0001526520,"TripAdvisor, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",TRIP,Nasdaq
+0001000177,NORDIC AMERICAN TANKERS Ltd,4400.0,Water Transportation,NAT,NYSE
+0001286139,"LEGALZOOM.COM, INC.",7374.0,Services-Computer Processing & Data Preparation,LZ,Nasdaq
+0001828318,Enovix Corp,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",ENVX,Nasdaq
+0001481582,Ryerson Holding Corp,5051.0,Wholesale-Metals Service Centers & of fices,RYZ,NYSE
+0001828016,Playtika Holding Corp.,7374.0,Services-Computer Processing & Data Preparation,PLTK,Nasdaq
+0000821002,G III APPAREL GROUP LTD /DE/,2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,GIII,Nasdaq
+0001804176,"Butterfly Network, Inc.",3844.0,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,BFLY,NYSE
+0001077183,NEOGENOMICS INC,8734.0,Services-Testing Laboratories,NEO,Nasdaq
+0000046129,ALLIENT INC,3825.0,Instruments For Meas & Testing of  Electricity & Elec Signals,ALNT,Nasdaq
+0000851310,HARMONIC INC.,3663.0,Radio & Tv Broadcasting & Communications Equipment,HLIT,Nasdaq
+0001820721,"Array Technologies, Inc.",3990.0,Miscellaneous Manufacturing Industries,ARRY,Nasdaq
+0000060714,"LSB INDUSTRIES, INC.",2810.0,Industrial Inorganic Chemicals,LXU,NYSE
+0001868279,"ArriVent BioPharma, Inc.",2834.0,Pharmaceutical Preparations,AVBP,Nasdaq
+0000094049,STEPAN CO,2840.0,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",SCL,NYSE
+0001827090,"Certara, Inc.",7372.0,Services-Prepackaged Software,CERT,Nasdaq
+0002035832,"Aktis Oncology, Inc.",2834.0,Pharmaceutical Preparations,AKTS,Nasdaq
+0000933036,"UPBOUND GROUP, INC.",7359.0,"Services-Equipment Rental & Leasing, NEC",UPBD,Nasdaq
+0001875444,"Arhaus, Inc.",5712.0,Retail-Furniture Stores,ARHS,Nasdaq
+0000884219,"Pursuit Attractions & Hospitality, Inc.",7990.0,Services-Miscellaneous Amusement & Recreation,PRSU,NYSE
+0001160308,Savara Inc,2834.0,Pharmaceutical Preparations,SVRA,Nasdaq
+0001941365,"MasterBrand, Inc.",2511.0,"Wood Household Furniture, (No Upholstered)",MBC,NYSE
+0000886744,GERON CORP,2834.0,Pharmaceutical Preparations,GERN,Nasdaq
+0001767258,"XPEL, Inc.",3470.0,"Coating, Engraving & Allied Services",XPEL,Nasdaq
+0001831651,"Shoals Technologies Group, Inc.",3674.0,Semiconductors & Related Devices,SHLS,Nasdaq
+0001201792,AMERICAN PUBLIC EDUCATION INC,8200.0,Services-Educational Services,APEI,Nasdaq
+0001651562,"Coursera, Inc.",7372.0,Services-Prepackaged Software,COUR,NYSE
+0001053706,"CRA INTERNATIONAL, INC.",8111.0,Services-Legal Services,CRAI,Nasdaq
+0002048519,Aebi Schmidt Holding AG,3531.0,Construction Machinery & Equip,AEBI,Nasdaq
+0001158324,"COGENT COMMUNICATIONS HOLDINGS, INC.",4899.0,"Communications Services, NEC",CCOI,Nasdaq
+0000933974,"Azenta, Inc.",3559.0,"Special Industry Machinery, NEC",AZTA,Nasdaq
+0002007919,"Inhibrx Biosciences, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",INBX,Nasdaq
+0001967649,Vestis Corp,5190.0,Wholesale-Miscellaneous Nondurable Goods,VSTS,NYSE
+0001971213,"Sinclair, Inc.",4833.0,Television Broadcasting Stations,SBGI,Nasdaq
+0001477449,"Teladoc Health, Inc.",8011.0,Services-Offices & Clinics of  Doctors of  Medicine,TDOC,NYSE
+0000915779,DAKTRONICS INC /SD/,3990.0,Miscellaneous Manufacturing Industries,DAKT,Nasdaq
+0001600222,"Phoenix Education Partners, Inc.",8200.0,Services-Educational Services,PXED,NYSE
+0001830033,"PureCycle Technologies, Inc.",2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",PCT,Nasdaq
+0000070866,NCR Voyix Corp,3578.0,Calculating & Accounting Machines (No Electronic Computers),VYX,NYSE
+0001738021,"Compass Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",CMPX,Nasdaq
+0001867096,"Xeris Biopharma Holdings, Inc.",2834.0,Pharmaceutical Preparations,XERS,Nasdaq
+0001687187,"Ramaco Resources, Inc.",1220.0,Silver Ores,METC,Nasdaq
+0001227654,COMPASS MINERALS INTERNATIONAL INC,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),CMP,NYSE
+0000080172,NATIONAL PRESTO INDUSTRIES INC,3480.0,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",NPK,NYSE
+0000911971,TEEKAY CORP LTD,4412.0,Deep Sea Foreign Transportation of  Freight,TK,NYSE
+0001096752,EDGEWELL PERSONAL CARE Co,2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",EPC,NYSE
+0001866692,"Amplitude, Inc.",7372.0,Services-Prepackaged Software,AMPL,Nasdaq
+0001579684,"USA TODAY Co., Inc.",2711.0,Newspapers: Publishing or  Publishing & Printing,TDAY,NYSE
+0001326200,GENCO SHIPPING & TRADING LTD,4412.0,Deep Sea Foreign Transportation of  Freight,GNK,NYSE
+0000799167,MARTEN TRANSPORT LTD,4213.0,Trucking (No Local),MRTN,Nasdaq
+0001287213,"DOUGLAS DYNAMICS, INC",3531.0,Construction Machinery & Equip,PLOW,NYSE
+0001826470,"Petco Health & Wellness Company, Inc.",5990.0,"Retail-Retail Stores, NEC",WOOF,Nasdaq
+0001580670,"LGI Homes, Inc.",1531.0,Operative Builders,LGIH,Nasdaq
+0001753539,BlackSky Technology Inc.,3663.0,Radio & Tv Broadcasting & Communications Equipment,BKSY,NYSE
+0000107687,WINNEBAGO INDUSTRIES INC,3716.0,Motor Homes,WGO,NYSE
+0001396814,"Pacira BioSciences, Inc.",2834.0,Pharmaceutical Preparations,PCRX,Nasdaq
+0001789029,"Aeva Technologies, Inc.",3714.0,Motor Vehicle Parts & Accessories,AEVA,Nasdaq
+0000834365,BIOLIFE SOLUTIONS INC,3845.0,Electromedical & Electrotherapeutic Apparatus,BLFS,Nasdaq
+0001712189,Target Hospitality Corp.,7000.0,"Hotels, Rooming Houses, Camps & Other Lodging Places",TH,Nasdaq
+0001834488,"N-able, Inc.",7372.0,Services-Prepackaged Software,NABL,NYSE
+0002026478,Newsmax Inc.,4833.0,Television Broadcasting Stations,NMAX,NYSE
+0001805385,"Evolv Technologies Holdings, Inc.",3577.0,"Computer Peripheral Equipment, NEC",EVLV,Nasdaq
+0001616533,"Penguin Solutions, Inc.",3674.0,Semiconductors & Related Devices,PENG,Nasdaq
+0001698991,"Accel Entertainment, Inc.",7900.0,Services-Amusement & Recreation Services,ACEL,NYSE
+0000944809,"OPKO HEALTH, INC.",2834.0,Pharmaceutical Preparations,OPK,Nasdaq
+0001490978,"Schrodinger, Inc.",2834.0,Pharmaceutical Preparations,SDGR,Nasdaq
+0001965040,Fortrea Holdings Inc.,8071.0,Services-Medical Laboratories,FTRE,Nasdaq
+0001217234,"CareDx, Inc.",8071.0,Services-Medical Laboratories,CDNA,Nasdaq
+0001668243,UroGen Pharma Ltd.,2834.0,Pharmaceutical Preparations,URGN,Nasdaq
+0000716314,GRAHAM CORP,3560.0,General Industrial Machinery & Equipment,GHM,NYSE
+0001606163,"Limbach Holdings, Inc.",1700.0,Construction - Special Trade Contractors,LMB,Nasdaq
+0001297184,"Amphastar Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,AMPH,Nasdaq
+0001823652,"Eve Holding, Inc.",3721.0,Aircraft,EVEX,NYSE
+0000074046,Oil-Dri Corp of America,3990.0,Miscellaneous Manufacturing Industries,ODC,NYSE
+0001579214,"Emerald Holding, Inc.",7389.0,"Services-Business Services, NEC",EEX,NYSE
+0000880117,SANFILIPPO JOHN B & SON INC,2060.0,Sugar & Confectionery Products,JBSS,Nasdaq
+0001000753,"INSPERITY, INC.",7363.0,Services-Help Supply Services,NSP,NYSE
+0001709941,"BioAge Labs, Inc.",2834.0,Pharmaceutical Preparations,BIOA,Nasdaq
+0000718937,STAAR SURGICAL CO,3851.0,Ophthalmic Goods,STAA,Nasdaq
+0001671858,"ARS Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,SPRY,Nasdaq
+0001235468,LIQUIDITY SERVICES INC,7389.0,"Services-Business Services, NEC",LQDT,Nasdaq
+0001743907,"Sun Country Airlines Holdings, Inc.",4512.0,"Air Transportation, Scheduled",SNCY,Nasdaq
+0001828962,"Cricut, Inc.",3559.0,"Special Industry Machinery, NEC",CRCT,Nasdaq
+0000926282,"ADTRAN Holdings, Inc.",3661.0,Telephone & Telegraph Apparatus,ADTN,Nasdaq
+0001637873,ACV Auctions Inc.,7389.0,"Services-Business Services, NEC",ACVA,NYSE
+0001802974,"Mission Produce, Inc.",700.0,Agricultural Services,AVO,Nasdaq
+0001611115,"Omada Health, Inc.",8000.0,Services-Health Services,OMDA,Nasdaq
+0001326732,Xencor Inc,2834.0,Pharmaceutical Preparations,XNCR,Nasdaq
+0000903129,Gentherm Inc,3714.0,Motor Vehicle Parts & Accessories,THRM,Nasdaq
+0001770121,"Sana Biotechnology, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",SANA,Nasdaq
+0001803901,"Talkspace, Inc.",8000.0,Services-Health Services,TALK,Nasdaq
+0001390478,"SELLAS Life Sciences Group, Inc.",2834.0,Pharmaceutical Preparations,SLS,Nasdaq
+0000866729,SCHOLASTIC CORP,2731.0,Books: Publishing or  Publishing & Printing,SCHL,Nasdaq
+0001783183,"Phathom Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,PHAT,Nasdaq
+0001817713,"Janux Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,JANX,Nasdaq
+0000899460,MANNKIND CORP,2834.0,Pharmaceutical Preparations,MNKD,Nasdaq
+0001447028,Arbutus Biopharma Corp,2834.0,Pharmaceutical Preparations,ABUS,Nasdaq
+0001528115,"Annexon, Inc.",2834.0,Pharmaceutical Preparations,ANNX,Nasdaq
+0001348911,"KalVista Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,KALV,Nasdaq
+0001868726,"OLAPLEX HOLDINGS, INC.",2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",OLPX,Nasdaq
+0001643615,"Montrose Environmental Group, Inc.",8742.0,Services-Management Consulting Services,MEG,NYSE
+0000354963,SHENANDOAH TELECOMMUNICATIONS CO/VA/,4813.0,Telephone Communications (No Radiotelephone),SHEN,Nasdaq
+0001423221,Quanex Building Products CORP,3350.0,Rolling Drawing & Extruding of  Nonferrous Metals,NX,NYSE
+0001770069,"MapLight Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,MPLT,Nasdaq
+0001639877,Ferroglobe PLC,1000.0,Metal Mining,GSM,Nasdaq
+0001784535,"Porch Group, Inc.",7372.0,Services-Prepackaged Software,PRCH,Nasdaq
+0001285819,OMEROS CORP,2834.0,Pharmaceutical Preparations,OMER,Nasdaq
+0001789972,"Cullinan Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",CGEM,Nasdaq
+0000069488,MYERS INDUSTRIES INC,3089.0,"Plastics Products, NEC",MYE,NYSE
+0002044725,"Evommune, Inc.",2834.0,Pharmaceutical Preparations,EVMN,NYSE
+0001597672,RAYONIER ADVANCED MATERIALS INC.,2611.0,Pulp Mills,RYAM,NYSE
+0000093389,"STANDARD MOTOR PRODUCTS, INC.",3714.0,Motor Vehicle Parts & Accessories,SMP,NYSE
+0000918965,"SCANSOURCE, INC.",5045.0,Wholesale-Computers & Peripheral Equipment & Software,SCSC,Nasdaq
+0000896429,"CANTALOUPE, INC.",3578.0,Calculating & Accounting Machines (No Electronic Computers),CTLP,Nasdaq
+0000063296,MATTHEWS INTERNATIONAL CORP,3360.0,Nonferrous Foundries (Castings),MATW,Nasdaq
+0001789940,"First Watch Restaurant Group, Inc.",5812.0,Retail-Eating  Places,FWRG,Nasdaq
+0001447362,CASTLE BIOSCIENCES INC,8071.0,Services-Medical Laboratories,CSTL,Nasdaq
+0001655759,"ARVINAS, INC.",2834.0,Pharmaceutical Preparations,ARVN,Nasdaq
+0001670076,"Frontier Group Holdings, Inc.",4512.0,"Air Transportation, Scheduled",ULCC,Nasdaq
+0000351834,SunOpta Inc.,2080.0,Beverages,STKL,Nasdaq
+0001839839,"Janus International Group, Inc.",3442.0,"Metal Doors, Sash, Frames, Moldings & Trim",JBI,NYSE
+0001422143,"Kura Oncology, Inc.",2834.0,Pharmaceutical Preparations,KURA,Nasdaq
+0001828791,Viant Technology Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",DSP,Nasdaq
+0001527753,"Personalis, Inc.",8071.0,Services-Medical Laboratories,PSNL,Nasdaq
+0001013488,BJs RESTAURANTS INC,5812.0,Retail-Eating  Places,BJRI,Nasdaq
+0001315257,Koppers Holdings Inc.,2400.0,Lumber & Wood Products (No Furniture),KOP,NYSE
+0000031235,EASTMAN KODAK CO,3861.0,Photographic Equipment & Supplies,KODK,NYSE
+0000799233,HEARTLAND EXPRESS INC,4213.0,Trucking (No Local),HTLD,Nasdaq
+0001625278,"NERDWALLET, INC.",7374.0,Services-Computer Processing & Data Preparation,NRDS,Nasdaq
+0001121484,"OIL STATES INTERNATIONAL, INC",3533.0,Oil & Gas Field Machinery & Equipment,OIS,NYSE
+0001124105,"GYRE THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,GYRE,Nasdaq
+0001861107,"Ceribell, Inc.",3845.0,Electromedical & Electrotherapeutic Apparatus,CBLL,Nasdaq
+0000902791,BARRETT BUSINESS SERVICES INC,7363.0,Services-Help Supply Services,BBSI,Nasdaq
+0001071255,"GOLDEN ENTERTAINMENT, INC.",7990.0,Services-Miscellaneous Amusement & Recreation,GDEN,Nasdaq
+0001832483,Serve Robotics Inc. /DE/,3569.0,"General Industrial Machinery & Equipment, NEC",SERV,Nasdaq
+0001830043,Bumble Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",BMBL,Nasdaq
+0001142750,AMN HEALTHCARE SERVICES INC,7363.0,Services-Help Supply Services,AMN,NYSE
+0001772177,"KURA SUSHI USA, INC.",5812.0,Retail-Eating  Places,KRUS,Nasdaq
+0000006845,"APOGEE ENTERPRISES, INC.",3231.0,"Glass Products, Made of  Purchased Glass",APOG,Nasdaq
+0001512228,NIOCORP DEVELOPMENTS LTD,1000.0,Metal Mining,NB,Nasdaq
+0000917520,INTEGRA LIFESCIENCES HOLDINGS CORP,3841.0,Surgical & Medical Instruments & Apparatus,IART,Nasdaq
+0001833197,"Latham Group, Inc.",3089.0,"Plastics Products, NEC",SWIM,Nasdaq
+0000763532,LSI INDUSTRIES INC,3640.0,Electric Lighting & Wiring Equipment,LYTS,Nasdaq
+0001304492,Anterix Inc.,4813.0,Telephone Communications (No Radiotelephone),ATEX,Nasdaq
+0001728688,"i3 Verticals, Inc.",7372.0,Services-Prepackaged Software,IIIV,Nasdaq
+0001827401,BRIGHT MINDS BIOSCIENCES INC.,2834.0,Pharmaceutical Preparations,DRUG,Nasdaq
+0001583107,"Theravance Biopharma, Inc.",2834.0,Pharmaceutical Preparations,TBPH,Nasdaq
+0001001385,"NWPX Infrastructure, Inc.",3317.0,Steel Pipe & Tubes,NWPX,Nasdaq
+0001844862,"Solid Power, Inc.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",SLDP,Nasdaq
+0001579733,"Vital Farms, Inc.",2000.0,Food and Kindred Products,VITL,Nasdaq
+0001667011,"Arteris, Inc.",3674.0,Semiconductors & Related Devices,AIP,Nasdaq
+0001852353,Dakota Gold Corp.,1000.0,Metal Mining,DC,NYSE
+0001607939,"Udemy, Inc.",8200.0,Services-Educational Services,UDMY,Nasdaq
+0001117297,"QUINSTREET, INC",7389.0,"Services-Business Services, NEC",QNST,Nasdaq
+0001803737,"Enhabit, Inc.",8082.0,Services-Home Health Care Services,EHAB,NYSE
+0001793663,VTEX,7372.0,Services-Prepackaged Software,VTEX,NYSE
+0001798749,"Jade Biosciences, Inc.",2834.0,Pharmaceutical Preparations,JBIO,Nasdaq
+0001424929,FOX FACTORY HOLDING CORP,3751.0,"Motorcycles, Bicycles & Parts",FOXF,Nasdaq
+0000783412,DAILY JOURNAL CORP,2711.0,Newspapers: Publishing or  Publishing & Printing,DJCO,Nasdaq
+0000099302,TRANSCAT INC,3825.0,Instruments For Meas & Testing of  Electricity & Elec Signals,TRNS,Nasdaq
+0001614178,"Yext, Inc.",7374.0,Services-Computer Processing & Data Preparation,YEXT,NYSE
+0001477815,"Sweetgreen, Inc.",5812.0,Retail-Eating  Places,SG,NYSE
+0001412408,"Phreesia, Inc.",7389.0,"Services-Business Services, NEC",PHR,NYSE
+0001739566,"Utz Brands, Inc.",2090.0,Miscellaneous Food Preparations & Kindred Products,UTZ,NYSE
+0001016281,CARRIAGE SERVICES INC,7200.0,Services-Personal Services,CSV,NYSE
+0001894562,"Prime Medicine, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",PRME,Nasdaq
+0001520358,"Mama's Creations, Inc.",2013.0,Sausages & Other Prepared Meat Products,MAMA,Nasdaq
+0001479681,Nutex Health Inc.,7389.0,"Services-Business Services, NEC",NUTX,Nasdaq
+0001401257,"FORUM ENERGY TECHNOLOGIES, INC.",3533.0,Oil & Gas Field Machinery & Equipment,FET,NYSE
+0000807863,MITEK SYSTEMS INC,3577.0,"Computer Peripheral Equipment, NEC",MITK,Nasdaq
+0001434868,"Esperion Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,ESPR,Nasdaq
+0001376339,"MIMEDX GROUP, INC.",3841.0,Surgical & Medical Instruments & Apparatus,MDXG,Nasdaq
+0001067294,"CRACKER BARREL OLD COUNTRY STORE, INC",5812.0,Retail-Eating  Places,CBRL,Nasdaq
+0001568100,"PagerDuty, Inc.",7372.0,Services-Prepackaged Software,PD,NYSE
+0000357294,HOVNANIAN ENTERPRISES INC,1531.0,Operative Builders,HOV,NYSE
+0001824403,"Reservoir Media, Inc.",7900.0,Services-Amusement & Recreation Services,RSVR,Nasdaq
+0001821159,EVgo Inc.,7500.0,"Services-Automotive Repair, Services & Parking",EVGO,Nasdaq
+0001818383,"MediaAlpha, Inc.",7389.0,"Services-Business Services, NEC",MAX,NYSE
+0001606498,"AVANOS MEDICAL, INC.",3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",AVNS,NYSE
+0001387467,ALPHA & OMEGA SEMICONDUCTOR Ltd,3674.0,Semiconductors & Related Devices,AOSL,Nasdaq
+0001257640,KRONOS WORLDWIDE INC,2810.0,Industrial Inorganic Chemicals,KRO,NYSE
+0000928658,"COVENANT LOGISTICS GROUP, INC.",4213.0,Trucking (No Local),CVLG,NYSE
+0001807120,"Design Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,DSGN,Nasdaq
+0001538379,"Ibotta, Inc.",7310.0,Services-Advertising,IBTA,NYSE
+0001092796,"SMITH & WESSON BRANDS, INC.",3480.0,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",SWBI,Nasdaq
+0001747079,Bally's Corp,7011.0,Hotels & Motels,BALY,NYSE
+0000915840,BEAZER HOMES USA INC,1531.0,Operative Builders,BZH,NYSE
+0001597033,Sabre Corp,7370.0,"Services-Computer Programming, Data Processing, Etc.",SABR,Nasdaq
+0000764401,INSTEEL INDUSTRIES INC,3310.0,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",IIIN,NYSE
+0001921865,ASP Isotopes Inc.,2890.0,Miscellaneous Chemical Products,ASPI,Nasdaq
+0001434754,"SAFE BULKERS, INC.",4412.0,Deep Sea Foreign Transportation of  Freight,SB,NYSE
+0000103595,VILLAGE SUPER MARKET INC,5411.0,Retail-Grocery Stores,VLGEA,Nasdaq
+0001095565,HEALTHSTREAM INC,7370.0,"Services-Computer Programming, Data Processing, Etc.",HSTM,Nasdaq
+0000095029,STURM RUGER & CO INC,3480.0,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",RGR,NYSE
+0001691082,LB PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,LBRX,Nasdaq
+0001857154,"Krispy Kreme, Inc.",5400.0,Retail-Food Stores,DNUT,Nasdaq
+0001735438,MeiraGTx Holdings plc,2836.0,"Biological Products, (No Diagnostic Substances)",MGTX,Nasdaq
+0001122904,"NETGEAR, INC.",3661.0,Telephone & Telegraph Apparatus,NTGR,Nasdaq
+0001598428,Metallus Inc.,3312.0,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",MTUS,NYSE
+0001027838,TACTILE SYSTEMS TECHNOLOGY INC,3841.0,Surgical & Medical Instruments & Apparatus,TCMD,Nasdaq
+0001899883,FTAI Infrastructure Inc.,4011.0,"Railroads, Line-Haul Operating",FIP,Nasdaq
+0001665988,Bioventus Inc.,3841.0,Surgical & Medical Instruments & Apparatus,BVS,Nasdaq
+0001632127,"Cable One, Inc.",4841.0,Cable & Other Pay Television Services,CABO,NYSE
+0001707502,Solid Biosciences Inc.,2836.0,"Biological Products, (No Diagnostic Substances)",SLDB,Nasdaq
+0001959455,Himalaya Shipping Ltd.,4412.0,Deep Sea Foreign Transportation of  Freight,HSHP,NYSE
+0001704720,"Cannae Holdings, Inc.",5810.0,Retail-Eating & Drinking Places,CNNE,NYSE
+0001549346,"Shutterstock, Inc.",7374.0,Services-Computer Processing & Data Preparation,SSTK,NYSE
+0000708821,PAR TECHNOLOGY CORP,3578.0,Calculating & Accounting Machines (No Electronic Computers),PAR,NYSE
+0001846069,"Nextdoor Holdings, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",NXDR,NYSE
+0001547459,"Natural Grocers by Vitamin Cottage, Inc.",5411.0,Retail-Grocery Stores,NGVC,NYSE
+0001681087,"Tectonic Therapeutic, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",TECX,Nasdaq
+0001537054,Gogo Inc.,4899.0,"Communications Services, NEC",GOGO,Nasdaq
+0000794619,AMERICAN WOODMARK CORP,2430.0,"Millwood, Veneer, Plywood, & Structural Wood Members",AMWD,Nasdaq
+0002011514,Anteris Technologies Global Corp.,3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",AVR,Nasdaq
+0000708781,CASS INFORMATION SYSTEMS INC,7389.0,"Services-Business Services, NEC",CASS,Nasdaq
+0001737953,"Replimune Group, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",REPL,Nasdaq
+0001411579,"AMC ENTERTAINMENT HOLDINGS, INC.",7830.0,Services-Motion Picture Theaters,AMC,NYSE
+0001577437,Ardmore Shipping Corp,4412.0,Deep Sea Foreign Transportation of  Freight,ASC,NYSE
+0001743759,"Corsair Gaming, Inc.",3577.0,"Computer Peripheral Equipment, NEC",CRSR,Nasdaq
+0001057060,MARINEMAX INC,5531.0,Retail-Auto & Home Supply Stores,HZO,NYSE
+0001771515,Grocery Outlet Holding Corp.,5411.0,Retail-Grocery Stores,GO,Nasdaq
+0001640428,"EverQuote, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",EVER,Nasdaq
+0001392380,"Gevo, Inc.",2860.0,Industrial Organic Chemicals,GEVO,Nasdaq
+0000896156,ETHAN ALLEN INTERIORS INC,2511.0,"Wood Household Furniture, (No Upholstered)",ETD,NYSE
+0001606757,"Kimball Electronics, Inc.",3672.0,Printed Circuit Boards,KE,Nasdaq
+0001459839,"SI-BONE, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,SIBN,Nasdaq
+0001866633,"Consensus Cloud Solutions, Inc.",7372.0,Services-Prepackaged Software,CCSI,Nasdaq
+0000728387,"Perspective Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,CATX,NYSE
+0001823794,ARKO Corp.,5412.0,Retail-Convenience Stores,ARKO,Nasdaq
+0001421461,"Intrepid Potash, Inc.",1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),IPI,NYSE
+0001758021,Karat Packaging Inc.,3089.0,"Plastics Products, NEC",KRT,Nasdaq
+0001720116,"Red Violet, Inc.",7372.0,Services-Prepackaged Software,RDVT,Nasdaq
+0000076267,PARK AEROSPACE CORP,3728.0,"Aircraft Parts & Auxiliary Equipment, NEC",PKE,NYSE
+0001434647,"ZEVRA THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,ZVRA,Nasdaq
+0001673985,AdvanSix Inc.,2821.0,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",ASIX,NYSE
+0001173514,"HYSTER-YALE, INC.",3537.0,"Industrial Trucks, Tractors, Trailors & Stackers",HY,NYSE
+0001831915,"Cytek Biosciences, Inc.",3826.0,Laboratory Analytical Instruments,CTKB,Nasdaq
+0001500412,"Ambiq Micro, Inc.",3674.0,Semiconductors & Related Devices,AMBQ,NYSE
+0000043196,"GRAY MEDIA, INC",4833.0,Television Broadcasting Stations,GTN,NYSE
+0001487952,"Vishay Precision Group, Inc.",3670.0,Electronic Components & Accessories,VPG,NYSE
+0001841925,"indie Semiconductor, Inc.",3674.0,Semiconductors & Related Devices,INDI,Nasdaq
+0001421517,"Energy Recovery, Inc.",3559.0,"Special Industry Machinery, NEC",ERII,Nasdaq
+0001320461,Cooper-Standard Holdings Inc.,3714.0,Motor Vehicle Parts & Accessories,CPS,NYSE
+0000033002,"ENNIS, INC.",2761.0,Manifold Business Forms,EBF,NYSE
+0000075288,OXFORD INDUSTRIES INC,2320.0,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",OXM,NYSE
+0001743725,"GRID DYNAMICS HOLDINGS, INC.",7372.0,Services-Prepackaged Software,GDYN,Nasdaq
+0001446847,IRONWOOD PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,IRWD,Nasdaq
+0001872789,Embecta Corp.,3841.0,Surgical & Medical Instruments & Apparatus,EMBC,Nasdaq
+0001963685,RICHTECH ROBOTICS INC.,3569.0,"General Industrial Machinery & Equipment, NEC",RR,Nasdaq
+0002022626,"Upstream Bio, Inc.",2834.0,Pharmaceutical Preparations,UPB,Nasdaq
+0001030192,"Idaho Strategic Resources, Inc.",1040.0,Gold and Silver Ores,IDR,NYSE
+0001113809,BUILD-A-BEAR WORKSHOP INC,5945.0,"Retail-Hobby, Toy & Game Shops",BBW,NYSE
+0000912728,FORWARD AIR CORP,4731.0,Arrangement of  Transportation of  Freight & Cargo,FWRD,Nasdaq
+0000072573,MOVADO GROUP INC,3873.0,"Watches, Clocks, Clockwork Operated Devices/Parts",MOV,NYSE
+0001173489,CEVA INC,7370.0,"Services-Computer Programming, Data Processing, Etc.",CEVA,Nasdaq
+0000928054,FLOTEK INDUSTRIES INC/CN/,2890.0,Miscellaneous Chemical Products,FTK,NYSE
+0001771910,ADC Therapeutics SA,2834.0,Pharmaceutical Preparations,ADCT,NYSE
+0001410098,CorMedix Inc.,2834.0,Pharmaceutical Preparations,CRMD,Nasdaq
+0001737287,"Allogene Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",ALLO,Nasdaq
+0001347178,Vanda Pharmaceuticals Inc.,2834.0,Pharmaceutical Preparations,VNDA,Nasdaq
+0001710340,"Eton Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,ETON,Nasdaq
+0001281895,"ROCKET PHARMACEUTICALS, INC.",2834.0,Pharmaceutical Preparations,RCKT,Nasdaq
+0001398733,"Aquestive Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,AQST,Nasdaq
+0001590976,"MALIBU BOATS, INC.",3730.0,Ship & Boat Building & Repairing,MBUU,Nasdaq
+0000924822,MILLER INDUSTRIES INC /TN/,3713.0,Truck & Bus Bodies,MLR,NYSE
+0001760689,"Microvast Holdings, Inc.",3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",MVST,Nasdaq
+0001514705,"SunCoke Energy, Inc.",3312.0,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",SXC,NYSE
+0001680581,"Fulcrum Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,FULC,Nasdaq
+0001650648,"4D Molecular Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",FDMT,Nasdaq
+0001593899,"Atea Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,AVIR,Nasdaq
+0001034842,RIGEL PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,RIGL,Nasdaq
+0000062234,MARCUS CORP,7830.0,Services-Motion Picture Theaters,MCS,NYSE
+0001546417,"Bloomin' Brands, Inc.",5812.0,Retail-Eating  Places,BLMN,Nasdaq
+0001559053,PROTHENA CORP PUBLIC LTD CO,2834.0,Pharmaceutical Preparations,PRTA,Nasdaq
+0000884624,Orthofix Medical Inc.,3841.0,Surgical & Medical Instruments & Apparatus,OFIX,Nasdaq
+0001689375,"Entrada Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,TRDA,Nasdaq
+0001674930,"Fulgent Genetics, Inc.",8071.0,Services-Medical Laboratories,FLGT,Nasdaq
+0000766011,Caledonia Mining Corp Plc,1040.0,Gold and Silver Ores,CMCL,NYSE
+0001683606,Cars.com Inc.,7374.0,Services-Computer Processing & Data Preparation,CARS,NYSE
+0000930420,KFORCE INC,7363.0,Services-Help Supply Services,KFRC,NYSE
+0001681622,Varex Imaging Corp,3679.0,"Electronic Components, NEC",VREX,Nasdaq
+0001000623,"Mativ Holdings, Inc.",2621.0,Paper Mills,MATV,NYSE
+0000895447,SHOE CARNIVAL INC,5661.0,Retail-Shoe Stores,SCVL,Nasdaq
+0001674632,"Beta Bionics, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,BBNX,Nasdaq
+0001514416,Bandwidth Inc.,7372.0,Services-Prepackaged Software,BAND,Nasdaq
+0001847590,Bowman Consulting Group Ltd.,8742.0,Services-Management Consulting Services,BWMN,Nasdaq
+0001436208,Legacy Housing Corp,2451.0,Mobile Homes,LEGH,Nasdaq
+0001557746,"Aclaris Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,ACRS,Nasdaq
+0000876427,"MONRO, INC.",7500.0,"Services-Automotive Repair, Services & Parking",MNRO,Nasdaq
+0001683695,"International Money Express, Inc.",7389.0,"Services-Business Services, NEC",IMXI,Nasdaq
+0001525769,"Dave & Buster's Entertainment, Inc.",5812.0,Retail-Eating  Places,PLAY,Nasdaq
+0001907108,"Lexeo Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",LXEO,Nasdaq
+0001528287,NeuroPace Inc,3841.0,Surgical & Medical Instruments & Apparatus,NPCE,Nasdaq
+0000788329,JOHNSON OUTDOORS INC,3949.0,"Sporting & Athletic Goods, NEC",JOUT,Nasdaq
+0001436126,"Mistras Group, Inc.",8711.0,Services-Engineering Services,MG,NYSE
+0000899751,TITAN INTERNATIONAL INC,3312.0,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",TWI,NYSE
+0001374690,"Larimar Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,LRMR,Nasdaq
+0001606909,Pangaea Logistics Solutions Ltd.,4412.0,Deep Sea Foreign Transportation of  Freight,PANL,Nasdaq
+0000039020,FREQUENCY ELECTRONICS INC,3825.0,Instruments For Meas & Testing of  Electricity & Elec Signals,FEIM,Nasdaq
+0000724004,MESA LABORATORIES INC /CO/,3823.0,"Industrial Instruments For Measurement, Display, and Control",MLAB,Nasdaq
+0001345126,Compass Diversified Holdings,2510.0,Household Furniture,CODI,NYSE
+0001672688,Absci Corp,8731.0,Services-Commercial Physical & Biological Research,ABSI,Nasdaq
+0001484778,ThredUp Inc.,5961.0,Retail-Catalog & Mail-Order Houses,TDUP,Nasdaq
+0000899923,MYRIAD GENETICS INC,2835.0,In Vitro & In Vivo Diagnostic Substances,MYGN,Nasdaq
+0001590877,REGENXBIO Inc.,2836.0,"Biological Products, (No Diagnostic Substances)",RGNX,Nasdaq
+0001308208,"UNIVERSAL LOGISTICS HOLDINGS, INC.",4213.0,Trucking (No Local),ULH,Nasdaq
+0001326190,"Altimmune, Inc.",2834.0,Pharmaceutical Preparations,ALT,Nasdaq
+0001490281,"Groupon, Inc.",7311.0,Services-Advertising Agencies,GRPN,Nasdaq
+0001275187,ANGIODYNAMICS INC,3841.0,Surgical & Medical Instruments & Apparatus,ANGO,Nasdaq
+0001806347,Westrock Coffee Co,2080.0,Beverages,WEST,Nasdaq
+0001400891,"iHeartMedia, Inc.",4832.0,Radio Broadcasting Stations,IHRT,Nasdaq
+0001810019,"Rackspace Technology, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",RXT,Nasdaq
+0001133470,CALAVO GROWERS INC,700.0,Agricultural Services,CVGW,Nasdaq
+0001425450,ORTHOPEDIATRICS CORP,3841.0,Surgical & Medical Instruments & Apparatus,KIDS,Nasdaq
+0000061986,MANITOWOC CO INC,3531.0,Construction Machinery & Equip,MTW,NYSE
+0001874315,Satellogic Inc.,3663.0,Radio & Tv Broadcasting & Communications Equipment,SATL,Nasdaq
+0001501796,"Aura Biosciences, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",AURA,Nasdaq
+0001108109,COMMUNITY HEALTH SYSTEMS INC,8062.0,"Services-General Medical & Surgical Hospitals, NEC",CYH,NYSE
+0001318484,Citi Trends Inc,5600.0,Retail-Apparel & Accessory Stores,CTRN,Nasdaq
+0001576942,"Stitch Fix, Inc.",5961.0,Retail-Catalog & Mail-Order Houses,SFIX,Nasdaq
+0001576873,AMERICAN BATTERY TECHNOLOGY Co,1400.0,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),ABAT,Nasdaq
+0001526119,"Verastem, Inc.",2834.0,Pharmaceutical Preparations,VSTM,Nasdaq
+0001367644,Emergent BioSolutions Inc.,2834.0,Pharmaceutical Preparations,EBS,NYSE
+0000275053,NATURES SUNSHINE PRODUCTS INC,2834.0,Pharmaceutical Preparations,NATR,Nasdaq
+0001830214,"Ginkgo Bioworks Holdings, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",DNA,NYSE
+0001314052,ANAVEX LIFE SCIENCES CORP.,2836.0,"Biological Products, (No Diagnostic Substances)",AVXL,Nasdaq
+0001653558,"Priority Technology Holdings, Inc.",7389.0,"Services-Business Services, NEC",PRTH,Nasdaq
+0001871509,Portillo's Inc.,5812.0,Retail-Eating  Places,PTLO,Nasdaq
+0001124524,"Cryoport, Inc.",2834.0,Pharmaceutical Preparations,CYRX,Nasdaq
+0001299130,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",3826.0,Laboratory Analytical Instruments,PACB,Nasdaq
+0001799788,"Greenwich LifeSciences, Inc.",2834.0,Pharmaceutical Preparations,GLSI,Nasdaq
+0001833835,Paysafe Ltd,7389.0,"Services-Business Services, NEC",PSFE,NYSE
+0001606366,"El Pollo Loco Holdings, Inc.",5812.0,Retail-Eating  Places,LOCO,Nasdaq
+0001484769,FuboTV Inc.,7812.0,Services-Motion Picture & Video Tape Production,FUBO,NYSE
+0001005229,COLUMBUS MCKINNON CORP,3531.0,Construction Machinery & Equip,CMCO,Nasdaq
+0000049754,"Dine Brands Global, Inc.",5812.0,Retail-Eating  Places,DIN,NYSE
+0000799288,"LANDS' END, INC.",5651.0,Retail-Family Clothing Stores,LE,Nasdaq
+0000069733,"NATHANS FAMOUS, INC.",5812.0,Retail-Eating  Places,NATH,Nasdaq
+0001402829,Orion Group Holdings Inc,1600.0,Heavy Construction Other Than Bldg Const - Contractors,ORN,NYSE
+0001774170,"Powerfleet, Inc.",3669.0,"Communications Equipment, NEC",AIOT,Nasdaq
+0001907909,VOX ROYALTY CORP.,1040.0,Gold and Silver Ores,VOXR,Nasdaq
+0000879585,"ATN International, Inc.",4813.0,Telephone Communications (No Radiotelephone),ATNI,Nasdaq
+0001560327,"Rapid7, Inc.",7372.0,Services-Prepackaged Software,RPD,Nasdaq
+0001809104,"Alight, Inc. / Delaware",7389.0,"Services-Business Services, NEC",ALIT,NYSE
+0001278027,"B&G Foods, Inc.",2000.0,Food and Kindred Products,BGS,NYSE
+0000070487,NATIONAL RESEARCH CORP,8731.0,Services-Commercial Physical & Biological Research,NRC,Nasdaq
+0000796505,"Clearfield, Inc.",3661.0,Telephone & Telegraph Apparatus,CLFD,Nasdaq
+0001645469,Monopar Therapeutics,2834.0,Pharmaceutical Preparations,MNPR,Nasdaq
+0001808898,Benitec Biopharma Inc.,2834.0,Pharmaceutical Preparations,BNTC,Nasdaq
+0001779128,"Strata Critical Medical, Inc.",8000.0,Services-Health Services,SRTA,Nasdaq
+0001517022,"Akebia Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,AKBA,Nasdaq
+0001044777,OneSpan Inc.,7373.0,Services-Computer Integrated Systems Design,OSPN,Nasdaq
+0001669779,"Camping World Holdings, Inc.",5500.0,Retail-Auto Dealers & Gasoline Stations,CWH,NYSE
+0001301787,BlueLinx Holdings Inc.,5031.0,"Wholesale-Lumber, Plywood, Millwork & Wood Panels",BXC,NYSE
+0001815776,"LENZ Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",LENZ,Nasdaq
+0001327688,OOMA INC,7374.0,Services-Computer Processing & Data Preparation,OOMA,NYSE
+0001720420,IBEX Ltd,7374.0,Services-Computer Processing & Data Preparation,IBEX,Nasdaq
+0001708055,Ribbon Communications Inc.,7373.0,Services-Computer Integrated Systems Design,RBBN,Nasdaq
+0001422930,"PubMatic, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",PUBM,Nasdaq
+0000059255,VALHI INC /DE/,2810.0,Industrial Inorganic Chemicals,VHI,NYSE
+0000041719,Magnera Corp,2621.0,Paper Mills,MAGN,NYSE
+0000789933,NACCO INDUSTRIES INC,1221.0,Bituminous Coal & Lignite Surface Mining,NC,NYSE
+0001177648,ENANTA PHARMACEUTICALS INC,2834.0,Pharmaceutical Preparations,ENTA,Nasdaq
+0001849396,Nexxen International Ltd.,7370.0,"Services-Computer Programming, Data Processing, Etc.",NEXN,Nasdaq
+0001855747,"Blend Labs, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",BLND,NYSE
+0001903508,"Public Policy Holding Company, Inc.",8742.0,Services-Management Consulting Services,PPHC,Nasdaq
+0002033535,Costamare Bulkers Holdings Ltd,4400.0,Water Transportation,CMDB,NYSE
+0001386570,"Niagen Bioscience, Inc.",2833.0,Medicinal Chemicals & Botanical Products,NAGE,Nasdaq
+0001409171,Titan Machinery Inc.,5990.0,"Retail-Retail Stores, NEC",TITN,Nasdaq
+0001937987,"Falcon's Beyond Global, Inc.",7990.0,Services-Miscellaneous Amusement & Recreation,FBYD,Nasdaq
+0000771266,KOPIN CORP,3674.0,Semiconductors & Related Devices,KOPN,Nasdaq
+0001609151,"Weave Communications, Inc.",7372.0,Services-Prepackaged Software,WEAV,NYSE
+0001822928,Holley Inc.,3714.0,Motor Vehicle Parts & Accessories,HLLY,NYSE
+0001841387,"Candel Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",CADL,Nasdaq
+0001162194,STANDARD BIOTOOLS INC.,3826.0,Laboratory Analytical Instruments,LAB,Nasdaq
+0001729149,"VIEMED HEALTHCARE, INC.",8090.0,"Services-Misc Health & Allied Services, NEC",VMD,Nasdaq
+0001084554,LIGHTBRIDGE Corp,2810.0,Industrial Inorganic Chemicals,LTBR,Nasdaq
+0001930313,SBC Medical Group Holdings Inc,8011.0,Services-Offices & Clinics of  Doctors of  Medicine,SBC,Nasdaq
+0001401040,DiaMedica Therapeutics Inc.,2834.0,Pharmaceutical Preparations,DMAC,Nasdaq
+0001500881,enCore Energy Corp.,1090.0,Miscellaneous Metal Ores,EU,Nasdaq
+0000916789,HELEN OF TROY LTD,3634.0,Electric Housewares & Fans,HELE,Nasdaq
+0000835011,MGP INGREDIENTS INC,5180.0,"Wholesale-Beer, Wine & Distilled Alcoholic Beverages",MGPI,Nasdaq
+0000945983,"Climb Global Solutions, Inc.",5045.0,Wholesale-Computers & Peripheral Equipment & Software,CLMB,Nasdaq
+0001318008,Zumiez Inc,5600.0,Retail-Apparel & Accessory Stores,ZUMZ,Nasdaq
+0000216085,HAVERTY FURNITURE COMPANIES INC,5712.0,Retail-Furniture Stores,HVT,NYSE
+0001010086,SIGA TECHNOLOGIES INC,2834.0,Pharmaceutical Preparations,SIGA,Nasdaq
+0001816017,"Spire Global, Inc.",4899.0,"Communications Services, NEC",SPIR,NYSE
+0001502377,"Contango ORE, Inc.",1040.0,Gold and Silver Ores,CTGO,NYSE
+0000076282,PARK OHIO HOLDINGS CORP,3460.0,Metal Forgings & Stampings,PKOH,Nasdaq
+0001799191,"Oncology Institute, Inc.",8011.0,Services-Offices & Clinics of  Doctors of  Medicine,TOI,Nasdaq
+0001898496,"Getty Images Holdings, Inc.",7389.0,"Services-Business Services, NEC",GETY,NYSE
+0001703956,"Concrete Pumping Holdings, Inc.",1700.0,Construction - Special Trade Contractors,BBCP,Nasdaq
+0001021561,"NU SKIN ENTERPRISES, INC.",5122.0,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",NUS,NYSE
+0001766368,"Mayville Engineering Company, Inc.",3460.0,Metal Forgings & Stampings,MEC,NYSE
+0001020214,CERUS CORP,3841.0,Surgical & Medical Instruments & Apparatus,CERS,Nasdaq
+0001664710,"Keros Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,KROS,Nasdaq
+0001057379,"HACKETT GROUP, INC.",8742.0,Services-Management Consulting Services,HCKT,Nasdaq
+0000872912,"DELCATH SYSTEMS, INC.",3841.0,Surgical & Medical Instruments & Apparatus,DCTH,Nasdaq
+0001110611,ON24 INC.,7372.0,Services-Prepackaged Software,ONTF,NYSE
+0001759631,Hyliion Holdings Corp.,3713.0,Truck & Bus Bodies,HYLN,NYSE
+0001130713,"BED BATH & BEYOND, INC.",5961.0,Retail-Catalog & Mail-Order Houses,BBBY,NYSE
+0001958217,Lifezone Metals Ltd,1000.0,Metal Mining,LZM,NYSE
+0001481792,"Quad/Graphics, Inc.",2750.0,Commercial Printing,QUAD,NYSE
+0001655210,"BEYOND MEAT, INC.",2000.0,Food and Kindred Products,BYND,Nasdaq
+0001320760,"TSS, Inc.",8742.0,Services-Management Consulting Services,TSSI,Nasdaq
+0001517375,"Sprout Social, Inc.",7372.0,Services-Prepackaged Software,SPT,Nasdaq
+0000910638,3D SYSTEMS CORP,7372.0,Services-Prepackaged Software,DDD,NYSE
+0000791908,XOMA Royalty Corp,2834.0,Pharmaceutical Preparations,XOMA,Nasdaq
+0000724910,NVE CORP /NEW/,3674.0,Semiconductors & Related Devices,NVEC,Nasdaq
+0001927958,"AIRO Group Holdings, Inc.",3721.0,Aircraft,AIRO,Nasdaq
+0001285550,"ClearPoint Neuro, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,CLPT,Nasdaq
+0001377789,"AVIAT NETWORKS, INC.",3663.0,Radio & Tv Broadcasting & Communications Equipment,AVNW,Nasdaq
+0001705110,Angi Inc.,7310.0,Services-Advertising,ANGI,Nasdaq
+0001404644,Neurogene Inc.,2834.0,Pharmaceutical Preparations,NGNE,Nasdaq
+0001768267,Cerence Inc.,7372.0,Services-Prepackaged Software,CRNC,Nasdaq
+0001638290,"MasterCraft Boat Holdings, Inc.",3730.0,Ship & Boat Building & Repairing,MCFT,Nasdaq
+0001661181,Organogenesis Holdings Inc.,2834.0,Pharmaceutical Preparations,ORGO,Nasdaq
+0001171155,"RADIANT LOGISTICS, INC",4731.0,Arrangement of  Transportation of  Freight & Cargo,RLGT,NYSE
+0000879526,WABASH NATIONAL Corp,3715.0,Truck Trailers,WNC,NYSE
+0000933034,STRATTEC SECURITY CORP,3714.0,Motor Vehicle Parts & Accessories,STRT,Nasdaq
+0000896264,USANA HEALTH SCIENCES INC,2833.0,Medicinal Chemicals & Botanical Products,USNA,NYSE
+0001377630,"National CineMedia, Inc.",7310.0,Services-Advertising,NCMI,Nasdaq
+0000832428,E.W. SCRIPPS Co,4833.0,Television Broadcasting Stations,SSP,Nasdaq
+0001898795,"LiveWire Group, Inc.",3751.0,"Motorcycles, Bicycles & Parts",LVWR,NYSE
+0001570562,"Evolus, Inc.",2834.0,Pharmaceutical Preparations,EOLS,Nasdaq
+0000106532,WEYCO GROUP INC,5130.0,"Wholesale-Apparel, Piece Goods & Notions",WEYS,Nasdaq
+0000895456,"ROCKY BRANDS, INC.",3140.0,"Footwear, (No Rubber)",RCKY,Nasdaq
+0001628908,"Evolent Health, Inc.",8741.0,Services-Management Services,EVH,NYSE
+0001096056,LUXFER HOLDINGS PLC,2810.0,Industrial Inorganic Chemicals,LXFR,NYSE
+0001826681,Palladyne AI Corp.,7372.0,Services-Prepackaged Software,PDYN,Nasdaq
+0000701719,Envela Corp,5944.0,Retail-Jewelry Stores,ELA,NYSE
+0001856236,"European Wax Center, Inc.",7200.0,Services-Personal Services,EWCZ,Nasdaq
+0001634117,"Barnes & Noble Education, Inc.",5940.0,Retail-Miscellaneous Shopping Goods Stores,BNED,NYSE
+0001794546,"CARLSMED, INC.",3841.0,Surgical & Medical Instruments & Apparatus,CARL,Nasdaq
+0000014707,CALERES INC,3140.0,"Footwear, (No Rubber)",CAL,NYSE
+0001401667,"PUMA BIOTECHNOLOGY, INC.",2834.0,Pharmaceutical Preparations,PBYI,Nasdaq
+0001699350,"SHOULDER INNOVATIONS, INC.",3841.0,Surgical & Medical Instruments & Apparatus,SI,NYSE
+0001111485,"RxSight, Inc.",3851.0,Ophthalmic Goods,RXST,Nasdaq
+0001530979,"Honest Company, Inc.",5961.0,Retail-Catalog & Mail-Order Houses,HNST,Nasdaq
+0001605888,ATLANTIC INTERNATIONAL CORP.,7363.0,Services-Help Supply Services,ATLN,Nasdaq
+0001514991,AMC Networks Inc.,4841.0,Cable & Other Pay Television Services,AMCX,Nasdaq
+0001635282,"Rimini Street, Inc.",7389.0,"Services-Business Services, NEC",RMNI,Nasdaq
+0000003545,"ALICO, INC.",100.0,Agricultural Production-Crops,ALCO,Nasdaq
+0002068577,"Black Rock Coffee Bar, Inc.",5810.0,Retail-Eating & Drinking Places,BRCB,Nasdaq
+0001754170,AerSale Corp,5080.0,"Wholesale-Machinery, Equipment & Supplies",ASLE,Nasdaq
+0001822462,Foghorn Therapeutics Inc.,2834.0,Pharmaceutical Preparations,FHTX,Nasdaq
+0001141103,CROSS COUNTRY HEALTHCARE INC,7363.0,Services-Help Supply Services,CCRN,Nasdaq
+0000065312,"EVI INDUSTRIES, INC.",7200.0,Services-Personal Services,EVI,NYSE
+0000002186,BK Technologies Corp,3663.0,Radio & Tv Broadcasting & Communications Equipment,BKTI,NYSE
+0001712463,Ranpak Holdings Corp.,2670.0,Converted Paper & Paperboard Prods (No Contaners/Boxes),PACK,NYSE
+0001359931,"Protara Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",TARA,Nasdaq
+0000352825,FOSTER L B CO,5051.0,Wholesale-Metals Service Centers & of fices,FSTR,Nasdaq
+0000866273,MATRIX SERVICE CO,1700.0,Construction - Special Trade Contractors,MTRX,Nasdaq
+0001109116,ENTRAVISION COMMUNICATIONS CORP,4833.0,Television Broadcasting Stations,EVC,NYSE
+0000814586,"Lifeway Foods, Inc.",2020.0,Dairy Products,LWAY,Nasdaq
+0000055135,KELLY SERVICES INC,7363.0,Services-Help Supply Services,KELYA,Nasdaq
+0001802156,"Xponential Fitness, Inc.",7990.0,Services-Miscellaneous Amusement & Recreation,XPOF,NYSE
+0001317945,"Omega Flex, Inc.",3430.0,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",OFLX,Nasdaq
+0000712034,ACCO BRANDS Corp,2780.0,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",ACCO,NYSE
+0000320121,TELOS CORP,7373.0,Services-Computer Integrated Systems Design,TLS,Nasdaq
+0001049606,COMPX INTERNATIONAL INC,3420.0,"Cutlery, Handtools & General Hardware",CIX,NYSE
+0001023731,8X8 INC /DE/,7374.0,Services-Computer Processing & Data Preparation,EGHT,Nasdaq
+0000018498,GENESCO INC,5661.0,Retail-Shoe Stores,GCO,NYSE
+0002009684,Seaport Entertainment Group Inc.,7990.0,Services-Miscellaneous Amusement & Recreation,SEG,NYSE
+0000850429,TREDEGAR CORP,3350.0,Rolling Drawing & Extruding of  Nonferrous Metals,TG,NYSE
+0001793229,Claritev Corp,7389.0,"Services-Business Services, NEC",CTEV,NYSE
+0001625641,"CS Disco, Inc.",7372.0,Services-Prepackaged Software,LAW,NYSE
+0000072162,NL INDUSTRIES INC,2810.0,Industrial Inorganic Chemicals,NL,NYSE
+0001788999,Xperi Inc.,7372.0,Services-Prepackaged Software,XPER,NYSE
+0001644378,RMR GROUP INC.,8742.0,Services-Management Consulting Services,RMR,Nasdaq
+0002018064,"TechTarget, Inc.",4822.0,Telegraph & Other Message Communications,TTGT,Nasdaq
+0000027093,U.S. GOLD CORP.,1000.0,Metal Mining,USAU,Nasdaq
+0001319947,Designer Brands Inc.,5661.0,Retail-Shoe Stores,DBI,NYSE
+0001145986,ASPEN AEROGELS INC,5030.0,Wholesale-Lumber & Other Construction Materials,ASPN,NYSE
+0001609804,Orion S.A.,2890.0,Miscellaneous Chemical Products,OEC,NYSE
+0001211583,FENNEC PHARMACEUTICALS INC.,2836.0,"Biological Products, (No Diagnostic Substances)",FENC,Nasdaq
+0001846253,"OmniAb, Inc.",8731.0,Services-Commercial Physical & Biological Research,OABI,Nasdaq
+0001720592,Repay Holdings Corp,7389.0,"Services-Business Services, NEC",RPAY,Nasdaq
+0000925528,HUDSON TECHNOLOGIES INC /NY,5080.0,"Wholesale-Machinery, Equipment & Supplies",HDSN,Nasdaq
+0001828805,"Aeluma, Inc.",3674.0,Semiconductors & Related Devices,ALMU,Nasdaq
+0001378325,"CapsoVision, Inc",3845.0,Electromedical & Electrotherapeutic Apparatus,CV,Nasdaq
+0001903870,Forafric Global PLC,2040.0,Grain Mill Products,AFRI,Nasdaq
+0000318306,ABEONA THERAPEUTICS INC.,2834.0,Pharmaceutical Preparations,ABEO,Nasdaq
+0001831097,"agilon health, inc.",8090.0,"Services-Misc Health & Allied Services, NEC",AGL,NYSE
+0001776661,Advantage Solutions Inc.,7389.0,"Services-Business Services, NEC",ADV,Nasdaq
+0001512762,"Coherus Oncology, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",CHRS,Nasdaq
+0001129155,MARINE PRODUCTS CORP,3730.0,Ship & Boat Building & Repairing,MPX,NYSE
+0000033488,ESCALADE INC,3949.0,"Sporting & Athletic Goods, NEC",ESCA,Nasdaq
+0001867066,Journey Medical Corp,2834.0,Pharmaceutical Preparations,DERM,Nasdaq
+0000884144,ASURE SOFTWARE INC,7373.0,Services-Computer Integrated Systems Design,ASUR,Nasdaq
+0001357971,Energy Services of America CORP,1623.0,"Water, Sewer, Pipeline, Comm & Power Line Construction",ESOA,Nasdaq
+0001653087,"Alector, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",ALEC,Nasdaq
+0001509261,"Rezolute, Inc.",2834.0,Pharmaceutical Preparations,RZLT,Nasdaq
+0000037472,FLEXSTEEL INDUSTRIES INC,2510.0,Household Furniture,FLXS,Nasdaq
+0001015383,Outdoor Holding Co,3480.0,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",POWW,Nasdaq
+0001687932,"J.Jill, Inc.",2330.0,"Women's, Misses':  and Juniors Outerwear",JILL,NYSE
+0001342423,Limoneira CO,100.0,Agricultural Production-Crops,LMNR,Nasdaq
+0001066194,EGAIN Corp,7372.0,Services-Prepackaged Software,EGAN,Nasdaq
+0001650664,"Editas Medicine, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",EDIT,Nasdaq
+0001826667,"TriSalus Life Sciences, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,TLSI,Nasdaq
+0001023459,"Simulations Plus, Inc.",7373.0,Services-Computer Integrated Systems Design,SLP,Nasdaq
+0000807882,JACK IN THE BOX INC,5812.0,Retail-Eating  Places,JACK,Nasdaq
+0001289945,"Spok Holdings, Inc",4812.0,Radiotelephone Communications,SPOK,Nasdaq
+0001750149,"Inhibikase Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",IKT,Nasdaq
+0001169445,"TruBridge, Inc.",7371.0,Services-Computer Programming Services,TBRG,Nasdaq
+0001493761,Turtle Beach Corp,3669.0,"Communications Equipment, NEC",TBCH,Nasdaq
+0001598981,SKYX Platforms Corp.,3640.0,Electric Lighting & Wiring Equipment,SKYX,Nasdaq
+0001873529,"KinderCare Learning Companies, Inc.",8351.0,Services-Child Day Care Services,KLC,NYSE
+0001640266,"Voyager Therapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",VYGR,Nasdaq
+0000929351,STARZ ENTERTAINMENT CORP /CN/,7812.0,Services-Motion Picture & Video Tape Production,STRZ,Nasdaq
+0001875558,"Nuvectis Pharma, Inc.",2834.0,Pharmaceutical Preparations,NVCT,Nasdaq
+0001404281,"Eledon Pharmaceuticals, Inc.",2834.0,Pharmaceutical Preparations,ELDN,Nasdaq
+0001855474,AirJoule Technologies Corp.,3585.0,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,AIRJ,Nasdaq
+0001009829,JAKKS PACIFIC INC,3944.0,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",JAKK,Nasdaq
+0001626450,"Commerce.com, Inc.",7372.0,Services-Prepackaged Software,CMRC,Nasdaq
+0001555279,908 Devices Inc.,3829.0,"Measuring & Controlling Devices, NEC",MASS,Nasdaq
+0001006281,"Protalix BioTherapeutics, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",PLX,NYSE
+0001818382,"Humacyte, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",HUMA,Nasdaq
+0001593984,MediWound Ltd.,2833.0,Medicinal Chemicals & Botanical Products,MDWD,Nasdaq
+0001709164,Hamilton Beach Brands Holding Co,3634.0,Electric Housewares & Fans,HBB,NYSE
+0001503274,Quanterix Corp,3826.0,Laboratory Analytical Instruments,QTRX,Nasdaq
+0001235912,"CVRx, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,CVRX,Nasdaq
+0001354866,Byrna Technologies Inc.,3690.0,"Miscellaneous Electrical Machinery, Equipment & Supplies",BYRN,Nasdaq
+0001462056,"Backblaze, Inc.",7372.0,Services-Prepackaged Software,BLZE,Nasdaq
+0001617553,"ZIPRECRUITER, INC.",7370.0,"Services-Computer Programming, Data Processing, Etc.",ZIP,NYSE
+0001084869,1 800 FLOWERS COM INC,5990.0,"Retail-Retail Stores, NEC",FLWS,Nasdaq
+0001819404,Nerdy Inc.,8200.0,Services-Educational Services,NRDY,NYSE
+0000948320,"LifeMD, Inc.",8011.0,Services-Offices & Clinics of  Doctors of  Medicine,LFMD,Nasdaq
+0002093101,"Atrium Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,RNA,Nasdaq
+0001441236,Clearwater Paper Corp,2631.0,Paperboard Mills,CLW,NYSE
+0000064472,GENCOR INDUSTRIES INC,3531.0,Construction Machinery & Equip,GENC,NYSE
+0001075736,"Crexendo, Inc.",4813.0,Telephone Communications (No Radiotelephone),CXDO,Nasdaq
+0001704711,"Funko, Inc.",3944.0,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",FNKO,Nasdaq
+0001058811,IMMERSION CORP,3577.0,"Computer Peripheral Equipment, NEC",IMMR,Nasdaq
+0001531177,"Sight Sciences, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,SGHT,Nasdaq
+0000898437,"Anika Therapeutics, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,ANIK,Nasdaq
+0001116463,ORASURE TECHNOLOGIES INC,3841.0,Surgical & Medical Instruments & Apparatus,OSUR,Nasdaq
+0000706698,UTAH MEDICAL PRODUCTS INC,3841.0,Surgical & Medical Instruments & Apparatus,UTMD,Nasdaq
+0000918251,MOTORCAR PARTS OF AMERICA INC,3714.0,Motor Vehicle Parts & Accessories,MPAA,Nasdaq
+0001776909,CuriosityStream Inc.,7812.0,Services-Motion Picture & Video Tape Production,CURI,Nasdaq
+0001816431,Quantum-Si Inc,3829.0,"Measuring & Controlling Devices, NEC",QSI,Nasdaq
+0001690334,SEACOR Marine Holdings Inc.,4412.0,Deep Sea Foreign Transportation of  Freight,SMHI,NYSE
+0001488917,"Electromed, Inc.",3845.0,Electromedical & Electrotherapeutic Apparatus,ELMD,NYSE
+0000704440,"KORU Medical Systems, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,KRMD,Nasdaq
+0001759824,ALTA EQUIPMENT GROUP INC.,5084.0,Wholesale-Industrial Machinery & Equipment,ALTG,NYSE
+0001022652,INSEEGO CORP.,3669.0,"Communications Equipment, NEC",INSG,Nasdaq
+0001432133,KALTURA INC,7372.0,Services-Prepackaged Software,KLTR,Nasdaq
+0000065770,"MICROVISION, INC.",3679.0,"Electronic Components, NEC",MVIS,Nasdaq
+0001840199,Waldencast plc,2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",WALD,Nasdaq
+0001371489,Information Services Group Inc.,8742.0,Services-Management Consulting Services,III,Nasdaq
+0001677703,CONDUENT Inc,7389.0,"Services-Business Services, NEC",CNDT,Nasdaq
+0001430306,Tonix Pharmaceuticals Holding Corp.,2834.0,Pharmaceutical Preparations,TNXP,Nasdaq
+0000935419,"RCI HOSPITALITY HOLDINGS, INC.",5812.0,Retail-Eating  Places,RICK,Nasdaq
+0001417663,"SANUWAVE Health, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,SNWV,Nasdaq
+0001902314,"M-tron Industries, Inc.",3679.0,"Electronic Components, NEC",MPTI,NYSE
+0001615063,"Inspired Entertainment, Inc.",7372.0,Services-Prepackaged Software,INSE,Nasdaq
+0001496443,"Paysign, Inc.",7389.0,"Services-Business Services, NEC",PAYS,Nasdaq
+0001453687,"Cartesian Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,RNAC,Nasdaq
+0001770450,Xerox Holdings Corp,3577.0,"Computer Peripheral Equipment, NEC",XRX,Nasdaq
+0000065270,METHODE ELECTRONICS INC,3678.0,Electronic Connectors,MEI,NYSE
+0000075252,ACCENDRA HEALTH INC/VA/,5047.0,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",ACH,NYSE
+0001420520,Atomera Inc,3674.0,Semiconductors & Related Devices,ATOM,Nasdaq
+0001768224,Arcturus Therapeutics Holdings Inc.,2834.0,Pharmaceutical Preparations,ARCT,Nasdaq
+0001799011,Lucid Diagnostics Inc.,3841.0,Surgical & Medical Instruments & Apparatus,LUCD,Nasdaq
+0001289340,"Stereotaxis, Inc.",3845.0,Electromedical & Electrotherapeutic Apparatus,STXS,NYSE
+0000909494,TUCOWS INC /PA/,7374.0,Services-Computer Processing & Data Preparation,TCX,Nasdaq
+0001337298,FutureFuel Corp.,2860.0,Industrial Organic Chemicals,FF,NYSE
+0000714256,Sanara MedTech Inc.,3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",SMTI,Nasdaq
+0001998768,"Proficient Auto Logistics, Inc",4700.0,Transportation Services,PAL,Nasdaq
+0001026655,CORE MOLDING TECHNOLOGIES INC,3089.0,"Plastics Products, NEC",CMT,NYSE
+0000002098,ACME UNITED CORP,3420.0,"Cutlery, Handtools & General Hardware",ACU,NYSE
+0001463972,Vuzix Corp,3663.0,Radio & Tv Broadcasting & Communications Equipment,VUZI,Nasdaq
+0001795251,Nano-X Imaging Ltd.,3844.0,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,NNOX,Nasdaq
+0000798287,PAMT CORP,4213.0,Trucking (No Local),PAMT,Nasdaq
+0000924719,SMITH MIDLAND CORP,3272.0,"Concrete Products, Except Block & Brick",SMID,Nasdaq
+0001294133,Inogen Inc,3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",INGN,Nasdaq
+0001870940,"Airsculpt Technologies, Inc.",8011.0,Services-Offices & Clinics of  Doctors of  Medicine,AIRS,Nasdaq
+0001641614,CPI Card Group Inc.,2750.0,Commercial Printing,PMTS,Nasdaq
+0001787400,"Nkarta, Inc.",2834.0,Pharmaceutical Preparations,NKTX,Nasdaq
+0000746838,UNISYS CORP,7373.0,Services-Computer Integrated Systems Design,UIS,NYSE
+0001505952,"DOMO, INC.",7372.0,Services-Prepackaged Software,DOMO,Nasdaq
+0001013880,"TTEC Holdings, Inc.",7363.0,Services-Help Supply Services,TTEC,Nasdaq
+0000355948,"RICHARDSON ELECTRONICS, LTD.",5065.0,"Wholesale-Electronic Parts & Equipment, NEC",RELL,Nasdaq
+0001005286,"LIFECORE BIOMEDICAL, INC. \DE\",2834.0,Pharmaceutical Preparations,LFCR,Nasdaq
+0000818033,"HERON THERAPEUTICS, INC. /DE/",2834.0,Pharmaceutical Preparations,HRTX,Nasdaq
+0000788920,PRO DEX INC,3841.0,Surgical & Medical Instruments & Apparatus,PDEX,Nasdaq
+0001701758,Lovesac Co,5712.0,Retail-Furniture Stores,LOVE,Nasdaq
+0000095574,"SUPERIOR GROUP OF COMPANIES, INC.",2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,SGC,Nasdaq
+0001947244,U.S. GoldMining Inc.,1040.0,Gold and Silver Ores,USGO,Nasdaq
+0001850902,"Alpha Teknova, Inc.",2835.0,In Vitro & In Vivo Diagnostic Substances,TKNO,Nasdaq
+0001943289,"Silvaco Group, Inc.",7372.0,Services-Prepackaged Software,SVCO,Nasdaq
+0001140102,"HireQuest, Inc.",7363.0,Services-Help Supply Services,HQI,Nasdaq
+0001818093,Beauty Health Co,3841.0,Surgical & Medical Instruments & Apparatus,SKIN,Nasdaq
+0001845437,NET Power Inc.,3620.0,Electrical Industrial Apparatus,NPWR,NYSE
+0000050471,"ReposiTrak, Inc.",7374.0,Services-Computer Processing & Data Preparation,TRAK,NYSE
+0000886206,FRANKLIN COVEY CO,8741.0,Services-Management Services,FC,NYSE
+0001838987,SunPower Inc.,1700.0,Construction - Special Trade Contractors,SPWR,Nasdaq
+0001772921,OneWater Marine Inc.,5531.0,Retail-Auto & Home Supply Stores,ONEW,Nasdaq
+0000700841,"RCM TECHNOLOGIES, INC.",7363.0,Services-Help Supply Services,RCMT,Nasdaq
+0001819574,"Bark, Inc.",5990.0,"Retail-Retail Stores, NEC",BARK,NYSE
+0001438231,Digimarc CORP,7373.0,Services-Computer Integrated Systems Design,DMRC,Nasdaq
+0001762303,"AVITA Medical, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,RCEL,Nasdaq
+0001839799,Gambling.com Group Ltd,7990.0,Services-Miscellaneous Amusement & Recreation,GAMB,Nasdaq
+0001200375,"CODEXIS, INC.",2860.0,Industrial Organic Chemicals,CDXS,Nasdaq
+0001948455,Ispire Technology Inc.,2111.0,Cigarettes,ISPR,Nasdaq
+0001434316,FATE THERAPEUTICS INC,2836.0,"Biological Products, (No Diagnostic Substances)",FATE,Nasdaq
+0001213037,"Cardiff Oncology, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",CRDF,Nasdaq
+0001374328,"FITLIFE BRANDS, INC.",2833.0,Medicinal Chemicals & Botanical Products,FTLF,Nasdaq
+0001871638,"Blaize Holdings, Inc.",3674.0,Semiconductors & Related Devices,BZAI,Nasdaq
+0001792781,Torrid Holdings Inc.,5600.0,Retail-Apparel & Accessory Stores,CURV,NYSE
+0000039092,FRIEDMAN INDUSTRIES INC,3310.0,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",FRD,Nasdaq
+0001662684,"KULR Technology Group, Inc.",3670.0,Electronic Components & Accessories,KULR,NYSE
+0001448431,OptimizeRx Corp,7389.0,"Services-Business Services, NEC",OPRX,Nasdaq
+0000010329,BASSETT FURNITURE INDUSTRIES INC,2511.0,"Wood Household Furniture, (No Upholstered)",BSET,Nasdaq
+0001674335,"JELD-WEN Holding, Inc.",2430.0,"Millwood, Veneer, Plywood, & Structural Wood Members",JELD,NYSE
+0001703647,"Korro Bio, Inc.",2834.0,Pharmaceutical Preparations,KRRO,Nasdaq
+0000031107,EASTERN CO,3420.0,"Cutlery, Handtools & General Hardware",EML,Nasdaq
+0001084765,"RESOURCES CONNECTION, INC.",7389.0,"Services-Business Services, NEC",RGP,Nasdaq
+0000095953,ASCENT INDUSTRIES CO.,2800.0,Chemicals & Allied Products,ACNT,Nasdaq
+0001556739,"Thryv Holdings, Inc.",7310.0,Services-Advertising,THRY,Nasdaq
+0001023313,"FORRESTER RESEARCH, INC.",8700.0,"Services-Engineering, Accounting, Research, Management",FORR,Nasdaq
+0001498382,"TuHURA Biosciences, Inc./NV",2834.0,Pharmaceutical Preparations,HURA,Nasdaq
+0001861795,Definitive Healthcare Corp.,7372.0,Services-Prepackaged Software,DH,Nasdaq
+0001774857,"Aardvark Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,AARD,Nasdaq
+0001779474,"WM TECHNOLOGY, INC.",7372.0,Services-Prepackaged Software,MAPS,Nasdaq
+0001437925,Meridian Holdings Inc./NV,7372.0,Services-Prepackaged Software,MRDN,Nasdaq
+0000910329,MEDIFAST INC,2090.0,Miscellaneous Food Preparations & Kindred Products,MED,NYSE
+0001728117,"Gossamer Bio, Inc.",2834.0,Pharmaceutical Preparations,GOSS,Nasdaq
+0000768899,"TrueBlue, Inc.",7363.0,Services-Help Supply Services,TBI,NYSE
+0001891101,BRC Inc.,2080.0,Beverages,BRCC,NYSE
+0000034067,DMC Global Inc.,3390.0,Miscellaneous Primary Metal Products,BOOM,Nasdaq
+0000913277,Clarus Corp,3949.0,"Sporting & Athletic Goods, NEC",CLAR,Nasdaq
+0000894871,"Arena Group Holdings, Inc.",4841.0,Cable & Other Pay Television Services,AREN,NYSE
+0001808997,"American Outdoor Brands, Inc.",3949.0,"Sporting & Athletic Goods, NEC",AOUT,Nasdaq
+0000799850,AMERICAS CARMART INC,5500.0,Retail-Auto Dealers & Gasoline Stations,CRMT,Nasdaq
+0000005981,AMERICAN VANGUARD CORP,2870.0,Agricultural Chemicals,AVD,NYSE
+0000751365,VIRCO MFG CORPORATION,2531.0,Public Bldg & Related Furniture,VIRC,Nasdaq
+0001680873,HF Foods Group Inc.,5140.0,Wholesale-Groceries & Related Products,HFFG,Nasdaq
+0001630627,"TREACE MEDICAL CONCEPTS, INC.",3841.0,Surgical & Medical Instruments & Apparatus,TMCI,Nasdaq
+0001856031,Vivid Seats Inc.,7990.0,Services-Miscellaneous Amusement & Recreation,SEAT,Nasdaq
+0000356037,CSP INC /MA/,7373.0,Services-Computer Integrated Systems Design,CSPI,Nasdaq
+0001842566,"Airship AI Holdings, Inc.",7372.0,Services-Prepackaged Software,AISP,Nasdaq
+0001339970,aTYR PHARMA INC,2836.0,"Biological Products, (No Diagnostic Substances)",ATYR,Nasdaq
+0001351636,"SOUNDTHINKING, INC.",7372.0,Services-Prepackaged Software,SSTI,Nasdaq
+0001636422,"Health Catalyst, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",HCAT,Nasdaq
+0001854139,Zevia PBC,2086.0,Bottled & Canned Soft Drinks & Carbonated Waters,ZVIA,NYSE
+0001287098,"MAXCYTE, INC.",8731.0,Services-Commercial Physical & Biological Research,MXCT,Nasdaq
+0000798081,LAKELAND INDUSTRIES INC,3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",LAKE,Nasdaq
+0001227636,"Neuronetics, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,STIM,Nasdaq
+0001320350,"LENSAR, Inc.",3841.0,Surgical & Medical Instruments & Apparatus,LNSR,Nasdaq
+0001857853,"Traeger, Inc.",3630.0,Household Appliances,COOK,NYSE
+0002019793,"XCF Global, Inc.",2860.0,Industrial Organic Chemicals,SAFX,Nasdaq
+0001841425,"Verde Clean Fuels, Inc.",2860.0,Industrial Organic Chemicals,VGAS,Nasdaq
+0001515156,"Arq, Inc.",2890.0,Miscellaneous Chemical Products,ARQ,Nasdaq
+0001341235,"Aldeyra Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,ALDX,Nasdaq
+0001089872,"GAIA, INC",7812.0,Services-Motion Picture & Video Tape Production,GAIA,Nasdaq
+0001822359,DocGo Inc.,8000.0,Services-Health Services,DCGO,Nasdaq
+0000827187,Sleep Number Corp,2510.0,Household Furniture,SNBR,Nasdaq
+0001362190,AUDIOEYE INC,7372.0,Services-Prepackaged Software,AEYE,Nasdaq
+0001805521,FARADAY FUTURE INTELLIGENT ELECTRIC INC.,3711.0,Motor Vehicles & Passenger Car Bodies,FFAI,Nasdaq
+0001476840,"Expensify, Inc.",7372.0,Services-Prepackaged Software,EXFY,Nasdaq
+0001454938,Teads Holding Co.,7370.0,"Services-Computer Programming, Data Processing, Etc.",TEAD,Nasdaq
+0001133311,TRAVELZOO,7310.0,Services-Advertising,TZOO,Nasdaq
+0000883107,"SOLESENCE, INC.",2844.0,"Perfumes, Cosmetics & Other Toilet Preparations",SLSN,Nasdaq
+0001817004,"NEXTNRG, INC.",5500.0,Retail-Auto Dealers & Gasoline Stations,NXXT,Nasdaq
+0001127537,Pulmonx Corp,3841.0,Surgical & Medical Instruments & Apparatus,LUNG,Nasdaq
+0001484612,"Outset Medical, Inc.",3845.0,Electromedical & Electrotherapeutic Apparatus,OM,Nasdaq
+0001823878,"PLAYSTUDIOS, Inc.",7372.0,Services-Prepackaged Software,MYPS,Nasdaq
+0001819253,biote Corp.,2833.0,Medicinal Chemicals & Botanical Products,BTMD,Nasdaq
+0000910406,HAIN CELESTIAL GROUP INC,2000.0,Food and Kindred Products,HAIN,Nasdaq
+0001652935,"ACTUATE THERAPEUTICS, INC.",2834.0,Pharmaceutical Preparations,ACTU,Nasdaq
+0000849146,Lifevantage Corp,2834.0,Pharmaceutical Preparations,LFVN,Nasdaq
+0001580864,"Vroom, Inc.",5500.0,Retail-Auto Dealers & Gasoline Stations,VRM,Nasdaq
+0001138723,ACCURAY INC,3841.0,Surgical & Medical Instruments & Apparatus,ARAY,Nasdaq
+0001883814,"Southland Holdings, Inc.",1600.0,Heavy Construction Other Than Bldg Const - Contractors,SLND,NYSE
+0001805651,"MARKETWISE, INC.",7372.0,Services-Prepackaged Software,MKTW,Nasdaq
+0001346830,"Tvardi Therapeutics, Inc.",2834.0,Pharmaceutical Preparations,TVRD,Nasdaq
+0001711754,"Inmune Bio, Inc.",2836.0,"Biological Products, (No Diagnostic Substances)",INMB,Nasdaq
+0001774675,Skillsoft Corp.,7372.0,Services-Prepackaged Software,SKIL,NYSE
+0001369290,"MYOMO, INC.",3842.0,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",MYO,NYSE
+0000087050,Neonode Inc.,3679.0,"Electronic Components, NEC",NEON,Nasdaq
+0001860871,Tevogen Bio Holdings Inc.,2836.0,"Biological Products, (No Diagnostic Substances)",TVGN,Nasdaq
+0001637147,"zSpace, Inc.",7372.0,Services-Prepackaged Software,ZSPC,Nasdaq
+0001702780,"Optimum Communications, Inc.",4841.0,Cable & Other Pay Television Services,OPTU,NYSE
+0001617640,"ZILLOW GROUP, INC.",7389.0,"Services-Business Services, NEC",Z,Nasdaq
+0001564708,NEWS CORP,2711.0,Newspapers: Publishing or  Publishing & Printing,NWS,Nasdaq
+0001611983,Liberty Broadband Corp,4841.0,Cable & Other Pay Television Services,LBRDK,Nasdaq
+0001012019,RUSH ENTERPRISES INC \TX\,5500.0,Retail-Auto Dealers & Gasoline Stations,RUSHB,Nasdaq
+0001570585,Liberty Global Ltd.,4841.0,Cable & Other Pay Television Services,LBTYK,Nasdaq
+0001958140,"Atlanta Braves Holdings, Inc.",7900.0,Services-Amusement & Recreation Services,BATRK,Nasdaq
+0000729580,BEL FUSE INC /NJ,3677.0,"Electronic Coils, Transformers & Other Inductors",BELFB,Nasdaq
+0001336917,"Under Armour, Inc.",2300.0,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,UA,NYSE
+0000887733,CENTRAL GARDEN & PET CO,5190.0,Wholesale-Miscellaneous Nondurable Goods,CENTA,Nasdaq
+0001712184,Liberty Latin America Ltd.,4841.0,Cable & Other Pay Television Services,LILAK,Nasdaq
+0000088948,Seneca Foods Corp,2033.0,"Canned, Fruits, Veg, Preserves, Jams & Jellies",SENEA,Nasdaq
+0001726173,Biglari Holdings Inc.,5812.0,Retail-Eating  Places,BH,NYSE
+0002057463,"GCI Liberty, Inc.",4841.0,Cable & Other Pay Television Services,GLIBK,Nasdaq
+0002078416,"Liberty Live Holdings, Inc.",7900.0,Services-Amusement & Recreation Services,LLYVK,Nasdaq

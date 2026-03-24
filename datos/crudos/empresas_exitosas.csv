@@ -1,0 +1,1675 @@
+ticker,cik,bolsa,sector,variables_descargadas
+SNDK,0002023554,Nasdaq,Computer Storage Devices,30
+CIEN,0000936395,NYSE,Telephone & Telegraph Apparatus,35
+FIX,0001035983,NYSE,Electrical Work,34
+LITE,0001633978,Nasdaq,"Communications Equipment, NEC",37
+COHR,0000820318,NYSE,Optical Instruments & Lenses,35
+BE,0001664703,NYSE,Electrical Industrial Apparatus,30
+RKLB,0001819994,Nasdaq,Guided Missiles & Space Vehicles & Parts,33
+ASTS,0001780312,Nasdaq,"Communications Services, NEC",32
+EME,0000105634,NYSE,Electrical Work,31
+SATS,0001415404,Nasdaq,"Communications Services, NEC",34
+INSM,0001104506,Nasdaq,Pharmaceutical Preparations,33
+TPR,0001116132,NYSE,Leather & Leather Products,35
+JBL,0000898293,NYSE,Printed Circuit Boards,37
+FTI,0001681459,NYSE,Oil & Gas Field Machinery & Equipment,29
+CASY,0000726958,Nasdaq,Retail-Auto Dealers & Gasoline Stations,29
+CW,0000026324,NYSE,Misc Industrial & Commercial Machinery & Equipment,33
+FTAI,0001590364,Nasdaq,Services-Miscellaneous Equipment Rental & Leasing,31
+FLEX,0000866374,Nasdaq,Printed Circuit Boards,37
+MTZ,0000015615,NYSE,"Water, Sewer, Pipeline, Comm & Power Line Construction",32
+UTHR,0001082554,Nasdaq,Pharmaceutical Preparations,32
+XPO,0001166003,NYSE,Transportation Services,37
+WWD,0000108312,Nasdaq,Electrical Industrial Apparatus,32
+ALAB,0001736297,Nasdaq,Semiconductors & Related Devices,28
+RL,0001037038,NYSE,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",31
+PSTG,0001474432,NYSE,Computer Storage Devices,33
+USFD,0001665918,NYSE,Wholesale-Groceries & Related Products,34
+ATI,0001018963,NYSE,Steel Pipe & Tubes,31
+CHRW,0001043277,Nasdaq,Arrangement of  Transportation of  Freight & Cargo,28
+ROIV,0001635088,Nasdaq,Pharmaceutical Preparations,26
+EXAS,0001124140,Nasdaq,Services-Medical Laboratories,35
+RVMD,0001628171,Nasdaq,"Biological Products, (No Diagnostic Substances)",27
+RIVN,0001874178,Nasdaq,Motor Vehicles & Passenger Car Bodies,30
+ALB,0000915913,NYSE,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",34
+AS,0001988894,NYSE,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,0
+PKG,0000075677,NYSE,Paperboard Containers & Boxes,34
+CRDO,0001807794,Nasdaq,Semiconductors & Related Devices,31
+SNA,0000091440,NYSE,"Cutlery, Handtools & General Hardware",32
+BWXT,0001486957,NYSE,Engines & Turbines,31
+CRS,0000017843,NYSE,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",36
+THC,0000070318,NYSE,"Services-General Medical & Surgical Hospitals, NEC",29
+NVT,0001720635,NYSE,Special Industry Machinery (No Metalworking Machinery),28
+NXT,0001852131,Nasdaq,"Search, Detection, Navigation, Guidance, Aeronautical Sys",34
+APG,0001796209,NYSE,Services-To Dwellings & Other Buildings,32
+FN,0001408710,NYSE,Telephone & Telegraph Apparatus,32
+KTOS,0001069258,Nasdaq,Guided Missiles & Space Vehicles & Parts,36
+AA,0001675149,NYSE,Primary Production of  Aluminum,27
+RBC,0001324948,NYSE,Ball & Roller Bearings,38
+DKS,0001089063,NYSE,Retail-Miscellaneous Shopping Goods Stores,31
+HII,0001501585,NYSE,Ship & Boat Building & Repairing,32
+MTSI,0001493594,Nasdaq,Semiconductors & Related Devices,38
+SGI,0001206264,NYSE,Household Furniture,33
+FFIV,0001048695,Nasdaq,Computer Communications Equipment,33
+ITT,0000216228,NYSE,Pumps & Pumping Equipment,33
+TXT,0000217346,NYSE,Aircraft & Parts,25
+VTRS,0001792044,Nasdaq,Pharmaceutical Preparations,36
+RS,0000861884,NYSE,Wholesale-Metals Service Centers & of fices,34
+WSO,0000105016,NYSE,Wholesale-Hardware & Plumbing & Heating Equipment & Supplies,32
+MKSI,0001049502,Nasdaq,"Industrial Instruments For Measurement, Display, and Control",36
+NDSN,0000072331,Nasdaq,"General Industrial Machinery & Equipment, NEC",36
+SN,0001957132,NYSE,Household Appliances,30
+QXO,0001236275,NYSE,Wholesale-Lumber & Other Construction Materials,39
+PNR,0000077360,NYSE,Special Industry Machinery (No Metalworking Machinery),35
+COKE,0000317540,Nasdaq,Bottled & Canned Soft Drinks & Carbonated Waters,32
+GGG,0000042888,NYSE,Pumps & Pumping Equipment,33
+LECO,0000059527,Nasdaq,Metalworkg Machinery & Equipment,34
+ROKU,0001428439,Nasdaq,Cable & Other Pay Television Services,34
+NWSA,0001564708,Nasdaq,Newspapers: Publishing or  Publishing & Printing,30
+H,0001468174,NYSE,Hotels & Motels,30
+GWRE,0001528396,NYSE,Services-Prepackaged Software,32
+KRMN,0002040127,NYSE,"Aircraft Parts & Auxiliary Equipment, NEC",30
+BBIO,0001743881,Nasdaq,Pharmaceutical Preparations,32
+PFGC,0001618673,NYSE,"Wholesale-Groceries, General Line",31
+CACI,0000016058,NYSE,Services-Computer Integrated Systems Design,28
+CDE,0000215466,NYSE,Gold and Silver Ores,30
+TOL,0000794170,NYSE,Operative Builders,23
+PEN,0001321732,NYSE,Surgical & Medical Instruments & Apparatus,35
+AVY,0000008818,NYSE,Converted Paper & Paperboard Prods (No Contaners/Boxes),35
+HL,0000719413,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),31
+HAS,0000046080,Nasdaq,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",35
+NBIX,0000914475,Nasdaq,"Biological Products, (No Diagnostic Substances)",33
+STRL,0000874238,Nasdaq,Heavy Construction Other Than Bldg Const - Contractors,33
+NYT,0000071691,NYSE,Newspapers: Publishing or  Publishing & Printing,34
+RPM,0000110621,NYSE,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",33
+GEN,0000849399,Nasdaq,Services-Prepackaged Software,37
+MEDP,0001668397,Nasdaq,Services-Commercial Physical & Biological Research,27
+BJ,0001531152,NYSE,Retail-Variety Stores,33
+WCC,0000929008,NYSE,"Wholesale-Electrical Apparatus & Equipment, Wiring Supplies ",34
+RRX,0000082811,NYSE,"General Industrial Machinery & Equipment, NEC",36
+LSCC,0000855658,Nasdaq,Semiconductors & Related Devices,37
+ALLE,0001579241,NYSE,"Services-Detective, Guard & Armored Car Services",34
+SNX,0001177394,NYSE,Wholesale-Computers & Peripheral Equipment & Software,36
+ELAN,0001739104,NYSE,Pharmaceutical Preparations,32
+TIGO,0000912958,Nasdaq,Radiotelephone Communications,0
+MLI,0000089439,NYSE,Rolling Drawing & Extruding of  Nonferrous Metals,33
+SMMT,0001599298,Nasdaq,Pharmaceutical Preparations,27
+IONQ,0001824920,NYSE,Services-Computer Integrated Systems Design,28
+ENSG,0001125376,Nasdaq,Services-Skilled Nursing Care Facilities,31
+CCK,0001219601,NYSE,Metal Cans,33
+DRS,0001833756,Nasdaq,"Search, Detection, Navigation, Guidance, Aeronautical Sys",31
+JKHY,0000779152,Nasdaq,Services-Computer Integrated Systems Design,31
+GNRC,0001474735,NYSE,Motors & Generators,36
+DT,0001773383,NYSE,Services-Prepackaged Software,32
+IONS,0000874015,Nasdaq,Pharmaceutical Preparations,32
+AEIS,0000927003,Nasdaq,"Electronic Components, NEC",37
+GMED,0001237831,NYSE,Surgical & Medical Instruments & Apparatus,37
+JHX,0001159152,NYSE,"Concrete Products, Except Block & Brick",0
+UHS,0000352915,NYSE,"Services-General Medical & Surgical Hospitals, NEC",27
+FIVE,0001177609,Nasdaq,Retail-Variety Stores,28
+GH,0001576280,Nasdaq,Services-Medical Laboratories,34
+ACM,0000868857,NYSE,Services-Engineering Services,30
+BSY,0001031308,Nasdaq,Services-Prepackaged Software,31
+AMKR,0001047127,Nasdaq,Semiconductors & Related Devices,38
+CELH,0001341766,Nasdaq,Bottled & Canned Soft Drinks & Carbonated Waters,38
+TXRH,0001289460,Nasdaq,Retail-Eating  Places,32
+NTNX,0001618732,Nasdaq,Services-Prepackaged Software,31
+EXEL,0000939767,Nasdaq,"Biological Products, (No Diagnostic Substances)",32
+BWA,0000908255,NYSE,Motor Vehicle Parts & Accessories,32
+JAZZ,0001232524,Nasdaq,Pharmaceutical Preparations,37
+SCI,0000089089,NYSE,Services-Personal Services,29
+AVAV,0001368622,Nasdaq,Aircraft,36
+SWK,0000093556,NYSE,"Cutlery, Handtools & General Hardware",35
+WMS,0001604028,NYSE,Plastics Foam Products,32
+ZG,0001617640,Nasdaq,"Services-Business Services, NEC",32
+DY,0000067215,NYSE,"Water, Sewer, Pipeline, Comm & Power Line Construction",33
+WYNN,0001174922,Nasdaq,Hotels & Motels,29
+DINO,0001915657,NYSE,Pipe Lines (No Natural Gas),33
+ARMK,0001584509,NYSE,Retail-Eating  Places,32
+GME,0001326380,NYSE,Retail-Computer & Computer Software Stores,29
+MP,0001801368,NYSE,Metal Mining,31
+CAVA,0001639438,NYSE,Retail-Eating  Places,28
+W,0001616707,NYSE,Retail-Catalog & Mail-Order Houses,32
+RBRK,0001943896,NYSE,Services-Prepackaged Software,25
+BLD,0001633931,NYSE,Construction - Special Trade Contractors,36
+MOD,0000067347,NYSE,Motor Vehicle Parts & Accessories,36
+EHC,0000785161,NYSE,Services-Hospitals,30
+SPXC,0000088205,NYSE,Metalworkg Machinery & Equipment,31
+CR,0001944013,NYSE,Miscellaneous Fabricated Metal Products,33
+MDGL,0001157601,Nasdaq,Pharmaceutical Preparations,30
+TTMI,0001116942,Nasdaq,Printed Circuit Boards,34
+MGM,0000789570,NYSE,Hotels & Motels,32
+RMBS,0000917273,Nasdaq,Semiconductors & Related Devices,34
+WTS,0000795403,NYSE,Miscellaneous Fabricated Metal Products,34
+DVA,0000927066,NYSE,"Services-Misc Health & Allied Services, NEC",33
+CART,0001579091,Nasdaq,"Services-Business Services, NEC",29
+GTLS,0000892553,NYSE,Fabricated Plate Work (Boiler Shops),37
+AIT,0000109563,NYSE,"Wholesale-Machinery, Equipment & Supplies",33
+DCI,0000029644,NYSE,Industrial & Commercial Fans & Blowers & Air Purifing Equip,34
+ONTO,0000704532,NYSE,"Measuring & Controlling Devices, NEC",37
+JOBY,0001819848,NYSE,Aircraft,27
+ACI,0001646972,NYSE,Retail-Grocery Stores,28
+PAG,0001019849,NYSE,Retail-Auto Dealers & Gasoline Stations,27
+FLS,0000030625,NYSE,Pumps & Pumping Equipment,33
+CNM,0001856525,NYSE,"Wholesale-Durable Goods, NEC",32
+ALSN,0001411207,NYSE,Motor Vehicle Parts & Accessories,32
+MASI,0000937556,Nasdaq,Electromedical & Electrotherapeutic Apparatus,37
+OSK,0000775158,NYSE,Motor Vehicles & Passenger Car Bodies,36
+SFD,0000091388,Nasdaq,Meat Packing Plants,35
+TTC,0000737758,NYSE,Lawn & Garden Tractors & Home Lawn & Gardens Equip,35
+PL,0001836833,NYSE,Radio & Tv Broadcasting & Communications Equipment,30
+NCLH,0001513761,NYSE,Water Transportation,34
+PCOR,0001611052,NYSE,Services-Prepackaged Software,28
+MOS,0001285785,NYSE,Agricultural Chemicals,34
+SITM,0001451809,Nasdaq,Semiconductors & Related Devices,29
+TEM,0001717115,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",24
+AOS,0000091142,NYSE,Household Appliances,29
+DDS,0000028917,NYSE,Retail-Department Stores,27
+DAR,0000916540,NYSE,Fats & Oils,30
+IESC,0001048268,Nasdaq,Electrical Work,33
+SARO,0002025410,NYSE,Aircraft Engines & Engine Parts,27
+OC,0001370946,NYSE,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",33
+VICR,0000751978,Nasdaq,"Electronic Components, NEC",33
+GAP,0000039911,NYSE,Retail-Family Clothing Stores,31
+PPC,0000802481,Nasdaq,Poultry Slaughtering and Processing,35
+HSIC,0001000228,Nasdaq,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",35
+SAIA,0001177702,Nasdaq,Trucking (No Local),28
+U,0001810806,NYSE,Services-Prepackaged Software,30
+UHAL,0000004457,NYSE,Services-Auto Rental & Leasing (No Drivers),21
+LLYVA,0002078416,Nasdaq,Services-Amusement & Recreation Services,22
+QGEN,0001015820,NYSE,"Biological Products, (No Diagnostic Substances)",0
+KNX,0001492691,NYSE,Trucking (No Local),33
+ATR,0000896622,NYSE,"Plastics Products, NEC",28
+MUSA,0001573516,NYSE,Retail-Auto Dealers & Gasoline Stations,31
+MANH,0001056696,Nasdaq,Services-Prepackaged Software,30
+PRAX,0001689548,Nasdaq,Pharmaceutical Preparations,21
+BROS,0001866581,NYSE,Retail-Eating & Drinking Places,28
+IBRX,0001326110,Nasdaq,"Biological Products, (No Diagnostic Substances)",34
+AGCO,0000880266,NYSE,Farm Machinery & Equipment,31
+LFUS,0000889331,Nasdaq,Switchgear & Switchboard Apparatus,37
+FCFS,0000840489,Nasdaq,Retail-Miscellaneous Retail,29
+CGNX,0000851205,Nasdaq,"Industrial Instruments For Measurement, Display, and Control",34
+TTEK,0000831641,Nasdaq,Services-Engineering Services,32
+SAIL,0002030781,Nasdaq,Services-Prepackaged Software,28
+AXSM,0001579428,Nasdaq,Pharmaceutical Preparations,30
+AUR,0001828108,Nasdaq,Services-Computer Integrated Systems Design,27
+AYI,0001144215,NYSE,Electric Lighting & Wiring Equipment,34
+EMN,0000915389,NYSE,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",35
+BTSG,0001865782,Nasdaq,Services-Home Health Care Services,32
+SWKS,0000004127,Nasdaq,Semiconductors & Related Devices,35
+VMI,0000102729,NYSE,Fabricated Structural Metal Products,34
+PCVX,0001649094,Nasdaq,"Biological Products, (No Diagnostic Substances)",20
+ARWR,0000879407,Nasdaq,Pharmaceutical Preparations,30
+TECH,0000842023,Nasdaq,"Biological Products, (No Diagnostic Substances)",33
+SFM,0001575515,Nasdaq,Retail-Grocery Stores,35
+ESI,0001590714,NYSE,Miscellaneous Chemical Products,38
+POOL,0000945841,Nasdaq,Wholesale-Misc Durable Goods,28
+FDS,0001013237,NYSE,"Services-Computer Programming, Data Processing, Etc.",33
+GSAT,0001366868,Nasdaq,"Communications Services, NEC",32
+NUVL,0001861560,Nasdaq,Pharmaceutical Preparations,19
+IBP,0001580905,NYSE,General Bldg Contractors - Residential Bldgs,34
+HALO,0001159036,Nasdaq,"Biological Products, (No Diagnostic Substances)",37
+APLD,0001144879,Nasdaq,Services-Computer Processing & Data Preparation,27
+MSGS,0001636519,NYSE,Services-Miscellaneous Amusement & Recreation,30
+CYTK,0001061983,Nasdaq,Pharmaceutical Preparations,27
+SIRI,0000908937,Nasdaq,Radio Broadcasting Stations,32
+R,0000085961,NYSE,Services-Auto Rental & Leasing (No Drivers),31
+PRIM,0001361538,NYSE,"Water, Sewer, Pipeline, Comm & Power Line Construction",33
+PRMB,0002042694,NYSE,Beverages,32
+ZWS,0001439288,NYSE,General Industrial Machinery & Equipment,36
+CRL,0001100682,NYSE,Services-Commercial Physical & Biological Research,35
+EPAM,0001352010,NYSE,Services-Computer Programming Services,30
+LKQ,0001065696,Nasdaq,Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies,32
+KRYS,0001711279,Nasdaq,"Biological Products, (No Diagnostic Substances)",27
+LBRDA,0001611983,Nasdaq,Cable & Other Pay Television Services,30
+FORM,0001039399,Nasdaq,Semiconductors & Related Devices,38
+SSD,0000920371,NYSE,"Cutlery, Handtools & General Hardware",35
+AWI,0000007431,NYSE,"Plastics Products, NEC",30
+MTCH,0000891103,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",31
+SMTC,0000088941,Nasdaq,Semiconductors & Related Devices,34
+BIO,0000012208,NYSE,Laboratory Analytical Instruments,36
+ARW,0000007536,NYSE,"Wholesale-Electronic Parts & Equipment, NEC",32
+AL,0001487712,NYSE,"Services-Equipment Rental & Leasing, NEC",21
+QRVO,0001604778,Nasdaq,Semiconductors & Related Devices,33
+MIDD,0000769520,Nasdaq,Refrigeration & Service Industry Machinery,34
+NXST,0001142417,Nasdaq,Television Broadcasting Stations,30
+PEGA,0001013857,Nasdaq,Services-Computer Processing & Data Preparation,32
+DOX,0001062579,Nasdaq,Services-Computer Programming Services,0
+INGR,0001046257,NYSE,Grain Mill Products,36
+AAL,0000006201,Nasdaq,"Air Transportation, Scheduled",27
+DOCN,0001582961,NYSE,"Services-Computer Programming, Data Processing, Etc.",29
+VIAV,0000912093,Nasdaq,Semiconductors & Related Devices,36
+JBTM,0001433660,NYSE,Special Industry Machinery (No Metalworking Machinery),33
+CWAN,0001866368,NYSE,Services-Prepackaged Software,32
+LUMN,0000018926,NYSE,Telephone Communications (No Radiotelephone),33
+KEX,0000056047,NYSE,Water Transportation,31
+ESE,0000866706,NYSE,"Communications Equipment, NEC",33
+CRUS,0000772406,Nasdaq,Semiconductors & Related Devices,34
+MSA,0000066570,NYSE,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",36
+CMC,0000022444,NYSE,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",32
+HQY,0001428336,Nasdaq,"Services-Business Services, NEC",37
+UEC,0001334933,NYSE,Miscellaneous Metal Ores,32
+TKR,0000098362,NYSE,Ball & Roller Bearings,35
+BIRK,0001977102,NYSE,"Footwear, (No Rubber)",0
+SANM,0000897723,Nasdaq,Printed Circuit Boards,38
+VSAT,0000797721,Nasdaq,"Communications Services, NEC",35
+NOV,0001021860,NYSE,Oil & Gas Field Machinery & Equipment,30
+SLAB,0001038074,Nasdaq,Semiconductors & Related Devices,33
+TEX,0000097216,NYSE,"Industrial Trucks, Tractors, Trailors & Stackers",31
+AMTM,0002011286,NYSE,"Services-Business Services, NEC",25
+CE,0001306830,NYSE,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",34
+AAOI,0001158114,Nasdaq,Semiconductors & Related Devices,32
+RGEN,0000730272,Nasdaq,"Biological Products, (No Diagnostic Substances)",37
+ACLX,0001786205,Nasdaq,"Biological Products, (No Diagnostic Substances)",21
+ROAD,0001718227,Nasdaq,Heavy Construction Other Than Bldg Const - Contractors,32
+KYMR,0001815442,Nasdaq,"Biological Products, (No Diagnostic Substances)",21
+G,0001398659,NYSE,Services-Management Consulting Services,32
+AGX,0000100591,NYSE,Construction - Special Trade Contractors,30
+FLR,0001124198,NYSE,Heavy Construction Other Than Bldg Const - Contractors,26
+FSS,0000277509,NYSE,Motor Vehicles & Passenger Car Bodies,35
+VFC,0000103379,NYSE,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",33
+YOU,0001856314,NYSE,Services-Prepackaged Software,25
+QBTS,0001907982,NYSE,Services-Computer Processing & Data Preparation,29
+AAON,0000824142,Nasdaq,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,31
+MHK,0000851968,NYSE,Carpets & Rugs,31
+HXL,0000717605,NYSE,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",33
+PATH,0001734722,NYSE,Services-Prepackaged Software,28
+DBX,0001467623,Nasdaq,Services-Prepackaged Software,30
+AN,0000350698,NYSE,Retail-Auto Dealers & Gasoline Stations,30
+OLLI,0001639300,Nasdaq,Retail-Variety Stores,31
+EAT,0000703351,NYSE,Retail-Eating  Places,32
+POWL,0000080420,Nasdaq,Switchgear & Switchboard Apparatus,36
+LEA,0000842162,NYSE,Motor Vehicle Parts & Accessories,33
+KMX,0001170010,NYSE,Retail-Auto Dealers & Gasoline Stations,29
+PTGX,0001377121,Nasdaq,Pharmaceutical Preparations,24
+WFRD,0001603923,Nasdaq,Oil & Gas Field Machinery & Equipment,34
+BYD,0000906553,NYSE,Hotels & Motels,36
+LOAR,0002000178,NYSE,"Aircraft Parts & Auxiliary Equipment, NEC",29
+PLNT,0001637207,NYSE,Services-Membership Sports & Recreation Clubs,31
+ESAB,0001877322,NYSE,"General Industrial Machinery & Equipment, NEC",33
+SEE,0001012100,NYSE,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",36
+GXO,0001852244,NYSE,Transportation Services,27
+FND,0001507079,NYSE,Retail-Lumber & Other Building Materials Dealers,34
+ENS,0001289308,NYSE,"Miscellaneous Electrical Machinery, Equipment & Supplies",34
+RRR,0001653653,Nasdaq,Hotels & Motels,26
+APPF,0001433195,Nasdaq,Services-Prepackaged Software,30
+SEI,0001697500,NYSE,Oil & Gas Field Machinery & Equipment,33
+EXP,0000918646,NYSE,"Cement, Hydraulic",32
+PCTY,0001591698,Nasdaq,Services-Prepackaged Software,34
+GTES,0001718512,NYSE,General Industrial Machinery & Equipment,35
+AXTA,0001616862,NYSE,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",33
+CHDN,0000020212,Nasdaq,"Services-Racing, Including Track Operation",35
+RYTM,0001649904,Nasdaq,Pharmaceutical Preparations,32
+GKOS,0001192448,NYSE,Surgical & Medical Instruments & Apparatus,34
+GATX,0000040211,NYSE,Transportation Services,23
+ALGM,0000866291,Nasdaq,Semiconductors & Related Devices,35
+ECG,0002015845,NYSE,Operative Builders,25
+WH,0001722684,NYSE,Hotels & Motels,28
+LAD,0001023128,NYSE,Retail-Auto Dealers & Gasoline Stations,34
+URBN,0000912615,Nasdaq,Retail-Family Clothing Stores,26
+ENPH,0001463101,Nasdaq,Semiconductors & Related Devices,34
+ESTC,0001707753,NYSE,Services-Prepackaged Software,30
+NEU,0001282637,NYSE,Industrial Organic Chemicals,31
+MIRM,0001759425,Nasdaq,Pharmaceutical Preparations,30
+SITE,0001650729,NYSE,Wholesale-Professional & Commercial Equipment & Supplies,32
+PSN,0000275880,NYSE,Services-Computer Integrated Systems Design,28
+CGON,0001991792,Nasdaq,"Biological Products, (No Diagnostic Substances)",26
+TMHC,0001562476,NYSE,Operative Builders,27
+LTH,0001869198,NYSE,Services-Membership Sports & Recreation Clubs,31
+COGT,0001622229,Nasdaq,Pharmaceutical Preparations,22
+LW,0001679273,NYSE,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",33
+HIMS,0001773751,NYSE,Services-Offices & Clinics of  Doctors of  Medicine,29
+LGN,0002052568,Nasdaq,Construction - Special Trade Contractors,24
+CHE,0000019584,NYSE,Services-Home Health Care Services,35
+PACS,0002001184,NYSE,Services-Skilled Nursing Care Facilities,25
+LYFT,0001759509,Nasdaq,"Services-Business Services, NEC",25
+CENX,0000949157,Nasdaq,Primary Production of  Aluminum,33
+PTCT,0001070081,Nasdaq,Pharmaceutical Preparations,34
+CZR,0001590895,Nasdaq,Hotels & Motels,33
+GOLF,0001672013,NYSE,"Sporting & Athletic Goods, NEC",38
+WING,0001636222,Nasdaq,Retail-Eating  Places,34
+ADT,0001703056,NYSE,"Services-Detective, Guard & Armored Car Services",31
+ETSY,0001370637,NYSE,"Services-Business Services, NEC",35
+BCPC,0000009326,Nasdaq,Chemicals & Allied Products,33
+SGHC,0001878057,NYSE,Services-Miscellaneous Amusement & Recreation,0
+NPO,0001164863,NYSE,"Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",35
+RGTI,0001838359,Nasdaq,Services-Computer Programming Services,28
+LPX,0000060519,NYSE,Lumber & Wood Products (No Furniture),34
+VSEC,0000102752,Nasdaq,Services-Engineering Services,33
+AVTR,0001722482,NYSE,Laboratory Analytical Instruments,33
+LNTH,0001521036,Nasdaq,In Vitro & In Vivo Diagnostic Substances,36
+GVA,0000861459,NYSE,Heavy Construction Other Than Bldg Const - Contractors,31
+VNT,0001786842,NYSE,Totalizing Fluid Meters & Counting Devices,31
+SON,0000091767,NYSE,Paperboard Containers & Boxes,34
+CELC,0001603454,Nasdaq,Services-Medical Laboratories,20
+INGM,0001897762,NYSE,Wholesale-Computers & Peripheral Equipment & Software,30
+CAI,0002019410,Nasdaq,Services-Medical Laboratories,24
+PLXS,0000785786,Nasdaq,Printed Circuit Boards,33
+WEX,0001309108,NYSE,"Services-Business Services, NEC",31
+MTN,0000812011,NYSE,Services-Miscellaneous Amusement & Recreation,28
+REZI,0001740332,NYSE,Wholesale-Hardware,32
+ACA,0001739445,NYSE,Fabricated Structural Metal Products,33
+FBIN,0001519751,NYSE,"Millwood, Veneer, Plywood, & Structural Wood Members",36
+BRKR,0001109354,Nasdaq,Laboratory Analytical Instruments,38
+UFPI,0000912767,Nasdaq,"Sawmills & Planting Mills, General",34
+IMVT,0001764013,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+LSTR,0000853816,Nasdaq,Trucking (No Local),25
+CNR,0001710366,NYSE,Silver Ores,31
+POST,0001530950,NYSE,Grain Mill Products,36
+TERN,0001831363,Nasdaq,Pharmaceutical Preparations,21
+FCN,0000887936,NYSE,Services-Management Consulting Services,31
+ST,0001477294,NYSE,"Industrial Instruments For Measurement, Display, and Control",33
+TGTX,0001001316,Nasdaq,Pharmaceutical Preparations,33
+MSM,0001003078,NYSE,Wholesale-Industrial Machinery & Equipment,31
+UNF,0000717954,NYSE,Services-Personal Services,28
+RDNT,0000790526,Nasdaq,Services-Medical Laboratories,30
+S,0001583708,NYSE,Services-Prepackaged Software,28
+AVT,0000008858,Nasdaq,"Wholesale-Electronic Parts & Equipment, NEC",31
+DUOL,0001562088,Nasdaq,Services-Prepackaged Software,29
+EXLS,0001297989,Nasdaq,"Services-Business Services, NEC",34
+BOOT,0001610250,NYSE,Retail-Shoe Stores,36
+LAUR,0000912766,Nasdaq,Services-Educational Services,27
+MRCY,0001049521,Nasdaq,Electronic Components & Accessories,37
+MAT,0000063276,Nasdaq,Dolls & Stuffed Toys,35
+IPGP,0001111928,Nasdaq,Semiconductors & Related Devices,34
+TDS,0001051512,NYSE,Telephone Communications (No Radiotelephone),32
+MATX,0000003453,NYSE,Water Transportation,30
+MIR,0001809987,NYSE,"Measuring & Controlling Devices, NEC",38
+TFX,0000096943,NYSE,Surgical & Medical Instruments & Apparatus,32
+CRSP,0001674416,Nasdaq,"Biological Products, (No Diagnostic Substances)",26
+APGE,0001974640,Nasdaq,"Biological Products, (No Diagnostic Substances)",19
+RUSHA,0001012019,Nasdaq,Retail-Auto Dealers & Gasoline Stations,31
+RSI,0001793659,NYSE,Services-Miscellaneous Amusement & Recreation,26
+CLF,0000764065,NYSE,Metal Mining,36
+WAY,0001990354,Nasdaq,Services-Computer Integrated Systems Design,28
+GLNG,0001207179,Nasdaq,Water Transportation,0
+SEB,0000088121,NYSE,Wholesale-Farm Product Raw Materials,32
+OPCH,0001014739,Nasdaq,Services-Home Health Care Services,33
+KBR,0001357615,NYSE,Heavy Construction Other Than Bldg Const - Contractors,33
+GHC,0000104889,NYSE,Services-Educational Services,32
+KNF,0001955520,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),28
+ACHR,0001824502,NYSE,Aircraft,27
+LOPE,0001434588,Nasdaq,Services-Educational Services,30
+DOCS,0001516513,NYSE,Services-Computer Programming Services,29
+SRRK,0001727196,Nasdaq,"Biological Products, (No Diagnostic Substances)",23
+UUUU,0001385849,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),29
+BC,0000014930,NYSE,Engines & Turbines,33
+GNTX,0000355811,Nasdaq,Motor Vehicle Parts & Accessories,35
+FTDR,0001727263,Nasdaq,Services-To Dwellings & Other Buildings,28
+PSMT,0001041803,Nasdaq,Retail-Variety Stores,31
+ALKS,0001520262,Nasdaq,Pharmaceutical Preparations,30
+ATMU,0001921963,NYSE,Motor Vehicle Parts & Accessories,31
+FOUR,0001794669,NYSE,"Services-Business Services, NEC",34
+XENE,0001582313,Nasdaq,Pharmaceutical Preparations,24
+CHH,0001046311,NYSE,Hotels & Motels,31
+OSIS,0001039065,Nasdaq,Semiconductors & Related Devices,36
+BDC,0000913142,NYSE,Drawing & Insulating of  Nonferrous Wire,34
+HCC,0001691303,NYSE,Silver Ores,30
+MTH,0000833079,NYSE,Operative Builders,24
+FOLD,0001178879,Nasdaq,Pharmaceutical Preparations,35
+M,0000794367,NYSE,Retail-Department Stores,31
+ALK,0000766421,NYSE,"Air Transportation, Scheduled",29
+OLED,0001005284,Nasdaq,Electronic Components & Accessories,32
+REYN,0001786431,Nasdaq,"Plastics, Foil & Coated Paper Bags",33
+ELF,0001600033,NYSE,"Perfumes, Cosmetics & Other Toilet Preparations",34
+SLGN,0000849869,NYSE,Metal Cans,31
+ZETA,0001851003,NYSE,Services-Prepackaged Software,24
+BMI,0000009092,NYSE,Totalizing Fluid Meters & Counting Devices,32
+TNL,0001361658,NYSE,Hotels & Motels,34
+BCO,0000078890,NYSE,Arrangement of  Transportation of  Freight & Cargo,31
+SKY,0000090896,NYSE,Mobile Homes,32
+SAIC,0001571123,Nasdaq,Services-Computer Integrated Systems Design,33
+CSW,0001624794,NYSE,Adhesives & Sealants,33
+MWA,0001350593,NYSE,Miscellaneous Fabricated Metal Products,35
+BFAM,0001437578,NYSE,Services-Child Day Care Services,32
+NOVT,0001076930,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",37
+BTU,0001064728,NYSE,Bituminous Coal & Lignite Surface Mining,30
+AIR,0000001750,NYSE,Aircraft & Parts,31
+THO,0000730263,NYSE,Motor Homes,34
+USAR,0001970622,Nasdaq,Metal Mining,21
+NVST,0001757073,NYSE,Dental Equipment & Supplies,34
+NG,0001173420,NYSE,Gold and Silver Ores,24
+TMDX,0001756262,Nasdaq,Electromedical & Electrotherapeutic Apparatus,31
+QS,0001811414,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",21
+SNDR,0001692063,NYSE,Trucking (No Local),28
+LGND,0000886163,Nasdaq,Pharmaceutical Preparations,34
+LEU,0001065059,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),34
+MMSI,0000856982,Nasdaq,Surgical & Medical Instruments & Apparatus,37
+MDU,0000067716,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),28
+ALH,0001317685,NYSE,Refrigeration & Service Industry Machinery,27
+BBWI,0000701985,NYSE,"Retail-Retail Stores, NEC",33
+ERAS,0001761918,Nasdaq,Pharmaceutical Preparations,20
+CALM,0000016160,Nasdaq,Agricultural Prod-Livestock & Animal Specialties,34
+BILL,0001786352,NYSE,Services-Prepackaged Software,33
+MYRG,0000700923,Nasdaq,"Water, Sewer, Pipeline, Comm & Power Line Construction",36
+CROX,0001334036,Nasdaq,Rubber & Plastics Footwear,36
+ACIW,0000935036,Nasdaq,Services-Prepackaged Software,33
+VKTX,0001607678,Nasdaq,Pharmaceutical Preparations,21
+FELE,0000038725,Nasdaq,Motors & Generators,34
+LBTYA,0001570585,Nasdaq,Cable & Other Pay Television Services,28
+ANF,0001018840,NYSE,Retail-Family Clothing Stores,27
+ITRI,0000780571,Nasdaq,Instruments For Meas & Testing of  Electricity & Elec Signals,35
+TREX,0001069878,NYSE,Lumber & Wood Products (No Furniture),34
+VISN,0001517228,Nasdaq,Radio & Tv Broadcasting & Communications Equipment,34
+TPH,0001561680,NYSE,Operative Builders,28
+LASR,0001124796,Nasdaq,Semiconductors & Related Devices,36
+CRNX,0001658247,Nasdaq,Pharmaceutical Preparations,27
+SMR,0001822966,NYSE,Fabricated Plate Work (Boiler Shops),28
+CCC,0001818201,Nasdaq,Services-Prepackaged Software,31
+SPHR,0001795250,NYSE,Services-Amusement & Recreation Services,31
+HRB,0000012659,NYSE,Services-Personal Services,30
+CVCO,0000278166,Nasdaq,Mobile Homes,32
+SHC,0001822479,Nasdaq,"Services-Misc Health & Allied Services, NEC",33
+MMS,0001032220,NYSE,"Services-Business Services, NEC",31
+INDV,0001625297,Nasdaq,Pharmaceutical Preparations,30
+FLY,0001860160,Nasdaq,Guided Missiles & Space Vehicles & Parts,31
+AMRX,0001723128,Nasdaq,Pharmaceutical Preparations,34
+MZTI,0000057515,Nasdaq,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",31
+GTLB,0001653482,Nasdaq,Services-Prepackaged Software,28
+CVSA,0000730464,NYSE,Services-Educational Services,30
+SHAK,0001620533,NYSE,Retail-Eating & Drinking Places,26
+KTB,0001760965,NYSE,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",34
+ADMA,0001368514,Nasdaq,"Biological Products, (No Diagnostic Substances)",35
+LRN,0001157408,NYSE,Services-Educational Services,38
+PPTA,0001526243,Nasdaq,Gold and Silver Ores,17
+PATK,0000076605,Nasdaq,Motor Vehicle Parts & Accessories,35
+IRTC,0001388658,Nasdaq,Surgical & Medical Instruments & Apparatus,31
+SXT,0000310142,NYSE,Industrial Organic Chemicals,33
+TDW,0000098222,NYSE,Water Transportation,30
+GEF,0000043920,NYSE,"Metal Shipping Barrels, Drums, Kegs & Pails",33
+TPC,0000077543,NYSE,General Bldg Contractors - Nonresidential Bldgs,29
+GPI,0001031203,NYSE,Retail-Auto Dealers & Gasoline Stations,27
+BETA,0001784570,NYSE,Aircraft,27
+SKYW,0000793733,Nasdaq,"Air Transportation, Scheduled",27
+AZZ,0000008947,NYSE,"Coating, Engraving & Allied Services",37
+VSCO,0001856437,NYSE,Retail-Women's Clothing Stores,31
+ABG,0001144980,NYSE,Retail-Auto Dealers & Gasoline Stations,33
+FSLY,0001517413,Nasdaq,Services-Prepackaged Software,30
+WHR,0000106640,NYSE,Household Appliances,35
+HRI,0001364479,NYSE,Services-Miscellaneous Equipment Rental & Leasing,29
+STNE,0001745431,Nasdaq,Services-Computer Processing & Data Preparation,0
+SMG,0000825542,NYSE,Agricultural Chemicals,34
+CBT,0000016040,NYSE,Miscellaneous Chemical Products,36
+CAR,0000723612,Nasdaq,Services-Auto Rental & Leasing (No Drivers),26
+HGV,0001674168,NYSE,"Hotels, Rooming Houses, Camps & Other Lodging Places",25
+DAN,0000026780,NYSE,Motor Vehicle Parts & Accessories,32
+CORT,0001088856,Nasdaq,Pharmaceutical Preparations,34
+ACAD,0001070494,Nasdaq,Pharmaceutical Preparations,34
+KAI,0000886346,NYSE,Special Industry Machinery (No Metalworking Machinery),36
+KBH,0000795266,NYSE,Operative Builders,18
+USLM,0000082020,Nasdaq,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),33
+CVLT,0001169561,Nasdaq,Services-Prepackaged Software,33
+WK,0001445305,NYSE,Services-Prepackaged Software,30
+BOX,0001372612,NYSE,Services-Prepackaged Software,32
+SIG,0000832988,NYSE,Retail-Jewelry Stores,36
+KLIC,0000056978,Nasdaq,Semiconductors & Related Devices,36
+CSTM,0001563411,NYSE,Secondary Smelting & Refining of  Nonferrous Metals,28
+BKD,0001332349,NYSE,Services-Nursing & Personal Care Facilities,30
+SYRE,0001636282,Nasdaq,Pharmaceutical Preparations,22
+STNG,0001483934,NYSE,Deep Sea Foreign Transportation of  Freight,0
+LIVN,0001639691,Nasdaq,Electromedical & Electrotherapeutic Apparatus,38
+DNTH,0001690585,Nasdaq,Pharmaceutical Preparations,24
+QLYS,0001107843,Nasdaq,Services-Prepackaged Software,31
+CALX,0001406666,NYSE,"Communications Services, NEC",35
+GTX,0001735707,Nasdaq,Motor Vehicle Parts & Accessories,28
+GFF,0000050725,NYSE,"Metal Doors, Sash, Frames, Moldings & Trim",33
+LCID,0001811210,Nasdaq,Motor Vehicles & Passenger Car Bodies,32
+MHO,0000799292,NYSE,Operative Builders,22
+INSW,0001679049,NYSE,Water Transportation,25
+PRM,0001880319,NYSE,Chemicals & Allied Products,36
+LIF,0001581760,Nasdaq,Services-Computer Processing & Data Preparation,32
+ASO,0001817358,Nasdaq,Retail-Miscellaneous Shopping Goods Stores,30
+COCO,0001482981,Nasdaq,Beverages,34
+NIQ,0002054696,NYSE,"Services-Computer Programming, Data Processing, Etc.",26
+FRPT,0001611647,Nasdaq,Grain Mill Products,30
+SOUN,0001840856,Nasdaq,Services-Prepackaged Software,29
+RELY,0001782170,Nasdaq,"Services-Business Services, NEC",24
+DNLI,0001714899,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+EWTX,0001710072,Nasdaq,Pharmaceutical Preparations,21
+ALMS,0001847367,Nasdaq,Pharmaceutical Preparations,21
+EXPO,0000851520,Nasdaq,Services-Management Consulting Services,22
+RNG,0001384905,NYSE,Services-Computer Processing & Data Preparation,33
+PLUG,0001093691,Nasdaq,Electrical Industrial Apparatus,36
+LQDA,0001819576,Nasdaq,Pharmaceutical Preparations,27
+NATL,0001974138,NYSE,Calculating & Accounting Machines (No Electronic Computers),29
+FIZZ,0000069891,Nasdaq,Bottled & Canned Soft Drinks & Carbonated Waters,29
+ICUI,0000883984,Nasdaq,Surgical & Medical Instruments & Apparatus,37
+WSC,0001647088,Nasdaq,Services-Miscellaneous Equipment Rental & Leasing,33
+WHD,0001699136,NYSE,Oil & Gas Field Machinery & Equipment,29
+KFY,0000056679,NYSE,Services-Employment Agencies,31
+CARG,0001494259,Nasdaq,Services-Computer Processing & Data Preparation,35
+TR,0000098677,NYSE,Sugar & Confectionery Products,27
+CNK,0001385280,NYSE,Services-Motion Picture Theaters,30
+AVNT,0001122976,NYSE,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",34
+AAP,0001158449,NYSE,Retail-Auto & Home Supply Stores,33
+RUN,0001469367,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",35
+ACMR,0001680062,Nasdaq,"Special Industry Machinery, NEC",32
+HAYW,0001834622,NYSE,Refrigeration & Service Industry Machinery,33
+QTWO,0001410384,NYSE,Services-Prepackaged Software,32
+DORM,0000868780,Nasdaq,Motor Vehicle Parts & Accessories,34
+SXI,0000310354,NYSE,Refrigeration & Service Industry Machinery,34
+DIOD,0000029002,Nasdaq,Semiconductors & Related Devices,35
+DYN,0001818794,Nasdaq,Pharmaceutical Preparations,22
+BATRA,0001958140,Nasdaq,Services-Amusement & Recreation Services,22
+ITGR,0001114483,NYSE,Electromedical & Electrotherapeutic Apparatus,36
+PVH,0000078239,NYSE,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",32
+GBTG,0001820872,NYSE,Transportation Services,29
+FLNC,0001868941,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",29
+HWKN,0000046250,Nasdaq,Wholesale-Chemicals & Allied Products,36
+PII,0000931015,NYSE,Miscellaneous Transportation Equipment,35
+IDYA,0001676725,Nasdaq,Pharmaceutical Preparations,21
+WDFC,0000105132,Nasdaq,Miscellaneous Chemical Products,39
+PI,0001114995,Nasdaq,"Electronic Components, NEC",35
+MTRN,0001104657,NYSE,Metal Forgings & Stampings,35
+PBH,0001295947,NYSE,Pharmaceutical Preparations,33
+LCII,0000763744,NYSE,Motor Vehicle Parts & Accessories,33
+FUL,0000039368,NYSE,Adhesives & Sealants,35
+IAC,0001800227,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",29
+COLM,0001050797,Nasdaq,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,35
+TARS,0001819790,Nasdaq,"Biological Products, (No Diagnostic Substances)",31
+AEO,0000919012,NYSE,Retail-Family Clothing Stores,32
+TTAM,0002035304,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),0
+WU,0001365135,NYSE,"Services-Business Services, NEC",26
+CON,0002014596,NYSE,"Services-Specialty Outpatient Facilities, NEC",23
+OLN,0000074303,NYSE,Chemicals & Allied Products,33
+SUPN,0001356576,Nasdaq,Pharmaceutical Preparations,34
+VRDN,0001590750,Nasdaq,Pharmaceutical Preparations,29
+YETI,0001670592,NYSE,"Sporting & Athletic Goods, NEC",33
+OPLN,0001395942,NYSE,Retail-Auto Dealers & Gasoline Stations,30
+SYNA,0000817720,Nasdaq,Semiconductors & Related Devices,38
+TWST,0001581280,Nasdaq,"Biological Products, (No Diagnostic Substances)",31
+GPK,0001408075,NYSE,Paperboard Containers & Boxes,33
+CAKE,0000887596,Nasdaq,Retail-Eating  Places,32
+IPAR,0000822663,Nasdaq,"Perfumes, Cosmetics & Other Toilet Preparations",35
+WRBY,0001504776,NYSE,Ophthalmic Goods,26
+KD,0001867072,NYSE,Services-Computer Integrated Systems Design,24
+CPRX,0001369568,Nasdaq,Pharmaceutical Preparations,32
+VRNS,0001361113,Nasdaq,Services-Prepackaged Software,31
+KMT,0000055242,NYSE,"Machine Tools, Metal Cutting Types",33
+GRBK,0001373670,NYSE,Operative Builders,33
+CC,0001627223,NYSE,Chemicals & Allied Products,34
+RCUS,0001724521,NYSE,Pharmaceutical Preparations,25
+ARQT,0001787306,Nasdaq,Pharmaceutical Preparations,29
+HAE,0000313143,NYSE,Surgical & Medical Instruments & Apparatus,35
+LION,0002052959,NYSE,Services-Motion Picture & Video Tape Production,27
+VERA,0001831828,Nasdaq,Pharmaceutical Preparations,23
+IRDM,0001418819,Nasdaq,"Communications Services, NEC",34
+PRVA,0001759655,Nasdaq,Services-Health Services,25
+MSGE,0001952073,NYSE,Services-Miscellaneous Amusement & Recreation,27
+PAGS,0001712807,NYSE,Services-Computer Processing & Data Preparation,0
+DHT,0001331284,NYSE,Deep Sea Foreign Transportation of  Freight,0
+DJT,0001849635,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",31
+BCC,0001328581,NYSE,Wholesale-Lumber & Other Construction Materials,30
+LUNR,0001844452,Nasdaq,"Search, Detection, Navigation, Guidance, Aeronautical Sys",26
+UCTT,0001275014,Nasdaq,Semiconductors & Related Devices,34
+TNGX,0001819133,Nasdaq,Pharmaceutical Preparations,23
+UAA,0001336917,NYSE,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,30
+VCYT,0001384101,Nasdaq,Services-Medical Laboratories,33
+HNI,0000048287,NYSE,Office Furniture (No Wood),33
+POWI,0000833640,Nasdaq,Semiconductors & Related Devices,32
+BEAM,0001745999,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+ACLS,0001113232,Nasdaq,"Special Industry Machinery, NEC",30
+DBD,0000028823,NYSE,Calculating & Accounting Machines (No Electronic Computers),37
+MH,0001951070,NYSE,Miscellaneous Publishing,28
+MGRC,0000752714,Nasdaq,"Services-Equipment Rental & Leasing, NEC",29
+BKE,0000885245,NYSE,Retail-Family Clothing Stores,24
+ADEA,0001803696,Nasdaq,Cable & Other Pay Television Services,32
+TVTX,0001438533,Nasdaq,Pharmaceutical Preparations,36
+RH,0001528849,NYSE,Retail-Furniture Stores,31
+LMAT,0001158895,Nasdaq,Surgical & Medical Instruments & Apparatus,32
+CHEF,0001517175,Nasdaq,"Wholesale-Groceries, General Line",36
+TDC,0000816761,NYSE,Services-Prepackaged Software,32
+NHC,0001047335,NYSE,Services-Skilled Nursing Care Facilities,30
+CALY,0000837465,NYSE,"Sporting & Athletic Goods, NEC",38
+AMBP,0001845097,NYSE,Metal Cans,0
+AMPX,0001899287,NYSE,"Miscellaneous Electrical Machinery, Equipment & Supplies",29
+LFST,0001845257,Nasdaq,Services-Health Services,28
+ATRO,0000008063,Nasdaq,"Aircraft Parts & Auxiliary Equipment, NEC",35
+TNK,0001419945,NYSE,Water Transportation,0
+ZGN,0001877787,NYSE,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,0
+NSIT,0000932696,Nasdaq,Retail-Catalog & Mail-Order Houses,34
+PHIN,0001968915,NYSE,Motor Vehicle Parts & Accessories,32
+SAM,0000949870,NYSE,Malt Beverages,32
+UNFI,0001020859,NYSE,"Wholesale-Groceries, General Line",34
+AMR,0001704715,NYSE,Bituminous Coal & Lignite Surface Mining,30
+TRN,0000099780,NYSE,Railroad Equipment,30
+XRAY,0000818479,Nasdaq,Dental Equipment & Supplies,35
+NGVT,0001653477,NYSE,Chemicals & Allied Products,33
+BELFA,0000729580,Nasdaq,"Electronic Coils, Transformers & Other Inductors",35
+CXT,0000025445,NYSE,Miscellaneous Fabricated Metal Products,38
+MAZE,0001842295,Nasdaq,"Biological Products, (No Diagnostic Substances)",21
+TENB,0001660280,Nasdaq,Services-Prepackaged Software,28
+SHOO,0000913241,Nasdaq,"Footwear, (No Rubber)",33
+APLS,0001492422,Nasdaq,Pharmaceutical Preparations,26
+WOR,0000108516,NYSE,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",33
+VSH,0000103730,NYSE,Electronic Components & Accessories,34
+FIGS,0001846576,NYSE,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,28
+VC,0001111335,Nasdaq,Motor Vehicle Parts & Accessories,35
+YSS,0002086587,NYSE,Guided Missiles & Space Vehicles & Parts,0
+VRRM,0001682745,Nasdaq,Transportation Services,34
+ANDE,0000821026,Nasdaq,Wholesale-Farm Product Raw Materials,33
+BRZE,0001676238,Nasdaq,Services-Prepackaged Software,30
+BRSL,0001619762,NYSE,Services-Miscellaneous Amusement & Recreation,0
+ASH,0001674862,NYSE,Wholesale-Chemicals & Allied Products,32
+WVE,0001631574,Nasdaq,Pharmaceutical Preparations,24
+IMNM,0001472012,Nasdaq,Pharmaceutical Preparations,22
+SEZL,0001662991,Nasdaq,"Services-Business Services, NEC",24
+TXG,0001770787,Nasdaq,Laboratory Analytical Instruments,32
+BCRX,0000882796,Nasdaq,"Biological Products, (No Diagnostic Substances)",28
+GRND,0001820144,NYSE,"Services-Computer Programming, Data Processing, Etc.",31
+RHI,0000315213,NYSE,Services-Help Supply Services,27
+ALRM,0001459200,Nasdaq,Services-Prepackaged Software,32
+MCW,0001853513,Nasdaq,"Services-Automotive Repair, Services & Parking",28
+IRON,0001816736,Nasdaq,Pharmaceutical Preparations,25
+NAVN,0001639723,Nasdaq,Services-Prepackaged Software,27
+CSGS,0001005757,Nasdaq,Services-Computer Processing & Data Preparation,35
+SPSC,0001092699,Nasdaq,Services-Prepackaged Software,33
+FRSH,0001544522,Nasdaq,Services-Prepackaged Software,30
+NN,0001865631,Nasdaq,"Search, Detection, Navigation, Guidance, Aeronautical Sys",32
+BL,0001666134,Nasdaq,Services-Prepackaged Software,32
+GEO,0000923796,NYSE,General Bldg Contractors - Residential Bldgs,29
+NVTS,0001821769,Nasdaq,Semiconductors & Related Devices,33
+AMBA,0001280263,Nasdaq,Semiconductors & Related Devices,35
+AVPT,0001777921,Nasdaq,Services-Prepackaged Software,33
+PRDO,0001046568,Nasdaq,Services-Educational Services,32
+CENT,0000887733,Nasdaq,Wholesale-Miscellaneous Nondurable Goods,33
+ABM,0000771497,NYSE,Services-To Dwellings & Other Buildings,32
+EYE,0001710155,Nasdaq,Ophthalmic Goods,34
+NTCT,0001078075,Nasdaq,Services-Computer Integrated Systems Design,36
+FLOC,0002035149,NYSE,Oil & Gas Field Machinery & Equipment,28
+WGS,0001818331,Nasdaq,Services-Health Services,32
+CPRI,0001530721,NYSE,Leather & Leather Products,34
+DAWN,0001845337,Nasdaq,Pharmaceutical Preparations,25
+ACHC,0001520697,Nasdaq,"Services-Specialty Outpatient Facilities, NEC",31
+BRBR,0001772016,NYSE,Food and Kindred Products,31
+OSW,0001758488,Nasdaq,Services-Membership Sports & Recreation Clubs,30
+HURN,0001289848,Nasdaq,Services-Management Consulting Services,33
+MTX,0000891014,NYSE,Industrial Inorganic Chemicals,31
+BBUC,0001871130,NYSE,Construction - Special Trade Contractors,0
+GRDN,0001802255,NYSE,Retail-Drug Stores and Proprietary Stores,29
+HLIO,0001024795,NYSE,Miscellaneous Fabricated Metal Products,36
+RXO,0001929561,NYSE,Transportation Services,28
+PAHC,0001069899,Nasdaq,Pharmaceutical Preparations,33
+VVX,0001601548,NYSE,Services-Facilities Support Management Services,31
+HUN,0001307954,NYSE,Chemicals & Allied Products,35
+KN,0001587523,NYSE,Household Audio & Video Equipment,36
+PK,0001617406,NYSE,Hotels & Motels,23
+VERX,0001806837,Nasdaq,Services-Prepackaged Software,30
+IMAX,0000921582,NYSE,Photographic Equipment & Supplies,33
+BLKB,0001280058,Nasdaq,Services-Prepackaged Software,31
+CECO,0000003197,Nasdaq,Industrial & Commercial Fans & Blowers & Air Purifing Equip,35
+SNDX,0001395937,Nasdaq,Pharmaceutical Preparations,26
+TGLS,0001534675,NYSE,Flat Glass,35
+HUBG,0000940942,Nasdaq,Arrangement of  Transportation of  Freight & Cargo,31
+DXPE,0001020710,Nasdaq,Wholesale-Industrial Machinery & Equipment,35
+RARE,0001515673,Nasdaq,Pharmaceutical Preparations,31
+DNOW,0001599617,NYSE,Oil & Gas Field Machinery & Equipment,35
+INTA,0001565687,Nasdaq,Services-Prepackaged Software,32
+HOG,0000793952,NYSE,"Motorcycles, Bicycles & Parts",36
+SAH,0001043509,NYSE,Retail-Auto Dealers & Gasoline Stations,33
+UTI,0001261654,NYSE,Services-Educational Services,32
+ADPT,0001478320,Nasdaq,"Biological Products, (No Diagnostic Substances)",28
+DXC,0001688568,NYSE,Services-Computer Processing & Data Preparation,32
+PLAB,0000810136,Nasdaq,Semiconductors & Related Devices,35
+CNXC,0001803599,Nasdaq,"Services-Business Services, NEC",28
+TYRA,0001863127,Nasdaq,Pharmaceutical Preparations,20
+RCAT,0000748268,Nasdaq,Services-Prepackaged Software,36
+EXTR,0001078271,Nasdaq,Computer Communications Equipment,35
+ALG,0000897077,NYSE,Farm Machinery & Equipment,34
+SEM,0001320414,NYSE,Services-Hospitals,29
+NEOG,0000711377,Nasdaq,In Vitro & In Vivo Diagnostic Substances,34
+XMTR,0001657573,Nasdaq,"Services-Business Services, NEC",33
+CMRE,0001503584,NYSE,Deep Sea Foreign Transportation of  Freight,0
+ORKA,0000907654,Nasdaq,Pharmaceutical Preparations,25
+PLUS,0001022408,Nasdaq,Wholesale-Computers & Peripheral Equipment & Software,38
+MLYS,0001933414,Nasdaq,Pharmaceutical Preparations,19
+FDP,0001047340,NYSE,Agricultural Production-Crops,30
+ATEC,0001350653,Nasdaq,Surgical & Medical Instruments & Apparatus,37
+CLDX,0000744218,Nasdaq,In Vitro & In Vivo Diagnostic Substances,28
+GLOB,0001557860,NYSE,Services-Computer Processing & Data Preparation,0
+IE,0001879016,NYSE,Metal Mining,27
+RDW,0001819810,NYSE,Guided Missiles & Space Vehicles & Parts,33
+BHE,0000863436,NYSE,Printed Circuit Boards,34
+EPAC,0000006955,NYSE,Misc Industrial & Commercial Machinery & Equipment,33
+ANAB,0001370053,Nasdaq,Pharmaceutical Preparations,23
+KALU,0000811596,Nasdaq,Rolling Drawing & Extruding of  Nonferrous Metals,32
+UNIT,0002020795,Nasdaq,Telephone Communications (No Radiotelephone),25
+ARCB,0000894405,Nasdaq,Trucking (No Local),29
+GT,0000042582,Nasdaq,Tires & Inner Tubes,33
+AUPH,0001600620,Nasdaq,Pharmaceutical Preparations,26
+WLY,0000107140,NYSE,Books: Publishing or  Publishing & Printing,34
+COTY,0001024305,NYSE,"Perfumes, Cosmetics & Other Toilet Preparations",33
+HTFL,0001464521,Nasdaq,Surgical & Medical Instruments & Apparatus,25
+AGYS,0000078749,Nasdaq,Services-Computer Integrated Systems Design,33
+EOSE,0001805077,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",33
+GRAL,0001699031,Nasdaq,Services-Medical Laboratories,24
+EVTC,0001559865,NYSE,Services-Computer Processing & Data Preparation,32
+ATKR,0001666138,NYSE,"Miscellaneous Electrical Machinery, Equipment & Supplies",35
+OCUL,0001393434,Nasdaq,Pharmaceutical Preparations,29
+DGII,0000854775,Nasdaq,Computer Communications Equipment,35
+DCO,0000030305,NYSE,"Aircraft Parts & Auxiliary Equipment, NEC",34
+ALKT,0001529274,Nasdaq,Services-Prepackaged Software,31
+APPN,0001441683,Nasdaq,Services-Prepackaged Software,35
+BBAI,0001836981,NYSE,Services-Prepackaged Software,29
+STOK,0001623526,Nasdaq,Pharmaceutical Preparations,23
+ADUS,0001468328,Nasdaq,Services-Home Health Care Services,34
+PENN,0000921738,Nasdaq,Hotels & Motels,33
+FA,0001210677,Nasdaq,Services-Computer Processing & Data Preparation,33
+VECO,0000103145,Nasdaq,"Special Industry Machinery, NEC",37
+RUM,0001830081,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",29
+FLO,0001128928,NYSE,Food and Kindred Products,32
+RLAY,0001812364,Nasdaq,"Biological Products, (No Diagnostic Substances)",24
+STRA,0001013934,Nasdaq,Services-Educational Services,31
+EVCM,0001853145,Nasdaq,Services-Prepackaged Software,29
+TNET,0000937098,NYSE,"Services-Business Services, NEC",30
+SEMR,0001831840,NYSE,Services-Prepackaged Software,30
+RXRX,0001601830,Nasdaq,"Biological Products, (No Diagnostic Substances)",31
+SLNO,0001484565,Nasdaq,Pharmaceutical Preparations,32
+DFTX,0001813814,Nasdaq,Medicinal Chemicals & Botanical Products,22
+ROG,0000084748,NYSE,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",36
+PRKS,0001564902,NYSE,Services-Miscellaneous Amusement & Recreation,30
+FUN,0001999001,NYSE,Services-Amusement & Recreation Services,29
+AORT,0000784199,NYSE,Surgical & Medical Instruments & Apparatus,36
+CMPR,0001262976,Nasdaq,Commercial Printing,34
+CAPR,0001133869,Nasdaq,Pharmaceutical Preparations,28
+GTM,0001794515,Nasdaq,Services-Prepackaged Software,30
+ZYME,0001937653,Nasdaq,Pharmaceutical Preparations,25
+FMC,0000037785,NYSE,Chemicals & Allied Products,33
+MGNI,0001595974,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",30
+RAMP,0000733269,NYSE,Services-Computer Processing & Data Preparation,32
+TPB,0001290677,NYSE,Tobacco Products,33
+SRPT,0000873303,Nasdaq,Pharmaceutical Preparations,35
+MQ,0001522540,Nasdaq,Services-Prepackaged Software,25
+NCNO,0001902733,Nasdaq,Services-Prepackaged Software,32
+PTON,0001639825,Nasdaq,"Sporting & Athletic Goods, NEC",31
+DRVN,0001804745,Nasdaq,"Services-Automotive Repair, Services & Parking",30
+SPB,0000109177,NYSE,"Miscellaneous Electrical Machinery, Equipment & Supplies",37
+MCRI,0000907242,Nasdaq,Hotels & Motels,33
+TIC,0002032966,NYSE,"Services-Business Services, NEC",28
+NVAX,0001000694,Nasdaq,"Biological Products, (No Diagnostic Substances)",32
+VOYG,0001788060,NYSE,Guided Missiles & Space Vehicles & Parts,30
+SHO,0001295810,NYSE,Hotels & Motels,28
+BLBD,0001589526,Nasdaq,Truck & Bus Bodies,33
+INVX,0001042893,NYSE,Oil & Gas Field Machinery & Equipment,36
+CCS,0001576940,NYSE,Operative Builders,27
+PVLA,0001583648,Nasdaq,Pharmaceutical Preparations,25
+SNDA,0001043000,NYSE,Services-Nursing & Personal Care Facilities,28
+IOSP,0001054905,Nasdaq,Chemicals & Allied Products,30
+AXGN,0000805928,Nasdaq,Electromedical & Electrotherapeutic Apparatus,33
+AGIO,0001439222,Nasdaq,Pharmaceutical Preparations,29
+QUBT,0001758009,Nasdaq,Services-Prepackaged Software,31
+PAYO,0001845815,Nasdaq,"Services-Business Services, NEC",29
+MD,0000893949,NYSE,Services-Hospitals,31
+WMK,0000105418,NYSE,Retail-Grocery Stores,29
+ZD,0001084048,Nasdaq,Telegraph & Other Message Communications,32
+PBI,0000078814,NYSE,"Office Machines, NEC",35
+ANIP,0001023024,Nasdaq,Pharmaceutical Preparations,34
+OGN,0001821825,NYSE,Pharmaceutical Preparations,32
+ELVN,0001672619,Nasdaq,Pharmaceutical Preparations,22
+RVLV,0001746618,NYSE,Retail-Catalog & Mail-Order Houses,29
+IMKTA,0000050493,Nasdaq,Retail-Grocery Stores,25
+WS,0001968487,NYSE,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",28
+TE,0001992243,NYSE,Semiconductors & Related Devices,32
+VCEL,0000887359,Nasdaq,"Biological Products, (No Diagnostic Substances)",31
+ICHR,0001652535,Nasdaq,Semiconductors & Related Devices,34
+INVA,0001080014,Nasdaq,Pharmaceutical Preparations,37
+OI,0000812074,NYSE,Glass Containers,36
+HRMY,0001802665,Nasdaq,Pharmaceutical Preparations,30
+SGRY,0001638833,Nasdaq,"Services-General Medical & Surgical Hospitals, NEC",30
+WERN,0000793074,Nasdaq,Trucking (No Local),30
+CLVT,0001764046,NYSE,Services-Computer Processing & Data Preparation,30
+TNDM,0001438133,Nasdaq,Surgical & Medical Instruments & Apparatus,33
+SLVM,0001856485,NYSE,Paper Mills,27
+SONO,0001314727,Nasdaq,Household Audio & Video Equipment,35
+THR,0001489096,NYSE,Electrical Industrial Apparatus,38
+GRC,0000042682,NYSE,Pumps & Pumping Equipment,32
+ASAN,0001477720,NYSE,Services-Prepackaged Software,26
+DV,0001819928,NYSE,"Services-Computer Programming, Data Processing, Etc.",28
+NWL,0000814453,Nasdaq,"Plastics Products, NEC",34
+UPWK,0001627475,Nasdaq,Services-Computer Processing & Data Preparation,30
+GBX,0000923120,NYSE,Railroad Equipment,30
+SION,0002036042,Nasdaq,Pharmaceutical Preparations,18
+ADNT,0001670541,NYSE,Motor Vehicle Parts & Accessories,31
+HLF,0001180262,NYSE,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",32
+IOVA,0001425205,Nasdaq,"Biological Products, (No Diagnostic Substances)",31
+INSP,0001609550,NYSE,Surgical & Medical Instruments & Apparatus,31
+HLMN,0001822492,Nasdaq,"Cutlery, Handtools & General Hardware",30
+GCT,0001857816,Nasdaq,Retail-Catalog & Mail-Order Houses,32
+OMCL,0000926326,Nasdaq,Electronic Computers,38
+NTLA,0001652130,Nasdaq,In Vitro & In Vivo Diagnostic Substances,25
+NRIX,0001549595,Nasdaq,Pharmaceutical Preparations,22
+LILA,0001712184,Nasdaq,Cable & Other Pay Television Services,30
+UFPT,0000914156,Nasdaq,Surgical & Medical Instruments & Apparatus,36
+TILE,0000715787,Nasdaq,Carpets & Rugs,35
+FLNG,0001772253,NYSE,Water Transportation,0
+ASGN,0000890564,NYSE,Services-Help Supply Services,33
+AMLX,0001658551,Nasdaq,Pharmaceutical Preparations,27
+STGW,0000876883,Nasdaq,Services-Advertising Agencies,29
+JBLU,0001158463,Nasdaq,"Air Transportation, Scheduled",24
+AIN,0000819793,NYSE,"Broadwoven Fabric Mills, Man Made Fiber & Silk",35
+NSSC,0000069633,Nasdaq,"Communications Equipment, NEC",36
+WINA,0000908315,Nasdaq,Retail-Miscellaneous Retail,32
+PRCT,0001588978,Nasdaq,Surgical & Medical Instruments & Apparatus,30
+FLYW,0001580560,Nasdaq,"Services-Business Services, NEC",32
+NUVB,0001811063,NYSE,Pharmaceutical Preparations,26
+ATEN,0001580808,NYSE,Computer Communications Equipment,34
+PLSE,0001625101,Nasdaq,Surgical & Medical Instruments & Apparatus,31
+VIR,0001706431,Nasdaq,"Biological Products, (No Diagnostic Substances)",31
+ARLO,0001736946,NYSE,"Services-Detective, Guard & Armored Car Services",32
+YELP,0001345016,NYSE,Services-Personal Services,28
+NVRI,0000045876,NYSE,"Services-Services, NEC",35
+AMSC,0000880807,Nasdaq,Motors & Generators,36
+INOD,0000903651,Nasdaq,Services-Computer Processing & Data Preparation,31
+PGNY,0001551306,Nasdaq,"Services-Misc Health & Allied Services, NEC",28
+ALGT,0001362468,Nasdaq,"Air Transportation, Scheduled",26
+CXM,0001569345,NYSE,Services-Prepackaged Software,29
+AVAH,0001832332,Nasdaq,Services-Home Health Care Services,28
+JJSF,0000785956,Nasdaq,Cookies & Crackers,35
+CNXN,0001050377,Nasdaq,Wholesale-Computers & Peripheral Equipment & Software,32
+ATRC,0001323885,Nasdaq,Surgical & Medical Instruments & Apparatus,34
+GLIBA,0002057463,Nasdaq,Cable & Other Pay Television Services,23
+MXL,0001288469,Nasdaq,Semiconductors & Related Devices,35
+CBZ,0000944148,NYSE,"Services-Business Services, NEC",30
+XHR,0001616000,NYSE,Hotels & Motels,19
+KOD,0001468748,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+XZO,0001873951,NYSE,Services-Prepackaged Software,24
+PRGS,0000876167,Nasdaq,Services-Prepackaged Software,36
+UAMY,0000101538,NYSE,Primary Smelting & Refining of  Nonferrous Metals,32
+SMPL,0001702744,Nasdaq,Food and Kindred Products,36
+TRVI,0001563880,Nasdaq,Pharmaceutical Preparations,21
+CTOS,0001709682,NYSE,"Services-Equipment Rental & Leasing, NEC",34
+BHVN,0001935979,NYSE,Pharmaceutical Preparations,22
+ARDX,0001437402,Nasdaq,Pharmaceutical Preparations,32
+TRS,0000842633,Nasdaq,Metal Forgings & Stampings,30
+CDNL,0002079999,Nasdaq,Heavy Construction Other Than Bldg Const - Contractors,20
+KSS,0000885639,NYSE,Retail-Department Stores,28
+AHCO,0001725255,Nasdaq,Services-Home Health Care Services,30
+PRGO,0001585364,NYSE,Pharmaceutical Preparations,36
+DFH,0001825088,NYSE,Operative Builders,23
+NVCR,0001645113,Nasdaq,Surgical & Medical Instruments & Apparatus,29
+HCSG,0000731012,Nasdaq,Services-Nursing & Personal Care Facilities,29
+DOLE,0001857475,NYSE,Agricultural Production-Crops,27
+ECVT,0001708035,NYSE,Chemicals & Allied Products,35
+LEG,0000058492,NYSE,Household Furniture,32
+SBH,0001368458,NYSE,"Retail-Retail Stores, NEC",34
+ASTH,0001083446,Nasdaq,Services-Management Consulting Services,35
+AMRC,0001488139,NYSE,Construction - Special Trade Contractors,35
+LZB,0000057131,NYSE,Household Furniture,30
+REX,0000744187,NYSE,Industrial Organic Chemicals,30
+WWW,0000110471,NYSE,"Footwear, (No Rubber)",35
+LPG,0001596993,NYSE,Deep Sea Foreign Transportation of  Freight,25
+COHU,0000021535,Nasdaq,Instruments For Meas & Testing of  Electricity & Elec Signals,34
+ORIC,0001796280,Nasdaq,Pharmaceutical Preparations,20
+PRLB,0001443669,NYSE,Fabricated Structural Metal Products,36
+GOLD,0001591588,NYSE,"Wholesale-Jewelry, Watches, Precious Stones & Metals",32
+SKYT,0001819974,Nasdaq,Semiconductors & Related Devices,32
+CTS,0000026058,NYSE,Printed Circuit Boards,35
+SFL,0001289877,NYSE,Deep Sea Foreign Transportation of  Freight,0
+ENOV,0001420800,NYSE,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",36
+OUST,0001816581,Nasdaq,"General Industrial Machinery & Equipment, NEC",32
+CDRE,0001860543,NYSE,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",33
+MBX,0001776111,Nasdaq,Pharmaceutical Preparations,20
+WEN,0000030697,Nasdaq,Retail-Eating & Drinking Places,32
+ARDT,0001756655,NYSE,"Services-General Medical & Surgical Hospitals, NEC",25
+UVV,0000102037,NYSE,Wholesale-Farm Product Raw Materials,32
+PDFS,0001120914,Nasdaq,Services-Prepackaged Software,35
+RAPP,0002012593,Nasdaq,Pharmaceutical Preparations,22
+HTZ,0001657853,Nasdaq,Services-Auto Rental & Leasing (No Drivers),24
+IRMD,0001325618,Nasdaq,Surgical & Medical Instruments & Apparatus,33
+HROW,0001360214,Nasdaq,Pharmaceutical Preparations,34
+DCH,0001062231,NYSE,Motor Vehicle Parts & Accessories,35
+QDEL,0001906324,Nasdaq,In Vitro & In Vivo Diagnostic Substances,35
+CRVS,0001626971,Nasdaq,Pharmaceutical Preparations,23
+AI,0001577526,NYSE,Services-Prepackaged Software,26
+WKC,0000789460,NYSE,Wholesale-Petroleum & Petroleum Products (No Bulk Stations),33
+PSIX,0001137091,Nasdaq,Engines & Turbines,38
+VTOL,0001525221,NYSE,"Air Transportation, Nonscheduled",31
+WLFC,0001018164,Nasdaq,"Wholesale-Machinery, Equipment & Supplies",26
+SVV,0001883313,NYSE,Retail-Miscellaneous Retail,29
+ZBIO,0001953926,Nasdaq,Pharmaceutical Preparations,21
+CRI,0001060822,NYSE,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,33
+LINC,0001286613,Nasdaq,Services-Educational Services,34
+PGEN,0001356090,Nasdaq,Pharmaceutical Preparations,34
+BCAX,0002023658,Nasdaq,Pharmaceutical Preparations,19
+TSHA,0001806310,Nasdaq,"Biological Products, (No Diagnostic Substances)",21
+FIVN,0001288847,Nasdaq,Services-Computer Processing & Data Preparation,31
+ICFI,0001362004,Nasdaq,Services-Management Consulting Services,32
+TROX,0001530804,NYSE,Industrial Inorganic Chemicals,34
+PLPC,0000080035,Nasdaq,"Water, Sewer, Pipeline, Comm & Power Line Construction",33
+MLKN,0000066382,Nasdaq,Office Furniture,37
+LNN,0000836157,NYSE,Farm Machinery & Equipment,33
+ROCK,0000912562,Nasdaq,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",35
+KMTS,0001877184,Nasdaq,Surgical & Medical Instruments & Apparatus,24
+LMRI,0002071288,Nasdaq,Services-Medical Laboratories,0
+GENI,0001834489,NYSE,Services-Miscellaneous Amusement & Recreation,0
+MAN,0000871763,NYSE,Services-Help Supply Services,28
+DFIN,0001669811,NYSE,Services-Miscellaneous Business Services,31
+GLUE,0001826457,Nasdaq,"Biological Products, (No Diagnostic Substances)",24
+ASTE,0000792987,Nasdaq,Construction Machinery & Equip,37
+NVGS,0001581804,NYSE,Deep Sea Foreign Transportation of  Freight,0
+WBTN,0001997859,Nasdaq,Miscellaneous Publishing,29
+DLX,0000027996,NYSE,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",36
+OLMA,0001750284,Nasdaq,Pharmaceutical Preparations,21
+ENR,0001632790,NYSE,"Miscellaneous Electrical Machinery, Equipment & Supplies",34
+IDT,0001005731,NYSE,Telephone Communications (No Radiotelephone),32
+REAL,0001573221,Nasdaq,Retail-Miscellaneous Retail,26
+USPH,0000885978,NYSE,Services-Health Services,31
+VIA,0001603015,NYSE,Services-Prepackaged Software,27
+NPKI,0000071829,NYSE,Services-Miscellaneous Equipment Rental & Leasing,34
+GIC,0000945114,NYSE,Wholesale-Industrial Machinery & Equipment,34
+GPRE,0001309402,Nasdaq,Industrial Organic Chemicals,33
+PZZA,0000901491,Nasdaq,Retail-Eating  Places,28
+TNC,0000097134,NYSE,Refrigeration & Service Industry Machinery,37
+DSGR,0000703604,Nasdaq,"Wholesale-Machinery, Equipment & Supplies",37
+LIND,0001512499,Nasdaq,Transportation Services,33
+EYPT,0001314102,Nasdaq,Laboratory Analytical Instruments,28
+WLDN,0001370450,Nasdaq,Services-Engineering Services,31
+CNMD,0000816956,NYSE,Electromedical & Electrotherapeutic Apparatus,34
+INNV,0001834376,Nasdaq,Services-Health Services,26
+PRG,0001808834,NYSE,"Services-Equipment Rental & Leasing, NEC",25
+BV,0001734713,NYSE,Agricultural Services,32
+MRVI,0001823239,Nasdaq,Pharmaceutical Preparations,32
+PNTG,0001766400,Nasdaq,Services-Health Services,27
+AEHR,0001040470,Nasdaq,Instruments For Meas & Testing of  Electricity & Elec Signals,33
+COLL,0001267565,Nasdaq,Pharmaceutical Preparations,37
+GLDD,0001372020,Nasdaq,Heavy Construction Other Than Bldg Const - Contractors,32
+SEPN,0001984086,Nasdaq,Pharmaceutical Preparations,23
+RZLV,0001920294,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",0
+CRML,0001951089,Nasdaq,Metal Mining,0
+TRIP,0001526520,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",31
+NAT,0001000177,NYSE,Water Transportation,0
+LZ,0001286139,Nasdaq,Services-Computer Processing & Data Preparation,28
+ENVX,0001828318,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",36
+RYZ,0001481582,NYSE,Wholesale-Metals Service Centers & of fices,34
+PLTK,0001828016,Nasdaq,Services-Computer Processing & Data Preparation,26
+GIII,0000821002,Nasdaq,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,35
+BFLY,0001804176,NYSE,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,27
+NEO,0001077183,Nasdaq,Services-Testing Laboratories,34
+ALNT,0000046129,Nasdaq,Instruments For Meas & Testing of  Electricity & Elec Signals,31
+HLIT,0000851310,Nasdaq,Radio & Tv Broadcasting & Communications Equipment,37
+ARRY,0001820721,Nasdaq,Miscellaneous Manufacturing Industries,32
+LXU,0000060714,NYSE,Industrial Inorganic Chemicals,30
+AVBP,0001868279,Nasdaq,Pharmaceutical Preparations,18
+SCL,0000094049,NYSE,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",32
+CERT,0001827090,Nasdaq,Services-Prepackaged Software,31
+AKTS,0002035832,Nasdaq,Pharmaceutical Preparations,0
+UPBD,0000933036,Nasdaq,"Services-Equipment Rental & Leasing, NEC",25
+ARHS,0001875444,Nasdaq,Retail-Furniture Stores,25
+PRSU,0000884219,NYSE,Services-Miscellaneous Amusement & Recreation,31
+SVRA,0001160308,Nasdaq,Pharmaceutical Preparations,27
+MBC,0001941365,NYSE,"Wood Household Furniture, (No Upholstered)",32
+GERN,0000886744,Nasdaq,Pharmaceutical Preparations,27
+XPEL,0001767258,Nasdaq,"Coating, Engraving & Allied Services",32
+SHLS,0001831651,Nasdaq,Semiconductors & Related Devices,30
+APEI,0001201792,Nasdaq,Services-Educational Services,32
+COUR,0001651562,NYSE,Services-Prepackaged Software,24
+CRAI,0001053706,Nasdaq,Services-Legal Services,29
+AEBI,0002048519,Nasdaq,Construction Machinery & Equip,30
+CCOI,0001158324,Nasdaq,"Communications Services, NEC",26
+AZTA,0000933974,Nasdaq,"Special Industry Machinery, NEC",37
+INBX,0002007919,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+VSTS,0001967649,NYSE,Wholesale-Miscellaneous Nondurable Goods,28
+SBGI,0001971213,Nasdaq,Television Broadcasting Stations,26
+TDOC,0001477449,NYSE,Services-Offices & Clinics of  Doctors of  Medicine,37
+DAKT,0000915779,Nasdaq,Miscellaneous Manufacturing Industries,34
+PXED,0001600222,NYSE,Services-Educational Services,24
+PCT,0001830033,Nasdaq,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",28
+VYX,0000070866,NYSE,Calculating & Accounting Machines (No Electronic Computers),30
+CMPX,0001738021,Nasdaq,"Biological Products, (No Diagnostic Substances)",21
+XERS,0001867096,Nasdaq,Pharmaceutical Preparations,34
+METC,0001687187,Nasdaq,Silver Ores,32
+CMP,0001227654,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),30
+NPK,0000080172,NYSE,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",32
+TK,0000911971,NYSE,Deep Sea Foreign Transportation of  Freight,0
+EPC,0001096752,NYSE,"Perfumes, Cosmetics & Other Toilet Preparations",38
+AMPL,0001866692,Nasdaq,Services-Prepackaged Software,25
+TDAY,0001579684,NYSE,Newspapers: Publishing or  Publishing & Printing,34
+GNK,0001326200,NYSE,Deep Sea Foreign Transportation of  Freight,26
+MRTN,0000799167,Nasdaq,Trucking (No Local),23
+PLOW,0001287213,NYSE,Construction Machinery & Equip,34
+WOOF,0001826470,Nasdaq,"Retail-Retail Stores, NEC",29
+LGIH,0001580670,Nasdaq,Operative Builders,26
+BKSY,0001753539,NYSE,Radio & Tv Broadcasting & Communications Equipment,32
+WGO,0000107687,NYSE,Motor Homes,37
+PCRX,0001396814,Nasdaq,Pharmaceutical Preparations,36
+AEVA,0001789029,Nasdaq,Motor Vehicle Parts & Accessories,29
+BLFS,0000834365,Nasdaq,Electromedical & Electrotherapeutic Apparatus,35
+TH,0001712189,Nasdaq,"Hotels, Rooming Houses, Camps & Other Lodging Places",30
+NABL,0001834488,NYSE,Services-Prepackaged Software,32
+NMAX,0002026478,NYSE,Television Broadcasting Stations,24
+EVLV,0001805385,Nasdaq,"Computer Peripheral Equipment, NEC",30
+PENG,0001616533,Nasdaq,Semiconductors & Related Devices,36
+ACEL,0001698991,NYSE,Services-Amusement & Recreation Services,31
+OPK,0000944809,Nasdaq,Pharmaceutical Preparations,37
+SDGR,0001490978,Nasdaq,Pharmaceutical Preparations,29
+FTRE,0001965040,Nasdaq,Services-Medical Laboratories,22
+CDNA,0001217234,Nasdaq,Services-Medical Laboratories,34
+URGN,0001668243,Nasdaq,Pharmaceutical Preparations,29
+GHM,0000716314,NYSE,General Industrial Machinery & Equipment,33
+LMB,0001606163,Nasdaq,Construction - Special Trade Contractors,33
+AMPH,0001297184,Nasdaq,Pharmaceutical Preparations,36
+EVEX,0001823652,NYSE,Aircraft,25
+ODC,0000074046,NYSE,Miscellaneous Manufacturing Industries,30
+EEX,0001579214,NYSE,"Services-Business Services, NEC",31
+JBSS,0000880117,Nasdaq,Sugar & Confectionery Products,33
+NSP,0001000753,NYSE,Services-Help Supply Services,30
+BIOA,0001709941,Nasdaq,Pharmaceutical Preparations,23
+STAA,0000718937,Nasdaq,Ophthalmic Goods,36
+SPRY,0001671858,Nasdaq,Pharmaceutical Preparations,28
+LQDT,0001235468,Nasdaq,"Services-Business Services, NEC",30
+SNCY,0001743907,Nasdaq,"Air Transportation, Scheduled",29
+CRCT,0001828962,Nasdaq,"Special Industry Machinery, NEC",28
+ADTN,0000926282,Nasdaq,Telephone & Telegraph Apparatus,35
+ACVA,0001637873,NYSE,"Services-Business Services, NEC",29
+AVO,0001802974,Nasdaq,Agricultural Services,33
+OMDA,0001611115,Nasdaq,Services-Health Services,29
+XNCR,0001326732,Nasdaq,Pharmaceutical Preparations,27
+THRM,0000903129,Nasdaq,Motor Vehicle Parts & Accessories,36
+SANA,0001770121,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+TALK,0001803901,Nasdaq,Services-Health Services,30
+SLS,0001390478,Nasdaq,Pharmaceutical Preparations,35
+SCHL,0000866729,Nasdaq,Books: Publishing or  Publishing & Printing,34
+PHAT,0001783183,Nasdaq,Pharmaceutical Preparations,28
+JANX,0001817713,Nasdaq,Pharmaceutical Preparations,18
+MNKD,0000899460,Nasdaq,Pharmaceutical Preparations,33
+ABUS,0001447028,Nasdaq,Pharmaceutical Preparations,28
+ANNX,0001528115,Nasdaq,Pharmaceutical Preparations,22
+KALV,0001348911,Nasdaq,Pharmaceutical Preparations,30
+OLPX,0001868726,Nasdaq,"Perfumes, Cosmetics & Other Toilet Preparations",32
+MEG,0001643615,NYSE,Services-Management Consulting Services,28
+SHEN,0000354963,Nasdaq,Telephone Communications (No Radiotelephone),35
+NX,0001423221,NYSE,Rolling Drawing & Extruding of  Nonferrous Metals,35
+MPLT,0001770069,Nasdaq,Pharmaceutical Preparations,18
+GSM,0001639877,Nasdaq,Metal Mining,0
+PRCH,0001784535,Nasdaq,Services-Prepackaged Software,29
+OMER,0001285819,Nasdaq,Pharmaceutical Preparations,31
+CGEM,0001789972,Nasdaq,"Biological Products, (No Diagnostic Substances)",23
+MYE,0000069488,NYSE,"Plastics Products, NEC",37
+EVMN,0002044725,NYSE,Pharmaceutical Preparations,20
+RYAM,0001597672,NYSE,Pulp Mills,33
+SMP,0000093389,NYSE,Motor Vehicle Parts & Accessories,32
+SCSC,0000918965,Nasdaq,Wholesale-Computers & Peripheral Equipment & Software,34
+CTLP,0000896429,Nasdaq,Calculating & Accounting Machines (No Electronic Computers),36
+MATW,0000063296,Nasdaq,Nonferrous Foundries (Castings),34
+FWRG,0001789940,Nasdaq,Retail-Eating  Places,27
+CSTL,0001447362,Nasdaq,Services-Medical Laboratories,35
+ARVN,0001655759,Nasdaq,Pharmaceutical Preparations,26
+ULCC,0001670076,Nasdaq,"Air Transportation, Scheduled",23
+STKL,0000351834,Nasdaq,Beverages,33
+JBI,0001839839,NYSE,"Metal Doors, Sash, Frames, Moldings & Trim",35
+KURA,0001422143,Nasdaq,Pharmaceutical Preparations,27
+DSP,0001828791,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",25
+PSNL,0001527753,Nasdaq,Services-Medical Laboratories,26
+BJRI,0001013488,Nasdaq,Retail-Eating  Places,28
+KOP,0001315257,NYSE,Lumber & Wood Products (No Furniture),33
+KODK,0000031235,NYSE,Photographic Equipment & Supplies,35
+HTLD,0000799233,Nasdaq,Trucking (No Local),29
+NRDS,0001625278,Nasdaq,Services-Computer Processing & Data Preparation,28
+OIS,0001121484,NYSE,Oil & Gas Field Machinery & Equipment,39
+GYRE,0001124105,Nasdaq,Pharmaceutical Preparations,35
+CBLL,0001861107,Nasdaq,Electromedical & Electrotherapeutic Apparatus,25
+BBSI,0000902791,Nasdaq,Services-Help Supply Services,27
+GDEN,0001071255,Nasdaq,Services-Miscellaneous Amusement & Recreation,34
+SERV,0001832483,Nasdaq,"General Industrial Machinery & Equipment, NEC",33
+BMBL,0001830043,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",27
+AMN,0001142750,NYSE,Services-Help Supply Services,34
+KRUS,0001772177,Nasdaq,Retail-Eating  Places,21
+APOG,0000006845,Nasdaq,"Glass Products, Made of  Purchased Glass",35
+NB,0001512228,Nasdaq,Metal Mining,20
+IART,0000917520,Nasdaq,Surgical & Medical Instruments & Apparatus,34
+SWIM,0001833197,Nasdaq,"Plastics Products, NEC",32
+LYTS,0000763532,Nasdaq,Electric Lighting & Wiring Equipment,36
+ATEX,0001304492,Nasdaq,Telephone Communications (No Radiotelephone),34
+IIIV,0001728688,Nasdaq,Services-Prepackaged Software,35
+DRUG,0001827401,Nasdaq,Pharmaceutical Preparations,0
+TBPH,0001583107,Nasdaq,Pharmaceutical Preparations,32
+NWPX,0001001385,Nasdaq,Steel Pipe & Tubes,31
+SLDP,0001844862,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",30
+VITL,0001579733,Nasdaq,Food and Kindred Products,34
+AIP,0001667011,Nasdaq,Semiconductors & Related Devices,28
+DC,0001852353,NYSE,Metal Mining,22
+UDMY,0001607939,Nasdaq,Services-Educational Services,28
+QNST,0001117297,Nasdaq,"Services-Business Services, NEC",30
+EHAB,0001803737,NYSE,Services-Home Health Care Services,25
+VTEX,0001793663,NYSE,Services-Prepackaged Software,0
+JBIO,0001798749,Nasdaq,Pharmaceutical Preparations,20
+FOXF,0001424929,Nasdaq,"Motorcycles, Bicycles & Parts",35
+DJCO,0000783412,Nasdaq,Newspapers: Publishing or  Publishing & Printing,31
+TRNS,0000099302,Nasdaq,Instruments For Meas & Testing of  Electricity & Elec Signals,34
+YEXT,0001614178,NYSE,Services-Computer Processing & Data Preparation,33
+SG,0001477815,NYSE,Retail-Eating  Places,28
+PHR,0001412408,NYSE,"Services-Business Services, NEC",31
+UTZ,0001739566,NYSE,Miscellaneous Food Preparations & Kindred Products,32
+CSV,0001016281,NYSE,Services-Personal Services,30
+PRME,0001894562,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+MAMA,0001520358,Nasdaq,Sausages & Other Prepared Meat Products,33
+NUTX,0001479681,Nasdaq,"Services-Business Services, NEC",35
+FET,0001401257,NYSE,Oil & Gas Field Machinery & Equipment,34
+MITK,0000807863,Nasdaq,"Computer Peripheral Equipment, NEC",35
+ESPR,0001434868,Nasdaq,Pharmaceutical Preparations,27
+MDXG,0001376339,Nasdaq,Surgical & Medical Instruments & Apparatus,36
+CBRL,0001067294,Nasdaq,Retail-Eating  Places,30
+PD,0001568100,NYSE,Services-Prepackaged Software,30
+HOV,0000357294,NYSE,Operative Builders,20
+RSVR,0001824403,Nasdaq,Services-Amusement & Recreation Services,28
+EVGO,0001821159,Nasdaq,"Services-Automotive Repair, Services & Parking",29
+MAX,0001818383,NYSE,"Services-Business Services, NEC",28
+AVNS,0001606498,NYSE,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",33
+AOSL,0001387467,Nasdaq,Semiconductors & Related Devices,36
+KRO,0001257640,NYSE,Industrial Inorganic Chemicals,29
+CVLG,0000928658,NYSE,Trucking (No Local),28
+DSGN,0001807120,Nasdaq,Pharmaceutical Preparations,20
+IBTA,0001538379,NYSE,Services-Advertising,28
+SWBI,0001092796,Nasdaq,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",35
+BALY,0001747079,NYSE,Hotels & Motels,32
+BZH,0000915840,NYSE,Operative Builders,24
+SABR,0001597033,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",31
+IIIN,0000764401,NYSE,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",31
+ASPI,0001921865,Nasdaq,Miscellaneous Chemical Products,33
+SB,0001434754,NYSE,Deep Sea Foreign Transportation of  Freight,0
+VLGEA,0000103595,Nasdaq,Retail-Grocery Stores,29
+HSTM,0001095565,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",30
+RGR,0000095029,NYSE,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",33
+LBRX,0001691082,Nasdaq,Pharmaceutical Preparations,17
+DNUT,0001857154,Nasdaq,Retail-Food Stores,28
+MGTX,0001735438,Nasdaq,"Biological Products, (No Diagnostic Substances)",27
+NTGR,0001122904,Nasdaq,Telephone & Telegraph Apparatus,33
+MTUS,0001598428,NYSE,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",30
+TCMD,0001027838,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+FIP,0001899883,Nasdaq,"Railroads, Line-Haul Operating",23
+BVS,0001665988,Nasdaq,Surgical & Medical Instruments & Apparatus,33
+CABO,0001632127,NYSE,Cable & Other Pay Television Services,31
+SLDB,0001707502,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+HSHP,0001959455,NYSE,Deep Sea Foreign Transportation of  Freight,0
+CNNE,0001704720,NYSE,Retail-Eating & Drinking Places,32
+SSTK,0001549346,NYSE,Services-Computer Processing & Data Preparation,32
+PAR,0000708821,NYSE,Calculating & Accounting Machines (No Electronic Computers),36
+NXDR,0001846069,NYSE,"Services-Computer Programming, Data Processing, Etc.",27
+NGVC,0001547459,NYSE,Retail-Grocery Stores,31
+TECX,0001681087,Nasdaq,"Biological Products, (No Diagnostic Substances)",25
+GOGO,0001537054,Nasdaq,"Communications Services, NEC",30
+AMWD,0000794619,Nasdaq,"Millwood, Veneer, Plywood, & Structural Wood Members",33
+AVR,0002011514,Nasdaq,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",26
+CASS,0000708781,Nasdaq,"Services-Business Services, NEC",18
+REPL,0001737953,Nasdaq,"Biological Products, (No Diagnostic Substances)",23
+AMC,0001411579,NYSE,Services-Motion Picture Theaters,31
+ASC,0001577437,NYSE,Deep Sea Foreign Transportation of  Freight,0
+CRSR,0001743759,Nasdaq,"Computer Peripheral Equipment, NEC",32
+HZO,0001057060,NYSE,Retail-Auto & Home Supply Stores,32
+GO,0001771515,Nasdaq,Retail-Grocery Stores,29
+EVER,0001640428,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",26
+GEVO,0001392380,Nasdaq,Industrial Organic Chemicals,37
+ETD,0000896156,NYSE,"Wood Household Furniture, (No Upholstered)",33
+KE,0001606757,Nasdaq,Printed Circuit Boards,30
+SIBN,0001459839,Nasdaq,Surgical & Medical Instruments & Apparatus,29
+CCSI,0001866633,Nasdaq,Services-Prepackaged Software,31
+CATX,0000728387,NYSE,Pharmaceutical Preparations,33
+ARKO,0001823794,Nasdaq,Retail-Convenience Stores,29
+IPI,0001421461,NYSE,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),31
+KRT,0001758021,Nasdaq,"Plastics Products, NEC",31
+RDVT,0001720116,Nasdaq,Services-Prepackaged Software,31
+PKE,0000076267,NYSE,"Aircraft Parts & Auxiliary Equipment, NEC",32
+ZVRA,0001434647,Nasdaq,Pharmaceutical Preparations,33
+ASIX,0001673985,NYSE,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",32
+HY,0001173514,NYSE,"Industrial Trucks, Tractors, Trailors & Stackers",36
+CTKB,0001831915,Nasdaq,Laboratory Analytical Instruments,31
+AMBQ,0001500412,NYSE,Semiconductors & Related Devices,28
+GTN,0000043196,NYSE,Television Broadcasting Stations,31
+VPG,0001487952,NYSE,Electronic Components & Accessories,36
+INDI,0001841925,Nasdaq,Semiconductors & Related Devices,33
+ERII,0001421517,Nasdaq,"Special Industry Machinery, NEC",34
+CPS,0001320461,NYSE,Motor Vehicle Parts & Accessories,34
+EBF,0000033002,NYSE,Manifold Business Forms,33
+OXM,0000075288,NYSE,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",34
+GDYN,0001743725,Nasdaq,Services-Prepackaged Software,33
+IRWD,0001446847,Nasdaq,Pharmaceutical Preparations,36
+EMBC,0001872789,Nasdaq,Surgical & Medical Instruments & Apparatus,33
+RR,0001963685,Nasdaq,"General Industrial Machinery & Equipment, NEC",27
+UPB,0002022626,Nasdaq,Pharmaceutical Preparations,21
+IDR,0001030192,NYSE,Gold and Silver Ores,30
+BBW,0001113809,NYSE,"Retail-Hobby, Toy & Game Shops",27
+FWRD,0000912728,Nasdaq,Arrangement of  Transportation of  Freight & Cargo,32
+MOV,0000072573,NYSE,"Watches, Clocks, Clockwork Operated Devices/Parts",33
+CEVA,0001173489,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",29
+FTK,0000928054,NYSE,Miscellaneous Chemical Products,39
+ADCT,0001771910,NYSE,Pharmaceutical Preparations,22
+CRMD,0001410098,Nasdaq,Pharmaceutical Preparations,31
+ALLO,0001737287,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+VNDA,0001347178,Nasdaq,Pharmaceutical Preparations,30
+ETON,0001710340,Nasdaq,Pharmaceutical Preparations,30
+RCKT,0001281895,Nasdaq,Pharmaceutical Preparations,25
+AQST,0001398733,Nasdaq,Pharmaceutical Preparations,31
+MBUU,0001590976,Nasdaq,Ship & Boat Building & Repairing,32
+MLR,0000924822,NYSE,Truck & Bus Bodies,32
+MVST,0001760689,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",31
+SXC,0001514705,NYSE,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",34
+FULC,0001680581,Nasdaq,Pharmaceutical Preparations,20
+FDMT,0001650648,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+AVIR,0001593899,Nasdaq,Pharmaceutical Preparations,25
+RIGL,0001034842,Nasdaq,Pharmaceutical Preparations,32
+MCS,0000062234,NYSE,Services-Motion Picture Theaters,28
+BLMN,0001546417,Nasdaq,Retail-Eating  Places,29
+PRTA,0001559053,Nasdaq,Pharmaceutical Preparations,28
+OFIX,0000884624,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+TRDA,0001689375,Nasdaq,Pharmaceutical Preparations,21
+FLGT,0001674930,Nasdaq,Services-Medical Laboratories,33
+CMCL,0000766011,NYSE,Gold and Silver Ores,0
+CARS,0001683606,NYSE,Services-Computer Processing & Data Preparation,28
+KFRC,0000930420,NYSE,Services-Help Supply Services,31
+VREX,0001681622,Nasdaq,"Electronic Components, NEC",35
+MATV,0001000623,NYSE,Paper Mills,37
+SCVL,0000895447,Nasdaq,Retail-Shoe Stores,30
+BBNX,0001674632,Nasdaq,Surgical & Medical Instruments & Apparatus,25
+BAND,0001514416,Nasdaq,Services-Prepackaged Software,32
+BWMN,0001847590,Nasdaq,Services-Management Consulting Services,29
+LEGH,0001436208,Nasdaq,Mobile Homes,30
+ACRS,0001557746,Nasdaq,Pharmaceutical Preparations,33
+MNRO,0000876427,Nasdaq,"Services-Automotive Repair, Services & Parking",27
+IMXI,0001683695,Nasdaq,"Services-Business Services, NEC",30
+PLAY,0001525769,Nasdaq,Retail-Eating  Places,32
+LXEO,0001907108,Nasdaq,"Biological Products, (No Diagnostic Substances)",20
+NPCE,0001528287,Nasdaq,Surgical & Medical Instruments & Apparatus,26
+JOUT,0000788329,Nasdaq,"Sporting & Athletic Goods, NEC",31
+MG,0001436126,NYSE,Services-Engineering Services,36
+TWI,0000899751,NYSE,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",37
+LRMR,0001374690,Nasdaq,Pharmaceutical Preparations,23
+PANL,0001606909,Nasdaq,Deep Sea Foreign Transportation of  Freight,27
+FEIM,0000039020,Nasdaq,Instruments For Meas & Testing of  Electricity & Elec Signals,33
+MLAB,0000724004,Nasdaq,"Industrial Instruments For Measurement, Display, and Control",39
+CODI,0001345126,NYSE,Household Furniture,37
+ABSI,0001672688,Nasdaq,Services-Commercial Physical & Biological Research,29
+TDUP,0001484778,Nasdaq,Retail-Catalog & Mail-Order Houses,31
+MYGN,0000899923,Nasdaq,In Vitro & In Vivo Diagnostic Substances,34
+RGNX,0001590877,Nasdaq,"Biological Products, (No Diagnostic Substances)",26
+ULH,0001308208,Nasdaq,Trucking (No Local),33
+ALT,0001326190,Nasdaq,Pharmaceutical Preparations,32
+GRPN,0001490281,Nasdaq,Services-Advertising Agencies,35
+ANGO,0001275187,Nasdaq,Surgical & Medical Instruments & Apparatus,34
+WEST,0001806347,Nasdaq,Beverages,33
+IHRT,0001400891,Nasdaq,Radio Broadcasting Stations,31
+RXT,0001810019,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",28
+CVGW,0001133470,Nasdaq,Agricultural Services,36
+KIDS,0001425450,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+MTW,0000061986,NYSE,Construction Machinery & Equip,35
+SATL,0001874315,Nasdaq,Radio & Tv Broadcasting & Communications Equipment,22
+AURA,0001501796,Nasdaq,"Biological Products, (No Diagnostic Substances)",19
+CYH,0001108109,NYSE,"Services-General Medical & Surgical Hospitals, NEC",30
+CTRN,0001318484,Nasdaq,Retail-Apparel & Accessory Stores,26
+SFIX,0001576942,Nasdaq,Retail-Catalog & Mail-Order Houses,25
+ABAT,0001576873,Nasdaq,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),30
+VSTM,0001526119,Nasdaq,Pharmaceutical Preparations,31
+EBS,0001367644,NYSE,Pharmaceutical Preparations,38
+NATR,0000275053,Nasdaq,Pharmaceutical Preparations,35
+DNA,0001830214,NYSE,"Biological Products, (No Diagnostic Substances)",29
+AVXL,0001314052,Nasdaq,"Biological Products, (No Diagnostic Substances)",24
+PRTH,0001653558,Nasdaq,"Services-Business Services, NEC",34
+PTLO,0001871509,Nasdaq,Retail-Eating  Places,27
+CYRX,0001124524,Nasdaq,Pharmaceutical Preparations,36
+PACB,0001299130,Nasdaq,Laboratory Analytical Instruments,35
+GLSI,0001799788,Nasdaq,Pharmaceutical Preparations,18
+PSFE,0001833835,NYSE,"Services-Business Services, NEC",0
+LOCO,0001606366,Nasdaq,Retail-Eating  Places,29
+FUBO,0001484769,NYSE,Services-Motion Picture & Video Tape Production,33
+CMCO,0001005229,Nasdaq,Construction Machinery & Equip,36
+DIN,0000049754,NYSE,Retail-Eating  Places,31
+LE,0000799288,Nasdaq,Retail-Family Clothing Stores,35
+NATH,0000069733,Nasdaq,Retail-Eating  Places,31
+ORN,0001402829,NYSE,Heavy Construction Other Than Bldg Const - Contractors,33
+AIOT,0001774170,Nasdaq,"Communications Equipment, NEC",35
+VOXR,0001907909,Nasdaq,Gold and Silver Ores,0
+ATNI,0000879585,Nasdaq,Telephone Communications (No Radiotelephone),31
+RPD,0001560327,Nasdaq,Services-Prepackaged Software,31
+ALIT,0001809104,NYSE,"Services-Business Services, NEC",29
+BGS,0001278027,NYSE,Food and Kindred Products,36
+NRC,0000070487,Nasdaq,Services-Commercial Physical & Biological Research,31
+CLFD,0000796505,Nasdaq,Telephone & Telegraph Apparatus,37
+MNPR,0001645469,Nasdaq,Pharmaceutical Preparations,19
+BNTC,0001808898,Nasdaq,Pharmaceutical Preparations,21
+SRTA,0001779128,Nasdaq,Services-Health Services,29
+AKBA,0001517022,Nasdaq,Pharmaceutical Preparations,35
+OSPN,0001044777,Nasdaq,Services-Computer Integrated Systems Design,35
+CWH,0001669779,NYSE,Retail-Auto Dealers & Gasoline Stations,31
+BXC,0001301787,NYSE,"Wholesale-Lumber, Plywood, Millwork & Wood Panels",34
+LENZ,0001815776,Nasdaq,"Biological Products, (No Diagnostic Substances)",24
+OOMA,0001327688,NYSE,Services-Computer Processing & Data Preparation,35
+IBEX,0001720420,Nasdaq,Services-Computer Processing & Data Preparation,22
+RBBN,0001708055,Nasdaq,Services-Computer Integrated Systems Design,35
+PUBM,0001422930,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",30
+VHI,0000059255,NYSE,Industrial Inorganic Chemicals,30
+MAGN,0000041719,NYSE,Paper Mills,35
+NC,0000789933,NYSE,Bituminous Coal & Lignite Surface Mining,35
+ENTA,0001177648,Nasdaq,Pharmaceutical Preparations,24
+NEXN,0001849396,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",0
+BLND,0001855747,NYSE,"Services-Computer Programming, Data Processing, Etc.",29
+PPHC,0001903508,Nasdaq,Services-Management Consulting Services,0
+NAGE,0001386570,Nasdaq,Medicinal Chemicals & Botanical Products,31
+TITN,0001409171,Nasdaq,"Retail-Retail Stores, NEC",32
+FBYD,0001937987,Nasdaq,Services-Miscellaneous Amusement & Recreation,30
+KOPN,0000771266,Nasdaq,Semiconductors & Related Devices,34
+WEAV,0001609151,NYSE,Services-Prepackaged Software,30
+HLLY,0001822928,NYSE,Motor Vehicle Parts & Accessories,31
+CADL,0001841387,Nasdaq,"Biological Products, (No Diagnostic Substances)",23
+LAB,0001162194,Nasdaq,Laboratory Analytical Instruments,39
+VMD,0001729149,Nasdaq,"Services-Misc Health & Allied Services, NEC",30
+LTBR,0001084554,Nasdaq,Industrial Inorganic Chemicals,28
+SBC,0001930313,Nasdaq,Services-Offices & Clinics of  Doctors of  Medicine,30
+DMAC,0001401040,Nasdaq,Pharmaceutical Preparations,22
+EU,0001500881,Nasdaq,Miscellaneous Metal Ores,26
+HELE,0000916789,Nasdaq,Electric Housewares & Fans,35
+MGPI,0000835011,Nasdaq,"Wholesale-Beer, Wine & Distilled Alcoholic Beverages",36
+CLMB,0000945983,Nasdaq,Wholesale-Computers & Peripheral Equipment & Software,34
+ZUMZ,0001318008,Nasdaq,Retail-Apparel & Accessory Stores,31
+HVT,0000216085,NYSE,Retail-Furniture Stores,26
+SIGA,0001010086,Nasdaq,Pharmaceutical Preparations,33
+SPIR,0001816017,NYSE,"Communications Services, NEC",30
+CTGO,0001502377,NYSE,Gold and Silver Ores,24
+PKOH,0000076282,Nasdaq,Metal Forgings & Stampings,34
+TOI,0001799191,Nasdaq,Services-Offices & Clinics of  Doctors of  Medicine,31
+GETY,0001898496,NYSE,"Services-Business Services, NEC",27
+BBCP,0001703956,Nasdaq,Construction - Special Trade Contractors,34
+NUS,0001021561,NYSE,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",34
+MEC,0001766368,NYSE,Metal Forgings & Stampings,29
+CERS,0001020214,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+KROS,0001664710,Nasdaq,Pharmaceutical Preparations,26
+HCKT,0001057379,Nasdaq,Services-Management Consulting Services,33
+DCTH,0000872912,Nasdaq,Surgical & Medical Instruments & Apparatus,30
+ONTF,0001110611,NYSE,Services-Prepackaged Software,27
+HYLN,0001759631,NYSE,Truck & Bus Bodies,33
+BBBY,0001130713,NYSE,Retail-Catalog & Mail-Order Houses,34
+LZM,0001958217,NYSE,Metal Mining,0
+QUAD,0001481792,NYSE,Commercial Printing,29
+BYND,0001655210,Nasdaq,Food and Kindred Products,29
+TSSI,0001320760,Nasdaq,Services-Management Consulting Services,32
+SPT,0001517375,Nasdaq,Services-Prepackaged Software,27
+DDD,0000910638,NYSE,Services-Prepackaged Software,34
+XOMA,0000791908,Nasdaq,Pharmaceutical Preparations,31
+NVEC,0000724910,Nasdaq,Semiconductors & Related Devices,31
+AIRO,0001927958,Nasdaq,Aircraft,29
+CLPT,0001285550,Nasdaq,Surgical & Medical Instruments & Apparatus,36
+AVNW,0001377789,Nasdaq,Radio & Tv Broadcasting & Communications Equipment,37
+ANGI,0001705110,Nasdaq,Services-Advertising,28
+NGNE,0001404644,Nasdaq,Pharmaceutical Preparations,26
+CRNC,0001768267,Nasdaq,Services-Prepackaged Software,29
+MCFT,0001638290,Nasdaq,Ship & Boat Building & Repairing,35
+ORGO,0001661181,Nasdaq,Pharmaceutical Preparations,35
+RLGT,0001171155,NYSE,Arrangement of  Transportation of  Freight & Cargo,33
+WNC,0000879526,NYSE,Truck Trailers,33
+STRT,0000933034,Nasdaq,Motor Vehicle Parts & Accessories,28
+USNA,0000896264,NYSE,Medicinal Chemicals & Botanical Products,33
+NCMI,0001377630,Nasdaq,Services-Advertising,30
+SSP,0000832428,Nasdaq,Television Broadcasting Stations,31
+LVWR,0001898795,NYSE,"Motorcycles, Bicycles & Parts",33
+EOLS,0001570562,Nasdaq,Pharmaceutical Preparations,34
+WEYS,0000106532,Nasdaq,"Wholesale-Apparel, Piece Goods & Notions",32
+RCKY,0000895456,Nasdaq,"Footwear, (No Rubber)",35
+EVH,0001628908,NYSE,Services-Management Services,33
+LXFR,0001096056,NYSE,Industrial Inorganic Chemicals,33
+PDYN,0001826681,Nasdaq,Services-Prepackaged Software,29
+ELA,0000701719,NYSE,Retail-Jewelry Stores,36
+EWCZ,0001856236,Nasdaq,Services-Personal Services,18
+BNED,0001634117,NYSE,Retail-Miscellaneous Shopping Goods Stores,33
+CARL,0001794546,Nasdaq,Surgical & Medical Instruments & Apparatus,25
+CAL,0000014707,NYSE,"Footwear, (No Rubber)",35
+PBYI,0001401667,Nasdaq,Pharmaceutical Preparations,32
+SI,0001699350,NYSE,Surgical & Medical Instruments & Apparatus,26
+RXST,0001111485,Nasdaq,Ophthalmic Goods,28
+HNST,0001530979,Nasdaq,Retail-Catalog & Mail-Order Houses,28
+ATLN,0001605888,Nasdaq,Services-Help Supply Services,34
+AMCX,0001514991,Nasdaq,Cable & Other Pay Television Services,29
+RMNI,0001635282,Nasdaq,"Services-Business Services, NEC",27
+ALCO,0000003545,Nasdaq,Agricultural Production-Crops,33
+BRCB,0002068577,Nasdaq,Retail-Eating & Drinking Places,25
+ASLE,0001754170,Nasdaq,"Wholesale-Machinery, Equipment & Supplies",34
+FHTX,0001822462,Nasdaq,Pharmaceutical Preparations,21
+CCRN,0001141103,Nasdaq,Services-Help Supply Services,32
+EVI,0000065312,NYSE,Services-Personal Services,38
+BKTI,0000002186,NYSE,Radio & Tv Broadcasting & Communications Equipment,34
+PACK,0001712463,NYSE,Converted Paper & Paperboard Prods (No Contaners/Boxes),38
+TARA,0001359931,Nasdaq,"Biological Products, (No Diagnostic Substances)",25
+FSTR,0000352825,Nasdaq,Wholesale-Metals Service Centers & of fices,32
+MTRX,0000866273,Nasdaq,Construction - Special Trade Contractors,35
+EVC,0001109116,NYSE,Television Broadcasting Stations,30
+LWAY,0000814586,Nasdaq,Dairy Products,34
+KELYA,0000055135,Nasdaq,Services-Help Supply Services,29
+XPOF,0001802156,NYSE,Services-Miscellaneous Amusement & Recreation,27
+OFLX,0001317945,Nasdaq,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",29
+ACCO,0000712034,NYSE,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",35
+TLS,0000320121,Nasdaq,Services-Computer Integrated Systems Design,36
+CIX,0001049606,NYSE,"Cutlery, Handtools & General Hardware",33
+EGHT,0001023731,Nasdaq,Services-Computer Processing & Data Preparation,38
+GCO,0000018498,NYSE,Retail-Shoe Stores,35
+SEG,0002009684,NYSE,Services-Miscellaneous Amusement & Recreation,18
+TG,0000850429,NYSE,Rolling Drawing & Extruding of  Nonferrous Metals,32
+CTEV,0001793229,NYSE,"Services-Business Services, NEC",28
+LAW,0001625641,NYSE,Services-Prepackaged Software,27
+NL,0000072162,NYSE,Industrial Inorganic Chemicals,32
+XPER,0001788999,NYSE,Services-Prepackaged Software,32
+RMR,0001644378,Nasdaq,Services-Management Consulting Services,27
+TTGT,0002018064,Nasdaq,Telegraph & Other Message Communications,28
+USAU,0000027093,Nasdaq,Metal Mining,33
+DBI,0001319947,NYSE,Retail-Shoe Stores,33
+ASPN,0001145986,NYSE,Wholesale-Lumber & Other Construction Materials,29
+OEC,0001609804,NYSE,Miscellaneous Chemical Products,32
+FENC,0001211583,Nasdaq,"Biological Products, (No Diagnostic Substances)",26
+OABI,0001846253,Nasdaq,Services-Commercial Physical & Biological Research,28
+RPAY,0001720592,Nasdaq,"Services-Business Services, NEC",31
+HDSN,0000925528,Nasdaq,"Wholesale-Machinery, Equipment & Supplies",38
+ALMU,0001828805,Nasdaq,Semiconductors & Related Devices,26
+CV,0001378325,Nasdaq,Electromedical & Electrotherapeutic Apparatus,25
+AFRI,0001903870,Nasdaq,Grain Mill Products,0
+ABEO,0000318306,Nasdaq,Pharmaceutical Preparations,35
+AGL,0001831097,NYSE,"Services-Misc Health & Allied Services, NEC",25
+ADV,0001776661,Nasdaq,"Services-Business Services, NEC",30
+CHRS,0001512762,Nasdaq,"Biological Products, (No Diagnostic Substances)",37
+MPX,0001129155,NYSE,Ship & Boat Building & Repairing,29
+ESCA,0000033488,Nasdaq,"Sporting & Athletic Goods, NEC",37
+DERM,0001867066,Nasdaq,Pharmaceutical Preparations,29
+ASUR,0000884144,Nasdaq,Services-Computer Integrated Systems Design,38
+ESOA,0001357971,Nasdaq,"Water, Sewer, Pipeline, Comm & Power Line Construction",31
+ALEC,0001653087,Nasdaq,"Biological Products, (No Diagnostic Substances)",24
+RZLT,0001509261,Nasdaq,Pharmaceutical Preparations,26
+FLXS,0000037472,Nasdaq,Household Furniture,27
+POWW,0001015383,Nasdaq,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",35
+JILL,0001687932,NYSE,"Women's, Misses':  and Juniors Outerwear",32
+LMNR,0001342423,Nasdaq,Agricultural Production-Crops,34
+EGAN,0001066194,Nasdaq,Services-Prepackaged Software,32
+EDIT,0001650664,Nasdaq,"Biological Products, (No Diagnostic Substances)",23
+TLSI,0001826667,Nasdaq,Surgical & Medical Instruments & Apparatus,27
+SLP,0001023459,Nasdaq,Services-Computer Integrated Systems Design,36
+JACK,0000807882,Nasdaq,Retail-Eating  Places,32
+SPOK,0001289945,Nasdaq,Radiotelephone Communications,29
+IKT,0001750149,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+TBRG,0001169445,Nasdaq,Services-Computer Programming Services,34
+TBCH,0001493761,Nasdaq,"Communications Equipment, NEC",36
+SKYX,0001598981,Nasdaq,Electric Lighting & Wiring Equipment,31
+KLC,0001873529,NYSE,Services-Child Day Care Services,28
+VYGR,0001640266,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+STRZ,0000929351,Nasdaq,Services-Motion Picture & Video Tape Production,28
+NVCT,0001875558,Nasdaq,Pharmaceutical Preparations,16
+ELDN,0001404281,Nasdaq,Pharmaceutical Preparations,25
+AIRJ,0001855474,Nasdaq,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,27
+JAKK,0001009829,Nasdaq,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",37
+CMRC,0001626450,Nasdaq,Services-Prepackaged Software,27
+MASS,0001555279,Nasdaq,"Measuring & Controlling Devices, NEC",31
+PLX,0001006281,NYSE,"Biological Products, (No Diagnostic Substances)",26
+HUMA,0001818382,Nasdaq,"Biological Products, (No Diagnostic Substances)",28
+MDWD,0001593984,Nasdaq,Medicinal Chemicals & Botanical Products,0
+HBB,0001709164,NYSE,Electric Housewares & Fans,33
+QTRX,0001503274,Nasdaq,Laboratory Analytical Instruments,33
+CVRX,0001235912,Nasdaq,Surgical & Medical Instruments & Apparatus,28
+BYRN,0001354866,Nasdaq,"Miscellaneous Electrical Machinery, Equipment & Supplies",35
+BLZE,0001462056,Nasdaq,Services-Prepackaged Software,26
+ZIP,0001617553,NYSE,"Services-Computer Programming, Data Processing, Etc.",29
+FLWS,0001084869,Nasdaq,"Retail-Retail Stores, NEC",35
+NRDY,0001819404,NYSE,Services-Educational Services,26
+LFMD,0000948320,Nasdaq,Services-Offices & Clinics of  Doctors of  Medicine,33
+RNA,0002093101,Nasdaq,Pharmaceutical Preparations,0
+CLW,0001441236,NYSE,Paperboard Mills,32
+GENC,0000064472,NYSE,Construction Machinery & Equip,28
+CXDO,0001075736,Nasdaq,Telephone Communications (No Radiotelephone),36
+FNKO,0001704711,Nasdaq,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",31
+IMMR,0001058811,Nasdaq,"Computer Peripheral Equipment, NEC",34
+SGHT,0001531177,Nasdaq,Surgical & Medical Instruments & Apparatus,28
+ANIK,0000898437,Nasdaq,Surgical & Medical Instruments & Apparatus,36
+OSUR,0001116463,Nasdaq,Surgical & Medical Instruments & Apparatus,36
+UTMD,0000706698,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+MPAA,0000918251,Nasdaq,Motor Vehicle Parts & Accessories,34
+CURI,0001776909,Nasdaq,Services-Motion Picture & Video Tape Production,26
+QSI,0001816431,Nasdaq,"Measuring & Controlling Devices, NEC",30
+SMHI,0001690334,NYSE,Deep Sea Foreign Transportation of  Freight,31
+ELMD,0001488917,NYSE,Electromedical & Electrotherapeutic Apparatus,33
+KRMD,0000704440,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+ALTG,0001759824,NYSE,Wholesale-Industrial Machinery & Equipment,33
+INSG,0001022652,Nasdaq,"Communications Equipment, NEC",33
+KLTR,0001432133,Nasdaq,Services-Prepackaged Software,31
+MVIS,0000065770,Nasdaq,"Electronic Components, NEC",35
+WALD,0001840199,Nasdaq,"Perfumes, Cosmetics & Other Toilet Preparations",12
+III,0001371489,Nasdaq,Services-Management Consulting Services,32
+CNDT,0001677703,Nasdaq,"Services-Business Services, NEC",34
+TNXP,0001430306,Nasdaq,Pharmaceutical Preparations,32
+RICK,0000935419,Nasdaq,Retail-Eating  Places,36
+SNWV,0001417663,Nasdaq,Surgical & Medical Instruments & Apparatus,34
+MPTI,0001902314,NYSE,"Electronic Components, NEC",26
+INSE,0001615063,Nasdaq,Services-Prepackaged Software,35
+PAYS,0001496443,Nasdaq,"Services-Business Services, NEC",31
+RNAC,0001453687,Nasdaq,Pharmaceutical Preparations,26
+XRX,0001770450,Nasdaq,"Computer Peripheral Equipment, NEC",32
+MEI,0000065270,NYSE,Electronic Connectors,35
+ACH,0000075252,NYSE,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",32
+ATOM,0001420520,Nasdaq,Semiconductors & Related Devices,26
+ARCT,0001768224,Nasdaq,Pharmaceutical Preparations,23
+LUCD,0001799011,Nasdaq,Surgical & Medical Instruments & Apparatus,31
+STXS,0001289340,NYSE,Electromedical & Electrotherapeutic Apparatus,32
+TCX,0000909494,Nasdaq,Services-Computer Processing & Data Preparation,35
+FF,0001337298,NYSE,Industrial Organic Chemicals,34
+SMTI,0000714256,Nasdaq,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",34
+PAL,0001998768,Nasdaq,Transportation Services,22
+CMT,0001026655,NYSE,"Plastics Products, NEC",36
+ACU,0000002098,NYSE,"Cutlery, Handtools & General Hardware",30
+VUZI,0001463972,Nasdaq,Radio & Tv Broadcasting & Communications Equipment,34
+NNOX,0001795251,Nasdaq,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,0
+PAMT,0000798287,Nasdaq,Trucking (No Local),26
+SMID,0000924719,Nasdaq,"Concrete Products, Except Block & Brick",28
+INGN,0001294133,Nasdaq,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",36
+AIRS,0001870940,Nasdaq,Services-Offices & Clinics of  Doctors of  Medicine,25
+PMTS,0001641614,Nasdaq,Commercial Printing,34
+NKTX,0001787400,Nasdaq,Pharmaceutical Preparations,20
+UIS,0000746838,NYSE,Services-Computer Integrated Systems Design,32
+DOMO,0001505952,Nasdaq,Services-Prepackaged Software,29
+TTEC,0001013880,Nasdaq,Services-Help Supply Services,29
+RELL,0000355948,Nasdaq,"Wholesale-Electronic Parts & Equipment, NEC",29
+LFCR,0001005286,Nasdaq,Pharmaceutical Preparations,38
+HRTX,0000818033,Nasdaq,Pharmaceutical Preparations,28
+PDEX,0000788920,Nasdaq,Surgical & Medical Instruments & Apparatus,36
+LOVE,0001701758,Nasdaq,Retail-Furniture Stores,34
+SGC,0000095574,Nasdaq,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,33
+USGO,0001947244,Nasdaq,Gold and Silver Ores,22
+TKNO,0001850902,Nasdaq,In Vitro & In Vivo Diagnostic Substances,32
+SVCO,0001943289,Nasdaq,Services-Prepackaged Software,28
+HQI,0001140102,Nasdaq,Services-Help Supply Services,30
+SKIN,0001818093,Nasdaq,Surgical & Medical Instruments & Apparatus,34
+NPWR,0001845437,NYSE,Electrical Industrial Apparatus,29
+TRAK,0000050471,NYSE,Services-Computer Processing & Data Preparation,27
+FC,0000886206,NYSE,Services-Management Services,35
+SPWR,0001838987,Nasdaq,Construction - Special Trade Contractors,34
+ONEW,0001772921,Nasdaq,Retail-Auto & Home Supply Stores,29
+RCMT,0000700841,Nasdaq,Services-Help Supply Services,32
+BARK,0001819574,NYSE,"Retail-Retail Stores, NEC",29
+DMRC,0001438231,Nasdaq,Services-Computer Integrated Systems Design,33
+RCEL,0001762303,Nasdaq,Surgical & Medical Instruments & Apparatus,27
+GAMB,0001839799,Nasdaq,Services-Miscellaneous Amusement & Recreation,0
+CDXS,0001200375,Nasdaq,Industrial Organic Chemicals,34
+ISPR,0001948455,Nasdaq,Cigarettes,28
+FATE,0001434316,Nasdaq,"Biological Products, (No Diagnostic Substances)",25
+CRDF,0001213037,Nasdaq,"Biological Products, (No Diagnostic Substances)",28
+FTLF,0001374328,Nasdaq,Medicinal Chemicals & Botanical Products,35
+BZAI,0001871638,Nasdaq,Semiconductors & Related Devices,26
+CURV,0001792781,NYSE,Retail-Apparel & Accessory Stores,26
+FRD,0000039092,Nasdaq,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",30
+KULR,0001662684,NYSE,Electronic Components & Accessories,32
+OPRX,0001448431,Nasdaq,"Services-Business Services, NEC",33
+BSET,0000010329,Nasdaq,"Wood Household Furniture, (No Upholstered)",35
+JELD,0001674335,NYSE,"Millwood, Veneer, Plywood, & Structural Wood Members",35
+KRRO,0001703647,Nasdaq,Pharmaceutical Preparations,23
+EML,0000031107,Nasdaq,"Cutlery, Handtools & General Hardware",37
+RGP,0001084765,Nasdaq,"Services-Business Services, NEC",29
+ACNT,0000095953,Nasdaq,Chemicals & Allied Products,37
+THRY,0001556739,Nasdaq,Services-Advertising,30
+FORR,0001023313,Nasdaq,"Services-Engineering, Accounting, Research, Management",29
+HURA,0001498382,Nasdaq,Pharmaceutical Preparations,30
+DH,0001861795,Nasdaq,Services-Prepackaged Software,30
+AARD,0001774857,Nasdaq,Pharmaceutical Preparations,19
+MAPS,0001779474,Nasdaq,Services-Prepackaged Software,28
+MRDN,0001437925,Nasdaq,Services-Prepackaged Software,36
+MED,0000910329,NYSE,Miscellaneous Food Preparations & Kindred Products,31
+GOSS,0001728117,Nasdaq,Pharmaceutical Preparations,24
+TBI,0000768899,NYSE,Services-Help Supply Services,32
+BRCC,0001891101,NYSE,Beverages,26
+BOOM,0000034067,Nasdaq,Miscellaneous Primary Metal Products,35
+CLAR,0000913277,Nasdaq,"Sporting & Athletic Goods, NEC",38
+AREN,0000894871,NYSE,Cable & Other Pay Television Services,33
+AOUT,0001808997,Nasdaq,"Sporting & Athletic Goods, NEC",32
+CRMT,0000799850,Nasdaq,Retail-Auto Dealers & Gasoline Stations,26
+AVD,0000005981,NYSE,Agricultural Chemicals,34
+VIRC,0000751365,Nasdaq,Public Bldg & Related Furniture,29
+HFFG,0001680873,Nasdaq,Wholesale-Groceries & Related Products,34
+TMCI,0001630627,Nasdaq,Surgical & Medical Instruments & Apparatus,30
+SEAT,0001856031,Nasdaq,Services-Miscellaneous Amusement & Recreation,26
+CSPI,0000356037,Nasdaq,Services-Computer Integrated Systems Design,34
+AISP,0001842566,Nasdaq,Services-Prepackaged Software,26
+ATYR,0001339970,Nasdaq,"Biological Products, (No Diagnostic Substances)",22
+SSTI,0001351636,Nasdaq,Services-Prepackaged Software,34
+HCAT,0001636422,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",28
+ZVIA,0001854139,NYSE,Bottled & Canned Soft Drinks & Carbonated Waters,28
+MXCT,0001287098,Nasdaq,Services-Commercial Physical & Biological Research,31
+LAKE,0000798081,Nasdaq,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",38
+STIM,0001227636,Nasdaq,Surgical & Medical Instruments & Apparatus,31
+LNSR,0001320350,Nasdaq,Surgical & Medical Instruments & Apparatus,27
+COOK,0001857853,NYSE,Household Appliances,29
+SAFX,0002019793,Nasdaq,Industrial Organic Chemicals,25
+VGAS,0001841425,Nasdaq,Industrial Organic Chemicals,22
+ARQ,0001515156,Nasdaq,Miscellaneous Chemical Products,34
+ALDX,0001341235,Nasdaq,Pharmaceutical Preparations,21
+GAIA,0001089872,Nasdaq,Services-Motion Picture & Video Tape Production,35
+DCGO,0001822359,Nasdaq,Services-Health Services,30
+SNBR,0000827187,Nasdaq,Household Furniture,33
+AEYE,0001362190,Nasdaq,Services-Prepackaged Software,30
+FFAI,0001805521,Nasdaq,Motor Vehicles & Passenger Car Bodies,29
+EXFY,0001476840,Nasdaq,Services-Prepackaged Software,28
+TEAD,0001454938,Nasdaq,"Services-Computer Programming, Data Processing, Etc.",31
+TZOO,0001133311,Nasdaq,Services-Advertising,34
+SLSN,0000883107,Nasdaq,"Perfumes, Cosmetics & Other Toilet Preparations",28
+NXXT,0001817004,Nasdaq,Retail-Auto Dealers & Gasoline Stations,29
+LUNG,0001127537,Nasdaq,Surgical & Medical Instruments & Apparatus,34
+OM,0001484612,Nasdaq,Electromedical & Electrotherapeutic Apparatus,28
+MYPS,0001823878,Nasdaq,Services-Prepackaged Software,27
+BTMD,0001819253,Nasdaq,Medicinal Chemicals & Botanical Products,30
+HAIN,0000910406,Nasdaq,Food and Kindred Products,35
+ACTU,0001652935,Nasdaq,Pharmaceutical Preparations,16
+LFVN,0000849146,Nasdaq,Pharmaceutical Preparations,37
+VRM,0001580864,Nasdaq,Retail-Auto Dealers & Gasoline Stations,33
+ARAY,0001138723,Nasdaq,Surgical & Medical Instruments & Apparatus,35
+SLND,0001883814,NYSE,Heavy Construction Other Than Bldg Const - Contractors,30
+MKTW,0001805651,Nasdaq,Services-Prepackaged Software,30
+TVRD,0001346830,Nasdaq,Pharmaceutical Preparations,28
+INMB,0001711754,Nasdaq,"Biological Products, (No Diagnostic Substances)",24
+SKIL,0001774675,NYSE,Services-Prepackaged Software,32
+MYO,0001369290,NYSE,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",30
+NEON,0000087050,Nasdaq,"Electronic Components, NEC",31
+TVGN,0001860871,Nasdaq,"Biological Products, (No Diagnostic Substances)",21
+ZSPC,0001637147,Nasdaq,Services-Prepackaged Software,25
+OPTU,0001702780,NYSE,Cable & Other Pay Television Services,31
+Z,0001617640,Nasdaq,"Services-Business Services, NEC",32
+NWS,0001564708,Nasdaq,Newspapers: Publishing or  Publishing & Printing,30
+LBRDK,0001611983,Nasdaq,Cable & Other Pay Television Services,30
+RUSHB,0001012019,Nasdaq,Retail-Auto Dealers & Gasoline Stations,31
+LBTYK,0001570585,Nasdaq,Cable & Other Pay Television Services,28
+BATRK,0001958140,Nasdaq,Services-Amusement & Recreation Services,22
+BELFB,0000729580,Nasdaq,"Electronic Coils, Transformers & Other Inductors",35
+UA,0001336917,NYSE,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,30
+CENTA,0000887733,Nasdaq,Wholesale-Miscellaneous Nondurable Goods,33
+LILAK,0001712184,Nasdaq,Cable & Other Pay Television Services,30
+SENEA,0000088948,Nasdaq,"Canned, Fruits, Veg, Preserves, Jams & Jellies",30
+BH,0001726173,NYSE,Retail-Eating  Places,32
+GLIBK,0002057463,Nasdaq,Cable & Other Pay Television Services,23
+LLYVK,0002078416,Nasdaq,Services-Amusement & Recreation Services,22
