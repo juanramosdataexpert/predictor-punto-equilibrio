@@ -1,0 +1,2390 @@
+ticker,sector,end,Y,ano_test,prob_breakeven_oof
+AAOI,Semiconductors & Related Devices,2018-03-31,0.0,2018,0.8008909796107583
+AAOI,Semiconductors & Related Devices,2018-06-30,0.0,2018,0.85650059010246
+AAOI,Semiconductors & Related Devices,2018-12-31,0.0,2018,0.7771544317515329
+ACIW,Services-Prepackaged Software,2018-06-30,1.0,2018,0.932793561391316
+AEIS,"Electronic Components, NEC",2018-06-30,0.0,2018,0.9179440636538927
+AEYE,Services-Prepackaged Software,2018-03-31,0.0,2018,0.05103436935505879
+AEYE,Services-Prepackaged Software,2018-06-30,0.0,2018,0.08720764473132761
+AEYE,Services-Prepackaged Software,2018-09-30,0.0,2018,0.12854063564473844
+AEYE,Services-Prepackaged Software,2018-12-31,0.0,2018,0.18924244616059083
+AGYS,Services-Computer Integrated Systems Design,2018-06-30,0.0,2018,0.5551850740499683
+AGYS,Services-Computer Integrated Systems Design,2018-09-30,1.0,2018,0.6253764201784364
+AIOT,"Communications Equipment, NEC",2018-09-30,0.0,2018,0.603803603168705
+AIOT,"Communications Equipment, NEC",2018-12-31,0.0,2018,0.5434963865309481
+ALRM,Services-Prepackaged Software,2018-06-30,1.0,2018,0.8248531059676647
+AMBA,Semiconductors & Related Devices,2018-07-31,1.0,2018,0.8624854663513023
+AMKR,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.8777414318270933
+AOSL,Semiconductors & Related Devices,2018-03-31,1.0,2018,0.7499375078951929
+AOSL,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.8275802740160254
+APPF,Services-Prepackaged Software,2018-06-30,1.0,2018,0.7844203840356483
+APPN,Services-Prepackaged Software,2018-03-31,0.0,2018,0.5700986890498101
+APPN,Services-Prepackaged Software,2018-06-30,1.0,2018,0.6241920308512314
+APPN,Services-Prepackaged Software,2018-09-30,1.0,2018,0.4407939116679368
+APPN,Services-Prepackaged Software,2018-12-31,1.0,2018,0.6643496027209344
+ASUR,Services-Computer Integrated Systems Design,2018-03-31,0.0,2018,0.7629657275646846
+ASUR,Services-Computer Integrated Systems Design,2018-06-30,1.0,2018,0.5886246574186379
+ASUR,Services-Computer Integrated Systems Design,2018-09-30,1.0,2018,0.7774825231391671
+ASUR,Services-Computer Integrated Systems Design,2018-12-31,1.0,2018,0.8294172800168128
+ATEN,Computer Communications Equipment,2018-03-31,0.0,2018,0.6504356266424487
+ATEN,Computer Communications Equipment,2018-06-30,0.0,2018,0.7381513414524619
+ATEN,Computer Communications Equipment,2018-09-30,0.0,2018,0.6321347568366575
+ATOM,Semiconductors & Related Devices,2018-03-31,0.0,2018,0.10675409293631813
+ATOM,Semiconductors & Related Devices,2018-06-30,0.0,2018,0.1549275461386357
+ATOM,Semiconductors & Related Devices,2018-09-30,0.0,2018,0.12199864126630167
+ATOM,Semiconductors & Related Devices,2018-12-31,0.0,2018,0.1369633729789785
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2018-03-30,0.0,2018,0.4838279063609134
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2018-09-28,1.0,2018,0.4699792777884212
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2018-12-28,1.0,2018,0.6958334042078036
+BELFA,"Electronic Coils, Transformers & Other Inductors",2018-06-30,1.0,2018,0.9249281792076612
+BELFB,"Electronic Coils, Transformers & Other Inductors",2018-06-30,1.0,2018,0.9249281792076612
+BILL,Services-Prepackaged Software,2018-06-30,1.0,2018,0.4006313479833616
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2018-12-31,0.0,2018,0.2950998473940728
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2018-03-31,1.0,2018,0.662646571755116
+BLKB,Services-Prepackaged Software,2018-06-30,1.0,2018,0.9019518990429858
+BOX,Services-Prepackaged Software,2018-07-31,1.0,2018,0.8836770483585817
+CACI,Services-Computer Integrated Systems Design,2018-12-31,1.0,2018,0.9573773091690077
+CARG,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.6331921395984998
+CARS,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.8739371428556739
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2018-06-30,1.0,2018,0.739841182255369
+CLVT,Services-Computer Processing & Data Preparation,2018-12-31,1.0,2018,0.5836843682475047
+CMRC,Services-Prepackaged Software,2018-12-31,0.0,2018,0.5411446115541809
+CRUS,Semiconductors & Related Devices,2018-09-29,1.0,2018,0.9388830970043974
+CSGS,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.9451783318987024
+CSPI,Services-Computer Integrated Systems Design,2018-03-31,0.0,2018,0.6039796583733031
+CSPI,Services-Computer Integrated Systems Design,2018-12-31,0.0,2018,0.3887008635773
+CVLT,Services-Prepackaged Software,2018-09-30,1.0,2018,0.9279995032237882
+DBX,Services-Prepackaged Software,2018-06-30,1.0,2018,0.88453709033752
+DDD,Services-Prepackaged Software,2018-03-31,0.0,2018,0.7758023965203494
+DDD,Services-Prepackaged Software,2018-06-30,0.0,2018,0.9566794111362691
+DDD,Services-Prepackaged Software,2018-09-30,0.0,2018,0.8389130906358129
+DGII,Computer Communications Equipment,2018-03-31,1.0,2018,0.6465875459725596
+DGII,Computer Communications Equipment,2018-06-30,1.0,2018,0.4968447734688384
+DIOD,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.9464869030786434
+DMRC,Services-Computer Integrated Systems Design,2018-03-31,0.0,2018,0.20086396475445206
+DMRC,Services-Computer Integrated Systems Design,2018-06-30,0.0,2018,0.4187475027751755
+DMRC,Services-Computer Integrated Systems Design,2018-09-30,0.0,2018,0.29078416038826416
+DMRC,Services-Computer Integrated Systems Design,2018-12-31,0.0,2018,0.2855336058202287
+DOMO,Services-Prepackaged Software,2018-01-31,0.0,2018,0.7050488074740423
+DOMO,Services-Prepackaged Software,2018-04-30,0.0,2018,0.485491609019146
+DOMO,Services-Prepackaged Software,2018-10-31,0.0,2018,0.695111068522926
+DT,Services-Prepackaged Software,2018-09-30,0.0,2018,0.7351752655419739
+DXC,Services-Computer Processing & Data Preparation,2018-09-30,1.0,2018,0.9121989131615387
+EGAN,Services-Prepackaged Software,2018-03-31,1.0,2018,0.617934802243348
+EGAN,Services-Prepackaged Software,2018-06-30,1.0,2018,0.6174877933166614
+EGHT,Services-Computer Processing & Data Preparation,2018-09-30,0.0,2018,0.7393287080484496
+EGHT,Services-Computer Processing & Data Preparation,2018-12-31,0.0,2018,0.5301088707305794
+EPAM,Services-Computer Programming Services,2018-06-30,1.0,2018,0.9530046547201617
+ESE,"Communications Equipment, NEC",2018-03-31,1.0,2018,0.9568178963077426
+ESTC,Services-Prepackaged Software,2018-01-31,0.0,2018,0.44517979866935786
+ESTC,Services-Prepackaged Software,2018-04-30,1.0,2018,0.720063148071969
+EVER,"Services-Computer Programming, Data Processing, Etc.",2018-03-31,0.0,2018,0.31816282528387574
+EVER,"Services-Computer Programming, Data Processing, Etc.",2018-06-30,0.0,2018,0.31274840314652963
+EVER,"Services-Computer Programming, Data Processing, Etc.",2018-09-30,1.0,2018,0.3870524535978432
+EVTC,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.9290563445455333
+EXTR,Computer Communications Equipment,2018-03-31,1.0,2018,0.8314827551663273
+FDS,"Services-Computer Programming, Data Processing, Etc.",2018-02-28,1.0,2018,0.9510993206523469
+FFIV,Computer Communications Equipment,2018-03-31,1.0,2018,0.9191746030818481
+FORM,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.928967293929587
+FSLY,Services-Prepackaged Software,2018-09-30,0.0,2018,0.45783765106963714
+FSLY,Services-Prepackaged Software,2018-12-31,0.0,2018,0.5663882263843645
+GEN,Services-Prepackaged Software,2018-09-28,1.0,2018,0.8602831472760589
+GWRE,Services-Prepackaged Software,2018-01-31,1.0,2018,0.9062076806325821
+GWRE,Services-Prepackaged Software,2018-10-31,0.0,2018,0.8000862087389831
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2018-09-30,0.0,2018,0.46224574206683045
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2018-12-31,0.0,2018,0.5797029947541967
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2018-06-30,1.0,2018,0.8696781589976164
+ICHR,Semiconductors & Related Devices,2018-03-30,1.0,2018,0.8031012425241126
+ICHR,Semiconductors & Related Devices,2018-06-29,0.0,2018,0.9031415261628137
+ICHR,Semiconductors & Related Devices,2018-09-28,1.0,2018,0.8540511422598365
+IMMR,"Computer Peripheral Equipment, NEC",2018-12-31,0.0,2018,0.23805764798768084
+INOD,Services-Computer Processing & Data Preparation,2018-12-31,1.0,2018,0.7289082414150658
+INSE,Services-Prepackaged Software,2018-03-31,1.0,2018,0.7080792218507842
+INSG,"Communications Equipment, NEC",2018-03-31,1.0,2018,0.32710757429560533
+INSG,"Communications Equipment, NEC",2018-09-30,0.0,2018,0.5041274199217252
+IPGP,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.9509389413710849
+JKHY,Services-Computer Integrated Systems Design,2018-12-31,1.0,2018,0.90382278503054
+KOPN,Semiconductors & Related Devices,2018-03-31,0.0,2018,0.1201386785798357
+KOPN,Semiconductors & Related Devices,2018-09-29,0.0,2018,0.1277257240149361
+KOPN,Semiconductors & Related Devices,2018-12-29,0.0,2018,0.17195868214218535
+KULR,Electronic Components & Accessories,2018-03-31,0.0,2018,0.1325423327223033
+KULR,Electronic Components & Accessories,2018-06-30,0.0,2018,0.12634284691303652
+KULR,Electronic Components & Accessories,2018-09-30,0.0,2018,0.11700637997768618
+KULR,Electronic Components & Accessories,2018-12-31,0.0,2018,0.16428838573180643
+LASR,Semiconductors & Related Devices,2018-03-31,0.0,2018,0.6830474643977358
+LASR,Semiconductors & Related Devices,2018-06-30,0.0,2018,0.5650441325361206
+LITE,"Communications Equipment, NEC",2018-12-29,1.0,2018,0.8380665696710708
+LSCC,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.915059830392845
+MANH,Services-Prepackaged Software,2018-06-30,1.0,2018,0.831021981953931
+MEI,Electronic Connectors,2018-10-27,1.0,2018,0.9504557681517238
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2018-03-31,0.0,2018,0.6708078219722168
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2018-06-30,1.0,2018,0.7896874947510022
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2018-09-30,1.0,2018,0.49949344046983285
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2018-12-31,1.0,2018,0.5957230632214335
+MITK,"Computer Peripheral Equipment, NEC",2018-03-31,1.0,2018,0.4601240209566655
+MRDN,Services-Prepackaged Software,2018-01-31,1.0,2018,0.10293125002489273
+MTCH,"Services-Computer Programming, Data Processing, Etc.",2018-06-30,1.0,2018,0.8663676173034593
+MTSI,Semiconductors & Related Devices,2018-03-30,1.0,2018,0.9391066394333116
+MVIS,"Electronic Components, NEC",2018-03-31,0.0,2018,0.17387253111054773
+MVIS,"Electronic Components, NEC",2018-06-30,0.0,2018,0.2914482929902427
+MVIS,"Electronic Components, NEC",2018-09-30,0.0,2018,0.4988118888495175
+MVIS,"Electronic Components, NEC",2018-12-31,0.0,2018,0.14164953842884453
+MXL,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.86756161185901
+NEON,"Electronic Components, NEC",2018-03-31,0.0,2018,0.40143867299108255
+NEON,"Electronic Components, NEC",2018-09-30,0.0,2018,0.28369636350520455
+NEON,"Electronic Components, NEC",2018-12-31,0.0,2018,0.35910070024623186
+NTCT,Services-Computer Integrated Systems Design,2018-09-30,1.0,2018,0.9410761052724992
+OLED,Electronic Components & Accessories,2018-06-30,1.0,2018,0.8840593152740357
+OOMA,Services-Computer Processing & Data Preparation,2018-07-31,0.0,2018,0.8095216380004844
+OOMA,Services-Computer Processing & Data Preparation,2018-10-31,0.0,2018,0.5199485171562179
+OSIS,Semiconductors & Related Devices,2018-09-30,1.0,2018,0.8209888062367325
+OSIS,Semiconductors & Related Devices,2018-12-31,1.0,2018,0.9752304963588654
+OSPN,Services-Computer Integrated Systems Design,2018-06-30,0.0,2018,0.5475581616363043
+OSPN,Services-Computer Integrated Systems Design,2018-09-30,0.0,2018,0.4652854873507619
+PCTY,Services-Prepackaged Software,2018-12-31,1.0,2018,0.8990256576870197
+PD,Services-Prepackaged Software,2018-01-31,0.0,2018,0.47756576432817965
+PD,Services-Prepackaged Software,2018-04-30,0.0,2018,0.39275540115212026
+PDFS,Services-Prepackaged Software,2018-09-30,1.0,2018,0.6468453500086178
+PEGA,Services-Computer Processing & Data Preparation,2018-06-30,0.0,2018,0.9149073050350254
+PEGA,Services-Computer Processing & Data Preparation,2018-09-30,0.0,2018,0.7392250707399424
+PI,"Electronic Components, NEC",2018-03-31,1.0,2018,0.35517029225248065
+PI,"Electronic Components, NEC",2018-09-30,1.0,2018,0.5668917190160407
+PI,"Electronic Components, NEC",2018-12-31,1.0,2018,0.46781449065691016
+PLAB,Semiconductors & Related Devices,2018-04-29,0.0,2018,0.9646581115994581
+POWI,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.8825481445152767
+PRGS,Services-Prepackaged Software,2018-05-31,1.0,2018,0.928402297660814
+PSN,Services-Computer Integrated Systems Design,2018-03-30,0.0,2018,0.7806796072910925
+PSN,Services-Computer Integrated Systems Design,2018-06-29,1.0,2018,0.7110633509291342
+PSTG,Computer Storage Devices,2018-07-31,1.0,2018,0.893814547102145
+QLYS,Services-Prepackaged Software,2018-06-30,1.0,2018,0.9546476914123044
+QRVO,Semiconductors & Related Devices,2018-09-29,1.0,2018,0.9566379943391733
+QTWO,Services-Prepackaged Software,2018-03-31,0.0,2018,0.5262232907319094
+QTWO,Services-Prepackaged Software,2018-06-30,0.0,2018,0.8356111261424397
+QUBT,Services-Prepackaged Software,2018-03-31,0.0,2018,0.3292163713877802
+QUBT,Services-Prepackaged Software,2018-06-30,0.0,2018,0.3438314647524038
+QUBT,Services-Prepackaged Software,2018-09-30,0.0,2018,0.3375319122840017
+QUBT,Services-Prepackaged Software,2018-12-31,0.0,2018,0.5444429448716275
+RBBN,Services-Computer Integrated Systems Design,2018-06-30,1.0,2018,0.8367558312652925
+RBBN,Services-Computer Integrated Systems Design,2018-09-30,1.0,2018,0.7838730684624904
+RCAT,Services-Prepackaged Software,2018-03-31,1.0,2018,0.18032609730403834
+RCAT,Services-Prepackaged Software,2018-07-31,0.0,2018,0.3146092107434163
+RCAT,Services-Prepackaged Software,2018-10-31,0.0,2018,0.3162681462536913
+RCAT,Services-Prepackaged Software,2018-12-31,0.0,2018,0.07133932740982868
+RDVT,Services-Prepackaged Software,2018-03-31,0.0,2018,0.3317589372122043
+RDVT,Services-Prepackaged Software,2018-06-30,0.0,2018,0.7356336870963124
+RDVT,Services-Prepackaged Software,2018-09-30,1.0,2018,0.47315529674269
+RDVT,Services-Prepackaged Software,2018-12-31,1.0,2018,0.5733094051013421
+RMBS,Semiconductors & Related Devices,2018-09-30,1.0,2018,0.7341577947435592
+RNG,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.8094400155550732
+RPD,Services-Prepackaged Software,2018-06-30,0.0,2018,0.7680587583213526
+RPD,Services-Prepackaged Software,2018-09-30,0.0,2018,0.7718324316043847
+SAIC,Services-Computer Integrated Systems Design,2018-08-03,1.0,2018,0.9511989978037709
+SITM,Semiconductors & Related Devices,2018-12-31,1.0,2018,0.5931597794815495
+SLAB,Semiconductors & Related Devices,2018-06-30,1.0,2018,0.9572213204752684
+SLP,Services-Computer Integrated Systems Design,2018-02-28,1.0,2018,0.7074603020897308
+SPSC,Services-Prepackaged Software,2018-06-30,1.0,2018,0.8310640468086814
+SPT,Services-Prepackaged Software,2018-12-31,0.0,2018,0.5736955165520805
+SSTI,Services-Prepackaged Software,2018-03-31,1.0,2018,0.549798455404336
+SSTI,Services-Prepackaged Software,2018-06-30,1.0,2018,0.781217541283499
+SSTI,Services-Prepackaged Software,2018-12-31,1.0,2018,0.6599564258664401
+SSTK,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.9477993531921378
+SYNA,Semiconductors & Related Devices,2018-12-31,1.0,2018,0.950247532085835
+TBCH,"Communications Equipment, NEC",2018-09-30,1.0,2018,0.7976508393698639
+TBRG,Services-Computer Programming Services,2018-06-30,1.0,2018,0.840711620802575
+TCX,Services-Computer Processing & Data Preparation,2018-06-30,1.0,2018,0.8042489382032334
+TDC,Services-Prepackaged Software,2018-06-30,0.0,2018,0.8742687014245903
+TDC,Services-Prepackaged Software,2018-09-30,0.0,2018,0.8623647200095487
+TENB,Services-Prepackaged Software,2018-09-30,0.0,2018,0.6647615776925822
+TENB,Services-Prepackaged Software,2018-12-31,0.0,2018,0.6268576674478624
+U,Services-Prepackaged Software,2018-12-31,0.0,2018,0.7036346866885672
+UCTT,Semiconductors & Related Devices,2018-06-29,1.0,2018,0.9035288465420267
+UIS,Services-Computer Integrated Systems Design,2018-03-31,0.0,2018,0.5874091097834337
+UIS,Services-Computer Integrated Systems Design,2018-06-30,0.0,2018,0.8320599051730716
+UIS,Services-Computer Integrated Systems Design,2018-09-30,0.0,2018,0.6953336164632732
+UPWK,Services-Computer Processing & Data Preparation,2018-09-30,0.0,2018,0.8257052000170815
+VICR,"Electronic Components, NEC",2018-03-31,1.0,2018,0.68268389254951
+VISN,Radio & Tv Broadcasting & Communications Equipment,2018-06-30,0.0,2018,0.9391895846123348
+VPG,Electronic Components & Accessories,2018-06-30,1.0,2018,0.8467228623187668
+VREX,"Electronic Components, NEC",2018-03-30,1.0,2018,0.9390440816568857
+VRNS,Services-Prepackaged Software,2018-09-30,0.0,2018,0.6648609226557667
+VSH,Electronic Components & Accessories,2018-09-29,1.0,2018,0.9476482657880068
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2018-03-31,0.0,2018,0.15702255455683012
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2018-09-30,0.0,2018,0.17088241124134051
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2018-12-31,0.0,2018,0.19084079059928255
+WK,Services-Prepackaged Software,2018-06-30,1.0,2018,0.6487720056525281
+YEXT,Services-Computer Processing & Data Preparation,2018-01-31,1.0,2018,0.6130164559627607
+YEXT,Services-Computer Processing & Data Preparation,2018-10-31,0.0,2018,0.5366346093426784
+AAOI,Semiconductors & Related Devices,2019-06-30,0.0,2019,0.7490099151542686
+AAOI,Semiconductors & Related Devices,2019-09-30,0.0,2019,0.5797121638031952
+AAOI,Semiconductors & Related Devices,2019-12-31,0.0,2019,0.6222145596598638
+ACIW,Services-Prepackaged Software,2019-06-30,1.0,2019,0.9598364239230418
+AEIS,"Electronic Components, NEC",2019-06-30,1.0,2019,0.851647400090421
+AEYE,Services-Prepackaged Software,2019-03-31,0.0,2019,0.10066030979490084
+AEYE,Services-Prepackaged Software,2019-06-30,0.0,2019,0.12182309760243754
+AEYE,Services-Prepackaged Software,2019-09-30,1.0,2019,0.15211654043172232
+AEYE,Services-Prepackaged Software,2019-12-31,1.0,2019,0.21420553053038888
+AGYS,Services-Computer Integrated Systems Design,2019-06-30,1.0,2019,0.4123263521726343
+AGYS,Services-Computer Integrated Systems Design,2019-09-30,1.0,2019,0.7486594226913876
+AI,Services-Prepackaged Software,2019-04-30,0.0,2019,0.4117012531815256
+AIOT,"Communications Equipment, NEC",2019-03-31,0.0,2019,0.3725471152255819
+AIOT,"Communications Equipment, NEC",2019-06-30,1.0,2019,0.5750863800609559
+AIOT,"Communications Equipment, NEC",2019-09-30,1.0,2019,0.5121367452352685
+AIOT,"Communications Equipment, NEC",2019-12-31,1.0,2019,0.46482584257962833
+ALKT,Services-Prepackaged Software,2019-12-31,0.0,2019,0.4038378719461473
+ALRM,Services-Prepackaged Software,2019-03-31,1.0,2019,0.6714849357035221
+ALRM,Services-Prepackaged Software,2019-06-30,1.0,2019,0.9118576702161459
+AMBA,Semiconductors & Related Devices,2019-07-31,1.0,2019,0.8022973568530283
+AMKR,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.9181820928959118
+AMPL,Services-Prepackaged Software,2019-12-31,1.0,2019,0.4020242008761037
+AOSL,Semiconductors & Related Devices,2019-03-31,1.0,2019,0.7771801169517382
+AOSL,Semiconductors & Related Devices,2019-09-30,1.0,2019,0.6870669053741485
+AOSL,Semiconductors & Related Devices,2019-12-31,1.0,2019,0.9046540858233016
+APPF,Services-Prepackaged Software,2019-06-30,1.0,2019,0.7789665239871054
+APPN,Services-Prepackaged Software,2019-03-31,1.0,2019,0.5682382968579274
+APPN,Services-Prepackaged Software,2019-09-30,0.0,2019,0.5516419015242252
+APPN,Services-Prepackaged Software,2019-12-31,0.0,2019,0.6280183025815134
+ASAN,Services-Prepackaged Software,2019-01-31,0.0,2019,0.3873608798423961
+ASUR,Services-Computer Integrated Systems Design,2019-12-31,0.0,2019,0.7929685609003789
+ATEN,Computer Communications Equipment,2019-03-31,1.0,2019,0.357522703897559
+ATEN,Computer Communications Equipment,2019-06-30,1.0,2019,0.6585263673746198
+ATOM,Semiconductors & Related Devices,2019-03-31,0.0,2019,0.20913437518641598
+ATOM,Semiconductors & Related Devices,2019-06-30,0.0,2019,0.286625491587126
+ATOM,Semiconductors & Related Devices,2019-09-30,0.0,2019,0.21713423829178174
+ATOM,Semiconductors & Related Devices,2019-12-31,0.0,2019,0.1465698369669651
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2019-06-28,1.0,2019,0.6983276178482756
+AVPT,Services-Prepackaged Software,2019-09-30,1.0,2019,0.38840784138092554
+AVPT,Services-Prepackaged Software,2019-12-31,1.0,2019,0.37355938860303595
+BAND,Services-Prepackaged Software,2019-03-31,0.0,2019,0.4242260568213486
+BAND,Services-Prepackaged Software,2019-06-30,0.0,2019,0.7502721463987054
+BELFA,"Electronic Coils, Transformers & Other Inductors",2019-03-31,1.0,2019,0.8634558221541055
+BELFB,"Electronic Coils, Transformers & Other Inductors",2019-03-31,1.0,2019,0.8634558221541055
+BILL,Services-Prepackaged Software,2019-06-30,0.0,2019,0.4014100222054901
+BILL,Services-Prepackaged Software,2019-09-30,0.0,2019,0.3553400602370522
+BILL,Services-Prepackaged Software,2019-12-31,0.0,2019,0.46351679002024926
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2019-03-31,0.0,2019,0.3007728313933917
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2019-06-30,0.0,2019,0.29360018828094736
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2019-09-30,0.0,2019,0.20224215298080062
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2019-12-31,0.0,2019,0.3646417897590159
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2019-03-31,0.0,2019,0.42460637821083247
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2019-06-30,0.0,2019,0.4709339937964082
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2019-12-31,1.0,2019,0.5672229257006796
+BL,Services-Prepackaged Software,2019-06-30,1.0,2019,0.7690491637540973
+BLKB,Services-Prepackaged Software,2019-03-31,0.0,2019,0.8025926831222137
+BLKB,Services-Prepackaged Software,2019-06-30,1.0,2019,0.9456311894815759
+BLND,"Services-Computer Programming, Data Processing, Etc.",2019-12-31,0.0,2019,0.5099745739812072
+BOX,Services-Prepackaged Software,2019-07-31,1.0,2019,0.86932236027729
+BSY,Services-Prepackaged Software,2019-09-30,1.0,2019,0.8380078673890516
+CACI,Services-Computer Integrated Systems Design,2019-12-31,1.0,2019,0.9371776015080877
+CARG,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.5673203150984598
+CARS,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.9209555195074418
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,1.0,2019,0.7482323548944174
+CMRC,Services-Prepackaged Software,2019-09-30,0.0,2019,0.19738537600263023
+CMRC,Services-Prepackaged Software,2019-12-31,0.0,2019,0.38042894734796223
+COUR,Services-Prepackaged Software,2019-12-31,1.0,2019,0.38446054851446165
+CRNC,Services-Prepackaged Software,2019-03-31,1.0,2019,0.6736765992974053
+CRUS,Semiconductors & Related Devices,2019-09-28,1.0,2019,0.9121809913447018
+CSGS,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.9597431820962541
+CSPI,Services-Computer Integrated Systems Design,2019-03-31,1.0,2019,0.5743709543688276
+CSPI,Services-Computer Integrated Systems Design,2019-06-30,1.0,2019,0.49855459316719186
+CSPI,Services-Computer Integrated Systems Design,2019-12-31,1.0,2019,0.46418169181843283
+CVLT,Services-Prepackaged Software,2019-09-30,1.0,2019,0.9089878492132519
+CWAN,Services-Prepackaged Software,2019-12-31,1.0,2019,0.5727491560578658
+DBX,Services-Prepackaged Software,2019-06-30,1.0,2019,0.7835173146965662
+DDD,Services-Prepackaged Software,2019-03-31,1.0,2019,0.5644248805298452
+DDD,Services-Prepackaged Software,2019-06-30,0.0,2019,0.7566756980548248
+DGII,Computer Communications Equipment,2019-12-31,1.0,2019,0.8510779894191691
+DH,Services-Prepackaged Software,2019-12-31,1.0,2019,0.6772362227236899
+DIOD,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.9319870036897713
+DMRC,Services-Computer Integrated Systems Design,2019-03-31,0.0,2019,0.1737826171643488
+DMRC,Services-Computer Integrated Systems Design,2019-06-30,0.0,2019,0.36877865815107236
+DMRC,Services-Computer Integrated Systems Design,2019-09-30,0.0,2019,0.22722257498742682
+DMRC,Services-Computer Integrated Systems Design,2019-12-31,0.0,2019,0.28732482284784056
+DOMO,Services-Prepackaged Software,2019-01-31,1.0,2019,0.5801392166293875
+DOMO,Services-Prepackaged Software,2019-04-30,1.0,2019,0.5717481140698764
+DOMO,Services-Prepackaged Software,2019-10-31,1.0,2019,0.6182391312067836
+DT,Services-Prepackaged Software,2019-09-30,1.0,2019,0.6774352482841025
+DXC,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.692416460424879
+DXC,Services-Computer Processing & Data Preparation,2019-09-30,0.0,2019,0.7802454906329575
+EGAN,Services-Prepackaged Software,2019-06-30,1.0,2019,0.5239426271399255
+EGHT,Services-Computer Processing & Data Preparation,2019-03-31,0.0,2019,0.492299475649159
+EGHT,Services-Computer Processing & Data Preparation,2019-06-30,0.0,2019,0.5192627928629595
+EGHT,Services-Computer Processing & Data Preparation,2019-09-30,1.0,2019,0.8149776340635062
+EGHT,Services-Computer Processing & Data Preparation,2019-12-31,1.0,2019,0.628223710413325
+EPAM,Services-Computer Programming Services,2019-03-31,1.0,2019,0.7127104891041132
+EPAM,Services-Computer Programming Services,2019-06-30,1.0,2019,0.9329784943967234
+ESE,"Communications Equipment, NEC",2019-03-31,1.0,2019,0.943323391131927
+ESTC,Services-Prepackaged Software,2019-01-31,0.0,2019,0.4717175463582177
+ESTC,Services-Prepackaged Software,2019-04-30,0.0,2019,0.5517251325276902
+ESTC,Services-Prepackaged Software,2019-07-31,1.0,2019,0.4405159448952757
+EVCM,Services-Prepackaged Software,2019-12-31,1.0,2019,0.4753940136979493
+EVER,"Services-Computer Programming, Data Processing, Etc.",2019-03-31,1.0,2019,0.3753339296668369
+EVER,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,1.0,2019,0.3886605786847752
+EVTC,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.9359747833336725
+EXTR,Computer Communications Equipment,2019-09-30,0.0,2019,0.733654249892018
+EXTR,Computer Communications Equipment,2019-12-31,1.0,2019,0.9040346308391833
+FDS,"Services-Computer Programming, Data Processing, Etc.",2019-02-28,1.0,2019,0.9404988117459161
+FFIV,Computer Communications Equipment,2019-03-31,1.0,2019,0.9377981007857961
+FIVN,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.7378679757666793
+FORM,Semiconductors & Related Devices,2019-06-29,1.0,2019,0.8828005126196927
+FRSH,Services-Prepackaged Software,2019-12-31,1.0,2019,0.4651334578868396
+FSLY,Services-Prepackaged Software,2019-03-31,0.0,2019,0.3500563900850493
+FSLY,Services-Prepackaged Software,2019-09-30,1.0,2019,0.4158672470479674
+FSLY,Services-Prepackaged Software,2019-12-31,1.0,2019,0.41651463037025516
+GDYN,Services-Prepackaged Software,2019-06-30,0.0,2019,0.4398565444462252
+GDYN,Services-Prepackaged Software,2019-09-30,0.0,2019,0.5594127554526738
+GEN,Services-Prepackaged Software,2019-10-04,1.0,2019,0.8529773610941521
+GTM,Services-Prepackaged Software,2019-06-30,1.0,2019,0.4866046633147495
+GWRE,Services-Prepackaged Software,2019-01-31,1.0,2019,0.8297371658470372
+GWRE,Services-Prepackaged Software,2019-10-31,0.0,2019,0.5852261752570089
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2019-03-31,0.0,2019,0.3557281100070133
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2019-09-30,0.0,2019,0.48924217628076955
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2019-12-31,0.0,2019,0.5698834922369606
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2019-06-28,0.0,2019,0.6746992370296421
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2019-09-27,0.0,2019,0.5667206546967983
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,1.0,2019,0.7046161524608636
+IAC,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,1.0,2019,0.8054218309966533
+ICHR,Semiconductors & Related Devices,2019-03-29,0.0,2019,0.8541621873827865
+ICHR,Semiconductors & Related Devices,2019-06-28,0.0,2019,0.8568926580538039
+IIIV,Services-Prepackaged Software,2019-03-31,1.0,2019,0.8090423928243127
+IMMR,"Computer Peripheral Equipment, NEC",2019-03-31,0.0,2019,0.34307134579971443
+IMMR,"Computer Peripheral Equipment, NEC",2019-06-30,1.0,2019,0.44268620482223303
+IMMR,"Computer Peripheral Equipment, NEC",2019-09-30,1.0,2019,0.44357734472159194
+IMMR,"Computer Peripheral Equipment, NEC",2019-12-31,1.0,2019,0.6184959375104238
+INOD,Services-Computer Processing & Data Preparation,2019-12-31,1.0,2019,0.7708154635909248
+INSE,Services-Prepackaged Software,2019-09-30,1.0,2019,0.6742344358106134
+INSG,"Communications Equipment, NEC",2019-03-31,0.0,2019,0.3932211407834695
+INSG,"Communications Equipment, NEC",2019-06-30,1.0,2019,0.4944369455504447
+INSG,"Communications Equipment, NEC",2019-09-30,1.0,2019,0.47506918845911494
+INSG,"Communications Equipment, NEC",2019-12-31,1.0,2019,0.45722956100334256
+IPGP,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.9197514821008335
+JKHY,Services-Computer Integrated Systems Design,2019-12-31,1.0,2019,0.9342370550027854
+KLIC,Semiconductors & Related Devices,2019-03-30,0.0,2019,0.9034604706126357
+KLIC,Semiconductors & Related Devices,2019-06-29,1.0,2019,0.5370907855472314
+KLIC,Semiconductors & Related Devices,2019-09-28,1.0,2019,0.658187004890732
+KOPN,Semiconductors & Related Devices,2019-03-30,0.0,2019,0.1274402187747076
+KOPN,Semiconductors & Related Devices,2019-09-28,1.0,2019,0.16569025063922124
+KOPN,Semiconductors & Related Devices,2019-12-28,1.0,2019,0.2997103853222698
+KULR,Electronic Components & Accessories,2019-03-31,0.0,2019,0.20316125441754865
+KULR,Electronic Components & Accessories,2019-06-30,0.0,2019,0.26801733367120395
+KULR,Electronic Components & Accessories,2019-09-30,0.0,2019,0.24265549667840014
+LASR,Semiconductors & Related Devices,2019-03-31,0.0,2019,0.5829220379934217
+LASR,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.6581308517163275
+LASR,Semiconductors & Related Devices,2019-09-30,1.0,2019,0.5951787764061495
+LASR,Semiconductors & Related Devices,2019-12-31,1.0,2019,0.592410876608636
+LITE,"Communications Equipment, NEC",2019-12-28,1.0,2019,0.7200500418333531
+MANH,Services-Prepackaged Software,2019-06-30,1.0,2019,0.8252567770694823
+MAPS,Services-Prepackaged Software,2019-06-30,1.0,2019,0.26310000332588357
+MEI,Electronic Connectors,2019-10-26,1.0,2019,0.9182340124475884
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2019-03-31,1.0,2019,0.6738668747790078
+MQ,Services-Prepackaged Software,2019-12-31,1.0,2019,0.40354484069722696
+MRCY,Electronic Components & Accessories,2019-12-27,1.0,2019,0.93615948209818
+MTCH,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,1.0,2019,0.9361757752082016
+MTSI,Semiconductors & Related Devices,2019-03-29,1.0,2019,0.8320975775329202
+MVIS,"Electronic Components, NEC",2019-03-31,0.0,2019,0.14876090000080122
+MVIS,"Electronic Components, NEC",2019-06-30,1.0,2019,0.27999117952823394
+MVIS,"Electronic Components, NEC",2019-09-30,1.0,2019,0.13262181101174306
+MVIS,"Electronic Components, NEC",2019-12-31,0.0,2019,0.17368618142495337
+MXL,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.8833011524285246
+NEON,"Electronic Components, NEC",2019-03-31,0.0,2019,0.21882412930037917
+NEON,"Electronic Components, NEC",2019-06-30,0.0,2019,0.36511742469302083
+NEON,"Electronic Components, NEC",2019-09-30,0.0,2019,0.19314254808154024
+NEON,"Electronic Components, NEC",2019-12-31,0.0,2019,0.16696584753702332
+NSSC,"Communications Equipment, NEC",2019-03-31,1.0,2019,0.7597283827496821
+NSSC,"Communications Equipment, NEC",2019-12-31,1.0,2019,0.7730663217139264
+NTCT,Services-Computer Integrated Systems Design,2019-09-30,1.0,2019,0.9050980899784791
+NTNX,Services-Prepackaged Software,2019-01-31,0.0,2019,0.7170724341492933
+NTNX,Services-Prepackaged Software,2019-04-30,0.0,2019,0.7293260387810399
+NTNX,Services-Prepackaged Software,2019-10-31,0.0,2019,0.6733972275418624
+OLED,Electronic Components & Accessories,2019-06-30,0.0,2019,0.92606523326011
+OMCL,Electronic Computers,2019-06-30,1.0,2019,0.9213642660078546
+ONTF,Services-Prepackaged Software,2019-12-31,1.0,2019,0.31466413310384445
+OOMA,Services-Computer Processing & Data Preparation,2019-01-31,0.0,2019,0.36911841699332654
+OOMA,Services-Computer Processing & Data Preparation,2019-04-30,0.0,2019,0.33193943638850076
+OOMA,Services-Computer Processing & Data Preparation,2019-07-31,1.0,2019,0.529018212077196
+OOMA,Services-Computer Processing & Data Preparation,2019-10-31,1.0,2019,0.43661127534094646
+OSIS,Semiconductors & Related Devices,2019-12-31,1.0,2019,0.954473221927503
+OSPN,Services-Computer Integrated Systems Design,2019-03-31,1.0,2019,0.48391399623908427
+OSPN,Services-Computer Integrated Systems Design,2019-06-30,1.0,2019,0.6677868730403825
+PCOR,Services-Prepackaged Software,2019-12-31,1.0,2019,0.46289480422998874
+PCTY,Services-Prepackaged Software,2019-12-31,1.0,2019,0.8789405716621301
+PD,Services-Prepackaged Software,2019-01-31,0.0,2019,0.37679728675240665
+PD,Services-Prepackaged Software,2019-04-30,1.0,2019,0.3827754040260323
+PDFS,Services-Prepackaged Software,2019-03-31,1.0,2019,0.6184022011139447
+PDFS,Services-Prepackaged Software,2019-06-30,1.0,2019,0.6680627859386821
+PEGA,Services-Computer Processing & Data Preparation,2019-06-30,0.0,2019,0.803230532460245
+PEGA,Services-Computer Processing & Data Preparation,2019-09-30,0.0,2019,0.5493502025451078
+PEGA,Services-Computer Processing & Data Preparation,2019-12-31,1.0,2019,0.6005957183316646
+PI,"Electronic Components, NEC",2019-03-31,1.0,2019,0.5474357032075916
+PI,"Electronic Components, NEC",2019-09-30,0.0,2019,0.44800731945350786
+PLAB,Semiconductors & Related Devices,2019-01-27,0.0,2019,0.7864657436507981
+PLAB,Semiconductors & Related Devices,2019-04-28,1.0,2019,0.8709089921406294
+POWI,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.9010753660814104
+PRCH,Services-Prepackaged Software,2019-12-31,1.0,2019,0.4736074179002665
+PRGS,Services-Prepackaged Software,2019-05-31,1.0,2019,0.9225660363353383
+PSN,Services-Computer Integrated Systems Design,2019-03-31,0.0,2019,0.8397147584745206
+PSN,Services-Computer Integrated Systems Design,2019-06-30,0.0,2019,0.8434470929325311
+PSTG,Computer Storage Devices,2019-07-31,1.0,2019,0.7523577676134929
+QLYS,Services-Prepackaged Software,2019-06-30,1.0,2019,0.9489486036514103
+QRVO,Semiconductors & Related Devices,2019-09-28,1.0,2019,0.9052616376221005
+QTWO,Services-Prepackaged Software,2019-03-31,0.0,2019,0.6577454719394139
+QTWO,Services-Prepackaged Software,2019-06-30,0.0,2019,0.8249832522175696
+QUBT,Services-Prepackaged Software,2019-03-31,0.0,2019,0.3580056744672717
+QUBT,Services-Prepackaged Software,2019-09-30,0.0,2019,0.38050591352214785
+QUBT,Services-Prepackaged Software,2019-12-31,0.0,2019,0.28847237392304514
+RAMP,Services-Computer Processing & Data Preparation,2019-06-30,0.0,2019,0.5929424146673219
+RAMP,Services-Computer Processing & Data Preparation,2019-09-30,0.0,2019,0.81989550585714
+RBBN,Services-Computer Integrated Systems Design,2019-09-30,1.0,2019,0.7642401321220915
+RCAT,Services-Prepackaged Software,2019-01-31,0.0,2019,0.2704910311419546
+RCAT,Services-Prepackaged Software,2019-03-31,0.0,2019,0.11332427305909706
+RCAT,Services-Prepackaged Software,2019-04-30,0.0,2019,0.1679806707003168
+RCAT,Services-Prepackaged Software,2019-07-31,0.0,2019,0.1957219732816579
+RCAT,Services-Prepackaged Software,2019-10-31,0.0,2019,0.16426588970515527
+RDVT,Services-Prepackaged Software,2019-03-31,1.0,2019,0.6477458147773005
+RMBS,Semiconductors & Related Devices,2019-06-30,1.0,2019,0.761356942465131
+RNG,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.8871042960622192
+RPD,Services-Prepackaged Software,2019-03-31,0.0,2019,0.6018123828153957
+RPD,Services-Prepackaged Software,2019-06-30,0.0,2019,0.7476758308909492
+RXT,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,1.0,2019,0.8420769050058932
+SITM,Semiconductors & Related Devices,2019-09-30,1.0,2019,0.673602507893738
+SKIL,Services-Prepackaged Software,2019-09-30,0.0,2019,0.47626287758968144
+SKIL,Services-Prepackaged Software,2019-12-31,0.0,2019,0.41780025495217377
+SLAB,Semiconductors & Related Devices,2019-06-29,1.0,2019,0.9459139609709427
+SLP,Services-Computer Integrated Systems Design,2019-02-28,1.0,2019,0.7713156369002898
+SMTC,Semiconductors & Related Devices,2019-07-28,1.0,2019,0.9139495796345192
+SPSC,Services-Prepackaged Software,2019-06-30,1.0,2019,0.8903404082190094
+SPT,Services-Prepackaged Software,2019-03-31,0.0,2019,0.3427007604198424
+SPT,Services-Prepackaged Software,2019-09-30,0.0,2019,0.3050281433198538
+SPT,Services-Prepackaged Software,2019-12-31,0.0,2019,0.4611842037542168
+SSTK,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.8996919888815877
+SWKS,Semiconductors & Related Devices,2019-03-29,1.0,2019,0.8356141629984692
+SYNA,Semiconductors & Related Devices,2019-12-31,1.0,2019,0.9186033450620701
+TBCH,"Communications Equipment, NEC",2019-06-30,1.0,2019,0.7458175745095548
+TBCH,"Communications Equipment, NEC",2019-09-30,1.0,2019,0.46825683217751146
+TBRG,Services-Computer Programming Services,2019-06-30,1.0,2019,0.597560382304984
+TCX,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.8673807248385262
+TDC,Services-Prepackaged Software,2019-06-30,1.0,2019,0.7367438313209351
+TDC,Services-Prepackaged Software,2019-09-30,1.0,2019,0.5316549524365399
+TENB,Services-Prepackaged Software,2019-03-31,0.0,2019,0.4982695958012171
+TENB,Services-Prepackaged Software,2019-06-30,1.0,2019,0.6929969184381845
+TENB,Services-Prepackaged Software,2019-09-30,1.0,2019,0.5082190650919658
+TENB,Services-Prepackaged Software,2019-12-31,1.0,2019,0.6135860253582625
+TLS,Services-Computer Integrated Systems Design,2019-06-30,0.0,2019,0.4668010648018136
+TLS,Services-Computer Integrated Systems Design,2019-09-30,1.0,2019,0.5863634776660671
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2019-06-30,0.0,2019,0.9234319303617644
+U,Services-Prepackaged Software,2019-12-31,1.0,2019,0.7040028511201968
+UIS,Services-Computer Integrated Systems Design,2019-03-31,0.0,2019,0.4286038670112149
+UIS,Services-Computer Integrated Systems Design,2019-06-30,0.0,2019,0.6571892414174105
+UPWK,Services-Computer Processing & Data Preparation,2019-03-31,0.0,2019,0.6887612847649107
+UPWK,Services-Computer Processing & Data Preparation,2019-06-30,1.0,2019,0.7706337033087982
+UPWK,Services-Computer Processing & Data Preparation,2019-12-31,1.0,2019,0.5125136079496939
+VERX,Services-Prepackaged Software,2019-06-30,1.0,2019,0.7967185765387474
+VIAV,Semiconductors & Related Devices,2019-12-28,1.0,2019,0.8539120076242259
+VICR,"Electronic Components, NEC",2019-03-31,0.0,2019,0.6541810232615257
+VICR,"Electronic Components, NEC",2019-06-30,1.0,2019,0.5168347165304662
+VISN,Radio & Tv Broadcasting & Communications Equipment,2019-03-31,1.0,2019,0.6539108841652648
+VISN,Radio & Tv Broadcasting & Communications Equipment,2019-06-30,1.0,2019,0.8634509577737162
+VPG,Electronic Components & Accessories,2019-06-29,1.0,2019,0.6742603759411603
+VREX,"Electronic Components, NEC",2019-03-29,1.0,2019,0.9128536682663603
+VRNS,Services-Prepackaged Software,2019-06-30,0.0,2019,0.6687955171846043
+VRNS,Services-Prepackaged Software,2019-09-30,0.0,2019,0.5494964180057393
+VRNS,Services-Prepackaged Software,2019-12-31,1.0,2019,0.6422571919716942
+VSH,Electronic Components & Accessories,2019-06-29,1.0,2019,0.6972454079524204
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2019-03-31,0.0,2019,0.12877030163307218
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2019-09-30,0.0,2019,0.1293389859924412
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2019-12-31,1.0,2019,0.28541281606575897
+WEAV,Services-Prepackaged Software,2019-12-31,0.0,2019,0.3557508650080894
+XRX,"Computer Peripheral Equipment, NEC",2019-06-30,1.0,2019,0.87241842163487
+YEXT,Services-Computer Processing & Data Preparation,2019-07-31,0.0,2019,0.6255876355957437
+YEXT,Services-Computer Processing & Data Preparation,2019-10-31,1.0,2019,0.5794660060162977
+ZIP,"Services-Computer Programming, Data Processing, Etc.",2019-12-31,1.0,2019,0.42861860653357187
+AAOI,Semiconductors & Related Devices,2020-03-31,0.0,2020,0.5036545810432272
+AAOI,Semiconductors & Related Devices,2020-06-30,0.0,2020,0.8186459632337781
+AAOI,Semiconductors & Related Devices,2020-09-30,0.0,2020,0.5640613576723572
+AAOI,Semiconductors & Related Devices,2020-12-31,1.0,2020,0.6295691054450157
+ACIW,Services-Prepackaged Software,2020-06-30,1.0,2020,0.779807684761415
+AEYE,Services-Prepackaged Software,2020-03-31,1.0,2020,0.3345619408585292
+AEYE,Services-Prepackaged Software,2020-09-30,0.0,2020,0.3385112070479923
+AEYE,Services-Prepackaged Software,2020-12-31,0.0,2020,0.42191872778635886
+AGYS,Services-Computer Integrated Systems Design,2020-06-30,1.0,2020,0.5315745719049005
+AGYS,Services-Computer Integrated Systems Design,2020-09-30,1.0,2020,0.7046742679316147
+AI,Services-Prepackaged Software,2020-04-30,1.0,2020,0.4191849948796337
+AIP,Semiconductors & Related Devices,2020-09-30,0.0,2020,0.3704134685252947
+ALGM,Semiconductors & Related Devices,2020-09-25,1.0,2020,0.8680117801381055
+ALKT,Services-Prepackaged Software,2020-03-31,0.0,2020,0.24946435729062408
+ALKT,Services-Prepackaged Software,2020-09-30,0.0,2020,0.2535552982345888
+ALKT,Services-Prepackaged Software,2020-12-31,1.0,2020,0.4746976473543313
+ALMU,Semiconductors & Related Devices,2020-06-30,0.0,2020,0.2330271068244276
+ALMU,Semiconductors & Related Devices,2020-09-30,0.0,2020,0.22968739236406419
+AMBA,Semiconductors & Related Devices,2020-07-31,1.0,2020,0.824937793250542
+AMKR,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.9326038799235147
+AMPL,Services-Prepackaged Software,2020-12-31,0.0,2020,0.3243532718598806
+AOSL,Semiconductors & Related Devices,2020-12-31,1.0,2020,0.8218894101937153
+APPF,Services-Prepackaged Software,2020-06-30,0.0,2020,0.6699039433341488
+APPN,Services-Prepackaged Software,2020-03-31,0.0,2020,0.5404503516707534
+APPN,Services-Prepackaged Software,2020-09-30,0.0,2020,0.5691470776739876
+ASAN,Services-Prepackaged Software,2020-01-31,0.0,2020,0.42439953890108983
+ASAN,Services-Prepackaged Software,2020-04-30,0.0,2020,0.3346628677062551
+ASAN,Services-Prepackaged Software,2020-07-31,0.0,2020,0.5553665368406503
+ASAN,Services-Prepackaged Software,2020-10-31,0.0,2020,0.5564797900881996
+ASUR,Services-Computer Integrated Systems Design,2020-03-31,1.0,2020,0.5699348260993723
+ASUR,Services-Computer Integrated Systems Design,2020-06-30,0.0,2020,0.671827111945127
+ASUR,Services-Computer Integrated Systems Design,2020-12-31,0.0,2020,0.7095919373477593
+ATOM,Semiconductors & Related Devices,2020-03-31,0.0,2020,0.3334403144468567
+ATOM,Semiconductors & Related Devices,2020-06-30,0.0,2020,0.28285582784936775
+ATOM,Semiconductors & Related Devices,2020-09-30,0.0,2020,0.18545004967235967
+ATOM,Semiconductors & Related Devices,2020-12-31,0.0,2020,0.21932559134894627
+AUR,Services-Computer Integrated Systems Design,2020-12-31,0.0,2020,0.4071012022978969
+AVPT,Services-Prepackaged Software,2020-03-31,1.0,2020,0.373049791827347
+BAND,Services-Prepackaged Software,2020-03-31,1.0,2020,0.6092450231360621
+BAND,Services-Prepackaged Software,2020-12-31,1.0,2020,0.6768706238270299
+BBAI,Services-Prepackaged Software,2020-12-31,0.0,2020,0.40010018882672055
+BILL,Services-Prepackaged Software,2020-06-30,1.0,2020,0.4270725684548995
+BILL,Services-Prepackaged Software,2020-09-30,1.0,2020,0.5345455026789956
+BILL,Services-Prepackaged Software,2020-12-31,0.0,2020,0.47889537038357244
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2020-03-31,0.0,2020,0.27064191477363386
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2020-06-30,0.0,2020,0.23284255662186265
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2020-09-30,0.0,2020,0.4901532291863462
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2020-12-31,0.0,2020,0.6937119056109315
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2020-09-30,0.0,2020,0.6203797005171943
+BL,Services-Prepackaged Software,2020-06-30,1.0,2020,0.7097487048112265
+BLKB,Services-Prepackaged Software,2020-03-31,1.0,2020,0.5854784471823117
+BLKB,Services-Prepackaged Software,2020-06-30,1.0,2020,0.9157436718865404
+BLND,"Services-Computer Programming, Data Processing, Etc.",2020-09-30,0.0,2020,0.43235865100779736
+BLND,"Services-Computer Programming, Data Processing, Etc.",2020-12-31,0.0,2020,0.44464483435812396
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,0.0,2020,0.7326524486516853
+BRZE,Services-Prepackaged Software,2020-01-31,0.0,2020,0.5068699191450988
+BSY,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8159227980596426
+CACI,Services-Computer Integrated Systems Design,2020-12-31,1.0,2020,0.9414506078687195
+CARG,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.6586601094941498
+CARS,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.7977879986275649
+CCSI,Services-Prepackaged Software,2020-09-30,1.0,2020,0.6481436298526291
+CERT,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8666567295579749
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2020-09-30,1.0,2020,0.4187289067146363
+CLVT,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.7394208951387425
+CMRC,Services-Prepackaged Software,2020-03-31,0.0,2020,0.16524849921744994
+CMRC,Services-Prepackaged Software,2020-09-30,0.0,2020,0.25259641922704223
+CMRC,Services-Prepackaged Software,2020-12-31,0.0,2020,0.40501584001941104
+COUR,Services-Prepackaged Software,2020-03-31,1.0,2020,0.2970729423351589
+COUR,Services-Prepackaged Software,2020-09-30,0.0,2020,0.44125177448310654
+COUR,Services-Prepackaged Software,2020-12-31,1.0,2020,0.5415917358345569
+CRDO,Semiconductors & Related Devices,2020-04-30,0.0,2020,0.7152472971380128
+CRNC,Services-Prepackaged Software,2020-03-31,1.0,2020,0.7946131311684139
+CRUS,Semiconductors & Related Devices,2020-09-26,0.0,2020,0.9561374817340906
+CSGS,Services-Computer Processing & Data Preparation,2020-03-31,1.0,2020,0.7012107232593336
+CSGS,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.9056882758805151
+CSPI,Services-Computer Integrated Systems Design,2020-03-31,1.0,2020,0.5117274159520706
+CSPI,Services-Computer Integrated Systems Design,2020-09-30,1.0,2020,0.5402364649121534
+CVLT,Services-Prepackaged Software,2020-09-30,1.0,2020,0.8230210179580857
+CWAN,Services-Prepackaged Software,2020-12-31,0.0,2020,0.505948062857396
+CXM,Services-Prepackaged Software,2020-10-31,0.0,2020,0.5182867521761806
+DBX,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8977749179145543
+DDD,Services-Prepackaged Software,2020-03-31,0.0,2020,0.5988246288353226
+DDD,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8154665156195173
+DDD,Services-Prepackaged Software,2020-09-30,1.0,2020,0.6169717296997621
+DGII,Computer Communications Equipment,2020-03-31,1.0,2020,0.86186227627904
+DIOD,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.8764186937714781
+DMRC,Services-Computer Integrated Systems Design,2020-03-31,0.0,2020,0.17155258953561503
+DMRC,Services-Computer Integrated Systems Design,2020-09-30,0.0,2020,0.1400766536695896
+DMRC,Services-Computer Integrated Systems Design,2020-12-31,0.0,2020,0.20762107041230693
+DOCN,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.7950471665976939
+DOCS,Services-Computer Programming Services,2020-09-30,1.0,2020,0.5322253822357107
+DOMO,Services-Prepackaged Software,2020-01-31,1.0,2020,0.7020365360561929
+DOMO,Services-Prepackaged Software,2020-04-30,1.0,2020,0.6879335785138385
+DOMO,Services-Prepackaged Software,2020-10-31,1.0,2020,0.637618276947428
+DSP,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.5836605495909496
+DT,Services-Prepackaged Software,2020-03-31,1.0,2020,0.6969703293919458
+DV,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.7092477493420146
+DXC,Services-Computer Processing & Data Preparation,2020-09-30,1.0,2020,0.7290406016902348
+DXC,Services-Computer Processing & Data Preparation,2020-12-31,1.0,2020,0.6787034932764622
+EGAN,Services-Prepackaged Software,2020-12-31,1.0,2020,0.7095139900822383
+EGHT,Services-Computer Processing & Data Preparation,2020-03-31,1.0,2020,0.6925871885602062
+EGHT,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.49986706917949975
+EGHT,Services-Computer Processing & Data Preparation,2020-12-31,1.0,2020,0.5633729333019808
+ENPH,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.8217226243212413
+EPAM,Services-Computer Programming Services,2020-06-30,1.0,2020,0.8172912916685813
+ESE,"Communications Equipment, NEC",2020-03-31,1.0,2020,0.8911348285267486
+ESTC,Services-Prepackaged Software,2020-01-31,1.0,2020,0.469412164648635
+ESTC,Services-Prepackaged Software,2020-04-30,1.0,2020,0.5652895658846857
+EVLV,"Computer Peripheral Equipment, NEC",2020-09-30,0.0,2020,0.4199287645865839
+EVLV,"Computer Peripheral Equipment, NEC",2020-12-31,0.0,2020,0.2557676538753556
+EVTC,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.9410854604473995
+EXFY,Services-Prepackaged Software,2020-09-30,1.0,2020,0.5319914738058913
+FA,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.7068400110970487
+FDS,"Services-Computer Programming, Data Processing, Etc.",2020-02-29,1.0,2020,0.9256938833110784
+FFIV,Computer Communications Equipment,2020-03-31,1.0,2020,0.9325914796888627
+FIVN,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.6218207394750823
+FORM,Semiconductors & Related Devices,2020-06-27,1.0,2020,0.9018959867905153
+FSLY,Services-Prepackaged Software,2020-03-31,1.0,2020,0.426380007323301
+FSLY,Services-Prepackaged Software,2020-12-31,0.0,2020,0.6281767756507972
+GDYN,Services-Prepackaged Software,2020-03-31,0.0,2020,0.38082671134487334
+GDYN,Services-Prepackaged Software,2020-06-30,1.0,2020,0.6168539574860574
+GEN,Services-Prepackaged Software,2020-04-03,1.0,2020,0.5481744711221852
+GRND,"Services-Computer Programming, Data Processing, Etc.",2020-12-31,1.0,2020,0.3308080384196753
+GTLB,Services-Prepackaged Software,2020-01-31,0.0,2020,0.4454687027632977
+GTLB,Services-Prepackaged Software,2020-10-31,0.0,2020,0.5873727242150124
+GWRE,Services-Prepackaged Software,2020-01-31,0.0,2020,0.8703813329291907
+GWRE,Services-Prepackaged Software,2020-10-31,0.0,2020,0.4389160828821074
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2020-03-31,0.0,2020,0.35492343507221497
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2020-09-30,0.0,2020,0.4572538394748146
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2020-12-31,0.0,2020,0.5684993941932468
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2020-03-27,1.0,2020,0.6608882793866437
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2020-06-26,1.0,2020,0.7605837100946801
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2020-09-25,1.0,2020,0.5918814237464927
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.8559844276285535
+IAC,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.8581706767975971
+IAC,"Services-Computer Programming, Data Processing, Etc.",2020-12-31,1.0,2020,0.671352731672153
+ICHR,Semiconductors & Related Devices,2020-03-27,1.0,2020,0.868294278263807
+ICHR,Semiconductors & Related Devices,2020-06-26,1.0,2020,0.9409387703220575
+IIIV,Services-Prepackaged Software,2020-03-31,1.0,2020,0.8731887401311353
+IMMR,"Computer Peripheral Equipment, NEC",2020-03-31,1.0,2020,0.5399032060247304
+INDI,Semiconductors & Related Devices,2020-06-30,0.0,2020,0.36198237599772354
+INDI,Semiconductors & Related Devices,2020-09-30,0.0,2020,0.3508562777116422
+INDI,Semiconductors & Related Devices,2020-12-31,0.0,2020,0.34128544264731975
+INSE,Services-Prepackaged Software,2020-06-30,0.0,2020,0.7136576943911207
+INTA,Services-Prepackaged Software,2020-06-30,0.0,2020,0.5605690697545955
+INTA,Services-Prepackaged Software,2020-09-30,0.0,2020,0.32976057041160156
+INTA,Services-Prepackaged Software,2020-12-31,1.0,2020,0.7142371127091901
+IONQ,Services-Computer Integrated Systems Design,2020-09-30,0.0,2020,0.28381282323540713
+IONQ,Services-Computer Integrated Systems Design,2020-12-31,0.0,2020,0.31099184477976527
+IPGP,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.9443655338820778
+JKHY,Services-Computer Integrated Systems Design,2020-12-31,1.0,2020,0.8803056539309887
+KD,Services-Computer Integrated Systems Design,2020-09-30,0.0,2020,0.6998097673047381
+KLIC,Semiconductors & Related Devices,2020-03-28,1.0,2020,0.8632907664283898
+KLTR,Services-Prepackaged Software,2020-06-30,0.0,2020,0.7035560978163408
+KOPN,Semiconductors & Related Devices,2020-03-28,1.0,2020,0.34969202870848903
+KOPN,Semiconductors & Related Devices,2020-12-26,0.0,2020,0.5260753230413423
+KULR,Electronic Components & Accessories,2020-03-31,0.0,2020,0.12344290345573106
+KULR,Electronic Components & Accessories,2020-06-30,0.0,2020,0.24855857563372297
+KULR,Electronic Components & Accessories,2020-09-30,0.0,2020,0.2302938395735873
+KULR,Electronic Components & Accessories,2020-12-31,0.0,2020,0.3021756334264532
+LASR,Semiconductors & Related Devices,2020-03-31,1.0,2020,0.6852851805871103
+LAW,Services-Prepackaged Software,2020-06-30,0.0,2020,0.27283484886875864
+LAW,Services-Prepackaged Software,2020-09-30,0.0,2020,0.23910812535751158
+LAW,Services-Prepackaged Software,2020-12-31,0.0,2020,0.3901611563943329
+LIF,Services-Computer Processing & Data Preparation,2020-12-31,0.0,2020,0.3269377433026259
+LITE,"Communications Equipment, NEC",2020-12-26,1.0,2020,0.8936241342909845
+LSCC,Semiconductors & Related Devices,2020-06-27,1.0,2020,0.8700682204196732
+LZ,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.4686037163521267
+MANH,Services-Prepackaged Software,2020-06-30,1.0,2020,0.889537798070598
+MAPS,Services-Prepackaged Software,2020-03-31,1.0,2020,0.3181460102354553
+MEI,Electronic Connectors,2020-10-31,0.0,2020,0.9367556942321384
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2020-03-31,0.0,2020,0.6998958463356261
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.8330281052980215
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2020-09-30,1.0,2020,0.596147329525056
+MITK,"Computer Peripheral Equipment, NEC",2020-03-31,1.0,2020,0.855240730526784
+MVIS,"Electronic Components, NEC",2020-03-31,0.0,2020,0.18875521816585117
+MVIS,"Electronic Components, NEC",2020-09-30,0.0,2020,0.17197813284953173
+MVIS,"Electronic Components, NEC",2020-12-31,0.0,2020,0.2329822540619671
+MXL,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.8083584368181398
+MXL,Semiconductors & Related Devices,2020-09-30,1.0,2020,0.8124532658802006
+MYPS,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8515531200164943
+NCNO,Services-Prepackaged Software,2020-01-31,1.0,2020,0.5508401199116166
+NEON,"Electronic Components, NEC",2020-03-31,0.0,2020,0.13603703815545948
+NEON,"Electronic Components, NEC",2020-06-30,0.0,2020,0.15358864203856865
+NEON,"Electronic Components, NEC",2020-09-30,0.0,2020,0.16313441060567319
+NEON,"Electronic Components, NEC",2020-12-31,0.0,2020,0.3344890944051011
+NRDS,Services-Computer Processing & Data Preparation,2020-12-31,0.0,2020,0.5408418621000277
+NSSC,"Communications Equipment, NEC",2020-12-31,1.0,2020,0.6487937767672647
+NTCT,Services-Computer Integrated Systems Design,2020-09-30,1.0,2020,0.9280250753868837
+NTNX,Services-Prepackaged Software,2020-01-31,1.0,2020,0.784974216223385
+NTNX,Services-Prepackaged Software,2020-04-30,1.0,2020,0.5359955781273511
+NTNX,Services-Prepackaged Software,2020-07-31,1.0,2020,0.4340794899109529
+NTNX,Services-Prepackaged Software,2020-10-31,1.0,2020,0.4329844524387927
+NVEC,Semiconductors & Related Devices,2020-09-30,1.0,2020,0.5603465756102601
+NVTS,Semiconductors & Related Devices,2020-12-31,0.0,2020,0.4185839065572754
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2020-12-31,1.0,2020,0.39229911755075847
+OLED,Electronic Components & Accessories,2020-06-30,1.0,2020,0.852821421978804
+OMCL,Electronic Computers,2020-06-30,1.0,2020,0.8727704292427951
+OOMA,Services-Computer Processing & Data Preparation,2020-01-31,1.0,2020,0.5141435854277352
+OOMA,Services-Computer Processing & Data Preparation,2020-04-30,1.0,2020,0.4943303168138331
+OSIS,Semiconductors & Related Devices,2020-12-31,0.0,2020,0.9104378294951936
+OSPN,Services-Computer Integrated Systems Design,2020-03-31,1.0,2020,0.5232815444617593
+OSPN,Services-Computer Integrated Systems Design,2020-06-30,1.0,2020,0.688841431835646
+PATH,Services-Prepackaged Software,2020-01-31,1.0,2020,0.5221674982815605
+PATH,Services-Prepackaged Software,2020-04-30,1.0,2020,0.34247879706224743
+PCTY,Services-Prepackaged Software,2020-09-30,1.0,2020,0.5312108521190199
+PCTY,Services-Prepackaged Software,2020-12-31,1.0,2020,0.8356329235144568
+PD,Services-Prepackaged Software,2020-04-30,1.0,2020,0.43942711437473103
+PDFS,Services-Prepackaged Software,2020-06-30,0.0,2020,0.741535540305744
+PDYN,Services-Prepackaged Software,2020-09-30,0.0,2020,0.24116544762615513
+PDYN,Services-Prepackaged Software,2020-12-31,0.0,2020,0.14938849245793667
+PEGA,Services-Computer Processing & Data Preparation,2020-03-31,1.0,2020,0.5181140242477766
+PEGA,Services-Computer Processing & Data Preparation,2020-09-30,1.0,2020,0.45821574128605724
+PENG,Semiconductors & Related Devices,2020-02-28,1.0,2020,0.9036160003299942
+PI,"Electronic Components, NEC",2020-06-30,1.0,2020,0.4045271068842422
+PI,"Electronic Components, NEC",2020-09-30,1.0,2020,0.4197073337136883
+PI,"Electronic Components, NEC",2020-12-31,1.0,2020,0.5110852182181562
+PL,Radio & Tv Broadcasting & Communications Equipment,2020-01-31,1.0,2020,0.5054088353289876
+PLAB,Semiconductors & Related Devices,2020-05-03,1.0,2020,0.7721715194966744
+PLTK,Services-Computer Processing & Data Preparation,2020-03-31,1.0,2020,0.6717520502891163
+PLTK,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.46890606121308287
+POWI,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.8986595216219961
+PRCH,Services-Prepackaged Software,2020-03-31,0.0,2020,0.5702587816444897
+PRCH,Services-Prepackaged Software,2020-09-30,0.0,2020,0.4843566370372555
+PRCH,Services-Prepackaged Software,2020-12-31,0.0,2020,0.3952290484048763
+PRGS,Services-Prepackaged Software,2020-05-31,1.0,2020,0.9272883535597511
+PSN,Services-Computer Integrated Systems Design,2020-03-31,1.0,2020,0.80951200766005
+PSN,Services-Computer Integrated Systems Design,2020-06-30,1.0,2020,0.7877206197046658
+PSTG,Computer Storage Devices,2020-08-02,1.0,2020,0.9116077450259839
+PUBM,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.5990951301367935
+QBTS,Services-Computer Processing & Data Preparation,2020-12-31,0.0,2020,0.3297965268006696
+QLYS,Services-Prepackaged Software,2020-06-30,1.0,2020,0.9718238026603679
+QRVO,Semiconductors & Related Devices,2020-10-03,1.0,2020,0.9085419724189048
+QTWO,Services-Prepackaged Software,2020-03-31,0.0,2020,0.6112901958182373
+QTWO,Services-Prepackaged Software,2020-06-30,1.0,2020,0.5839514469318392
+QUBT,Services-Prepackaged Software,2020-03-31,0.0,2020,0.1880560391792876
+QUBT,Services-Prepackaged Software,2020-06-30,0.0,2020,0.16940127434535834
+QUBT,Services-Prepackaged Software,2020-09-30,0.0,2020,0.24072643487360817
+QUBT,Services-Prepackaged Software,2020-12-31,0.0,2020,0.2101387368976479
+RAMP,Services-Computer Processing & Data Preparation,2020-06-30,0.0,2020,0.5530631820821259
+RAMP,Services-Computer Processing & Data Preparation,2020-09-30,0.0,2020,0.7269172744785195
+RBBN,Services-Computer Integrated Systems Design,2020-06-30,0.0,2020,0.829455772206865
+RCAT,Services-Prepackaged Software,2020-01-31,0.0,2020,0.14148352480207543
+RCAT,Services-Prepackaged Software,2020-04-30,0.0,2020,0.11518162723530331
+RCAT,Services-Prepackaged Software,2020-07-31,0.0,2020,0.11041864790927304
+RMBS,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.8510705359015946
+RNG,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.7606597332353603
+RNG,Services-Computer Processing & Data Preparation,2020-09-30,1.0,2020,0.6471652605317852
+RNG,Services-Computer Processing & Data Preparation,2020-12-31,1.0,2020,0.6299148092464734
+RPD,Services-Prepackaged Software,2020-03-31,1.0,2020,0.46117368858044133
+RPD,Services-Prepackaged Software,2020-06-30,1.0,2020,0.7526794037581532
+RXT,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.9208991119315095
+S,Services-Prepackaged Software,2020-01-31,0.0,2020,0.43215239185260834
+S,Services-Prepackaged Software,2020-10-31,0.0,2020,0.28818623167068813
+SEMR,Services-Prepackaged Software,2020-06-30,1.0,2020,0.7136203145314948
+SHLS,Semiconductors & Related Devices,2020-06-30,0.0,2020,0.6760602576082635
+SITM,Semiconductors & Related Devices,2020-06-30,1.0,2020,0.6056326918778319
+SKIL,Services-Prepackaged Software,2020-01-31,1.0,2020,0.4859249137825613
+SKIL,Services-Prepackaged Software,2020-03-31,1.0,2020,0.25887245618766175
+SKIL,Services-Prepackaged Software,2020-08-27,0.0,2020,0.5513168780029721
+SKIL,Services-Prepackaged Software,2020-09-30,1.0,2020,0.22784121653703499
+SKYT,Semiconductors & Related Devices,2020-09-27,0.0,2020,0.6795367576616697
+SLAB,Semiconductors & Related Devices,2020-07-04,1.0,2020,0.9433898351855081
+SLP,Services-Computer Integrated Systems Design,2020-02-29,1.0,2020,0.7099830648774059
+SMTC,Semiconductors & Related Devices,2020-07-26,1.0,2020,0.9417700602469621
+SPSC,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8925721909831066
+SPT,Services-Prepackaged Software,2020-03-31,1.0,2020,0.3643170877954831
+SPT,Services-Prepackaged Software,2020-09-30,1.0,2020,0.4768267897322053
+SPT,Services-Prepackaged Software,2020-12-31,1.0,2020,0.5861331411537962
+SSTI,Services-Prepackaged Software,2020-06-30,1.0,2020,0.739792179576426
+SSTK,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.9135229643574434
+SWKS,Semiconductors & Related Devices,2020-03-27,1.0,2020,0.9038933250655171
+SYNA,Semiconductors & Related Devices,2020-12-26,1.0,2020,0.8554682091348058
+TBCH,"Communications Equipment, NEC",2020-06-30,1.0,2020,0.6567106643414693
+TBRG,Services-Computer Programming Services,2020-06-30,1.0,2020,0.6034080028762612
+TCX,Services-Computer Processing & Data Preparation,2020-06-30,1.0,2020,0.8231640520277332
+TDC,Services-Prepackaged Software,2020-06-30,1.0,2020,0.7707028288037485
+TLS,Services-Computer Integrated Systems Design,2020-06-30,0.0,2020,0.8011526847837345
+TLS,Services-Computer Integrated Systems Design,2020-12-31,0.0,2020,0.41036922042878365
+TRAK,Services-Computer Processing & Data Preparation,2020-03-31,1.0,2020,0.5067104082893916
+TRAK,Services-Computer Processing & Data Preparation,2020-12-31,1.0,2020,0.6215203498789347
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2020-03-31,0.0,2020,0.6023813477960559
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2020-06-30,1.0,2020,0.8288680947055731
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2020-09-30,1.0,2020,0.5366198900994185
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2020-12-31,1.0,2020,0.638329162741992
+U,Services-Prepackaged Software,2020-03-31,1.0,2020,0.5686814480086908
+UCTT,Semiconductors & Related Devices,2020-06-26,1.0,2020,0.7437520114089115
+UIS,Services-Computer Integrated Systems Design,2020-03-31,0.0,2020,0.5833774839160654
+UIS,Services-Computer Integrated Systems Design,2020-06-30,0.0,2020,0.6452839570516139
+UIS,Services-Computer Integrated Systems Design,2020-12-31,1.0,2020,0.5337020446386891
+UPWK,Services-Computer Processing & Data Preparation,2020-03-31,1.0,2020,0.44366273727959227
+VERX,Services-Prepackaged Software,2020-03-31,0.0,2020,0.392722091710178
+VERX,Services-Prepackaged Software,2020-06-30,1.0,2020,0.5721148866421688
+VERX,Services-Prepackaged Software,2020-09-30,1.0,2020,0.3594323093519837
+VICR,"Electronic Components, NEC",2020-03-31,1.0,2020,0.4790780948684713
+VICR,"Electronic Components, NEC",2020-06-30,1.0,2020,0.7193902363047369
+VISN,Radio & Tv Broadcasting & Communications Equipment,2020-03-31,0.0,2020,0.7340973935170056
+VISN,Radio & Tv Broadcasting & Communications Equipment,2020-06-30,0.0,2020,0.8291177783117678
+VPG,Electronic Components & Accessories,2020-06-27,1.0,2020,0.7127663032683458
+VREX,"Electronic Components, NEC",2020-04-03,1.0,2020,0.9487978575457923
+VREX,"Electronic Components, NEC",2020-10-02,1.0,2020,0.7086463597330221
+VRNS,Services-Prepackaged Software,2020-06-30,1.0,2020,0.682060567412716
+VRNS,Services-Prepackaged Software,2020-09-30,1.0,2020,0.5425558339294054
+VSH,Electronic Components & Accessories,2020-07-04,1.0,2020,0.9135191939431675
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2020-03-31,0.0,2020,0.11896772782969647
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2020-09-30,0.0,2020,0.15536850083107603
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2020-12-31,0.0,2020,0.24840094551798514
+WEAV,Services-Prepackaged Software,2020-12-31,0.0,2020,0.4111117410447549
+WK,Services-Prepackaged Software,2020-06-30,1.0,2020,0.5568195120569022
+XPER,Services-Prepackaged Software,2020-12-31,0.0,2020,0.6106948215928993
+XRX,"Computer Peripheral Equipment, NEC",2020-06-30,1.0,2020,0.8573308002489997
+YEXT,Services-Computer Processing & Data Preparation,2020-01-31,1.0,2020,0.47425560450591786
+YEXT,Services-Computer Processing & Data Preparation,2020-04-30,1.0,2020,0.552820094419834
+YEXT,Services-Computer Processing & Data Preparation,2020-10-31,1.0,2020,0.5445032748558107
+YOU,Services-Prepackaged Software,2020-06-30,1.0,2020,0.8290640819609593
+ZETA,Services-Prepackaged Software,2020-06-30,1.0,2020,0.5554269293613211
+AAOI,Semiconductors & Related Devices,2021-03-31,1.0,2021,0.58716700780587
+AAOI,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.5385398753331856
+ACIW,Services-Prepackaged Software,2021-06-30,1.0,2021,0.935245289337787
+AEIS,"Electronic Components, NEC",2021-06-30,1.0,2021,0.9043504208937044
+AEYE,Services-Prepackaged Software,2021-09-30,0.0,2021,0.18718627662178522
+AEYE,Services-Prepackaged Software,2021-12-31,0.0,2021,0.1950909139245221
+AGYS,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.7977395860479797
+AI,Services-Prepackaged Software,2021-04-30,0.0,2021,0.6587902458115513
+AIOT,"Communications Equipment, NEC",2021-06-30,0.0,2021,0.7386839010666384
+AIOT,"Communications Equipment, NEC",2021-09-30,0.0,2021,0.5253917871076831
+AIOT,"Communications Equipment, NEC",2021-12-31,1.0,2021,0.5156864306298767
+AIP,Semiconductors & Related Devices,2021-06-30,0.0,2021,0.21576545231706531
+AIP,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.40938418858242337
+AISP,Services-Prepackaged Software,2021-03-31,0.0,2021,0.4867425256486372
+AISP,Services-Prepackaged Software,2021-06-30,1.0,2021,0.4663516578437693
+AISP,Services-Prepackaged Software,2021-09-30,1.0,2021,0.4187722179227158
+AISP,Services-Prepackaged Software,2021-12-31,0.0,2021,0.4009130979514315
+ALGM,Semiconductors & Related Devices,2021-09-24,1.0,2021,0.9123764399903611
+ALKT,Services-Prepackaged Software,2021-03-31,1.0,2021,0.41141601808317796
+ALKT,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5442003829772479
+ALKT,Services-Prepackaged Software,2021-12-31,0.0,2021,0.5278755320185597
+ALMU,Semiconductors & Related Devices,2021-03-31,0.0,2021,0.144685795285194
+ALMU,Semiconductors & Related Devices,2021-06-30,0.0,2021,0.253296149635899
+ALMU,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.2667356192803695
+ALMU,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.25866864391453664
+ALRM,Services-Prepackaged Software,2021-06-30,0.0,2021,0.8992862453479559
+AMBA,Semiconductors & Related Devices,2021-04-30,1.0,2021,0.6085527110578011
+AMBA,Semiconductors & Related Devices,2021-07-31,1.0,2021,0.7814933471992311
+AMKR,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.9107976978944272
+AMPL,Services-Prepackaged Software,2021-03-31,0.0,2021,0.34954031867575147
+AMPL,Services-Prepackaged Software,2021-09-30,1.0,2021,0.47095770963261874
+AMPL,Services-Prepackaged Software,2021-12-31,1.0,2021,0.5201668126684358
+APLD,Services-Computer Processing & Data Preparation,2021-05-31,0.0,2021,0.16802375563915495
+APLD,Services-Computer Processing & Data Preparation,2021-08-31,1.0,2021,0.4046793667343354
+APPF,Services-Prepackaged Software,2021-03-31,0.0,2021,0.5393845105727824
+APPF,Services-Prepackaged Software,2021-06-30,0.0,2021,0.7728383412529749
+APPN,Services-Prepackaged Software,2021-03-31,0.0,2021,0.5066037405096755
+APPN,Services-Prepackaged Software,2021-06-30,0.0,2021,0.7199445796747366
+APPN,Services-Prepackaged Software,2021-09-30,0.0,2021,0.6655455420913463
+APPN,Services-Prepackaged Software,2021-12-31,0.0,2021,0.6541851134139257
+ASAN,Services-Prepackaged Software,2021-01-31,0.0,2021,0.6947003754427483
+ASAN,Services-Prepackaged Software,2021-04-30,0.0,2021,0.726195983558189
+ASAN,Services-Prepackaged Software,2021-10-31,0.0,2021,0.6781074909328981
+ASUR,Services-Computer Integrated Systems Design,2021-03-31,1.0,2021,0.5844146148756515
+ASUR,Services-Computer Integrated Systems Design,2021-06-30,1.0,2021,0.6688517487175581
+ATEN,Computer Communications Equipment,2021-06-30,1.0,2021,0.7858601291189606
+ATOM,Semiconductors & Related Devices,2021-03-31,0.0,2021,0.18555973302595571
+ATOM,Semiconductors & Related Devices,2021-06-30,0.0,2021,0.2808803788229879
+ATOM,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.32120777056234723
+ATOM,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.09312545998873954
+AUR,Services-Computer Integrated Systems Design,2021-03-31,0.0,2021,0.5872920474123686
+AUR,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.5951720216769276
+AUR,Services-Computer Integrated Systems Design,2021-12-31,0.0,2021,0.6014150937404737
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2021-01-01,0.0,2021,0.7456608753164482
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2021-12-31,0.0,2021,0.7665063144272921
+AVPT,Services-Prepackaged Software,2021-03-31,0.0,2021,0.35136466001101807
+AVPT,Services-Prepackaged Software,2021-06-30,0.0,2021,0.5403973672340696
+AVPT,Services-Prepackaged Software,2021-09-30,0.0,2021,0.382152009140455
+BBAI,Services-Prepackaged Software,2021-03-31,0.0,2021,0.45834752282181745
+BBAI,Services-Prepackaged Software,2021-12-31,0.0,2021,0.6973310446850012
+BELFA,"Electronic Coils, Transformers & Other Inductors",2021-06-30,1.0,2021,0.8221099193678774
+BELFB,"Electronic Coils, Transformers & Other Inductors",2021-06-30,1.0,2021,0.8221099193678774
+BILL,Services-Prepackaged Software,2021-03-31,0.0,2021,0.5093591046905144
+BILL,Services-Prepackaged Software,2021-09-30,0.0,2021,0.7124619353139388
+BILL,Services-Prepackaged Software,2021-12-31,1.0,2021,0.7272391471057015
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2021-03-31,0.0,2021,0.2758327143192446
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2021-09-30,0.0,2021,0.5289753588315154
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2021-12-31,0.0,2021,0.6244587722689543
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2021-06-30,0.0,2021,0.5165258430771226
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2021-09-30,0.0,2021,0.609044425591293
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2021-12-31,0.0,2021,0.7005845869854365
+BL,Services-Prepackaged Software,2021-06-30,0.0,2021,0.8386336984509929
+BLKB,Services-Prepackaged Software,2021-06-30,1.0,2021,0.9077297759660019
+BLND,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,0.0,2021,0.3903372837353721
+BLND,"Services-Computer Programming, Data Processing, Etc.",2021-09-30,0.0,2021,0.47054148914085236
+BLND,"Services-Computer Programming, Data Processing, Etc.",2021-12-31,0.0,2021,0.753385889172562
+BLZE,Services-Prepackaged Software,2021-09-30,0.0,2021,0.32107550014933073
+BLZE,Services-Prepackaged Software,2021-12-31,0.0,2021,0.22286462633355705
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,1.0,2021,0.7028328539409449
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,1.0,2021,0.8298841890737123
+BOX,Services-Prepackaged Software,2021-07-31,1.0,2021,0.656826599667871
+BRZE,Services-Prepackaged Software,2021-01-31,0.0,2021,0.48082887759139203
+BRZE,Services-Prepackaged Software,2021-04-30,0.0,2021,0.25558286234466693
+BRZE,Services-Prepackaged Software,2021-07-31,1.0,2021,0.4946815677943965
+BRZE,Services-Prepackaged Software,2021-10-31,1.0,2021,0.6076140111329675
+BSY,Services-Prepackaged Software,2021-06-30,1.0,2021,0.9306350990056071
+BZAI,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.31473001278266777
+CACI,Services-Computer Integrated Systems Design,2021-12-31,1.0,2021,0.9332704364619999
+CARG,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.8656437227561021
+CARS,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.8159209165178192
+CCC,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8154253526849697
+CCSI,Services-Prepackaged Software,2021-06-30,0.0,2021,0.8763050067706418
+CERT,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8832389475010315
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,1.0,2021,0.8282000716475268
+CLVT,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.6587398559971884
+CMRC,Services-Prepackaged Software,2021-03-31,0.0,2021,0.542648054068948
+CMRC,Services-Prepackaged Software,2021-09-30,0.0,2021,0.555163380888857
+CMRC,Services-Prepackaged Software,2021-12-31,0.0,2021,0.574394200427325
+COUR,Services-Prepackaged Software,2021-03-31,0.0,2021,0.4942776032171907
+CRDO,Semiconductors & Related Devices,2021-01-31,0.0,2021,0.506082387480533
+CRDO,Semiconductors & Related Devices,2021-04-30,0.0,2021,0.3548075721685726
+CRDO,Semiconductors & Related Devices,2021-07-31,0.0,2021,0.2987437556963267
+CRNC,Services-Prepackaged Software,2021-03-31,1.0,2021,0.8201185167382244
+CRSR,"Computer Peripheral Equipment, NEC",2021-06-30,0.0,2021,0.9344977566086098
+CRSR,"Computer Peripheral Equipment, NEC",2021-09-30,1.0,2021,0.8281205254100711
+CRUS,Semiconductors & Related Devices,2021-06-26,0.0,2021,0.6194541843599487
+CRUS,Semiconductors & Related Devices,2021-09-25,1.0,2021,0.8592751267544297
+CRUS,Semiconductors & Related Devices,2021-12-25,1.0,2021,0.7657780047600911
+CSGS,Services-Computer Processing & Data Preparation,2021-03-31,0.0,2021,0.7682579355481587
+CSGS,Services-Computer Processing & Data Preparation,2021-06-30,0.0,2021,0.9597559914660045
+CSPI,Services-Computer Integrated Systems Design,2021-06-30,1.0,2021,0.6211155152632974
+CSPI,Services-Computer Integrated Systems Design,2021-12-31,0.0,2021,0.5730620273277559
+CVLT,Services-Prepackaged Software,2021-09-30,1.0,2021,0.9085748092537191
+CWAN,Services-Prepackaged Software,2021-03-31,1.0,2021,0.5551617837037173
+CWAN,Services-Prepackaged Software,2021-06-30,1.0,2021,0.782717041316836
+CXM,Services-Prepackaged Software,2021-01-31,0.0,2021,0.5842126059229988
+CXM,Services-Prepackaged Software,2021-04-30,0.0,2021,0.3397680604148759
+CXM,Services-Prepackaged Software,2021-07-31,1.0,2021,0.6132524506453241
+CXM,Services-Prepackaged Software,2021-10-31,1.0,2021,0.4891773852947987
+DBX,Services-Prepackaged Software,2021-06-30,1.0,2021,0.829879394339816
+DGII,Computer Communications Equipment,2021-03-31,0.0,2021,0.7093410738434835
+DGII,Computer Communications Equipment,2021-12-31,0.0,2021,0.7930721390831572
+DH,Services-Prepackaged Software,2021-06-30,1.0,2021,0.5976453364346377
+DH,Services-Prepackaged Software,2021-09-30,1.0,2021,0.5850610229265591
+DIOD,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.8474708466786778
+DJT,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,0.0,2021,0.31404085934351433
+DJT,"Services-Computer Programming, Data Processing, Etc.",2021-12-31,0.0,2021,0.25748242387376086
+DMRC,Services-Computer Integrated Systems Design,2021-03-31,0.0,2021,0.23978809203485746
+DMRC,Services-Computer Integrated Systems Design,2021-06-30,0.0,2021,0.21862199995325876
+DMRC,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.14850282199203035
+DMRC,Services-Computer Integrated Systems Design,2021-12-31,0.0,2021,0.2356102739948398
+DOCS,Services-Computer Programming Services,2021-09-30,1.0,2021,0.8047418337642717
+DOMO,Services-Prepackaged Software,2021-01-31,1.0,2021,0.7968933662761124
+DOMO,Services-Prepackaged Software,2021-04-30,1.0,2021,0.7475255916246857
+DT,Services-Prepackaged Software,2021-09-30,1.0,2021,0.8852360826057353
+DUOL,Services-Prepackaged Software,2021-06-30,1.0,2021,0.7518409455857642
+DXC,Services-Computer Processing & Data Preparation,2021-03-31,1.0,2021,0.7967437374848017
+DXC,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.7291565681112773
+EGAN,Services-Prepackaged Software,2021-03-31,1.0,2021,0.7470590385624418
+EGAN,Services-Prepackaged Software,2021-12-31,1.0,2021,0.6077534717044121
+EGHT,Services-Computer Processing & Data Preparation,2021-03-31,1.0,2021,0.6601623531284452
+ENPH,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.8320542509917505
+EPAM,Services-Computer Programming Services,2021-06-30,0.0,2021,0.8443851589353883
+ESE,"Communications Equipment, NEC",2021-03-31,0.0,2021,0.8218706748277165
+ESTC,Services-Prepackaged Software,2021-10-31,0.0,2021,0.8580948591056192
+EVCM,Services-Prepackaged Software,2021-03-31,0.0,2021,0.44659397311834115
+EVCM,Services-Prepackaged Software,2021-06-30,1.0,2021,0.7335375633071117
+EVER,"Services-Computer Programming, Data Processing, Etc.",2021-12-31,0.0,2021,0.5198235821196469
+EVLV,"Computer Peripheral Equipment, NEC",2021-03-31,0.0,2021,0.22732818140293426
+EVLV,"Computer Peripheral Equipment, NEC",2021-09-30,0.0,2021,0.5045571427234762
+EVLV,"Computer Peripheral Equipment, NEC",2021-12-31,0.0,2021,0.4352480349294101
+EVTC,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.9541976111298769
+EXFY,Services-Prepackaged Software,2021-12-31,1.0,2021,0.29040971993203774
+EXTR,Computer Communications Equipment,2021-12-31,1.0,2021,0.8800669260649263
+FA,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.8753392514187267
+FDS,"Services-Computer Programming, Data Processing, Etc.",2021-02-28,1.0,2021,0.9430979153620189
+FFIV,Computer Communications Equipment,2021-03-31,1.0,2021,0.9017320369111212
+FIVN,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.742481944427898
+FIVN,Services-Computer Processing & Data Preparation,2021-09-30,1.0,2021,0.5907559789688843
+FORM,Semiconductors & Related Devices,2021-06-26,1.0,2021,0.9196398928215499
+FRSH,Services-Prepackaged Software,2021-06-30,0.0,2021,0.7790562867247544
+FRSH,Services-Prepackaged Software,2021-09-30,0.0,2021,0.449658961294203
+FSLY,Services-Prepackaged Software,2021-03-31,0.0,2021,0.5145134486374854
+FSLY,Services-Prepackaged Software,2021-06-30,0.0,2021,0.6921240518374931
+FSLY,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5850463104831467
+FSLY,Services-Prepackaged Software,2021-12-31,0.0,2021,0.6233642981979068
+GEN,Services-Prepackaged Software,2021-10-01,1.0,2021,0.8195331069902398
+GRND,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,1.0,2021,0.36602718253208555
+GRND,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,1.0,2021,0.30849553800837903
+GRND,"Services-Computer Programming, Data Processing, Etc.",2021-09-30,1.0,2021,0.36471411184047076
+GTLB,Services-Prepackaged Software,2021-01-31,1.0,2021,0.5377109084197003
+GTLB,Services-Prepackaged Software,2021-04-30,0.0,2021,0.345810017941225
+GWRE,Services-Prepackaged Software,2021-01-31,0.0,2021,0.8326458820665721
+GWRE,Services-Prepackaged Software,2021-10-31,0.0,2021,0.7271057855008511
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,0.0,2021,0.5846997223307051
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2021-09-30,0.0,2021,0.5902645014352272
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2021-12-31,0.0,2021,0.567510386469412
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2021-07-02,0.0,2021,0.8513265369314964
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,1.0,2021,0.6719813135200308
+ICHR,Semiconductors & Related Devices,2021-09-24,0.0,2021,0.8206732567451231
+ICHR,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.8135850625853054
+INDI,Semiconductors & Related Devices,2021-03-31,0.0,2021,0.40018293698619123
+INDI,Semiconductors & Related Devices,2021-06-30,0.0,2021,0.469411144906835
+INDI,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.4724017161117441
+INDI,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.5502683381248494
+INOD,Services-Computer Processing & Data Preparation,2021-12-31,0.0,2021,0.7098780443495961
+INSE,Services-Prepackaged Software,2021-03-31,0.0,2021,0.47698740429567865
+INSE,Services-Prepackaged Software,2021-06-30,1.0,2021,0.6345837602146223
+INSG,"Communications Equipment, NEC",2021-06-30,0.0,2021,0.5226594273691622
+INSG,"Communications Equipment, NEC",2021-09-30,0.0,2021,0.39974950471428344
+INSG,"Communications Equipment, NEC",2021-12-31,0.0,2021,0.44901576067318366
+INTA,Services-Prepackaged Software,2021-06-30,1.0,2021,0.770708775623209
+IONQ,Services-Computer Integrated Systems Design,2021-03-31,0.0,2021,0.36364048595927445
+IONQ,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.6177300255163976
+IONQ,Services-Computer Integrated Systems Design,2021-12-31,0.0,2021,0.4709407860743943
+IPGP,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.8740837069832088
+JKHY,Services-Computer Integrated Systems Design,2021-12-31,1.0,2021,0.9475510489911025
+KD,Services-Computer Integrated Systems Design,2021-03-31,0.0,2021,0.6256504485376972
+KD,Services-Computer Integrated Systems Design,2021-06-30,0.0,2021,0.6770823099956542
+KD,Services-Computer Integrated Systems Design,2021-09-30,1.0,2021,0.8842184284671533
+KLIC,Semiconductors & Related Devices,2021-04-03,1.0,2021,0.8235973420777849
+KLTR,Services-Prepackaged Software,2021-03-31,0.0,2021,0.28635022484167233
+KLTR,Services-Prepackaged Software,2021-06-30,0.0,2021,0.7248621500792655
+KLTR,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5222954560587496
+KLTR,Services-Prepackaged Software,2021-12-31,0.0,2021,0.43016754428756376
+KOPN,Semiconductors & Related Devices,2021-03-27,0.0,2021,0.4637142838502789
+KOPN,Semiconductors & Related Devices,2021-06-26,0.0,2021,0.5139384336150115
+KOPN,Semiconductors & Related Devices,2021-09-25,0.0,2021,0.5311026268794306
+KOPN,Semiconductors & Related Devices,2021-12-25,0.0,2021,0.45755243183422023
+KULR,Electronic Components & Accessories,2021-03-31,0.0,2021,0.2036309939335208
+KULR,Electronic Components & Accessories,2021-06-30,0.0,2021,0.1804146386227962
+KULR,Electronic Components & Accessories,2021-09-30,0.0,2021,0.1819346001092445
+KULR,Electronic Components & Accessories,2021-12-31,0.0,2021,0.17957416477299834
+LASR,Semiconductors & Related Devices,2021-06-30,0.0,2021,0.6701468431163162
+LASR,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.6901698501970853
+LASR,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.6902918846757644
+LAW,Services-Prepackaged Software,2021-03-31,0.0,2021,0.2267246876457367
+LAW,Services-Prepackaged Software,2021-09-30,0.0,2021,0.396349880003289
+LAW,Services-Prepackaged Software,2021-12-31,0.0,2021,0.4056037952617245
+LIF,Services-Computer Processing & Data Preparation,2021-12-31,0.0,2021,0.49612163674756604
+LSCC,Semiconductors & Related Devices,2021-07-03,1.0,2021,0.8794748629031701
+LZ,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.6950870985572768
+MANH,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8349156318672801
+MAPS,Services-Prepackaged Software,2021-06-30,0.0,2021,0.6245430385556603
+MEI,Electronic Connectors,2021-10-30,0.0,2021,0.9159579119780177
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,1.0,2021,0.5497127068003864
+MITK,"Computer Peripheral Equipment, NEC",2021-03-31,1.0,2021,0.7738723262717568
+MKTW,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5043647059341377
+MQ,Services-Prepackaged Software,2021-06-30,0.0,2021,0.6926843032510818
+MQ,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5246789568044856
+MRCY,Electronic Components & Accessories,2021-01-01,0.0,2021,0.9507489649504397
+MRCY,Electronic Components & Accessories,2021-10-01,0.0,2021,0.6659406966829398
+MRCY,Electronic Components & Accessories,2021-12-31,0.0,2021,0.902631041212679
+MRDN,Services-Prepackaged Software,2021-04-30,1.0,2021,0.24815173945968666
+MRDN,Services-Prepackaged Software,2021-10-31,1.0,2021,0.3637805314822429
+MTSI,Semiconductors & Related Devices,2021-04-02,1.0,2021,0.89290972125478
+MVIS,"Electronic Components, NEC",2021-03-31,0.0,2021,0.2117211622240206
+MVIS,"Electronic Components, NEC",2021-09-30,0.0,2021,0.34982196208419136
+MVIS,"Electronic Components, NEC",2021-12-31,0.0,2021,0.4192884959693296
+MXL,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.8616762478450961
+MYPS,Services-Prepackaged Software,2021-06-30,1.0,2021,0.7214834260534974
+NABL,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8487904913557649
+NCNO,Services-Prepackaged Software,2021-10-31,1.0,2021,0.40178234659031087
+NEON,"Electronic Components, NEC",2021-03-31,0.0,2021,0.17543634774118846
+NEON,"Electronic Components, NEC",2021-06-30,0.0,2021,0.29980957379403
+NEON,"Electronic Components, NEC",2021-09-30,0.0,2021,0.09281520913000985
+NEON,"Electronic Components, NEC",2021-12-31,0.0,2021,0.17693381842964945
+NRDS,Services-Computer Processing & Data Preparation,2021-03-31,0.0,2021,0.3869702235720198
+NRDS,Services-Computer Processing & Data Preparation,2021-06-30,0.0,2021,0.6604688378623693
+NSSC,"Communications Equipment, NEC",2021-12-31,0.0,2021,0.6242641984072466
+NTCT,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.9269075318356709
+NTNX,Services-Prepackaged Software,2021-04-30,1.0,2021,0.6144283503182271
+NTNX,Services-Prepackaged Software,2021-07-31,1.0,2021,0.750735889326618
+NVEC,Semiconductors & Related Devices,2021-09-30,1.0,2021,0.6080630151594348
+NVTS,Semiconductors & Related Devices,2021-03-31,0.0,2021,0.29932119277895686
+NVTS,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.2730111071335408
+NVTS,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.290599859921583
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,0.0,2021,0.370300267982668
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2021-12-31,0.0,2021,0.41005529303449195
+OLED,Electronic Components & Accessories,2021-06-30,1.0,2021,0.8889921983724847
+OMCL,Electronic Computers,2021-06-30,0.0,2021,0.9076301828087648
+ONTF,Services-Prepackaged Software,2021-06-30,0.0,2021,0.6226456942177989
+ONTF,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5364448913913025
+ONTF,Services-Prepackaged Software,2021-12-31,0.0,2021,0.6041360466051975
+OOMA,Services-Computer Processing & Data Preparation,2021-07-31,1.0,2021,0.7034858149027592
+OSIS,Semiconductors & Related Devices,2021-09-30,0.0,2021,0.7433759404799556
+OSIS,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.9375492474052927
+OSPN,Services-Computer Integrated Systems Design,2021-06-30,0.0,2021,0.7540581786004532
+OSPN,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.4584566741051467
+PATH,Services-Prepackaged Software,2021-04-30,0.0,2021,0.5644086524172678
+PATH,Services-Prepackaged Software,2021-07-31,0.0,2021,0.5912075147264825
+PATH,Services-Prepackaged Software,2021-10-31,0.0,2021,0.5617784633912705
+PCTY,Services-Prepackaged Software,2021-09-30,1.0,2021,0.6355045731406199
+PCTY,Services-Prepackaged Software,2021-12-31,1.0,2021,0.8607207564718452
+PD,Services-Prepackaged Software,2021-07-31,1.0,2021,0.7326043741212902
+PDFS,Services-Prepackaged Software,2021-03-31,0.0,2021,0.5661628432258656
+PDFS,Services-Prepackaged Software,2021-06-30,1.0,2021,0.7222647249953169
+PDYN,Services-Prepackaged Software,2021-03-31,0.0,2021,0.27282682065046493
+PDYN,Services-Prepackaged Software,2021-09-30,0.0,2021,0.28976336607439596
+PDYN,Services-Prepackaged Software,2021-12-31,0.0,2021,0.3954309043891504
+PEGA,Services-Computer Processing & Data Preparation,2021-09-30,1.0,2021,0.6311470106061019
+PENG,Semiconductors & Related Devices,2021-02-26,1.0,2021,0.8701558281030266
+PI,"Electronic Components, NEC",2021-12-31,0.0,2021,0.6183399648838799
+PL,Radio & Tv Broadcasting & Communications Equipment,2021-03-31,0.0,2021,0.4203409026787012
+PL,Radio & Tv Broadcasting & Communications Equipment,2021-06-30,0.0,2021,0.45208253104406626
+PL,Radio & Tv Broadcasting & Communications Equipment,2021-07-31,0.0,2021,0.8618353716450826
+PL,Radio & Tv Broadcasting & Communications Equipment,2021-09-30,0.0,2021,0.39830199256926224
+PL,Radio & Tv Broadcasting & Communications Equipment,2021-10-31,0.0,2021,0.4076946371617234
+PLAB,Semiconductors & Related Devices,2021-05-02,1.0,2021,0.9367389039527734
+PLTK,Services-Computer Processing & Data Preparation,2021-03-31,1.0,2021,0.7089551605406447
+PLTK,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.7715103206282751
+POWI,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.7957086735972383
+PRCH,Services-Prepackaged Software,2021-03-31,0.0,2021,0.48065212781097627
+PRCH,Services-Prepackaged Software,2021-09-30,0.0,2021,0.766738933839811
+PRCH,Services-Prepackaged Software,2021-12-31,0.0,2021,0.5974173274549024
+PRGS,Services-Prepackaged Software,2021-05-31,1.0,2021,0.8806103346315831
+PSN,Services-Computer Integrated Systems Design,2021-03-31,0.0,2021,0.7949543253951108
+PSN,Services-Computer Integrated Systems Design,2021-06-30,0.0,2021,0.8464460643221537
+PSTG,Computer Storage Devices,2021-08-01,1.0,2021,0.8608060131017169
+QBTS,Services-Computer Processing & Data Preparation,2021-09-30,0.0,2021,0.21258296152230982
+QBTS,Services-Computer Processing & Data Preparation,2021-12-31,0.0,2021,0.3050325126187584
+QLYS,Services-Prepackaged Software,2021-06-30,1.0,2021,0.9473423515319515
+QRVO,Semiconductors & Related Devices,2021-10-02,1.0,2021,0.8636592051928242
+QTWO,Services-Prepackaged Software,2021-03-31,1.0,2021,0.6309324643986278
+QTWO,Services-Prepackaged Software,2021-09-30,0.0,2021,0.5935025628935193
+QUBT,Services-Prepackaged Software,2021-03-31,0.0,2021,0.20542001364236634
+QUBT,Services-Prepackaged Software,2021-09-30,0.0,2021,0.19889783728852897
+QUBT,Services-Prepackaged Software,2021-12-31,0.0,2021,0.16601004674863146
+RAMP,Services-Computer Processing & Data Preparation,2021-06-30,0.0,2021,0.5179264212480902
+RAMP,Services-Computer Processing & Data Preparation,2021-09-30,0.0,2021,0.7156635942851877
+RBBN,Services-Computer Integrated Systems Design,2021-03-31,0.0,2021,0.5349626330728279
+RBBN,Services-Computer Integrated Systems Design,2021-06-30,0.0,2021,0.8328598354699182
+RBBN,Services-Computer Integrated Systems Design,2021-09-30,0.0,2021,0.6461837316037083
+RCAT,Services-Prepackaged Software,2021-01-31,0.0,2021,0.10201831804589628
+RCAT,Services-Prepackaged Software,2021-04-30,0.0,2021,0.16483975993852729
+RCAT,Services-Prepackaged Software,2021-07-31,0.0,2021,0.1526531643842216
+RCAT,Services-Prepackaged Software,2021-10-31,0.0,2021,0.3513507647041244
+RGTI,Services-Computer Programming Services,2021-03-31,0.0,2021,0.3603115605632897
+RGTI,Services-Computer Programming Services,2021-06-30,0.0,2021,0.40373714717839226
+RGTI,Services-Computer Programming Services,2021-09-30,0.0,2021,0.34384090692760344
+RGTI,Services-Computer Programming Services,2021-12-31,0.0,2021,0.4554951925183061
+RMBS,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.88877823072829
+RUM,"Services-Computer Programming, Data Processing, Etc.",2021-09-30,0.0,2021,0.23943077472507365
+RUM,"Services-Computer Programming, Data Processing, Etc.",2021-12-31,0.0,2021,0.18796217759959638
+S,Services-Prepackaged Software,2021-01-31,0.0,2021,0.6989293386552298
+S,Services-Prepackaged Software,2021-04-30,0.0,2021,0.45007224960684333
+S,Services-Prepackaged Software,2021-07-31,0.0,2021,0.6390588905845884
+S,Services-Prepackaged Software,2021-10-31,0.0,2021,0.5733460904540173
+SAIC,Services-Computer Integrated Systems Design,2021-07-30,1.0,2021,0.9169627589261604
+SHLS,Semiconductors & Related Devices,2021-03-31,0.0,2021,0.7542857051944609
+SHLS,Semiconductors & Related Devices,2021-06-30,0.0,2021,0.806447193835764
+SITM,Semiconductors & Related Devices,2021-06-30,1.0,2021,0.6400617222776397
+SKIL,Services-Prepackaged Software,2021-03-31,1.0,2021,0.4645084159980002
+SKYT,Semiconductors & Related Devices,2021-04-04,0.0,2021,0.7193752994539309
+SKYT,Semiconductors & Related Devices,2021-07-04,0.0,2021,0.7429913074617852
+SKYT,Semiconductors & Related Devices,2021-10-03,1.0,2021,0.6028260223661648
+SLP,Services-Computer Integrated Systems Design,2021-02-28,1.0,2021,0.5920449087904209
+SMTC,Semiconductors & Related Devices,2021-08-01,1.0,2021,0.8861844226492525
+SOUN,Services-Prepackaged Software,2021-03-31,0.0,2021,0.39146103490743334
+SOUN,Services-Prepackaged Software,2021-06-30,0.0,2021,0.27536732252653906
+SOUN,Services-Prepackaged Software,2021-09-30,0.0,2021,0.2684834971878175
+SOUN,Services-Prepackaged Software,2021-12-31,0.0,2021,0.3618207675747853
+SPSC,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8949376989551957
+SSTI,Services-Prepackaged Software,2021-03-31,1.0,2021,0.7318294049508676
+SSTI,Services-Prepackaged Software,2021-06-30,0.0,2021,0.7644994164453873
+SSTK,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.9086346812398776
+SWKS,Semiconductors & Related Devices,2021-04-02,1.0,2021,0.8546821985596003
+SYNA,Semiconductors & Related Devices,2021-12-25,1.0,2021,0.8968838541487273
+TBCH,"Communications Equipment, NEC",2021-06-30,0.0,2021,0.6547222031244402
+TBCH,"Communications Equipment, NEC",2021-09-30,0.0,2021,0.6827836160343832
+TBRG,Services-Computer Programming Services,2021-06-30,1.0,2021,0.8149225835496838
+TCX,Services-Computer Processing & Data Preparation,2021-06-30,1.0,2021,0.8746798006891903
+TE,Semiconductors & Related Devices,2021-12-31,0.0,2021,0.4893566309725179
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,0.0,2021,0.748138636595659
+TENB,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8329785939091724
+TLS,Services-Computer Integrated Systems Design,2021-03-31,1.0,2021,0.37283126823748525
+TLS,Services-Computer Integrated Systems Design,2021-06-30,1.0,2021,0.6203109950037319
+TLS,Services-Computer Integrated Systems Design,2021-12-31,1.0,2021,0.583611840236679
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2021-03-31,1.0,2021,0.6479085080364367
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2021-09-30,1.0,2021,0.6504302795708072
+U,Services-Prepackaged Software,2021-03-31,0.0,2021,0.7357356021163513
+U,Services-Prepackaged Software,2021-06-30,1.0,2021,0.853801733369968
+U,Services-Prepackaged Software,2021-12-31,1.0,2021,0.7121970460859806
+UIS,Services-Computer Integrated Systems Design,2021-03-31,1.0,2021,0.6114084485346998
+UPWK,Services-Computer Processing & Data Preparation,2021-06-30,0.0,2021,0.7619912666925325
+UPWK,Services-Computer Processing & Data Preparation,2021-12-31,0.0,2021,0.7274611905161859
+VERX,Services-Prepackaged Software,2021-03-31,1.0,2021,0.6917384126876353
+VERX,Services-Prepackaged Software,2021-06-30,1.0,2021,0.8661968446686024
+VIAV,Semiconductors & Related Devices,2021-01-02,1.0,2021,0.8216037452287848
+VICR,"Electronic Components, NEC",2021-06-30,1.0,2021,0.8074200183246241
+VISN,Radio & Tv Broadcasting & Communications Equipment,2021-03-31,0.0,2021,0.7295612323311461
+VISN,Radio & Tv Broadcasting & Communications Equipment,2021-06-30,0.0,2021,0.739299781410135
+VPG,Electronic Components & Accessories,2021-07-03,1.0,2021,0.795392437653311
+VRNS,Services-Prepackaged Software,2021-09-30,1.0,2021,0.595504761363538
+VSH,Electronic Components & Accessories,2021-07-03,1.0,2021,0.8823913850830298
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2021-03-31,0.0,2021,0.18244146366025144
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2021-09-30,0.0,2021,0.19497807784516843
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2021-12-31,0.0,2021,0.2659464329714983
+WEAV,Services-Prepackaged Software,2021-03-31,0.0,2021,0.23126880294909194
+WEAV,Services-Prepackaged Software,2021-12-31,1.0,2021,0.34704412663326406
+XPER,Services-Prepackaged Software,2021-12-31,0.0,2021,0.6416361932689558
+XRX,"Computer Peripheral Equipment, NEC",2021-06-30,0.0,2021,0.8428250085695078
+YEXT,Services-Computer Processing & Data Preparation,2021-10-31,1.0,2021,0.6507532001499572
+YOU,Services-Prepackaged Software,2021-03-31,1.0,2021,0.47995398574439196
+ZETA,Services-Prepackaged Software,2021-06-30,1.0,2021,0.7696209162727101
+ZIP,"Services-Computer Programming, Data Processing, Etc.",2021-06-30,1.0,2021,0.6595168093529062
+AAOI,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.5119219631341051
+AAOI,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.5389261532977971
+AAOI,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.5964377378116639
+ACIW,Services-Prepackaged Software,2022-06-30,1.0,2022,0.9269162412792994
+AEIS,"Electronic Components, NEC",2022-06-30,1.0,2022,0.8792220347438269
+AEYE,Services-Prepackaged Software,2022-03-31,0.0,2022,0.32669719337588177
+AEYE,Services-Prepackaged Software,2022-06-30,1.0,2022,0.3430891483421252
+AEYE,Services-Prepackaged Software,2022-09-30,1.0,2022,0.29764868620846424
+AEYE,Services-Prepackaged Software,2022-12-31,1.0,2022,0.3643345009691972
+AGYS,Services-Computer Integrated Systems Design,2022-09-30,1.0,2022,0.7557691874483969
+AI,Services-Prepackaged Software,2022-01-31,0.0,2022,0.39694606149859635
+AI,Services-Prepackaged Software,2022-04-30,0.0,2022,0.4247722886319698
+AI,Services-Prepackaged Software,2022-07-31,0.0,2022,0.47039991403420267
+AI,Services-Prepackaged Software,2022-10-31,1.0,2022,0.6354659942526013
+AIOT,"Communications Equipment, NEC",2022-03-31,1.0,2022,0.4713653635848752
+AIP,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.3673083363195153
+AIP,Semiconductors & Related Devices,2022-06-30,0.0,2022,0.5457411607294345
+AIP,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.4500848257716651
+AIP,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.5267221854708849
+AISP,Services-Prepackaged Software,2022-03-31,0.0,2022,0.3956429826542056
+AISP,Services-Prepackaged Software,2022-09-30,0.0,2022,0.3380674717336496
+AISP,Services-Prepackaged Software,2022-12-31,0.0,2022,0.24546432996547735
+ALAB,Semiconductors & Related Devices,2022-12-31,1.0,2022,0.39289095830617327
+ALGM,Semiconductors & Related Devices,2022-09-23,1.0,2022,0.9108814842157777
+ALKT,Services-Prepackaged Software,2022-03-31,0.0,2022,0.2858683389298101
+ALKT,Services-Prepackaged Software,2022-09-30,0.0,2022,0.30132591920804497
+ALKT,Services-Prepackaged Software,2022-12-31,1.0,2022,0.3787456577765771
+ALMU,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.187607510958972
+ALMU,Semiconductors & Related Devices,2022-06-30,0.0,2022,0.14081116560630935
+ALMU,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.12406054947683405
+ALMU,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.15815514954359638
+ALRM,Services-Prepackaged Software,2022-03-31,0.0,2022,0.6335491873553755
+ALRM,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7823704627540761
+AMBA,Semiconductors & Related Devices,2022-07-31,1.0,2022,0.7811059522379775
+AMKR,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.8352267084047559
+AMPL,Services-Prepackaged Software,2022-03-31,1.0,2022,0.4527562369075896
+AMPL,Services-Prepackaged Software,2022-09-30,1.0,2022,0.42967362773248896
+AMPL,Services-Prepackaged Software,2022-12-31,1.0,2022,0.5495971530086597
+AOSL,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.798272036700046
+APLD,Services-Computer Processing & Data Preparation,2022-05-31,1.0,2022,0.41609704086969046
+APPF,Services-Prepackaged Software,2022-03-31,0.0,2022,0.518617229157592
+APPF,Services-Prepackaged Software,2022-06-30,0.0,2022,0.5289534373956422
+APPN,Services-Prepackaged Software,2022-03-31,0.0,2022,0.531510370292398
+APPN,Services-Prepackaged Software,2022-09-30,0.0,2022,0.5509198966881799
+APPN,Services-Prepackaged Software,2022-12-31,0.0,2022,0.6101102422605416
+ASAN,Services-Prepackaged Software,2022-01-31,0.0,2022,0.6268578961754776
+ASAN,Services-Prepackaged Software,2022-04-30,0.0,2022,0.6066721338734884
+ASAN,Services-Prepackaged Software,2022-10-31,1.0,2022,0.6151745296576026
+ASUR,Services-Computer Integrated Systems Design,2022-09-30,1.0,2022,0.695583457877986
+ATEN,Computer Communications Equipment,2022-06-30,1.0,2022,0.5405540488169929
+ATOM,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.08364890081027203
+ATOM,Semiconductors & Related Devices,2022-06-30,0.0,2022,0.1619402248585436
+ATOM,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.12642781349854534
+ATOM,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.13900749478291619
+AUR,Services-Computer Integrated Systems Design,2022-03-31,0.0,2022,0.36957566314724155
+AUR,Services-Computer Integrated Systems Design,2022-09-30,0.0,2022,0.44444910081414624
+AUR,Services-Computer Integrated Systems Design,2022-12-31,0.0,2022,0.42861053124755355
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2022-04-01,0.0,2022,0.6538639043675933
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2022-09-30,1.0,2022,0.5891196584087939
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2022-12-30,1.0,2022,0.6151070443484183
+AVPT,Services-Prepackaged Software,2022-03-31,0.0,2022,0.38556551013477963
+AVPT,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7151207744147202
+AVPT,Services-Prepackaged Software,2022-09-30,1.0,2022,0.5381542160532549
+BAND,Services-Prepackaged Software,2022-03-31,0.0,2022,0.4499873395470774
+BAND,Services-Prepackaged Software,2022-06-30,0.0,2022,0.7011700972291068
+BBAI,Services-Prepackaged Software,2022-03-31,0.0,2022,0.44441828301363173
+BBAI,Services-Prepackaged Software,2022-06-30,0.0,2022,0.6205277416304236
+BBAI,Services-Prepackaged Software,2022-09-30,0.0,2022,0.4455136654861244
+BBAI,Services-Prepackaged Software,2022-12-31,1.0,2022,0.5696505593489328
+BELFA,"Electronic Coils, Transformers & Other Inductors",2022-03-31,1.0,2022,0.7205104869332127
+BELFB,"Electronic Coils, Transformers & Other Inductors",2022-03-31,1.0,2022,0.7205104869332127
+BILL,Services-Prepackaged Software,2022-06-30,1.0,2022,0.42567124166390335
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2022-03-31,0.0,2022,0.4582720795014845
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2022-06-30,0.0,2022,0.5503887629963289
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2022-09-30,0.0,2022,0.49112760004686284
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2022-12-31,0.0,2022,0.4558613369376385
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2022-03-31,0.0,2022,0.4318076317101397
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2022-06-30,1.0,2022,0.49748073735049203
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2022-09-30,1.0,2022,0.5851984476105245
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2022-12-31,1.0,2022,0.5793226292053404
+BL,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7597482981925612
+BLKB,Services-Prepackaged Software,2022-06-30,1.0,2022,0.9019942533278883
+BLND,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,0.0,2022,0.3624581219785672
+BLND,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,0.0,2022,0.4144919494309993
+BLND,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,0.0,2022,0.4394937524687016
+BLZE,Services-Prepackaged Software,2022-03-31,0.0,2022,0.339986063457058
+BLZE,Services-Prepackaged Software,2022-06-30,0.0,2022,0.5371549870682887
+BLZE,Services-Prepackaged Software,2022-09-30,0.0,2022,0.3440043589635885
+BLZE,Services-Prepackaged Software,2022-12-31,0.0,2022,0.4006175009260472
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.8081689092571539
+BOX,Services-Prepackaged Software,2022-07-31,1.0,2022,0.8166457739531903
+BRZE,Services-Prepackaged Software,2022-01-31,1.0,2022,0.32266371714625136
+BRZE,Services-Prepackaged Software,2022-10-31,1.0,2022,0.44709130728422203
+BSY,Services-Prepackaged Software,2022-06-30,1.0,2022,0.9049754368619043
+BZAI,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.27437505225455183
+BZAI,Semiconductors & Related Devices,2022-06-30,0.0,2022,0.3109061913667499
+BZAI,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.2514432721923622
+BZAI,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.26858886980573615
+CACI,Services-Computer Integrated Systems Design,2022-12-31,0.0,2022,0.8348596049595187
+CARG,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.7714661976490849
+CARS,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8531400897366117
+CCC,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7989809840416064
+CCSI,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7774093479844921
+CERT,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8324780666647736
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,0.0,2022,0.6724950812362905
+CLVT,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.7467749887198202
+CMRC,Services-Prepackaged Software,2022-03-31,0.0,2022,0.301264941265419
+CMRC,Services-Prepackaged Software,2022-09-30,0.0,2022,0.4237479092961088
+CMRC,Services-Prepackaged Software,2022-12-31,1.0,2022,0.45852369576030416
+COUR,Services-Prepackaged Software,2022-03-31,0.0,2022,0.511742934497442
+COUR,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7764158765228191
+COUR,Services-Prepackaged Software,2022-12-31,1.0,2022,0.4842078744893437
+CRDO,Semiconductors & Related Devices,2022-04-30,0.0,2022,0.5419836320157856
+CRDO,Semiconductors & Related Devices,2022-07-30,1.0,2022,0.5423731911552396
+CRNC,Services-Prepackaged Software,2022-03-31,0.0,2022,0.7651209551734964
+CRNC,Services-Prepackaged Software,2022-06-30,1.0,2022,0.5905300074387632
+CRNC,Services-Prepackaged Software,2022-09-30,0.0,2022,0.5832748869371012
+CRNC,Services-Prepackaged Software,2022-12-31,1.0,2022,0.558557352317469
+CRSR,"Computer Peripheral Equipment, NEC",2022-03-31,1.0,2022,0.6540222992259599
+CRSR,"Computer Peripheral Equipment, NEC",2022-06-30,1.0,2022,0.7033016975913204
+CRUS,Semiconductors & Related Devices,2022-09-24,0.0,2022,0.676679010472479
+CSGS,Services-Computer Processing & Data Preparation,2022-03-31,0.0,2022,0.7136620100321989
+CSGS,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8435220432459041
+CSPI,Services-Computer Integrated Systems Design,2022-06-30,0.0,2022,0.6374697110578209
+CSPI,Services-Computer Integrated Systems Design,2022-12-31,1.0,2022,0.643289439890294
+CVLT,Services-Prepackaged Software,2022-09-30,1.0,2022,0.937941102799482
+CXM,Services-Prepackaged Software,2022-01-31,1.0,2022,0.5410979725582451
+CXM,Services-Prepackaged Software,2022-04-30,1.0,2022,0.5187360192216341
+DBX,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7826644199584117
+DDD,Services-Prepackaged Software,2022-03-31,0.0,2022,0.46586516377680964
+DDD,Services-Prepackaged Software,2022-06-30,0.0,2022,0.7222098723080684
+DDD,Services-Prepackaged Software,2022-09-30,0.0,2022,0.5605901619752214
+DDD,Services-Prepackaged Software,2022-12-31,0.0,2022,0.5451106841910902
+DGII,Computer Communications Equipment,2022-03-31,1.0,2022,0.8263784618380134
+DIOD,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.8243566610656794
+DJT,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,0.0,2022,0.15395877727547602
+DJT,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,0.0,2022,0.16774712906440525
+DJT,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,0.0,2022,0.23393358048410207
+DJT,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,1.0,2022,0.25760914832670656
+DMRC,Services-Computer Integrated Systems Design,2022-03-31,0.0,2022,0.38506748431117166
+DMRC,Services-Computer Integrated Systems Design,2022-06-30,0.0,2022,0.14170542277911513
+DMRC,Services-Computer Integrated Systems Design,2022-09-30,0.0,2022,0.24853393494880593
+DMRC,Services-Computer Integrated Systems Design,2022-12-31,0.0,2022,0.17361389704081626
+DOCN,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.7904436884318098
+DOCS,Services-Computer Programming Services,2022-09-30,1.0,2022,0.7225179746228075
+DOMO,Services-Prepackaged Software,2022-07-31,1.0,2022,0.7879255164440038
+DOMO,Services-Prepackaged Software,2022-10-31,1.0,2022,0.7104277781999446
+DSP,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.7584723685093926
+DSP,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,1.0,2022,0.5264191332807453
+DT,Services-Prepackaged Software,2022-09-30,1.0,2022,0.8168881505479227
+DV,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,1.0,2022,0.5572818697480971
+DV,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.7697974722594472
+DXC,Services-Computer Processing & Data Preparation,2022-09-30,1.0,2022,0.6876589756057542
+EGHT,Services-Computer Processing & Data Preparation,2022-09-30,1.0,2022,0.7509404571579371
+ENPH,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.8429710735024719
+EPAM,Services-Computer Programming Services,2022-03-31,1.0,2022,0.6753338217538497
+EPAM,Services-Computer Programming Services,2022-06-30,1.0,2022,0.6630434112495498
+ESE,"Communications Equipment, NEC",2022-03-31,0.0,2022,0.8382534594009062
+ESE,"Communications Equipment, NEC",2022-12-31,0.0,2022,0.6862381778908317
+ESTC,Services-Prepackaged Software,2022-04-30,1.0,2022,0.637162840784165
+ESTC,Services-Prepackaged Software,2022-07-31,1.0,2022,0.5935493545269299
+ESTC,Services-Prepackaged Software,2022-10-31,1.0,2022,0.698007119956207
+EVCM,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8308417222488098
+EVER,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,0.0,2022,0.4149012005738506
+EVER,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.6927082113621887
+EVER,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,1.0,2022,0.40095890291951675
+EVER,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,1.0,2022,0.43309434908907046
+EVLV,"Computer Peripheral Equipment, NEC",2022-03-31,0.0,2022,0.40550706455554986
+EVLV,"Computer Peripheral Equipment, NEC",2022-06-30,1.0,2022,0.5544158299219396
+EVLV,"Computer Peripheral Equipment, NEC",2022-09-30,1.0,2022,0.33456453330631325
+EVLV,"Computer Peripheral Equipment, NEC",2022-12-31,1.0,2022,0.42270939755872644
+EVTC,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.9044104171086909
+EXFY,Services-Prepackaged Software,2022-09-30,0.0,2022,0.3581210240634588
+EXTR,Computer Communications Equipment,2022-12-31,1.0,2022,0.8165666602271116
+FA,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8501409726600845
+FDS,"Services-Computer Programming, Data Processing, Etc.",2022-02-28,1.0,2022,0.8866127117790893
+FFIV,Computer Communications Equipment,2022-03-31,1.0,2022,0.9033303660046448
+FIVN,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.7018413060978399
+FORM,Semiconductors & Related Devices,2022-06-25,0.0,2022,0.8980247000056558
+FRSH,Services-Prepackaged Software,2022-06-30,1.0,2022,0.730295824935596
+FRSH,Services-Prepackaged Software,2022-09-30,1.0,2022,0.41885056198360204
+FSLY,Services-Prepackaged Software,2022-03-31,0.0,2022,0.5073698735908883
+FSLY,Services-Prepackaged Software,2022-09-30,1.0,2022,0.5109434055297906
+FSLY,Services-Prepackaged Software,2022-12-31,1.0,2022,0.5708077019944836
+GDYN,Services-Prepackaged Software,2022-06-30,1.0,2022,0.6351809134798123
+GEN,Services-Prepackaged Software,2022-09-30,1.0,2022,0.8358265657987776
+GRND,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.21140209569615837
+GTLB,Services-Prepackaged Software,2022-01-31,0.0,2022,0.4555814624953191
+GTLB,Services-Prepackaged Software,2022-04-30,0.0,2022,0.41962329282509714
+GTLB,Services-Prepackaged Software,2022-07-31,1.0,2022,0.5731220247891441
+GTLB,Services-Prepackaged Software,2022-10-31,1.0,2022,0.4609862410100351
+GTM,Services-Prepackaged Software,2022-06-30,1.0,2022,0.829316619283647
+GWRE,Services-Prepackaged Software,2022-01-31,0.0,2022,0.7937387221606742
+GWRE,Services-Prepackaged Software,2022-04-30,0.0,2022,0.5305830596167872
+GWRE,Services-Prepackaged Software,2022-10-31,0.0,2022,0.44293893107318805
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,0.0,2022,0.4181660682624132
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,0.0,2022,0.4292296680886661
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2022-04-01,0.0,2022,0.6133435610529984
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2022-07-01,0.0,2022,0.8691475991928077
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2022-09-30,1.0,2022,0.5729095552428468
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.8797810868958738
+IAC,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.6171560509442496
+IAC,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,1.0,2022,0.4511448863206532
+IAC,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,1.0,2022,0.507735478863789
+IBEX,Services-Computer Processing & Data Preparation,2022-12-31,1.0,2022,0.8636428380720584
+ICHR,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.6636968304883233
+ICHR,Semiconductors & Related Devices,2022-04-01,0.0,2022,0.7576519928611098
+ICHR,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.7150410525537478
+ICHR,Semiconductors & Related Devices,2022-07-01,1.0,2022,0.8714067541025716
+IIIV,Services-Prepackaged Software,2022-03-31,1.0,2022,0.7912582645878683
+INDI,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.4486184384974046
+INDI,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.4398853716589077
+INDI,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.4596316628460548
+INOD,Services-Computer Processing & Data Preparation,2022-03-31,0.0,2022,0.5586511835257806
+INOD,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.5926312946814044
+INSG,"Communications Equipment, NEC",2022-03-31,0.0,2022,0.440295461132927
+INSG,"Communications Equipment, NEC",2022-06-30,1.0,2022,0.420120811627695
+INSG,"Communications Equipment, NEC",2022-09-30,1.0,2022,0.44297154254744164
+INSG,"Communications Equipment, NEC",2022-12-31,1.0,2022,0.5112334401813686
+INTA,Services-Prepackaged Software,2022-03-31,1.0,2022,0.5550590698878789
+INTA,Services-Prepackaged Software,2022-12-31,1.0,2022,0.7657367891992475
+IONQ,Services-Computer Integrated Systems Design,2022-03-31,0.0,2022,0.37550263786402505
+IONQ,Services-Computer Integrated Systems Design,2022-06-30,0.0,2022,0.5393990016670256
+IONQ,Services-Computer Integrated Systems Design,2022-09-30,0.0,2022,0.4627606342834562
+IONQ,Services-Computer Integrated Systems Design,2022-12-31,0.0,2022,0.32920232672045036
+IPGP,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.7722924270722676
+JKHY,Services-Computer Integrated Systems Design,2022-12-31,1.0,2022,0.9130341817747932
+KLIC,Semiconductors & Related Devices,2022-04-02,1.0,2022,0.7888941574939567
+KLTR,Services-Prepackaged Software,2022-03-31,0.0,2022,0.36884028511127276
+KLTR,Services-Prepackaged Software,2022-06-30,1.0,2022,0.5622113747059918
+KLTR,Services-Prepackaged Software,2022-12-31,1.0,2022,0.53568982732215
+KOPN,Semiconductors & Related Devices,2022-03-26,0.0,2022,0.29317133657481675
+KOPN,Semiconductors & Related Devices,2022-06-25,0.0,2022,0.6381087625560499
+KOPN,Semiconductors & Related Devices,2022-09-24,0.0,2022,0.40847623064536964
+KOPN,Semiconductors & Related Devices,2022-12-31,1.0,2022,0.28367512384704574
+KULR,Electronic Components & Accessories,2022-03-31,0.0,2022,0.13845975251700218
+KULR,Electronic Components & Accessories,2022-06-30,0.0,2022,0.28098503184962814
+KULR,Electronic Components & Accessories,2022-09-30,0.0,2022,0.25418363138959504
+KULR,Electronic Components & Accessories,2022-12-31,0.0,2022,0.18600006743650896
+LASR,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.5250172087861258
+LASR,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.8180899904444497
+LASR,Semiconductors & Related Devices,2022-09-30,1.0,2022,0.4649666306287355
+LASR,Semiconductors & Related Devices,2022-12-31,1.0,2022,0.5428043229268239
+LAW,Services-Prepackaged Software,2022-03-31,0.0,2022,0.35189989480885
+LAW,Services-Prepackaged Software,2022-06-30,0.0,2022,0.38052828350389123
+LAW,Services-Prepackaged Software,2022-09-30,0.0,2022,0.43244824318695496
+LAW,Services-Prepackaged Software,2022-12-31,0.0,2022,0.317898106439101
+LIF,Services-Computer Processing & Data Preparation,2022-03-31,0.0,2022,0.38745599344976267
+LIF,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.5809484898567456
+LIF,Services-Computer Processing & Data Preparation,2022-09-30,1.0,2022,0.46941894988520727
+LIF,Services-Computer Processing & Data Preparation,2022-12-31,1.0,2022,0.5080538807288609
+LITE,"Communications Equipment, NEC",2022-01-01,1.0,2022,0.8647104655808053
+LITE,"Communications Equipment, NEC",2022-12-31,0.0,2022,0.8924976269534359
+LSCC,Semiconductors & Related Devices,2022-07-02,1.0,2022,0.8994245238382923
+LZ,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8048975721643631
+MANH,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8618982275699427
+MAPS,Services-Prepackaged Software,2022-03-31,0.0,2022,0.4976207282486734
+MAPS,Services-Prepackaged Software,2022-06-30,1.0,2022,0.6267975391572151
+MAPS,Services-Prepackaged Software,2022-09-30,1.0,2022,0.4935111179796561
+MAPS,Services-Prepackaged Software,2022-12-31,1.0,2022,0.4304984504748173
+MEI,Electronic Connectors,2022-01-29,1.0,2022,0.6962340037237587
+MEI,Electronic Connectors,2022-10-29,1.0,2022,0.7966170146379354
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,0.0,2022,0.8441808769441308
+MITK,"Computer Peripheral Equipment, NEC",2022-03-31,1.0,2022,0.7312143246254749
+MKTW,Services-Prepackaged Software,2022-06-30,1.0,2022,0.5809707824544803
+MPTI,"Electronic Components, NEC",2022-03-31,1.0,2022,0.5505585036289596
+MPTI,"Electronic Components, NEC",2022-09-30,1.0,2022,0.6050260497231825
+MQ,Services-Prepackaged Software,2022-03-31,0.0,2022,0.3908821318681364
+MQ,Services-Prepackaged Software,2022-06-30,0.0,2022,0.7690102866570063
+MQ,Services-Prepackaged Software,2022-09-30,1.0,2022,0.37596141230899915
+MRCY,Electronic Components & Accessories,2022-04-01,0.0,2022,0.6175514227473503
+MRCY,Electronic Components & Accessories,2022-07-01,0.0,2022,0.6379206036874328
+MRCY,Electronic Components & Accessories,2022-09-30,0.0,2022,0.6596633453674614
+MRCY,Electronic Components & Accessories,2022-12-30,0.0,2022,0.7629948362384504
+MTCH,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.8334676297733483
+MTSI,Semiconductors & Related Devices,2022-04-01,1.0,2022,0.8722069209735037
+MVIS,"Electronic Components, NEC",2022-03-31,0.0,2022,0.15581417416213317
+MVIS,"Electronic Components, NEC",2022-09-30,0.0,2022,0.28142194007925864
+MVIS,"Electronic Components, NEC",2022-12-31,0.0,2022,0.2593917586388125
+MYPS,Services-Prepackaged Software,2022-06-30,1.0,2022,0.5448585187720653
+NABL,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8198607056127906
+NCNO,Services-Prepackaged Software,2022-01-31,1.0,2022,0.532954215439143
+NCNO,Services-Prepackaged Software,2022-10-31,1.0,2022,0.596937430554258
+NEON,"Electronic Components, NEC",2022-03-31,0.0,2022,0.0661589568836653
+NEON,"Electronic Components, NEC",2022-06-30,0.0,2022,0.09109149096270226
+NEON,"Electronic Components, NEC",2022-09-30,0.0,2022,0.086772810546772
+NEON,"Electronic Components, NEC",2022-12-31,0.0,2022,0.24657319513553794
+NRDS,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.7379466979084246
+NSSC,"Communications Equipment, NEC",2022-09-30,1.0,2022,0.674937432259676
+NSSC,"Communications Equipment, NEC",2022-12-31,1.0,2022,0.7445920694294332
+NTCT,Services-Computer Integrated Systems Design,2022-06-30,0.0,2022,0.5896013942257607
+NTCT,Services-Computer Integrated Systems Design,2022-09-30,0.0,2022,0.7812430922917365
+NTNX,Services-Prepackaged Software,2022-04-30,1.0,2022,0.7614209329356463
+NVTS,Semiconductors & Related Devices,2022-03-31,0.0,2022,0.2691138335856533
+NVTS,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.39874395765174175
+NVTS,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.3729072363432225
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,0.0,2022,0.2207123785767945
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,0.0,2022,0.3203733896698624
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,0.0,2022,0.3674598519766864
+OLED,Electronic Components & Accessories,2022-06-30,1.0,2022,0.8260413279777212
+OMCL,Electronic Computers,2022-03-31,0.0,2022,0.6900638181291014
+OMCL,Electronic Computers,2022-06-30,1.0,2022,0.7988610096499322
+ONTF,Services-Prepackaged Software,2022-03-31,0.0,2022,0.4247080704558768
+ONTF,Services-Prepackaged Software,2022-06-30,0.0,2022,0.6548200779951072
+ONTF,Services-Prepackaged Software,2022-09-30,0.0,2022,0.39734567338169535
+ONTF,Services-Prepackaged Software,2022-12-31,1.0,2022,0.47169589580478866
+OOMA,Services-Computer Processing & Data Preparation,2022-07-31,1.0,2022,0.7071305553686256
+OSIS,Semiconductors & Related Devices,2022-03-31,1.0,2022,0.675811414609393
+OSIS,Semiconductors & Related Devices,2022-12-31,1.0,2022,0.8073476516755107
+OSPN,Services-Computer Integrated Systems Design,2022-06-30,1.0,2022,0.7047505577102364
+OSPN,Services-Computer Integrated Systems Design,2022-09-30,1.0,2022,0.49913578050989704
+PATH,Services-Prepackaged Software,2022-01-31,0.0,2022,0.37495616426100264
+PATH,Services-Prepackaged Software,2022-04-30,1.0,2022,0.35256910625416904
+PATH,Services-Prepackaged Software,2022-07-31,1.0,2022,0.703185864080304
+PATH,Services-Prepackaged Software,2022-10-31,1.0,2022,0.4050554962146269
+PCOR,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8400812396840929
+PCTY,Services-Prepackaged Software,2022-12-31,1.0,2022,0.8581639510084
+PD,Services-Prepackaged Software,2022-01-31,1.0,2022,0.5640334591099485
+PD,Services-Prepackaged Software,2022-04-30,1.0,2022,0.5013508985897934
+PD,Services-Prepackaged Software,2022-10-31,1.0,2022,0.49402597580542773
+PDYN,Services-Prepackaged Software,2022-03-31,0.0,2022,0.15608111122618765
+PDYN,Services-Prepackaged Software,2022-06-30,0.0,2022,0.36701073402669016
+PDYN,Services-Prepackaged Software,2022-09-30,0.0,2022,0.1857098389312961
+PDYN,Services-Prepackaged Software,2022-12-31,0.0,2022,0.17308774666285365
+PEGA,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8125123935975218
+PEGA,Services-Computer Processing & Data Preparation,2022-09-30,1.0,2022,0.69659615002606
+PENG,Semiconductors & Related Devices,2022-02-25,1.0,2022,0.8952953402655074
+PENG,Semiconductors & Related Devices,2022-11-25,1.0,2022,0.7599178134013984
+PI,"Electronic Components, NEC",2022-03-31,0.0,2022,0.397945200764698
+PI,"Electronic Components, NEC",2022-06-30,0.0,2022,0.6772465568606514
+PI,"Electronic Components, NEC",2022-12-31,0.0,2022,0.4931752454737657
+PL,Radio & Tv Broadcasting & Communications Equipment,2022-01-31,0.0,2022,0.5475413970090303
+PL,Radio & Tv Broadcasting & Communications Equipment,2022-04-30,0.0,2022,0.4407906084547677
+PL,Radio & Tv Broadcasting & Communications Equipment,2022-10-31,0.0,2022,0.5053066465822413
+PLAB,Semiconductors & Related Devices,2022-05-01,1.0,2022,0.9132681547239321
+PLTK,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.799496455135388
+POWI,Semiconductors & Related Devices,2022-06-30,0.0,2022,0.8431643957831989
+PRCH,Services-Prepackaged Software,2022-03-31,0.0,2022,0.6010257744572057
+PRCH,Services-Prepackaged Software,2022-09-30,1.0,2022,0.5434011328397579
+PRCH,Services-Prepackaged Software,2022-12-31,1.0,2022,0.599137036715049
+PRGS,Services-Prepackaged Software,2022-05-31,1.0,2022,0.880920552990899
+PSN,Services-Computer Integrated Systems Design,2022-03-31,1.0,2022,0.6530486176781393
+PSN,Services-Computer Integrated Systems Design,2022-06-30,1.0,2022,0.7694242971471559
+PSTG,Computer Storage Devices,2022-08-07,1.0,2022,0.7148958977533835
+PUBM,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.8166286506677043
+QBTS,Services-Computer Processing & Data Preparation,2022-03-31,0.0,2022,0.1606105769969351
+QBTS,Services-Computer Processing & Data Preparation,2022-06-30,0.0,2022,0.36547071001404086
+QBTS,Services-Computer Processing & Data Preparation,2022-09-30,0.0,2022,0.2761414116375299
+QBTS,Services-Computer Processing & Data Preparation,2022-12-31,0.0,2022,0.22251535208008133
+QLYS,Services-Prepackaged Software,2022-06-30,1.0,2022,0.9422070681187374
+QRVO,Semiconductors & Related Devices,2022-10-01,0.0,2022,0.8583308684619919
+QTWO,Services-Prepackaged Software,2022-03-31,1.0,2022,0.5130151134832408
+QTWO,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8689111089115689
+QUBT,Services-Prepackaged Software,2022-03-31,0.0,2022,0.14342239619725705
+QUBT,Services-Prepackaged Software,2022-06-30,0.0,2022,0.3315518300948336
+QUBT,Services-Prepackaged Software,2022-09-30,0.0,2022,0.2876218911843186
+QUBT,Services-Prepackaged Software,2022-12-31,0.0,2022,0.2488321379748391
+RAMP,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.43180139325836264
+RAMP,Services-Computer Processing & Data Preparation,2022-09-30,1.0,2022,0.6789471855807858
+RBBN,Services-Computer Integrated Systems Design,2022-06-30,1.0,2022,0.7485051122774053
+RBBN,Services-Computer Integrated Systems Design,2022-09-30,1.0,2022,0.6386936524432119
+RCAT,Services-Prepackaged Software,2022-01-31,0.0,2022,0.20461956206986762
+RCAT,Services-Prepackaged Software,2022-04-30,0.0,2022,0.1998738359131897
+RCAT,Services-Prepackaged Software,2022-07-31,0.0,2022,0.17083871063377276
+RCAT,Services-Prepackaged Software,2022-10-31,0.0,2022,0.1658144968451461
+RGTI,Services-Computer Programming Services,2022-03-31,0.0,2022,0.12908967492926235
+RGTI,Services-Computer Programming Services,2022-06-30,0.0,2022,0.26802443580975105
+RGTI,Services-Computer Programming Services,2022-09-30,0.0,2022,0.2993642755940067
+RGTI,Services-Computer Programming Services,2022-12-31,0.0,2022,0.272075138151057
+RMBS,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.9166603180101187
+RNG,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8363349793118611
+RPD,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7953318823719882
+RUM,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,0.0,2022,0.2121438769902456
+RUM,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,0.0,2022,0.3087218444045522
+RUM,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,0.0,2022,0.3632918906882423
+RUM,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,0.0,2022,0.4171255401714959
+RXT,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,0.0,2022,0.8060473263878911
+S,Services-Prepackaged Software,2022-01-31,0.0,2022,0.3754461835466142
+S,Services-Prepackaged Software,2022-04-30,0.0,2022,0.3597234385516431
+S,Services-Prepackaged Software,2022-07-31,0.0,2022,0.40318007801605454
+S,Services-Prepackaged Software,2022-10-31,1.0,2022,0.45371889933667553
+SAIC,Services-Computer Integrated Systems Design,2022-07-29,1.0,2022,0.9080025300629535
+SEMR,Services-Prepackaged Software,2022-06-30,0.0,2022,0.39098836882745525
+SEMR,Services-Prepackaged Software,2022-09-30,0.0,2022,0.45042311037055915
+SEMR,Services-Prepackaged Software,2022-12-31,1.0,2022,0.5309091361687948
+SHLS,Semiconductors & Related Devices,2022-03-31,1.0,2022,0.7723941206945497
+SHLS,Semiconductors & Related Devices,2022-06-30,1.0,2022,0.6831156243582692
+SITM,Semiconductors & Related Devices,2022-06-30,0.0,2022,0.6915299648237068
+SITM,Semiconductors & Related Devices,2022-09-30,0.0,2022,0.5814977848601021
+SKIL,Services-Prepackaged Software,2022-07-31,1.0,2022,0.7889283566690162
+SKIL,Services-Prepackaged Software,2022-10-31,1.0,2022,0.5948034779508334
+SKYT,Semiconductors & Related Devices,2022-01-02,1.0,2022,0.6410656718801389
+SKYT,Semiconductors & Related Devices,2022-04-03,1.0,2022,0.6274185339760833
+SLP,Services-Computer Integrated Systems Design,2022-02-28,1.0,2022,0.6927807779851296
+SMTC,Semiconductors & Related Devices,2022-07-31,0.0,2022,0.9019953751554646
+SOUN,Services-Prepackaged Software,2022-03-31,0.0,2022,0.14338279348879376
+SOUN,Services-Prepackaged Software,2022-09-30,0.0,2022,0.27785172956474774
+SOUN,Services-Prepackaged Software,2022-12-31,0.0,2022,0.34391257595895225
+SPSC,Services-Prepackaged Software,2022-06-30,1.0,2022,0.91157500466076
+SPT,Services-Prepackaged Software,2022-06-30,1.0,2022,0.5413555585024892
+SSTI,Services-Prepackaged Software,2022-06-30,1.0,2022,0.8232824186335892
+SSTK,Services-Computer Processing & Data Preparation,2022-06-30,1.0,2022,0.8863434210705978
+SWKS,Semiconductors & Related Devices,2022-04-01,1.0,2022,0.8435517392419982
+SYNA,Semiconductors & Related Devices,2022-12-24,1.0,2022,0.7624675061004272
+TBCH,"Communications Equipment, NEC",2022-03-31,0.0,2022,0.4385029207807174
+TBCH,"Communications Equipment, NEC",2022-06-30,1.0,2022,0.6628456043136827
+TBCH,"Communications Equipment, NEC",2022-09-30,1.0,2022,0.5902238455153753
+TBRG,Services-Computer Programming Services,2022-06-30,1.0,2022,0.7025609772437611
+TCX,Services-Computer Processing & Data Preparation,2022-09-30,0.0,2022,0.6594178347413016
+TDC,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7616218481870891
+TE,Semiconductors & Related Devices,2022-12-31,0.0,2022,0.5394277218400999
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2022-03-31,0.0,2022,0.6343669062927426
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,0.0,2022,0.783791401094845
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2022-09-30,0.0,2022,0.6513457952924185
+TEM,"Services-Computer Programming, Data Processing, Etc.",2022-12-31,0.0,2022,0.4169171641541187
+TENB,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7288101792071424
+TLS,Services-Computer Integrated Systems Design,2022-12-31,0.0,2022,0.5172553615927179
+TRAK,Services-Computer Processing & Data Preparation,2022-03-31,1.0,2022,0.7508112864820395
+U,Services-Prepackaged Software,2022-09-30,1.0,2022,0.6481547962806128
+U,Services-Prepackaged Software,2022-12-31,1.0,2022,0.5242353075953823
+UCTT,Semiconductors & Related Devices,2022-04-01,0.0,2022,0.6565504923232051
+UCTT,Semiconductors & Related Devices,2022-07-01,1.0,2022,0.7434255448611453
+UCTT,Semiconductors & Related Devices,2022-12-30,1.0,2022,0.6201116309087532
+UIS,Services-Computer Integrated Systems Design,2022-03-31,0.0,2022,0.410289212982696
+UIS,Services-Computer Integrated Systems Design,2022-06-30,1.0,2022,0.490995962919039
+UPWK,Services-Computer Processing & Data Preparation,2022-03-31,0.0,2022,0.5266367248754841
+UPWK,Services-Computer Processing & Data Preparation,2022-06-30,0.0,2022,0.7537669811426257
+VERX,Services-Prepackaged Software,2022-06-30,0.0,2022,0.897656340909019
+VIAV,Semiconductors & Related Devices,2022-01-01,1.0,2022,0.8375169475186813
+VIAV,Semiconductors & Related Devices,2022-12-31,1.0,2022,0.8847194475346616
+VICR,"Electronic Components, NEC",2022-06-30,1.0,2022,0.8324739645968048
+VISN,Radio & Tv Broadcasting & Communications Equipment,2022-03-31,0.0,2022,0.4918246921220951
+VISN,Radio & Tv Broadcasting & Communications Equipment,2022-06-30,1.0,2022,0.5521111914272059
+VISN,Radio & Tv Broadcasting & Communications Equipment,2022-09-30,1.0,2022,0.4849024531112505
+VPG,Electronic Components & Accessories,2022-04-02,1.0,2022,0.7052566744459039
+VPG,Electronic Components & Accessories,2022-07-02,1.0,2022,0.844464217744283
+VREX,"Electronic Components, NEC",2022-04-01,1.0,2022,0.8006365495810412
+VREX,"Electronic Components, NEC",2022-07-01,1.0,2022,0.6204019288194015
+VREX,"Electronic Components, NEC",2022-12-30,1.0,2022,0.6679617613450178
+VRNS,Services-Prepackaged Software,2022-09-30,1.0,2022,0.540099961661317
+VSH,Electronic Components & Accessories,2022-07-02,1.0,2022,0.8311274470497967
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2022-03-31,0.0,2022,0.15330624670774312
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2022-09-30,0.0,2022,0.17004021728361007
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2022-12-31,0.0,2022,0.49874951067616347
+WEAV,Services-Prepackaged Software,2022-03-31,1.0,2022,0.4085452124122291
+WEAV,Services-Prepackaged Software,2022-09-30,1.0,2022,0.4630123662436604
+WEAV,Services-Prepackaged Software,2022-12-31,1.0,2022,0.4946090516568291
+WK,Services-Prepackaged Software,2022-03-31,0.0,2022,0.40904627069117194
+WK,Services-Prepackaged Software,2022-06-30,1.0,2022,0.6288603401768322
+XPER,Services-Prepackaged Software,2022-03-31,0.0,2022,0.4218902428029848
+XPER,Services-Prepackaged Software,2022-12-31,0.0,2022,0.5296192971282716
+XRX,"Computer Peripheral Equipment, NEC",2022-06-30,1.0,2022,0.792362429557955
+XRX,"Computer Peripheral Equipment, NEC",2022-09-30,1.0,2022,0.6702219653523603
+YEXT,Services-Computer Processing & Data Preparation,2022-07-31,1.0,2022,0.8284712155325789
+YEXT,Services-Computer Processing & Data Preparation,2022-10-31,1.0,2022,0.5340264009925246
+ZETA,Services-Prepackaged Software,2022-06-30,1.0,2022,0.7470705619140171
+ZIP,"Services-Computer Programming, Data Processing, Etc.",2022-06-30,1.0,2022,0.8180440903462586
+AAOI,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.546540117909448
+AAOI,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.5735790847060507
+AAOI,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.471904168719434
+ACIW,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8634869421068629
+AEIS,"Electronic Components, NEC",2023-06-30,1.0,2023,0.8209463122948992
+AEYE,Services-Prepackaged Software,2023-09-30,1.0,2023,0.4358815020055278
+AGYS,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.775020746544011
+AI,Services-Prepackaged Software,2023-01-31,1.0,2023,0.4099501875041181
+AI,Services-Prepackaged Software,2023-04-30,1.0,2023,0.5100897306220917
+AIOT,"Communications Equipment, NEC",2023-06-30,0.0,2023,0.6302590904109939
+AIOT,"Communications Equipment, NEC",2023-09-30,0.0,2023,0.6539738674609226
+AIP,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.36177191096773265
+AIP,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.43167837278141474
+AIP,Semiconductors & Related Devices,2023-09-30,1.0,2023,0.42550629411090785
+AIP,Semiconductors & Related Devices,2023-12-31,1.0,2023,0.3732349175099821
+AISP,Services-Prepackaged Software,2023-03-31,0.0,2023,0.2396613845011185
+AISP,Services-Prepackaged Software,2023-09-30,0.0,2023,0.1389776287681644
+AISP,Services-Prepackaged Software,2023-12-31,0.0,2023,0.37199609224409624
+ALAB,Semiconductors & Related Devices,2023-03-31,1.0,2023,0.23124187508832134
+ALAB,Semiconductors & Related Devices,2023-09-30,1.0,2023,0.29193909898847337
+ALGM,Semiconductors & Related Devices,2023-09-29,1.0,2023,0.8932849170161943
+ALKT,Services-Prepackaged Software,2023-03-31,1.0,2023,0.33848930738936855
+ALKT,Services-Prepackaged Software,2023-12-31,1.0,2023,0.4593754369972426
+ALMU,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.11009333898506218
+ALMU,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.11086337467589419
+ALMU,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.13079345996784075
+ALMU,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.14795228104908004
+ALRM,Services-Prepackaged Software,2023-03-31,1.0,2023,0.5476096958181829
+ALRM,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8054921516741473
+AMBA,Semiconductors & Related Devices,2023-07-31,0.0,2023,0.7715691822172115
+AMKR,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.856562735574987
+AMPL,Services-Prepackaged Software,2023-03-31,1.0,2023,0.5248275890899377
+AOSL,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.639756254215609
+AOSL,Semiconductors & Related Devices,2023-12-31,1.0,2023,0.7974161703011292
+APLD,Services-Computer Processing & Data Preparation,2023-11-30,0.0,2023,0.6885491252030038
+APPF,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7874517995838971
+APPN,Services-Prepackaged Software,2023-03-31,0.0,2023,0.5991510947544805
+APPN,Services-Prepackaged Software,2023-09-30,1.0,2023,0.587910382535815
+APPN,Services-Prepackaged Software,2023-12-31,1.0,2023,0.6213834866146447
+ASAN,Services-Prepackaged Software,2023-01-31,1.0,2023,0.5685180344622174
+ASAN,Services-Prepackaged Software,2023-04-30,1.0,2023,0.6090534179939662
+ASAN,Services-Prepackaged Software,2023-10-31,0.0,2023,0.6032614183694311
+ASUR,Services-Computer Integrated Systems Design,2023-06-30,0.0,2023,0.7043195398823869
+ATEN,Computer Communications Equipment,2023-03-31,1.0,2023,0.6528301281100763
+ATEN,Computer Communications Equipment,2023-06-30,1.0,2023,0.7965262577735779
+ATOM,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.15374006237946208
+ATOM,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.11181190837324542
+ATOM,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.13436658885541727
+ATOM,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.06054722406144697
+AUR,Services-Computer Integrated Systems Design,2023-03-31,0.0,2023,0.3107223479659983
+AUR,Services-Computer Integrated Systems Design,2023-09-30,0.0,2023,0.21291254089845435
+AUR,Services-Computer Integrated Systems Design,2023-12-31,0.0,2023,0.256856443053141
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2023-03-31,1.0,2023,0.6433193820400105
+BAND,Services-Prepackaged Software,2023-03-31,1.0,2023,0.46976186397630215
+BAND,Services-Prepackaged Software,2023-06-30,1.0,2023,0.6355956464546285
+BBAI,Services-Prepackaged Software,2023-03-31,0.0,2023,0.4257327004446375
+BBAI,Services-Prepackaged Software,2023-12-31,0.0,2023,0.5534928831220445
+BILL,Services-Prepackaged Software,2023-12-31,1.0,2023,0.7792327102796511
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2023-03-31,1.0,2023,0.35997676328149963
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2023-09-30,0.0,2023,0.42952202948178125
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2023-12-31,0.0,2023,0.41361847193107637
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2023-12-31,1.0,2023,0.5856935267619615
+BL,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7897623145507988
+BLKB,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8986524441907009
+BLND,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.30176758985566887
+BLND,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,1.0,2023,0.31635715915810025
+BLND,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,1.0,2023,0.3734199177159262
+BLZE,Services-Prepackaged Software,2023-03-31,0.0,2023,0.35682454633881266
+BLZE,Services-Prepackaged Software,2023-06-30,1.0,2023,0.27760362148442685
+BLZE,Services-Prepackaged Software,2023-09-30,1.0,2023,0.4244809674868023
+BLZE,Services-Prepackaged Software,2023-12-31,1.0,2023,0.29586169842520815
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.7986782924375664
+BOX,Services-Prepackaged Software,2023-07-31,1.0,2023,0.8382243790380041
+BRZE,Services-Prepackaged Software,2023-01-31,1.0,2023,0.5637299586356046
+BRZE,Services-Prepackaged Software,2023-10-31,1.0,2023,0.5189042883393387
+BSY,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8353996505872571
+BZAI,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.22354544793637238
+BZAI,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.2894466054319346
+BZAI,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.21142099323904773
+BZAI,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.36021187014874895
+CACI,Services-Computer Integrated Systems Design,2023-03-31,1.0,2023,0.7218221445130175
+CACI,Services-Computer Integrated Systems Design,2023-12-31,1.0,2023,0.8064585261418517
+CARG,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.8156798259943038
+CARS,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.8625808755454929
+CCC,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7500377251770497
+CCSI,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7195843436106795
+CERT,Services-Prepackaged Software,2023-06-30,1.0,2023,0.866367165030471
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,0.0,2023,0.3923969302523005
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,0.0,2023,0.7766653442581636
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,0.0,2023,0.4203755288404417
+CLVT,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.7859244144325891
+CMRC,Services-Prepackaged Software,2023-03-31,1.0,2023,0.4367250296933515
+CMRC,Services-Prepackaged Software,2023-09-30,1.0,2023,0.4183475687188307
+CRDO,Semiconductors & Related Devices,2023-01-28,1.0,2023,0.5308605999257945
+CRDO,Semiconductors & Related Devices,2023-04-29,1.0,2023,0.292584877702174
+CRNC,Services-Prepackaged Software,2023-06-30,1.0,2023,0.5957440968364113
+CRNC,Services-Prepackaged Software,2023-12-31,1.0,2023,0.5953263269208285
+CRSR,"Computer Peripheral Equipment, NEC",2023-06-30,0.0,2023,0.7396936437278887
+CRSR,"Computer Peripheral Equipment, NEC",2023-09-30,0.0,2023,0.6273977723038537
+CRUS,Semiconductors & Related Devices,2023-06-24,1.0,2023,0.610139019795668
+CRUS,Semiconductors & Related Devices,2023-09-23,1.0,2023,0.8225709399775157
+CSGS,Services-Computer Processing & Data Preparation,2023-06-30,0.0,2023,0.8408513618581357
+CSPI,Services-Computer Integrated Systems Design,2023-03-31,1.0,2023,0.6678768870003987
+CSPI,Services-Computer Integrated Systems Design,2023-06-30,1.0,2023,0.6984606872293677
+CVLT,Services-Prepackaged Software,2023-09-30,1.0,2023,0.8767239222937062
+CWAN,Services-Prepackaged Software,2023-06-30,1.0,2023,0.6892309061753724
+DBX,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8488334043457607
+DDD,Services-Prepackaged Software,2023-03-31,0.0,2023,0.33316461268646796
+DDD,Services-Prepackaged Software,2023-09-30,0.0,2023,0.380233798803548
+DDD,Services-Prepackaged Software,2023-12-31,1.0,2023,0.5323694113750732
+DGII,Computer Communications Equipment,2023-03-31,1.0,2023,0.7756316945465733
+DH,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7406741310355589
+DIOD,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.861848098729799
+DJT,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.29199187082318556
+DJT,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,0.0,2023,0.35443746784582886
+DJT,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,0.0,2023,0.19012919487242885
+DMRC,Services-Computer Integrated Systems Design,2023-03-31,0.0,2023,0.14956802399350297
+DMRC,Services-Computer Integrated Systems Design,2023-09-30,0.0,2023,0.32408507316066476
+DMRC,Services-Computer Integrated Systems Design,2023-12-31,0.0,2023,0.2518112706396216
+DOCN,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.8817703928341538
+DOCS,Services-Computer Programming Services,2023-09-30,1.0,2023,0.7664644757854129
+DOMO,Services-Prepackaged Software,2023-01-31,1.0,2023,0.75954854800551
+DOMO,Services-Prepackaged Software,2023-10-31,0.0,2023,0.7394818200728541
+DSP,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.5931860713105153
+DT,Services-Prepackaged Software,2023-09-30,1.0,2023,0.8157593930269039
+DV,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.8777525212071537
+DXC,Services-Computer Processing & Data Preparation,2023-09-30,1.0,2023,0.8479946046923429
+EGAN,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7395422920109853
+EGHT,Services-Computer Processing & Data Preparation,2023-09-30,1.0,2023,0.756703985574
+ENPH,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.8273942423673672
+EPAM,Services-Computer Programming Services,2023-06-30,1.0,2023,0.7852259218405353
+ESE,"Communications Equipment, NEC",2023-03-31,1.0,2023,0.7726464535188868
+ESTC,Services-Prepackaged Software,2023-10-31,1.0,2023,0.7870122850210741
+EVCM,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8433465569044585
+EVER,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.47479969015501516
+EVER,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,1.0,2023,0.41123455653377994
+EVER,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,1.0,2023,0.4547811292645769
+EVLV,"Computer Peripheral Equipment, NEC",2023-03-31,1.0,2023,0.4434634433850566
+EVLV,"Computer Peripheral Equipment, NEC",2023-12-31,0.0,2023,0.4473030375440613
+EVTC,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.8920573883669082
+EXFY,Services-Prepackaged Software,2023-06-30,1.0,2023,0.5748840370195638
+EXFY,Services-Prepackaged Software,2023-09-30,1.0,2023,0.34394699157174197
+EXFY,Services-Prepackaged Software,2023-12-31,1.0,2023,0.48262577122427086
+EXTR,Computer Communications Equipment,2023-12-31,0.0,2023,0.6970091575413726
+FA,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.7276686632720757
+FDS,"Services-Computer Programming, Data Processing, Etc.",2023-02-28,1.0,2023,0.8993737690275119
+FFIV,Computer Communications Equipment,2023-03-31,1.0,2023,0.8781776605484252
+FIVN,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.7196044310508551
+FORM,Semiconductors & Related Devices,2023-07-01,1.0,2023,0.8169492128436555
+FSLY,Services-Prepackaged Software,2023-03-31,1.0,2023,0.4313266813588439
+FSLY,Services-Prepackaged Software,2023-09-30,1.0,2023,0.5033442987995982
+FSLY,Services-Prepackaged Software,2023-12-31,1.0,2023,0.5738800600806488
+GDYN,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8172990447738855
+GEN,Services-Prepackaged Software,2023-09-29,1.0,2023,0.8083516605839856
+GRND,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.7377111658994362
+GTLB,Services-Prepackaged Software,2023-01-31,1.0,2023,0.5723216101434273
+GTLB,Services-Prepackaged Software,2023-04-30,1.0,2023,0.534668505160258
+GTLB,Services-Prepackaged Software,2023-10-31,0.0,2023,0.5658987847918479
+GTM,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8578145098704409
+GWRE,Services-Prepackaged Software,2023-01-31,0.0,2023,0.8093736763662712
+GWRE,Services-Prepackaged Software,2023-04-30,1.0,2023,0.4569498782437721
+GWRE,Services-Prepackaged Software,2023-10-31,1.0,2023,0.4466826646821427
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.5036909690351887
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,1.0,2023,0.4541055922074946
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2023-06-30,1.0,2023,0.761332363478127
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.897285819894455
+IBEX,Services-Computer Processing & Data Preparation,2023-12-31,1.0,2023,0.7276293511020435
+ICHR,Semiconductors & Related Devices,2023-03-31,1.0,2023,0.6854813601569464
+ICHR,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.7563695731994708
+IIIV,Services-Prepackaged Software,2023-03-31,1.0,2023,0.8117964103138436
+IMMR,"Computer Peripheral Equipment, NEC",2023-06-30,1.0,2023,0.5052794160330047
+INDI,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.4663387611801053
+INDI,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.5328476822537944
+INDI,Semiconductors & Related Devices,2023-12-31,1.0,2023,0.663927899642881
+INSG,"Communications Equipment, NEC",2023-12-31,1.0,2023,0.5093139976920089
+INTA,Services-Prepackaged Software,2023-12-31,1.0,2023,0.8097879383428295
+IONQ,Services-Computer Integrated Systems Design,2023-03-31,0.0,2023,0.15960714281807253
+IONQ,Services-Computer Integrated Systems Design,2023-09-30,0.0,2023,0.1861662395393884
+IONQ,Services-Computer Integrated Systems Design,2023-12-31,0.0,2023,0.26691668417650993
+IPGP,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.8711075216586525
+JKHY,Services-Computer Integrated Systems Design,2023-12-31,1.0,2023,0.903416865613067
+KD,Services-Computer Integrated Systems Design,2023-06-30,0.0,2023,0.5945449516878486
+KD,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.7728044535374206
+KLIC,Semiconductors & Related Devices,2023-04-01,0.0,2023,0.6907564874182344
+KLIC,Semiconductors & Related Devices,2023-12-30,0.0,2023,0.6153324685273929
+KLTR,Services-Prepackaged Software,2023-03-31,1.0,2023,0.5623468967138974
+KOPN,Semiconductors & Related Devices,2023-04-01,1.0,2023,0.21251249587371185
+KOPN,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.25785889388268457
+KOPN,Semiconductors & Related Devices,2023-12-30,0.0,2023,0.41547728557132285
+KULR,Electronic Components & Accessories,2023-03-31,0.0,2023,0.15894814756484016
+KULR,Electronic Components & Accessories,2023-06-30,0.0,2023,0.4613489892255003
+KULR,Electronic Components & Accessories,2023-09-30,0.0,2023,0.16496449230765736
+KULR,Electronic Components & Accessories,2023-12-31,0.0,2023,0.07225384027097687
+LAW,Services-Prepackaged Software,2023-03-31,0.0,2023,0.14144691238906631
+LAW,Services-Prepackaged Software,2023-09-30,0.0,2023,0.32260370957928636
+LIF,Services-Computer Processing & Data Preparation,2023-03-31,1.0,2023,0.5555116646909846
+LITE,"Communications Equipment, NEC",2023-09-30,0.0,2023,0.5449287276442851
+LITE,"Communications Equipment, NEC",2023-12-30,1.0,2023,0.7831817336065057
+LSCC,Semiconductors & Related Devices,2023-07-01,1.0,2023,0.9035687916556565
+MANH,Services-Prepackaged Software,2023-06-30,1.0,2023,0.9305795744600491
+MEI,Electronic Connectors,2023-07-29,0.0,2023,0.6929112879143081
+MEI,Electronic Connectors,2023-10-28,1.0,2023,0.7037103310347577
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.7257755721875305
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,0.0,2023,0.8746370756602191
+MITK,"Computer Peripheral Equipment, NEC",2023-03-31,0.0,2023,0.85559568233329
+MITK,"Computer Peripheral Equipment, NEC",2023-12-31,1.0,2023,0.343385017725492
+MKTW,Services-Prepackaged Software,2023-06-30,0.0,2023,0.6700946410326829
+MPTI,"Electronic Components, NEC",2023-06-30,1.0,2023,0.6879472297821925
+MQ,Services-Prepackaged Software,2023-03-31,1.0,2023,0.45026137596249416
+MQ,Services-Prepackaged Software,2023-06-30,1.0,2023,0.6319507748022044
+MRCY,Electronic Components & Accessories,2023-03-31,0.0,2023,0.5150636700195012
+MRCY,Electronic Components & Accessories,2023-09-29,1.0,2023,0.5394012550092556
+MRDN,Services-Prepackaged Software,2023-04-30,1.0,2023,0.4133493118666341
+MTCH,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.8520540611372742
+MTSI,Semiconductors & Related Devices,2023-03-31,1.0,2023,0.7370221839670519
+MVIS,"Electronic Components, NEC",2023-03-31,0.0,2023,0.32339067320935144
+MVIS,"Electronic Components, NEC",2023-09-30,0.0,2023,0.25551894374410994
+MVIS,"Electronic Components, NEC",2023-12-31,0.0,2023,0.25822657833730434
+MXL,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.8346720632464246
+MXL,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.650938799529121
+NABL,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8085716867144865
+NCNO,Services-Prepackaged Software,2023-01-31,1.0,2023,0.6609465008789837
+NEON,"Electronic Components, NEC",2023-03-31,0.0,2023,0.09082800929185995
+NEON,"Electronic Components, NEC",2023-09-30,0.0,2023,0.04399766417647311
+NEON,"Electronic Components, NEC",2023-12-31,0.0,2023,0.05597982656065175
+NIQ,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,0.0,2023,0.5599573193780742
+NRDS,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.824362821027457
+NSSC,"Communications Equipment, NEC",2023-12-31,1.0,2023,0.7416325912861722
+NTCT,Services-Computer Integrated Systems Design,2023-06-30,0.0,2023,0.5198171285271884
+NTCT,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.8095832739202649
+NVTS,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.30169481312446633
+NVTS,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.5245655877879091
+NVTS,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.3644918283343427
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,0.0,2023,0.18545739799614408
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,0.0,2023,0.14521889446971795
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,1.0,2023,0.18402548014911246
+OLED,Electronic Components & Accessories,2023-06-30,1.0,2023,0.7913735016435332
+ONTF,Services-Prepackaged Software,2023-03-31,1.0,2023,0.3482395999926706
+ONTF,Services-Prepackaged Software,2023-09-30,1.0,2023,0.33823084692104877
+ONTF,Services-Prepackaged Software,2023-12-31,1.0,2023,0.43452365510093416
+OOMA,Services-Computer Processing & Data Preparation,2023-07-31,1.0,2023,0.7599770664477359
+OSIS,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.815240640054033
+OSPN,Services-Computer Integrated Systems Design,2023-06-30,1.0,2023,0.7440366414461742
+OSPN,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.5720106219189198
+OSPN,Services-Computer Integrated Systems Design,2023-12-31,1.0,2023,0.6561139627375416
+PCTY,Services-Prepackaged Software,2023-12-31,1.0,2023,0.7851743925277104
+PDFS,Services-Prepackaged Software,2023-03-31,0.0,2023,0.5279890971202914
+PDFS,Services-Prepackaged Software,2023-06-30,1.0,2023,0.756262507793835
+PDYN,Services-Prepackaged Software,2023-03-31,0.0,2023,0.09265755670701808
+PDYN,Services-Prepackaged Software,2023-06-30,0.0,2023,0.45527877320065474
+PDYN,Services-Prepackaged Software,2023-09-30,0.0,2023,0.13282911110929468
+PDYN,Services-Prepackaged Software,2023-12-31,1.0,2023,0.18037907496748878
+PENG,Semiconductors & Related Devices,2023-02-24,1.0,2023,0.8530380420464814
+PI,"Electronic Components, NEC",2023-03-31,0.0,2023,0.4206551976933439
+PI,"Electronic Components, NEC",2023-06-30,1.0,2023,0.6347367524906544
+PI,"Electronic Components, NEC",2023-09-30,1.0,2023,0.43852270616275824
+PI,"Electronic Components, NEC",2023-12-31,1.0,2023,0.4153442497493762
+PL,Radio & Tv Broadcasting & Communications Equipment,2023-01-31,0.0,2023,0.4474069214143799
+PL,Radio & Tv Broadcasting & Communications Equipment,2023-04-30,1.0,2023,0.4588145013461289
+PL,Radio & Tv Broadcasting & Communications Equipment,2023-10-31,1.0,2023,0.4422946853230381
+PLAB,Semiconductors & Related Devices,2023-04-30,1.0,2023,0.8384377842454227
+PLTK,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.7724596417042298
+POWI,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.7601451295197362
+PRCH,Services-Prepackaged Software,2023-03-31,1.0,2023,0.5819458063218319
+PRCH,Services-Prepackaged Software,2023-12-31,0.0,2023,0.5899934214224971
+PRGS,Services-Prepackaged Software,2023-05-31,1.0,2023,0.9183610943640899
+PSN,Services-Computer Integrated Systems Design,2023-03-31,1.0,2023,0.6059049338836717
+PSN,Services-Computer Integrated Systems Design,2023-06-30,1.0,2023,0.7975751014790884
+PSTG,Computer Storage Devices,2023-08-06,1.0,2023,0.7863402141596596
+PUBM,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.8586799608996241
+QBTS,Services-Computer Processing & Data Preparation,2023-03-31,0.0,2023,0.14243349809459172
+QBTS,Services-Computer Processing & Data Preparation,2023-06-30,0.0,2023,0.18468919987587784
+QBTS,Services-Computer Processing & Data Preparation,2023-09-30,0.0,2023,0.21210518298874442
+QBTS,Services-Computer Processing & Data Preparation,2023-12-31,0.0,2023,0.14190676478721848
+QLYS,Services-Prepackaged Software,2023-06-30,1.0,2023,0.945655918295885
+QRVO,Semiconductors & Related Devices,2023-09-30,1.0,2023,0.8059682396676837
+QTWO,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8887786208847255
+QUBT,Services-Prepackaged Software,2023-03-31,0.0,2023,0.14955469837545182
+QUBT,Services-Prepackaged Software,2023-06-30,0.0,2023,0.3616349512634617
+QUBT,Services-Prepackaged Software,2023-09-30,0.0,2023,0.12743966179403787
+QUBT,Services-Prepackaged Software,2023-12-31,0.0,2023,0.23852312238493145
+RBBN,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.6565201805253994
+RBRK,Services-Prepackaged Software,2023-04-30,0.0,2023,0.4300045842183724
+RBRK,Services-Prepackaged Software,2023-07-31,0.0,2023,0.716925133699364
+RCAT,Services-Prepackaged Software,2023-01-31,0.0,2023,0.20849150344960846
+RCAT,Services-Prepackaged Software,2023-04-30,0.0,2023,0.11593972558134062
+RCAT,Services-Prepackaged Software,2023-07-31,1.0,2023,0.07278899584639337
+RDVT,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7137409407953901
+RGTI,Services-Computer Programming Services,2023-03-31,0.0,2023,0.2623397264468916
+RGTI,Services-Computer Programming Services,2023-06-30,0.0,2023,0.6324286478691046
+RGTI,Services-Computer Programming Services,2023-09-30,0.0,2023,0.35031154614806426
+RGTI,Services-Computer Programming Services,2023-12-31,0.0,2023,0.39006783898014796
+RMBS,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.8907716829518665
+RPD,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8468793746332219
+RUM,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,0.0,2023,0.26453725992390653
+RUM,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,0.0,2023,0.29777602766452677
+RUM,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,0.0,2023,0.3135442077022913
+RUM,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,0.0,2023,0.29074608752169484
+RXT,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.6947016969834159
+RXT,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,0.0,2023,0.8305499762569822
+S,Services-Prepackaged Software,2023-01-31,1.0,2023,0.6142346064915456
+S,Services-Prepackaged Software,2023-04-30,1.0,2023,0.5889681959601364
+S,Services-Prepackaged Software,2023-10-31,1.0,2023,0.5802535309717491
+SAIC,Services-Computer Integrated Systems Design,2023-08-04,1.0,2023,0.8522467526422298
+SATL,Radio & Tv Broadcasting & Communications Equipment,2023-12-31,0.0,2023,0.4035828801547305
+SEMR,Services-Prepackaged Software,2023-03-31,1.0,2023,0.4284423880189885
+SEMR,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7820134203417861
+SHLS,Semiconductors & Related Devices,2023-06-30,1.0,2023,0.8291415722443969
+SITM,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.609334697800596
+SITM,Semiconductors & Related Devices,2023-09-30,1.0,2023,0.34786926149380626
+SKIL,Services-Prepackaged Software,2023-01-31,1.0,2023,0.6452041474608187
+SKIL,Services-Prepackaged Software,2023-10-31,1.0,2023,0.6664669383465417
+SKYT,Semiconductors & Related Devices,2023-01-01,1.0,2023,0.5669051730404098
+SKYT,Semiconductors & Related Devices,2023-04-02,1.0,2023,0.7207553048111845
+SKYT,Semiconductors & Related Devices,2023-07-02,1.0,2023,0.734813387756641
+SKYT,Semiconductors & Related Devices,2023-10-01,1.0,2023,0.6515354865789398
+SLAB,Semiconductors & Related Devices,2023-04-01,0.0,2023,0.5195282316449525
+SLAB,Semiconductors & Related Devices,2023-07-01,0.0,2023,0.8323219662932178
+SLAB,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.5333486855004299
+SLAB,Semiconductors & Related Devices,2023-12-30,0.0,2023,0.5472568432134022
+SLP,Services-Computer Integrated Systems Design,2023-02-28,1.0,2023,0.6573758786580588
+SMTC,Semiconductors & Related Devices,2023-04-30,0.0,2023,0.6331443532744749
+SMTC,Semiconductors & Related Devices,2023-07-30,1.0,2023,0.8448704371342162
+SMTC,Semiconductors & Related Devices,2023-10-29,1.0,2023,0.6101477062152327
+SNDK,Computer Storage Devices,2023-06-30,1.0,2023,0.4852576966829283
+SOUN,Services-Prepackaged Software,2023-03-31,0.0,2023,0.26422712371698415
+SOUN,Services-Prepackaged Software,2023-09-30,0.0,2023,0.2732827099614141
+SOUN,Services-Prepackaged Software,2023-12-31,0.0,2023,0.42670139451867234
+SPSC,Services-Prepackaged Software,2023-06-30,1.0,2023,0.9265999506803894
+SPT,Services-Prepackaged Software,2023-09-30,1.0,2023,0.5970885405974697
+SSTI,Services-Prepackaged Software,2023-03-31,1.0,2023,0.5423316924215956
+SSTI,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7114146918287173
+SSTK,Services-Computer Processing & Data Preparation,2023-06-30,0.0,2023,0.8618105811432129
+SVCO,Services-Prepackaged Software,2023-09-30,0.0,2023,0.685194076879228
+SWKS,Semiconductors & Related Devices,2023-03-31,1.0,2023,0.7294541165781423
+SYNA,Semiconductors & Related Devices,2023-03-25,0.0,2023,0.6157320417620051
+SYNA,Semiconductors & Related Devices,2023-12-30,0.0,2023,0.7575231017541267
+TBCH,"Communications Equipment, NEC",2023-09-30,1.0,2023,0.587500257471953
+TBRG,Services-Computer Programming Services,2023-06-30,1.0,2023,0.8234442615146775
+TBRG,Services-Computer Programming Services,2023-12-31,1.0,2023,0.6495195096721273
+TCX,Services-Computer Processing & Data Preparation,2023-03-31,0.0,2023,0.6469901369697497
+TCX,Services-Computer Processing & Data Preparation,2023-06-30,0.0,2023,0.713865018393336
+TCX,Services-Computer Processing & Data Preparation,2023-09-30,0.0,2023,0.5281482833655267
+TDC,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8231934811891257
+TE,Semiconductors & Related Devices,2023-03-31,0.0,2023,0.3347693579688728
+TE,Semiconductors & Related Devices,2023-06-30,0.0,2023,0.3291010484859519
+TE,Semiconductors & Related Devices,2023-09-30,0.0,2023,0.33987867857842397
+TE,Semiconductors & Related Devices,2023-12-31,0.0,2023,0.6302575449237663
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2023-03-31,1.0,2023,0.6006328702975682
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.7429869759848733
+TEM,"Services-Computer Programming, Data Processing, Etc.",2023-09-30,0.0,2023,0.3826294066136341
+TEM,"Services-Computer Programming, Data Processing, Etc.",2023-12-31,0.0,2023,0.5407920441412021
+TENB,Services-Prepackaged Software,2023-06-30,1.0,2023,0.860957561792856
+TLS,Services-Computer Integrated Systems Design,2023-03-31,0.0,2023,0.4925151610577708
+TLS,Services-Computer Integrated Systems Design,2023-06-30,0.0,2023,0.7115926743489747
+TRAK,Services-Computer Processing & Data Preparation,2023-12-31,1.0,2023,0.7654400872546323
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.7633617417832618
+U,Services-Prepackaged Software,2023-03-31,1.0,2023,0.6989689570339577
+UIS,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.5873583136600151
+UPWK,Services-Computer Processing & Data Preparation,2023-03-31,1.0,2023,0.5288974268388018
+UPWK,Services-Computer Processing & Data Preparation,2023-06-30,1.0,2023,0.7490975262277197
+VERX,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8741238267740572
+VIA,Services-Prepackaged Software,2023-12-31,1.0,2023,0.5033704659004367
+VIAV,Semiconductors & Related Devices,2023-12-30,1.0,2023,0.8792618553082294
+VISN,Radio & Tv Broadcasting & Communications Equipment,2023-03-31,1.0,2023,0.4604850771456509
+VISN,Radio & Tv Broadcasting & Communications Equipment,2023-06-30,0.0,2023,0.7024409327791719
+VPG,Electronic Components & Accessories,2023-07-01,1.0,2023,0.7742135344054843
+VSH,Electronic Components & Accessories,2023-07-01,1.0,2023,0.8055341539711134
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2023-03-31,0.0,2023,0.2698947350810267
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2023-09-30,0.0,2023,0.08474163721957177
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2023-12-31,0.0,2023,0.14653245096718262
+WAY,Services-Computer Integrated Systems Design,2023-06-30,1.0,2023,0.8395999508618174
+WAY,Services-Computer Integrated Systems Design,2023-09-30,1.0,2023,0.6402041433242921
+XPER,Services-Prepackaged Software,2023-03-31,0.0,2023,0.5623242278627764
+XPER,Services-Prepackaged Software,2023-06-30,0.0,2023,0.7781880460337582
+YEXT,Services-Computer Processing & Data Preparation,2023-10-31,1.0,2023,0.6204533767584577
+YOU,Services-Prepackaged Software,2023-06-30,1.0,2023,0.7233941833908081
+YOU,Services-Prepackaged Software,2023-09-30,1.0,2023,0.5461919178478074
+ZETA,Services-Prepackaged Software,2023-06-30,1.0,2023,0.8479657140562147
+ZIP,"Services-Computer Programming, Data Processing, Etc.",2023-06-30,1.0,2023,0.8562265621552829
+AAOI,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.5270527388753691
+AAOI,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.6935353078842705
+AAOI,Semiconductors & Related Devices,2024-09-30,0.0,2024,0.4840124111487112
+AAOI,Semiconductors & Related Devices,2024-12-31,0.0,2024,0.482419339524535
+AEIS,"Electronic Components, NEC",2024-06-30,1.0,2024,0.7840289736551567
+AGYS,Services-Computer Integrated Systems Design,2024-09-30,0.0,2024,0.7083266304857642
+AI,Services-Prepackaged Software,2024-01-31,1.0,2024,0.5125344562452351
+AIOT,"Communications Equipment, NEC",2024-03-31,0.0,2024,0.46410601270559415
+AIOT,"Communications Equipment, NEC",2024-06-30,1.0,2024,0.6227347791119348
+AIOT,"Communications Equipment, NEC",2024-09-30,1.0,2024,0.5599308133811747
+AIOT,"Communications Equipment, NEC",2024-12-31,1.0,2024,0.6134288064626698
+AIP,Semiconductors & Related Devices,2024-12-31,1.0,2024,0.4053564902357856
+AISP,Services-Prepackaged Software,2024-03-31,0.0,2024,0.3423097274777576
+AISP,Services-Prepackaged Software,2024-06-30,0.0,2024,0.4408520048084791
+AISP,Services-Prepackaged Software,2024-09-30,0.0,2024,0.2782489130854313
+AISP,Services-Prepackaged Software,2024-12-31,0.0,2024,0.23297910297147056
+ALGM,Semiconductors & Related Devices,2024-09-27,1.0,2024,0.8607827239302411
+ALMU,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.08288485149505931
+ALMU,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.07441867795712287
+ALMU,Semiconductors & Related Devices,2024-09-30,0.0,2024,0.08911319868012231
+ALRM,Services-Prepackaged Software,2024-06-30,0.0,2024,0.7805026131398289
+AMBA,Semiconductors & Related Devices,2024-04-30,1.0,2024,0.47797364359401306
+AMBA,Semiconductors & Related Devices,2024-07-31,1.0,2024,0.7827988315543859
+AMBQ,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.2722297802290502
+AMBQ,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.21753510006513618
+AMKR,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.8637052442640438
+AMPL,Services-Prepackaged Software,2024-03-31,0.0,2024,0.5439489295460315
+AMPL,Services-Prepackaged Software,2024-06-30,0.0,2024,0.7820171021994077
+APLD,Services-Computer Processing & Data Preparation,2024-05-31,0.0,2024,0.6425495631726365
+APLD,Services-Computer Processing & Data Preparation,2024-08-31,0.0,2024,0.5591016960279582
+APLD,Services-Computer Processing & Data Preparation,2024-11-30,0.0,2024,0.5684292114672864
+APPN,Services-Prepackaged Software,2024-09-30,1.0,2024,0.6970835534795856
+ASAN,Services-Prepackaged Software,2024-01-31,1.0,2024,0.642105772051099
+ASAN,Services-Prepackaged Software,2024-04-30,1.0,2024,0.7034272205496714
+ASAN,Services-Prepackaged Software,2024-10-31,1.0,2024,0.65223629671978
+ASUR,Services-Computer Integrated Systems Design,2024-03-31,0.0,2024,0.6629541828285004
+ASUR,Services-Computer Integrated Systems Design,2024-06-30,1.0,2024,0.692373682669446
+ATOM,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.10208951251254586
+ATOM,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.12906129309257872
+ATOM,Semiconductors & Related Devices,2024-09-30,0.0,2024,0.06348510781979828
+ATOM,Semiconductors & Related Devices,2024-12-31,0.0,2024,0.07412762693114651
+AUR,Services-Computer Integrated Systems Design,2024-03-31,0.0,2024,0.22740083135668165
+AUR,Services-Computer Integrated Systems Design,2024-09-30,0.0,2024,0.1969132348616222
+AUR,Services-Computer Integrated Systems Design,2024-12-31,0.0,2024,0.22174158182937886
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2024-09-27,0.0,2024,0.49836773293166503
+AVNW,Radio & Tv Broadcasting & Communications Equipment,2024-12-27,1.0,2024,0.5870668154221454
+AVPT,Services-Prepackaged Software,2024-06-30,0.0,2024,0.8217650169985078
+BAND,Services-Prepackaged Software,2024-06-30,0.0,2024,0.8107825573371924
+BBAI,Services-Prepackaged Software,2024-03-31,0.0,2024,0.3838213951184226
+BBAI,Services-Prepackaged Software,2024-06-30,1.0,2024,0.5656100218954176
+BBAI,Services-Prepackaged Software,2024-09-30,0.0,2024,0.5229246779670222
+BBAI,Services-Prepackaged Software,2024-12-31,0.0,2024,0.5913621123339907
+BELFA,"Electronic Coils, Transformers & Other Inductors",2024-06-30,0.0,2024,0.8258026170103391
+BELFB,"Electronic Coils, Transformers & Other Inductors",2024-06-30,0.0,2024,0.8258026170103391
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2024-03-31,1.0,2024,0.3832544158050173
+BKSY,Radio & Tv Broadcasting & Communications Equipment,2024-12-31,1.0,2024,0.4627497546992252
+BKTI,Radio & Tv Broadcasting & Communications Equipment,2024-03-31,1.0,2024,0.31548186522852006
+BL,Services-Prepackaged Software,2024-06-30,1.0,2024,0.7744916316327082
+BLKB,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8947711768707856
+BLND,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,1.0,2024,0.5107386821840292
+BLND,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,1.0,2024,0.4436510440782848
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.8389738440898795
+BMBL,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,1.0,2024,0.7184270910170841
+BOX,Services-Prepackaged Software,2024-07-31,1.0,2024,0.8373806639898731
+BRZE,Services-Prepackaged Software,2024-10-31,1.0,2024,0.6713202580522359
+BSY,Services-Prepackaged Software,2024-06-30,1.0,2024,0.7957890835885533
+BZAI,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.20404823006739126
+BZAI,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.1956147256069997
+BZAI,Semiconductors & Related Devices,2024-09-30,0.0,2024,0.10593070436628438
+BZAI,Semiconductors & Related Devices,2024-12-31,0.0,2024,0.44185360466058743
+CACI,Services-Computer Integrated Systems Design,2024-12-31,1.0,2024,0.7655063388597906
+CARG,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.6552613194272545
+CARS,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.8503741812182515
+CCC,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8992759582252633
+CCSI,Services-Prepackaged Software,2024-06-30,1.0,2024,0.84996194335707
+CERT,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8880082938967007
+CEVA,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,1.0,2024,0.383653588990016
+CLVT,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.7615435128465284
+CMRC,Services-Prepackaged Software,2024-03-31,1.0,2024,0.5478406088520593
+CRDO,Semiconductors & Related Devices,2024-01-27,0.0,2024,0.49543044475229103
+CRDO,Semiconductors & Related Devices,2024-08-03,1.0,2024,0.6301421874006303
+CRDO,Semiconductors & Related Devices,2024-11-02,1.0,2024,0.5281826413578041
+CRNC,Services-Prepackaged Software,2024-03-31,1.0,2024,0.54646155149521
+CRSR,"Computer Peripheral Equipment, NEC",2024-03-31,0.0,2024,0.5181763528675914
+CRSR,"Computer Peripheral Equipment, NEC",2024-06-30,1.0,2024,0.6865257875189906
+CRUS,Semiconductors & Related Devices,2024-09-28,1.0,2024,0.7932681996126951
+CSGS,Services-Computer Processing & Data Preparation,2024-03-31,1.0,2024,0.6048921506590497
+CSGS,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.8113688711196019
+CSPI,Services-Computer Integrated Systems Design,2024-09-30,0.0,2024,0.4817538983838985
+CVLT,Services-Prepackaged Software,2024-09-30,1.0,2024,0.6979272394650475
+CWAN,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8983791059579822
+CWAN,Services-Prepackaged Software,2024-12-31,1.0,2024,0.664470718490443
+CXM,Services-Prepackaged Software,2024-07-31,1.0,2024,0.740196435100841
+DBX,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8884310001214397
+DDD,Services-Prepackaged Software,2024-03-31,1.0,2024,0.5834268694746416
+DDD,Services-Prepackaged Software,2024-09-30,0.0,2024,0.6465325056849028
+DDD,Services-Prepackaged Software,2024-12-31,0.0,2024,0.6112228162859663
+DGII,Computer Communications Equipment,2024-03-31,1.0,2024,0.8028764044126426
+DH,Services-Prepackaged Software,2024-06-30,1.0,2024,0.6913343078185417
+DIOD,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.625490802728516
+DIOD,Semiconductors & Related Devices,2024-06-30,1.0,2024,0.7271565868176032
+DJT,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,0.0,2024,0.1529854360386017
+DJT,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.12484382360167279
+DJT,"Services-Computer Programming, Data Processing, Etc.",2024-09-30,1.0,2024,0.13774978665331541
+DJT,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,1.0,2024,0.13504152814506068
+DMRC,Services-Computer Integrated Systems Design,2024-03-31,0.0,2024,0.13199705627705166
+DMRC,Services-Computer Integrated Systems Design,2024-06-30,0.0,2024,0.21586981170647018
+DMRC,Services-Computer Integrated Systems Design,2024-09-30,1.0,2024,0.19062200199791762
+DMRC,Services-Computer Integrated Systems Design,2024-12-31,1.0,2024,0.2444606482318431
+DOCN,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.8733200178011453
+DOMO,Services-Prepackaged Software,2024-07-31,1.0,2024,0.6824674517344926
+DOMO,Services-Prepackaged Software,2024-10-31,1.0,2024,0.6107454294459493
+DSP,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,0.0,2024,0.8320348162536695
+DUOL,Services-Prepackaged Software,2024-06-30,1.0,2024,0.7375834380770081
+DV,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.8340707250511844
+DXC,Services-Computer Processing & Data Preparation,2024-09-30,1.0,2024,0.8619612942134214
+EGAN,Services-Prepackaged Software,2024-06-30,0.0,2024,0.7726263296713871
+EGHT,Services-Computer Processing & Data Preparation,2024-09-30,1.0,2024,0.7441632161943048
+ENPH,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.7845765756464969
+EPAM,Services-Computer Programming Services,2024-06-30,0.0,2024,0.7947810442199714
+ESE,"Communications Equipment, NEC",2024-03-31,1.0,2024,0.7951324085912841
+EVCM,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8695510093183767
+EVLV,"Computer Peripheral Equipment, NEC",2024-03-31,0.0,2024,0.4909760636690242
+EVLV,"Computer Peripheral Equipment, NEC",2024-06-30,1.0,2024,0.5692955257813788
+EVTC,Services-Computer Processing & Data Preparation,2024-06-30,0.0,2024,0.8364342695782876
+EXTR,Computer Communications Equipment,2024-03-31,1.0,2024,0.6160656924394464
+FA,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.7956950173186574
+FA,Services-Computer Processing & Data Preparation,2024-12-31,1.0,2024,0.6439111507298712
+FDS,"Services-Computer Programming, Data Processing, Etc.",2024-02-29,1.0,2024,0.865799916735014
+FFIV,Computer Communications Equipment,2024-03-31,1.0,2024,0.8584418663605824
+FIVN,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.8556242079497197
+FORM,Semiconductors & Related Devices,2024-06-29,1.0,2024,0.7309953239609471
+FRSH,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8125160251510494
+GDYN,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8216924026945833
+GEN,Services-Prepackaged Software,2024-09-27,1.0,2024,0.8502825131862268
+GTLB,Services-Prepackaged Software,2024-10-31,1.0,2024,0.7220804008110182
+GTM,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8877725519796611
+GWRE,Services-Prepackaged Software,2024-01-31,1.0,2024,0.7775268095080978
+GWRE,Services-Prepackaged Software,2024-10-31,1.0,2024,0.512850681877804
+HCAT,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,0.0,2024,0.6514298093395581
+HLIT,Radio & Tv Broadcasting & Communications Equipment,2024-06-28,1.0,2024,0.6658062669333912
+HSTM,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.8577579691069792
+IAC,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.8251974949214657
+IBEX,Services-Computer Processing & Data Preparation,2024-12-31,1.0,2024,0.8202076525516351
+ICHR,Semiconductors & Related Devices,2024-06-28,1.0,2024,0.7806221326791792
+ICHR,Semiconductors & Related Devices,2024-12-27,1.0,2024,0.6492254948934633
+IIIV,Services-Prepackaged Software,2024-03-31,0.0,2024,0.8616823822192782
+INDI,Semiconductors & Related Devices,2024-03-31,1.0,2024,0.5130767905525873
+INDI,Semiconductors & Related Devices,2024-09-30,0.0,2024,0.5249803006099303
+INDI,Semiconductors & Related Devices,2024-12-31,0.0,2024,0.4360928971449937
+INSE,Services-Prepackaged Software,2024-06-30,1.0,2024,0.6469821451874249
+INSG,"Communications Equipment, NEC",2024-12-31,0.0,2024,0.5448214491474498
+IONQ,Services-Computer Integrated Systems Design,2024-03-31,0.0,2024,0.19761583937728033
+IONQ,Services-Computer Integrated Systems Design,2024-09-30,0.0,2024,0.17055721829100726
+IONQ,Services-Computer Integrated Systems Design,2024-12-31,0.0,2024,0.2136447828364222
+IPGP,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.8540474833843723
+JKHY,Services-Computer Integrated Systems Design,2024-12-31,1.0,2024,0.7827645124822301
+KD,Services-Computer Integrated Systems Design,2024-06-30,1.0,2024,0.6719516034632167
+KD,Services-Computer Integrated Systems Design,2024-09-30,0.0,2024,0.7310811443523332
+KLIC,Semiconductors & Related Devices,2024-03-30,1.0,2024,0.6759924937194979
+KLTR,Services-Prepackaged Software,2024-03-31,1.0,2024,0.6229298839945567
+KOPN,Semiconductors & Related Devices,2024-03-30,0.0,2024,0.19956201411498092
+KOPN,Semiconductors & Related Devices,2024-09-28,1.0,2024,0.33458354145589386
+KOPN,Semiconductors & Related Devices,2024-12-28,1.0,2024,0.39727404887397577
+KULR,Electronic Components & Accessories,2024-03-31,0.0,2024,0.12031223407478828
+KULR,Electronic Components & Accessories,2024-06-30,0.0,2024,0.16106039162604344
+KULR,Electronic Components & Accessories,2024-09-30,0.0,2024,0.26538567521559
+LASR,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.6959915449876988
+LASR,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.45653544818261216
+LASR,Semiconductors & Related Devices,2024-12-31,1.0,2024,0.4374237426013984
+LAW,Services-Prepackaged Software,2024-03-31,0.0,2024,0.17853078669995068
+LAW,Services-Prepackaged Software,2024-09-30,0.0,2024,0.3935673728744371
+LITE,"Communications Equipment, NEC",2024-03-30,1.0,2024,0.5410634779092012
+LSCC,Semiconductors & Related Devices,2024-06-29,1.0,2024,0.8055585389930788
+LZ,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.7641064265716453
+MANH,Services-Prepackaged Software,2024-06-30,1.0,2024,0.90734971815987
+MEI,Electronic Connectors,2024-11-02,1.0,2024,0.80627657876957
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,1.0,2024,0.6907314152362081
+MGNI,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,0.0,2024,0.7664815300148177
+MITK,"Computer Peripheral Equipment, NEC",2024-03-31,1.0,2024,0.7694287114483251
+MKTW,Services-Prepackaged Software,2024-03-31,0.0,2024,0.7316711775707405
+MKTW,Services-Prepackaged Software,2024-06-30,1.0,2024,0.7525705608187924
+MKTW,Services-Prepackaged Software,2024-09-30,1.0,2024,0.7458416386685467
+MRCY,Electronic Components & Accessories,2024-03-29,1.0,2024,0.4621925325618931
+MRCY,Electronic Components & Accessories,2024-09-27,1.0,2024,0.44176848455228446
+MRDN,Services-Prepackaged Software,2024-06-30,1.0,2024,0.6669909954782468
+MTCH,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.8342625156392259
+MTSI,Semiconductors & Related Devices,2024-03-29,1.0,2024,0.8708128949666096
+MVIS,"Electronic Components, NEC",2024-03-31,0.0,2024,0.2334298440116208
+MVIS,"Electronic Components, NEC",2024-09-30,0.0,2024,0.16247968522196746
+MVIS,"Electronic Components, NEC",2024-12-31,0.0,2024,0.4007275107298842
+MXL,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.7077651442219617
+MXL,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.5793801304314932
+MXL,Semiconductors & Related Devices,2024-12-31,1.0,2024,0.6657718580064639
+MYPS,Services-Prepackaged Software,2024-06-30,1.0,2024,0.509134004474184
+NABL,Services-Prepackaged Software,2024-06-30,1.0,2024,0.9082002218670544
+NAVN,Services-Prepackaged Software,2024-10-31,1.0,2024,0.5294215891993885
+NEON,"Electronic Components, NEC",2024-03-31,0.0,2024,0.12377542956336288
+NEON,"Electronic Components, NEC",2024-09-30,0.0,2024,0.08737563097348591
+NEON,"Electronic Components, NEC",2024-12-31,0.0,2024,0.10834628947800624
+NIQ,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,0.0,2024,0.7576496170744064
+NRDS,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.7920546949472376
+NVEC,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.6501726081849841
+NVTS,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.36864667021413866
+NVTS,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.4057754592015885
+NVTS,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.37326447278239666
+NVTS,Semiconductors & Related Devices,2024-12-31,1.0,2024,0.37158947044731633
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,1.0,2024,0.21992676964493135
+NXDR,"Services-Computer Programming, Data Processing, Etc.",2024-09-30,1.0,2024,0.2209844490253168
+OLED,Electronic Components & Accessories,2024-06-30,0.0,2024,0.7099608703652088
+OMCL,Electronic Computers,2024-06-30,0.0,2024,0.7435197429298195
+OSIS,Semiconductors & Related Devices,2024-03-31,1.0,2024,0.6096434903520044
+OSIS,Semiconductors & Related Devices,2024-06-30,1.0,2024,0.6894390342499699
+OSIS,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.5260472522470052
+PATH,Services-Prepackaged Software,2024-07-31,1.0,2024,0.7140647268902134
+PCTY,Services-Prepackaged Software,2024-12-31,1.0,2024,0.7629201547519788
+PD,Services-Prepackaged Software,2024-07-31,1.0,2024,0.7839073868540121
+PDFS,Services-Prepackaged Software,2024-03-31,1.0,2024,0.511061612267481
+PDFS,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8116912894147407
+PDYN,Services-Prepackaged Software,2024-03-31,1.0,2024,0.21190830224837665
+PDYN,Services-Prepackaged Software,2024-09-30,0.0,2024,0.2122585140027897
+PDYN,Services-Prepackaged Software,2024-12-31,0.0,2024,0.10940237901657753
+PENG,Semiconductors & Related Devices,2024-03-01,1.0,2024,0.8256982922881546
+PENG,Semiconductors & Related Devices,2024-08-30,1.0,2024,0.6270803387940171
+PL,Radio & Tv Broadcasting & Communications Equipment,2024-01-31,1.0,2024,0.5501819670198644
+PL,Radio & Tv Broadcasting & Communications Equipment,2024-04-30,1.0,2024,0.6000913753466964
+PLAB,Semiconductors & Related Devices,2024-04-28,1.0,2024,0.9002251937832926
+PLTK,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.8425528981025006
+POWI,Semiconductors & Related Devices,2024-06-30,1.0,2024,0.7530255655549958
+PRCH,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8233814252492684
+PRCH,Services-Prepackaged Software,2024-12-31,1.0,2024,0.7613953266955299
+PRGS,Services-Prepackaged Software,2024-05-31,1.0,2024,0.8695109986178967
+PSN,Services-Computer Integrated Systems Design,2024-03-31,1.0,2024,0.7062992741260719
+PSN,Services-Computer Integrated Systems Design,2024-06-30,1.0,2024,0.7699752673834225
+PUBM,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.9047980751326645
+QBTS,Services-Computer Processing & Data Preparation,2024-03-31,0.0,2024,0.11977333212268068
+QBTS,Services-Computer Processing & Data Preparation,2024-09-30,0.0,2024,0.18279575470941364
+QLYS,Services-Prepackaged Software,2024-06-30,1.0,2024,0.9039892731986604
+QRVO,Semiconductors & Related Devices,2024-09-28,1.0,2024,0.5924450884193382
+QTWO,Services-Prepackaged Software,2024-06-30,1.0,2024,0.7903825328518901
+QUBT,Services-Prepackaged Software,2024-03-31,0.0,2024,0.1260030909777649
+QUBT,Services-Prepackaged Software,2024-09-30,0.0,2024,0.1699739695453834
+QUBT,Services-Prepackaged Software,2024-12-31,0.0,2024,0.08193330255816636
+RAMP,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.6182386799614675
+RBBN,Services-Computer Integrated Systems Design,2024-06-30,0.0,2024,0.8235542124457005
+RBBN,Services-Computer Integrated Systems Design,2024-09-30,1.0,2024,0.6708906305974922
+RBRK,Services-Prepackaged Software,2024-04-30,1.0,2024,0.6673103365093949
+RBRK,Services-Prepackaged Software,2024-07-31,1.0,2024,0.7986526792077124
+RGTI,Services-Computer Programming Services,2024-03-31,0.0,2024,0.2283086270232395
+RGTI,Services-Computer Programming Services,2024-06-30,0.0,2024,0.29484415745998954
+RGTI,Services-Computer Programming Services,2024-09-30,0.0,2024,0.23782177423432535
+RGTI,Services-Computer Programming Services,2024-12-31,0.0,2024,0.12379306868781675
+RMBS,Semiconductors & Related Devices,2024-06-30,1.0,2024,0.8346682424842246
+RNG,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.8402069305980198
+RPD,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8338946003722874
+RUM,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,0.0,2024,0.25731107686304744
+RUM,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.4749283318183338
+RUM,"Services-Computer Programming, Data Processing, Etc.",2024-09-30,1.0,2024,0.3137247825151139
+RUM,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,1.0,2024,0.49499150585581764
+RXT,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,0.0,2024,0.6694469496396442
+RXT,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.7346543476270917
+S,Services-Prepackaged Software,2024-01-31,1.0,2024,0.536576884562996
+S,Services-Prepackaged Software,2024-10-31,1.0,2024,0.6803864957845311
+SABR,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,0.0,2024,0.6919135031533905
+SAIC,Services-Computer Integrated Systems Design,2024-08-02,1.0,2024,0.9094031359971698
+SAIL,Services-Prepackaged Software,2024-01-31,1.0,2024,0.5757918425035147
+SAIL,Services-Prepackaged Software,2024-04-30,1.0,2024,0.44951683761966055
+SAIL,Services-Prepackaged Software,2024-10-31,1.0,2024,0.50752533666432
+SATL,Radio & Tv Broadcasting & Communications Equipment,2024-03-31,0.0,2024,0.2965819143452511
+SATL,Radio & Tv Broadcasting & Communications Equipment,2024-06-30,1.0,2024,0.28413254439348123
+SATL,Radio & Tv Broadcasting & Communications Equipment,2024-09-30,1.0,2024,0.2282729983581054
+SHLS,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.8115452061638665
+SITM,Semiconductors & Related Devices,2024-06-30,1.0,2024,0.7488787445924276
+SKYT,Semiconductors & Related Devices,2024-03-31,1.0,2024,0.7153107374613894
+SKYT,Semiconductors & Related Devices,2024-12-29,1.0,2024,0.7429845673190074
+SLAB,Semiconductors & Related Devices,2024-03-30,1.0,2024,0.4995152501406793
+SLAB,Semiconductors & Related Devices,2024-06-29,1.0,2024,0.5447891064497692
+SLP,Services-Computer Integrated Systems Design,2024-02-29,0.0,2024,0.7795326807594467
+SLP,Services-Computer Integrated Systems Design,2024-11-30,1.0,2024,0.6144329934377262
+SMTC,Semiconductors & Related Devices,2024-01-28,1.0,2024,0.6902186880209752
+SMTC,Semiconductors & Related Devices,2024-04-28,1.0,2024,0.6355673394760286
+SNDK,Computer Storage Devices,2024-03-29,0.0,2024,0.6536205499821228
+SNDK,Computer Storage Devices,2024-06-28,1.0,2024,0.6566979689286145
+SNDK,Computer Storage Devices,2024-09-27,1.0,2024,0.7015638002120204
+SOUN,Services-Prepackaged Software,2024-03-31,0.0,2024,0.22709931412573497
+SOUN,Services-Prepackaged Software,2024-09-30,0.0,2024,0.4143679565742686
+SOUN,Services-Prepackaged Software,2024-12-31,0.0,2024,0.5402972034114171
+SPSC,Services-Prepackaged Software,2024-06-30,1.0,2024,0.9200350968964228
+SSTK,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.8937077347688944
+SSTK,Services-Computer Processing & Data Preparation,2024-09-30,1.0,2024,0.6871637356145591
+SVCO,Services-Prepackaged Software,2024-03-31,0.0,2024,0.685857568696919
+SVCO,Services-Prepackaged Software,2024-06-30,0.0,2024,0.40990233530595777
+SVCO,Services-Prepackaged Software,2024-09-30,0.0,2024,0.43060283069084204
+SVCO,Services-Prepackaged Software,2024-12-31,0.0,2024,0.71811900428539
+SWKS,Semiconductors & Related Devices,2024-03-29,1.0,2024,0.7258491675353542
+SYNA,Semiconductors & Related Devices,2024-03-30,1.0,2024,0.45301462531917386
+SYNA,Semiconductors & Related Devices,2024-09-28,1.0,2024,0.4785275342062003
+SYNA,Semiconductors & Related Devices,2024-12-28,1.0,2024,0.6840748867567548
+TBCH,"Communications Equipment, NEC",2024-06-30,1.0,2024,0.7626662514093283
+TBCH,"Communications Equipment, NEC",2024-09-30,1.0,2024,0.7861218767112955
+TBRG,Services-Computer Programming Services,2024-03-31,1.0,2024,0.742731336123887
+TCX,Services-Computer Processing & Data Preparation,2024-03-31,0.0,2024,0.471295784878149
+TCX,Services-Computer Processing & Data Preparation,2024-06-30,0.0,2024,0.763681166011153
+TCX,Services-Computer Processing & Data Preparation,2024-09-30,0.0,2024,0.44289714080095677
+TCX,Services-Computer Processing & Data Preparation,2024-12-31,0.0,2024,0.5341675917354504
+TDC,Services-Prepackaged Software,2024-06-30,0.0,2024,0.8603451288071846
+TE,Semiconductors & Related Devices,2024-03-31,0.0,2024,0.3898347743930641
+TE,Semiconductors & Related Devices,2024-06-30,0.0,2024,0.5156653863500835
+TE,Semiconductors & Related Devices,2024-09-30,1.0,2024,0.3284394942266867
+TEAD,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.7453506056684132
+TEM,"Services-Computer Programming, Data Processing, Etc.",2024-03-31,0.0,2024,0.3674857250963385
+TEM,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,0.0,2024,0.5179310481711705
+TENB,Services-Prepackaged Software,2024-06-30,1.0,2024,0.9084148880284846
+TLS,Services-Computer Integrated Systems Design,2024-03-31,0.0,2024,0.42324842297788123
+TLS,Services-Computer Integrated Systems Design,2024-06-30,1.0,2024,0.4184209402460141
+TLS,Services-Computer Integrated Systems Design,2024-09-30,1.0,2024,0.3597686821340389
+TLS,Services-Computer Integrated Systems Design,2024-12-31,1.0,2024,0.3945583309619541
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,1.0,2024,0.7874968532539267
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2024-09-30,1.0,2024,0.787216640118714
+TRIP,"Services-Computer Programming, Data Processing, Etc.",2024-12-31,1.0,2024,0.7671326191817921
+U,Services-Prepackaged Software,2024-03-31,1.0,2024,0.7372065134463968
+U,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8406391291452547
+UCTT,Semiconductors & Related Devices,2024-06-28,1.0,2024,0.8271197002338295
+UIS,Services-Computer Integrated Systems Design,2024-06-30,0.0,2024,0.7732775587047633
+UPWK,Services-Computer Processing & Data Preparation,2024-06-30,1.0,2024,0.7759245408419368
+VICR,"Electronic Components, NEC",2024-06-30,1.0,2024,0.8514327053861857
+VISN,Radio & Tv Broadcasting & Communications Equipment,2024-03-31,0.0,2024,0.5959557303480505
+VISN,Radio & Tv Broadcasting & Communications Equipment,2024-06-30,0.0,2024,0.6470787593742695
+VPG,Electronic Components & Accessories,2024-06-29,1.0,2024,0.8169696111606182
+VPG,Electronic Components & Accessories,2024-09-28,1.0,2024,0.6818162955376037
+VREX,"Electronic Components, NEC",2024-03-29,1.0,2024,0.7248788905801229
+VSH,Electronic Components & Accessories,2024-06-29,0.0,2024,0.8389621312623451
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2024-03-31,1.0,2024,0.1025180710509046
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2024-09-30,1.0,2024,0.10009127529598781
+VUZI,Radio & Tv Broadcasting & Communications Equipment,2024-12-31,1.0,2024,0.10246393692984657
+WAY,Services-Computer Integrated Systems Design,2024-06-30,1.0,2024,0.7500669966107831
+WEAV,Services-Prepackaged Software,2024-03-31,1.0,2024,0.6008432150785481
+WEAV,Services-Prepackaged Software,2024-06-30,1.0,2024,0.6889292679492254
+WK,Services-Prepackaged Software,2024-06-30,1.0,2024,0.782763491525184
+XPER,Services-Prepackaged Software,2024-03-31,0.0,2024,0.5942717063466701
+XPER,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8339296803126068
+XPER,Services-Prepackaged Software,2024-09-30,1.0,2024,0.6701150919205756
+XRX,"Computer Peripheral Equipment, NEC",2024-03-31,0.0,2024,0.6742022204792377
+XRX,"Computer Peripheral Equipment, NEC",2024-06-30,0.0,2024,0.8167335066245978
+YEXT,Services-Computer Processing & Data Preparation,2024-07-31,1.0,2024,0.7582724912290508
+YEXT,Services-Computer Processing & Data Preparation,2024-10-31,1.0,2024,0.6739686862575477
+YOU,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8710010436169808
+YOU,Services-Prepackaged Software,2024-09-30,1.0,2024,0.6816273902616985
+ZETA,Services-Prepackaged Software,2024-06-30,1.0,2024,0.8342226399572078
+ZIP,"Services-Computer Programming, Data Processing, Etc.",2024-06-30,0.0,2024,0.8698602329676652
+ZSPC,Services-Prepackaged Software,2024-03-31,0.0,2024,0.2218300888945502
+ZSPC,Services-Prepackaged Software,2024-06-30,0.0,2024,0.223672585715815

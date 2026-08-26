@@ -1,0 +1,279 @@
+cik,nombre,sic,sic_descripcion,ticker,bolsa
+2023554,Sandisk Corp,3572.0,Computer Storage Devices,SNDK,Nasdaq
+1633978,Lumentum Holdings Inc.,3669.0,"Communications Equipment, NEC",LITE,Nasdaq
+1736297,"Astera Labs, Inc.",3674.0,Semiconductors & Related Devices,ALAB,Nasdaq
+1474432,"Everpure, Inc.",3572.0,Computer Storage Devices,PSTG,NYSE
+1807794,Credo Technology Group Holding Ltd,3674.0,Semiconductors & Related Devices,CRDO,Nasdaq
+1493594,"MACOM Technology Solutions Holdings, Inc.",3674.0,Semiconductors & Related Devices,MTSI,Nasdaq
+1048695,"F5, INC.",3576.0,Computer Communications Equipment,FFIV,Nasdaq
+1528396,"Guidewire Software, Inc.",7372.0,Services-Prepackaged Software,GWRE,NYSE
+16058,CACI INTERNATIONAL INC /DE/,7373.0,Services-Computer Integrated Systems Design,CACI,NYSE
+849399,Gen Digital Inc.,7372.0,Services-Prepackaged Software,GEN,Nasdaq
+855658,LATTICE SEMICONDUCTOR CORP,3674.0,Semiconductors & Related Devices,LSCC,Nasdaq
+1177394,TD SYNNEX CORP,5045.0,Wholesale-Computers & Peripheral Equipment & Software,SNX,NYSE
+1824920,"IonQ, Inc.",7373.0,Services-Computer Integrated Systems Design,IONQ,NYSE
+779152,JACK HENRY & ASSOCIATES INC,7373.0,Services-Computer Integrated Systems Design,JKHY,Nasdaq
+1773383,"Dynatrace, Inc.",7372.0,Services-Prepackaged Software,DT,NYSE
+927003,ADVANCED ENERGY INDUSTRIES INC,3679.0,"Electronic Components, NEC",AEIS,Nasdaq
+1031308,BENTLEY SYSTEMS INC,7372.0,Services-Prepackaged Software,BSY,Nasdaq
+1047127,"AMKOR TECHNOLOGY, INC.",3674.0,Semiconductors & Related Devices,AMKR,Nasdaq
+1618732,"Nutanix, Inc.",7372.0,Services-Prepackaged Software,NTNX,Nasdaq
+1326380,GameStop Corp.,5734.0,Retail-Computer & Computer Software Stores,GME,NYSE
+1943896,"Rubrik, Inc.",7372.0,Services-Prepackaged Software,RBRK,NYSE
+917273,RAMBUS INC,3674.0,Semiconductors & Related Devices,RMBS,Nasdaq
+1836833,Planet Labs PBC,3663.0,Radio & Tv Broadcasting & Communications Equipment,PL,NYSE
+1611052,"PROCORE TECHNOLOGIES, INC.",7372.0,Services-Prepackaged Software,PCOR,NYSE
+1451809,SITIME Corp,3674.0,Semiconductors & Related Devices,SITM,Nasdaq
+1717115,"Tempus AI, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",TEM,Nasdaq
+751978,VICOR CORP,3679.0,"Electronic Components, NEC",VICR,Nasdaq
+1810806,Unity Software Inc.,7372.0,Services-Prepackaged Software,U,NYSE
+1056696,MANHATTAN ASSOCIATES INC,7372.0,Services-Prepackaged Software,MANH,Nasdaq
+2030781,"SailPoint, Inc.",7372.0,Services-Prepackaged Software,SAIL,Nasdaq
+1828108,"Aurora Innovation, Inc.",7373.0,Services-Computer Integrated Systems Design,AUR,Nasdaq
+4127,"SKYWORKS SOLUTIONS, INC.",3674.0,Semiconductors & Related Devices,SWKS,Nasdaq
+1013237,FACTSET RESEARCH SYSTEMS INC,7370.0,"Services-Computer Programming, Data Processing, Etc.",FDS,NYSE
+1144879,Applied Digital Corp.,7374.0,Services-Computer Processing & Data Preparation,APLD,Nasdaq
+1352010,"EPAM Systems, Inc.",7371.0,Services-Computer Programming Services,EPAM,NYSE
+1039399,FORMFACTOR INC,3674.0,Semiconductors & Related Devices,FORM,Nasdaq
+891103,"Match Group, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",MTCH,Nasdaq
+88941,SEMTECH CORP,3674.0,Semiconductors & Related Devices,SMTC,Nasdaq
+7536,"ARROW ELECTRONICS, INC.",5065.0,"Wholesale-Electronic Parts & Equipment, NEC",ARW,NYSE
+1604778,"Qorvo, Inc.",3674.0,Semiconductors & Related Devices,QRVO,Nasdaq
+1013857,PEGASYSTEMS INC,7374.0,Services-Computer Processing & Data Preparation,PEGA,Nasdaq
+1062579,AMDOCS LTD,7371.0,Services-Computer Programming Services,DOX,Nasdaq
+1582961,"DigitalOcean Holdings, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",DOCN,NYSE
+912093,VIAVI SOLUTIONS INC.,3674.0,Semiconductors & Related Devices,VIAV,Nasdaq
+1866368,"Clearwater Analytics Holdings, Inc.",7372.0,Services-Prepackaged Software,CWAN,NYSE
+866706,ESCO TECHNOLOGIES INC,3669.0,"Communications Equipment, NEC",ESE,NYSE
+772406,"CIRRUS LOGIC, INC.",3674.0,Semiconductors & Related Devices,CRUS,Nasdaq
+1038074,SILICON LABORATORIES INC.,3674.0,Semiconductors & Related Devices,SLAB,Nasdaq
+1158114,"APPLIED OPTOELECTRONICS, INC.",3674.0,Semiconductors & Related Devices,AAOI,Nasdaq
+1856314,"Clear Secure, Inc.",7372.0,Services-Prepackaged Software,YOU,NYSE
+1907982,D-Wave Quantum Inc.,7374.0,Services-Computer Processing & Data Preparation,QBTS,NYSE
+1734722,"UiPath, Inc.",7372.0,Services-Prepackaged Software,PATH,NYSE
+1467623,"DROPBOX, INC.",7372.0,Services-Prepackaged Software,DBX,Nasdaq
+1433195,APPFOLIO INC,7372.0,Services-Prepackaged Software,APPF,Nasdaq
+1591698,Paylocity Holding Corp,7372.0,Services-Prepackaged Software,PCTY,Nasdaq
+866291,"ALLEGRO MICROSYSTEMS, INC.",3674.0,Semiconductors & Related Devices,ALGM,Nasdaq
+1463101,"Enphase Energy, Inc.",3674.0,Semiconductors & Related Devices,ENPH,Nasdaq
+1707753,Elastic N.V.,7372.0,Services-Prepackaged Software,ESTC,NYSE
+275880,PARSONS CORP,7373.0,Services-Computer Integrated Systems Design,PSN,NYSE
+1838359,"Rigetti Computing, Inc.",7371.0,Services-Computer Programming Services,RGTI,Nasdaq
+1897762,Ingram Micro Holding Corp,5045.0,Wholesale-Computers & Peripheral Equipment & Software,INGM,NYSE
+1583708,"SentinelOne, Inc.",7372.0,Services-Prepackaged Software,S,NYSE
+8858,AVNET INC,5065.0,"Wholesale-Electronic Parts & Equipment, NEC",AVT,Nasdaq
+1562088,"Duolingo, Inc.",7372.0,Services-Prepackaged Software,DUOL,Nasdaq
+1049521,MERCURY SYSTEMS INC,3670.0,Electronic Components & Accessories,MRCY,Nasdaq
+1111928,IPG PHOTONICS CORP,3674.0,Semiconductors & Related Devices,IPGP,Nasdaq
+1990354,Waystar Holding Corp.,7373.0,Services-Computer Integrated Systems Design,WAY,Nasdaq
+1516513,"Doximity, Inc.",7371.0,Services-Computer Programming Services,DOCS,NYSE
+1039065,OSI SYSTEMS INC,3674.0,Semiconductors & Related Devices,OSIS,Nasdaq
+1005284,UNIVERSAL DISPLAY CORP \PA\,3670.0,Electronic Components & Accessories,OLED,Nasdaq
+1851003,Zeta Global Holdings Corp.,7372.0,Services-Prepackaged Software,ZETA,NYSE
+1571123,Science Applications International Corp,7373.0,Services-Computer Integrated Systems Design,SAIC,Nasdaq
+1786352,"BILL Holdings, Inc.",7372.0,Services-Prepackaged Software,BILL,NYSE
+935036,"ACI WORLDWIDE, INC.",7372.0,Services-Prepackaged Software,ACIW,Nasdaq
+1517228,"Vistance Networks, Inc.",3663.0,Radio & Tv Broadcasting & Communications Equipment,VISN,Nasdaq
+1124796,"NLIGHT, INC.",3674.0,Semiconductors & Related Devices,LASR,Nasdaq
+1818201,CCC Intelligent Solutions Holdings Inc.,7372.0,Services-Prepackaged Software,CCC,Nasdaq
+1653482,Gitlab Inc.,7372.0,Services-Prepackaged Software,GTLB,Nasdaq
+1517413,"Fastly, Inc.",7372.0,Services-Prepackaged Software,FSLY,Nasdaq
+1745431,StoneCo Ltd.,7374.0,Services-Computer Processing & Data Preparation,STNE,Nasdaq
+1169561,COMMVAULT SYSTEMS INC,7372.0,Services-Prepackaged Software,CVLT,Nasdaq
+1445305,WORKIVA INC,7372.0,Services-Prepackaged Software,WK,NYSE
+1372612,BOX INC,7372.0,Services-Prepackaged Software,BOX,NYSE
+56978,KULICKE & SOFFA INDUSTRIES INC,3674.0,Semiconductors & Related Devices,KLIC,Nasdaq
+1107843,"QUALYS, INC.",7372.0,Services-Prepackaged Software,QLYS,Nasdaq
+1581760,"Life360, Inc.",7374.0,Services-Computer Processing & Data Preparation,LIF,Nasdaq
+2054696,NIQ Global Intelligence plc,7370.0,"Services-Computer Programming, Data Processing, Etc.",NIQ,NYSE
+1840856,"SOUNDHOUND AI, INC.",7372.0,Services-Prepackaged Software,SOUN,Nasdaq
+1384905,"RingCentral, Inc.",7374.0,Services-Computer Processing & Data Preparation,RNG,NYSE
+1974138,NCR Atleos Corp,3578.0,Calculating & Accounting Machines (No Electronic Computers),NATL,NYSE
+1494259,"CarGurus, Inc.",7374.0,Services-Computer Processing & Data Preparation,CARG,Nasdaq
+1410384,"Q2 Holdings, Inc.",7372.0,Services-Prepackaged Software,QTWO,NYSE
+29002,DIODES INC /DEL/,3674.0,Semiconductors & Related Devices,DIOD,Nasdaq
+1114995,IMPINJ INC,3679.0,"Electronic Components, NEC",PI,Nasdaq
+1800227,IAC Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",IAC,Nasdaq
+817720,SYNAPTICS Inc,3674.0,Semiconductors & Related Devices,SYNA,Nasdaq
+1867072,"Kyndryl Holdings, Inc.",7373.0,Services-Computer Integrated Systems Design,KD,NYSE
+1361113,VARONIS SYSTEMS INC,7372.0,Services-Prepackaged Software,VRNS,Nasdaq
+1712807,PagSeguro Digital Ltd.,7374.0,Services-Computer Processing & Data Preparation,PAGS,NYSE
+1849635,Trump Media & Technology Group Corp.,7370.0,"Services-Computer Programming, Data Processing, Etc.",DJT,Nasdaq
+1275014,"Ultra Clean Holdings, Inc.",3674.0,Semiconductors & Related Devices,UCTT,Nasdaq
+833640,POWER INTEGRATIONS INC,3674.0,Semiconductors & Related Devices,POWI,Nasdaq
+28823,"DIEBOLD NIXDORF, Inc",3578.0,Calculating & Accounting Machines (No Electronic Computers),DBD,NYSE
+816761,TERADATA CORP /DE/,7372.0,Services-Prepackaged Software,TDC,NYSE
+729580,BEL FUSE INC /NJ,3677.0,"Electronic Coils, Transformers & Other Inductors",BELFA,Nasdaq
+1660280,"Tenable Holdings, Inc.",7372.0,Services-Prepackaged Software,TENB,Nasdaq
+103730,VISHAY INTERTECHNOLOGY INC,3670.0,Electronic Components & Accessories,VSH,NYSE
+1676238,"Braze, Inc.",7372.0,Services-Prepackaged Software,BRZE,Nasdaq
+1820144,Grindr Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",GRND,NYSE
+1459200,"Alarm.com Holdings, Inc.",7372.0,Services-Prepackaged Software,ALRM,Nasdaq
+1639723,"Navan, Inc.",7372.0,Services-Prepackaged Software,NAVN,Nasdaq
+1005757,CSG SYSTEMS INTERNATIONAL INC,7374.0,Services-Computer Processing & Data Preparation,CSGS,Nasdaq
+1092699,SPS COMMERCE INC,7372.0,Services-Prepackaged Software,SPSC,Nasdaq
+1544522,Freshworks Inc.,7372.0,Services-Prepackaged Software,FRSH,Nasdaq
+1666134,"BLACKLINE, INC.",7372.0,Services-Prepackaged Software,BL,Nasdaq
+1821769,Navitas Semiconductor Corp,3674.0,Semiconductors & Related Devices,NVTS,Nasdaq
+1280263,AMBARELLA INC,3674.0,Semiconductors & Related Devices,AMBA,Nasdaq
+1777921,"AvePoint, Inc.",7372.0,Services-Prepackaged Software,AVPT,Nasdaq
+1078075,NETSCOUT SYSTEMS INC,7373.0,Services-Computer Integrated Systems Design,NTCT,Nasdaq
+1806837,"Vertex, Inc.",7372.0,Services-Prepackaged Software,VERX,Nasdaq
+1280058,BLACKBAUD INC,7372.0,Services-Prepackaged Software,BLKB,Nasdaq
+1565687,"Intapp, Inc.",7372.0,Services-Prepackaged Software,INTA,Nasdaq
+1688568,DXC Technology Co,7374.0,Services-Computer Processing & Data Preparation,DXC,NYSE
+810136,PHOTRONICS INC,3674.0,Semiconductors & Related Devices,PLAB,Nasdaq
+748268,"Red Cat Holdings, Inc.",7372.0,Services-Prepackaged Software,RCAT,Nasdaq
+1078271,EXTREME NETWORKS INC,3576.0,Computer Communications Equipment,EXTR,Nasdaq
+1022408,EPLUS INC,5045.0,Wholesale-Computers & Peripheral Equipment & Software,PLUS,Nasdaq
+1557860,Globant S.A.,7374.0,Services-Computer Processing & Data Preparation,GLOB,NYSE
+78749,AGILYSYS INC,7373.0,Services-Computer Integrated Systems Design,AGYS,Nasdaq
+1559865,"EVERTEC, Inc.",7374.0,Services-Computer Processing & Data Preparation,EVTC,NYSE
+854775,DIGI INTERNATIONAL INC,3576.0,Computer Communications Equipment,DGII,Nasdaq
+1529274,"ALKAMI TECHNOLOGY, INC.",7372.0,Services-Prepackaged Software,ALKT,Nasdaq
+1441683,APPIAN CORP,7372.0,Services-Prepackaged Software,APPN,Nasdaq
+1836981,"BigBear.ai Holdings, Inc.",7372.0,Services-Prepackaged Software,BBAI,NYSE
+1210677,FIRST ADVANTAGE CORP,7374.0,Services-Computer Processing & Data Preparation,FA,Nasdaq
+1830081,Rumble Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",RUM,Nasdaq
+1853145,EverCommerce Inc.,7372.0,Services-Prepackaged Software,EVCM,Nasdaq
+1831840,"SEMrush Holdings, Inc.",7372.0,Services-Prepackaged Software,SEMR,NYSE
+1794515,ZoomInfo Technologies Inc.,7372.0,Services-Prepackaged Software,GTM,Nasdaq
+1595974,"MAGNITE, INC.",7370.0,"Services-Computer Programming, Data Processing, Etc.",MGNI,Nasdaq
+733269,"LiveRamp Holdings, Inc.",7374.0,Services-Computer Processing & Data Preparation,RAMP,NYSE
+1522540,"Marqeta, Inc.",7372.0,Services-Prepackaged Software,MQ,Nasdaq
+1902733,"nCino, Inc.",7372.0,Services-Prepackaged Software,NCNO,Nasdaq
+1758009,Quantum Computing Inc.,7372.0,Services-Prepackaged Software,QUBT,Nasdaq
+1992243,T1 Energy Inc.,3674.0,Semiconductors & Related Devices,TE,NYSE
+1652535,"ICHOR HOLDINGS, LTD.",3674.0,Semiconductors & Related Devices,ICHR,Nasdaq
+1764046,CLARIVATE PLC,7374.0,Services-Computer Processing & Data Preparation,CLVT,NYSE
+1477720,"Asana, Inc.",7372.0,Services-Prepackaged Software,ASAN,NYSE
+1819928,"DoubleVerify Holdings, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",DV,NYSE
+1627475,"UPWORK, INC",7374.0,Services-Computer Processing & Data Preparation,UPWK,Nasdaq
+926326,"OMNICELL, INC.",3571.0,Electronic Computers,OMCL,Nasdaq
+69633,"NAPCO SECURITY TECHNOLOGIES, INC",3669.0,"Communications Equipment, NEC",NSSC,Nasdaq
+1580808,"A10 Networks, Inc.",3576.0,Computer Communications Equipment,ATEN,NYSE
+903651,INNODATA INC,7374.0,Services-Computer Processing & Data Preparation,INOD,Nasdaq
+1569345,"Sprinklr, Inc.",7372.0,Services-Prepackaged Software,CXM,NYSE
+1050377,PC CONNECTION INC,5045.0,Wholesale-Computers & Peripheral Equipment & Software,CNXN,Nasdaq
+1288469,"MAXLINEAR, INC",3674.0,Semiconductors & Related Devices,MXL,Nasdaq
+1873951,"Exzeo Group, Inc.",7372.0,Services-Prepackaged Software,XZO,NYSE
+876167,PROGRESS SOFTWARE CORP /MA,7372.0,Services-Prepackaged Software,PRGS,Nasdaq
+1819974,"SkyWater Technology, Inc",3674.0,Semiconductors & Related Devices,SKYT,Nasdaq
+1120914,PDF SOLUTIONS INC,7372.0,Services-Prepackaged Software,PDFS,Nasdaq
+1577526,"C3.ai, Inc.",7372.0,Services-Prepackaged Software,AI,NYSE
+1288847,"Five9, Inc.",7374.0,Services-Computer Processing & Data Preparation,FIVN,Nasdaq
+1603015,"Via Transportation, Inc.",7372.0,Services-Prepackaged Software,VIA,NYSE
+1920294,REZOLVE AI PLC,7370.0,"Services-Computer Programming, Data Processing, Etc.",RZLV,Nasdaq
+1526520,"TripAdvisor, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",TRIP,Nasdaq
+1286139,"LEGALZOOM.COM, INC.",7374.0,Services-Computer Processing & Data Preparation,LZ,Nasdaq
+1828016,Playtika Holding Corp.,7374.0,Services-Computer Processing & Data Preparation,PLTK,Nasdaq
+851310,HARMONIC INC.,3663.0,Radio & Tv Broadcasting & Communications Equipment,HLIT,Nasdaq
+1827090,"Certara, Inc.",7372.0,Services-Prepackaged Software,CERT,Nasdaq
+1831651,"Shoals Technologies Group, Inc.",3674.0,Semiconductors & Related Devices,SHLS,Nasdaq
+1651562,"Coursera, Inc.",7372.0,Services-Prepackaged Software,COUR,NYSE
+70866,NCR Voyix Corp,3578.0,Calculating & Accounting Machines (No Electronic Computers),VYX,NYSE
+1866692,"Amplitude, Inc.",7372.0,Services-Prepackaged Software,AMPL,Nasdaq
+1753539,BlackSky Technology Inc.,3663.0,Radio & Tv Broadcasting & Communications Equipment,BKSY,NYSE
+1834488,"N-able, Inc.",7372.0,Services-Prepackaged Software,NABL,NYSE
+1805385,"Evolv Technologies Holdings, Inc.",3577.0,"Computer Peripheral Equipment, NEC",EVLV,Nasdaq
+1616533,"Penguin Solutions, Inc.",3674.0,Semiconductors & Related Devices,PENG,Nasdaq
+1784535,"Porch Group, Inc.",7372.0,Services-Prepackaged Software,PRCH,Nasdaq
+918965,"SCANSOURCE, INC.",5045.0,Wholesale-Computers & Peripheral Equipment & Software,SCSC,Nasdaq
+896429,"CANTALOUPE, INC.",3578.0,Calculating & Accounting Machines (No Electronic Computers),CTLP,Nasdaq
+1828791,Viant Technology Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",DSP,Nasdaq
+1625278,"NERDWALLET, INC.",7374.0,Services-Computer Processing & Data Preparation,NRDS,Nasdaq
+1830043,Bumble Inc.,7370.0,"Services-Computer Programming, Data Processing, Etc.",BMBL,Nasdaq
+1728688,"i3 Verticals, Inc.",7372.0,Services-Prepackaged Software,IIIV,Nasdaq
+1667011,"Arteris, Inc.",3674.0,Semiconductors & Related Devices,AIP,Nasdaq
+1793663,VTEX,7372.0,Services-Prepackaged Software,VTEX,NYSE
+1614178,"Yext, Inc.",7374.0,Services-Computer Processing & Data Preparation,YEXT,NYSE
+807863,MITEK SYSTEMS INC,3577.0,"Computer Peripheral Equipment, NEC",MITK,Nasdaq
+1568100,"PagerDuty, Inc.",7372.0,Services-Prepackaged Software,PD,NYSE
+1387467,ALPHA & OMEGA SEMICONDUCTOR Ltd,3674.0,Semiconductors & Related Devices,AOSL,Nasdaq
+1597033,Sabre Corp,7370.0,"Services-Computer Programming, Data Processing, Etc.",SABR,Nasdaq
+1095565,HEALTHSTREAM INC,7370.0,"Services-Computer Programming, Data Processing, Etc.",HSTM,Nasdaq
+1549346,"Shutterstock, Inc.",7374.0,Services-Computer Processing & Data Preparation,SSTK,NYSE
+708821,PAR TECHNOLOGY CORP,3578.0,Calculating & Accounting Machines (No Electronic Computers),PAR,NYSE
+1846069,"Nextdoor Holdings, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",NXDR,NYSE
+1743759,"Corsair Gaming, Inc.",3577.0,"Computer Peripheral Equipment, NEC",CRSR,Nasdaq
+1640428,"EverQuote, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",EVER,Nasdaq
+1866633,"Consensus Cloud Solutions, Inc.",7372.0,Services-Prepackaged Software,CCSI,Nasdaq
+1720116,"Red Violet, Inc.",7372.0,Services-Prepackaged Software,RDVT,Nasdaq
+1500412,"Ambiq Micro, Inc.",3674.0,Semiconductors & Related Devices,AMBQ,NYSE
+1487952,"Vishay Precision Group, Inc.",3670.0,Electronic Components & Accessories,VPG,NYSE
+1841925,"indie Semiconductor, Inc.",3674.0,Semiconductors & Related Devices,INDI,Nasdaq
+1743725,"GRID DYNAMICS HOLDINGS, INC.",7372.0,Services-Prepackaged Software,GDYN,Nasdaq
+1173489,CEVA INC,7370.0,"Services-Computer Programming, Data Processing, Etc.",CEVA,Nasdaq
+1683606,Cars.com Inc.,7374.0,Services-Computer Processing & Data Preparation,CARS,NYSE
+1681622,Varex Imaging Corp,3679.0,"Electronic Components, NEC",VREX,Nasdaq
+1514416,Bandwidth Inc.,7372.0,Services-Prepackaged Software,BAND,Nasdaq
+1810019,"Rackspace Technology, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",RXT,Nasdaq
+1874315,Satellogic Inc.,3663.0,Radio & Tv Broadcasting & Communications Equipment,SATL,Nasdaq
+1774170,"Powerfleet, Inc.",3669.0,"Communications Equipment, NEC",AIOT,Nasdaq
+1560327,"Rapid7, Inc.",7372.0,Services-Prepackaged Software,RPD,Nasdaq
+1044777,OneSpan Inc.,7373.0,Services-Computer Integrated Systems Design,OSPN,Nasdaq
+1327688,OOMA INC,7374.0,Services-Computer Processing & Data Preparation,OOMA,NYSE
+1720420,IBEX Ltd,7374.0,Services-Computer Processing & Data Preparation,IBEX,Nasdaq
+1708055,Ribbon Communications Inc.,7373.0,Services-Computer Integrated Systems Design,RBBN,Nasdaq
+1422930,"PubMatic, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",PUBM,Nasdaq
+1849396,Nexxen International Ltd.,7370.0,"Services-Computer Programming, Data Processing, Etc.",NEXN,Nasdaq
+1855747,"Blend Labs, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",BLND,NYSE
+771266,KOPIN CORP,3674.0,Semiconductors & Related Devices,KOPN,Nasdaq
+1609151,"Weave Communications, Inc.",7372.0,Services-Prepackaged Software,WEAV,NYSE
+945983,"Climb Global Solutions, Inc.",5045.0,Wholesale-Computers & Peripheral Equipment & Software,CLMB,Nasdaq
+1110611,ON24 INC.,7372.0,Services-Prepackaged Software,ONTF,NYSE
+1517375,"Sprout Social, Inc.",7372.0,Services-Prepackaged Software,SPT,Nasdaq
+910638,3D SYSTEMS CORP,7372.0,Services-Prepackaged Software,DDD,NYSE
+724910,NVE CORP /NEW/,3674.0,Semiconductors & Related Devices,NVEC,Nasdaq
+1377789,"AVIAT NETWORKS, INC.",3663.0,Radio & Tv Broadcasting & Communications Equipment,AVNW,Nasdaq
+1768267,Cerence Inc.,7372.0,Services-Prepackaged Software,CRNC,Nasdaq
+1826681,Palladyne AI Corp.,7372.0,Services-Prepackaged Software,PDYN,Nasdaq
+2186,BK Technologies Corp,3663.0,Radio & Tv Broadcasting & Communications Equipment,BKTI,NYSE
+320121,TELOS CORP,7373.0,Services-Computer Integrated Systems Design,TLS,Nasdaq
+1023731,8X8 INC /DE/,7374.0,Services-Computer Processing & Data Preparation,EGHT,Nasdaq
+1625641,"CS Disco, Inc.",7372.0,Services-Prepackaged Software,LAW,NYSE
+1788999,Xperi Inc.,7372.0,Services-Prepackaged Software,XPER,NYSE
+1828805,"Aeluma, Inc.",3674.0,Semiconductors & Related Devices,ALMU,Nasdaq
+884144,ASURE SOFTWARE INC,7373.0,Services-Computer Integrated Systems Design,ASUR,Nasdaq
+1066194,EGAIN Corp,7372.0,Services-Prepackaged Software,EGAN,Nasdaq
+1023459,"Simulations Plus, Inc.",7373.0,Services-Computer Integrated Systems Design,SLP,Nasdaq
+1169445,"TruBridge, Inc.",7371.0,Services-Computer Programming Services,TBRG,Nasdaq
+1493761,Turtle Beach Corp,3669.0,"Communications Equipment, NEC",TBCH,Nasdaq
+1626450,"Commerce.com, Inc.",7372.0,Services-Prepackaged Software,CMRC,Nasdaq
+1462056,"Backblaze, Inc.",7372.0,Services-Prepackaged Software,BLZE,Nasdaq
+1617553,"ZIPRECRUITER, INC.",7370.0,"Services-Computer Programming, Data Processing, Etc.",ZIP,NYSE
+1058811,IMMERSION CORP,3577.0,"Computer Peripheral Equipment, NEC",IMMR,Nasdaq
+1022652,INSEEGO CORP.,3669.0,"Communications Equipment, NEC",INSG,Nasdaq
+1432133,KALTURA INC,7372.0,Services-Prepackaged Software,KLTR,Nasdaq
+65770,"MICROVISION, INC.",3679.0,"Electronic Components, NEC",MVIS,Nasdaq
+1902314,"M-tron Industries, Inc.",3679.0,"Electronic Components, NEC",MPTI,NYSE
+1615063,"Inspired Entertainment, Inc.",7372.0,Services-Prepackaged Software,INSE,Nasdaq
+1770450,Xerox Holdings Corp,3577.0,"Computer Peripheral Equipment, NEC",XRX,Nasdaq
+65270,METHODE ELECTRONICS INC,3678.0,Electronic Connectors,MEI,NYSE
+1420520,Atomera Inc,3674.0,Semiconductors & Related Devices,ATOM,Nasdaq
+909494,TUCOWS INC /PA/,7374.0,Services-Computer Processing & Data Preparation,TCX,Nasdaq
+1463972,Vuzix Corp,3663.0,Radio & Tv Broadcasting & Communications Equipment,VUZI,Nasdaq
+746838,UNISYS CORP,7373.0,Services-Computer Integrated Systems Design,UIS,NYSE
+1505952,"DOMO, INC.",7372.0,Services-Prepackaged Software,DOMO,Nasdaq
+355948,"RICHARDSON ELECTRONICS, LTD.",5065.0,"Wholesale-Electronic Parts & Equipment, NEC",RELL,Nasdaq
+1943289,"Silvaco Group, Inc.",7372.0,Services-Prepackaged Software,SVCO,Nasdaq
+50471,"ReposiTrak, Inc.",7374.0,Services-Computer Processing & Data Preparation,TRAK,NYSE
+1438231,Digimarc CORP,7373.0,Services-Computer Integrated Systems Design,DMRC,Nasdaq
+1871638,"Blaize Holdings, Inc.",3674.0,Semiconductors & Related Devices,BZAI,Nasdaq
+1662684,"KULR Technology Group, Inc.",3670.0,Electronic Components & Accessories,KULR,NYSE
+1861795,Definitive Healthcare Corp.,7372.0,Services-Prepackaged Software,DH,Nasdaq
+1779474,"WM TECHNOLOGY, INC.",7372.0,Services-Prepackaged Software,MAPS,Nasdaq
+1437925,Meridian Holdings Inc./NV,7372.0,Services-Prepackaged Software,MRDN,Nasdaq
+356037,CSP INC /MA/,7373.0,Services-Computer Integrated Systems Design,CSPI,Nasdaq
+1842566,"Airship AI Holdings, Inc.",7372.0,Services-Prepackaged Software,AISP,Nasdaq
+1351636,"SOUNDTHINKING, INC.",7372.0,Services-Prepackaged Software,SSTI,Nasdaq
+1636422,"Health Catalyst, Inc.",7370.0,"Services-Computer Programming, Data Processing, Etc.",HCAT,Nasdaq
+1362190,AUDIOEYE INC,7372.0,Services-Prepackaged Software,AEYE,Nasdaq
+1476840,"Expensify, Inc.",7372.0,Services-Prepackaged Software,EXFY,Nasdaq
+1454938,Teads Holding Co.,7370.0,"Services-Computer Programming, Data Processing, Etc.",TEAD,Nasdaq
+1823878,"PLAYSTUDIOS, Inc.",7372.0,Services-Prepackaged Software,MYPS,Nasdaq
+1805651,"MARKETWISE, INC.",7372.0,Services-Prepackaged Software,MKTW,Nasdaq
+1774675,Skillsoft Corp.,7372.0,Services-Prepackaged Software,SKIL,NYSE
+87050,Neonode Inc.,3679.0,"Electronic Components, NEC",NEON,Nasdaq
+1637147,"zSpace, Inc.",7372.0,Services-Prepackaged Software,ZSPC,Nasdaq
+729580,BEL FUSE INC /NJ,3677.0,"Electronic Coils, Transformers & Other Inductors",BELFB,Nasdaq
